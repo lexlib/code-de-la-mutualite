@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-09-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -87,13 +87,14 @@ Version Consolidée au 1992-04-01
           - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#84)
       - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#85)
         - [Chapitre III : Subventions (art. R523-1 à R523-2)](#86)
-      - [Titre III : Commission de contrôle (art. R531-1 à R531-6)](#87)
-        - [Chapitre unique (art. R531-1 à R531-6)](#88)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#89)
-        - [Chapitre unique (art. R541-1)](#90)
-    - [Livre V : Relations les collectivités publiques (art. R511-2)](#91)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#92)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#93)
+      - [Titre III : Contrôle (art. R531-1 à R531-7)](#87)
+        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#88)
+        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#89)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#90)
+        - [Chapitre unique (art. R541-1)](#91)
+    - [Livre V : Relations les collectivités publiques (art. R511-2)](#92)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#93)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#94)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=2></a>
@@ -4866,10 +4867,6 @@ _Cité par_:
 
 ###### Article R326-2
 
-Le ministre chargé de la mutualité peut retirer l'approbation, après avis de la section permanente du Conseil supérieur de la
-mutualité, en cas d'irrégularité grave constatée dans le fonctionnement de la caisse autonome, de difficultés financières
-graves ou de non-exécution du plan de redressement prévu à l'article R. 322-8.
-
 La procédure de retrait d'approbation comporte une mise en demeure au groupement gestionnaire de la caisse autonome de
 présenter ses observations par écrit dans le délai de un mois.
 
@@ -4879,18 +4876,14 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°92-989 du 14 septembre 1992 - art. 2 (V) JORF 17 septembre 1992
 
 _Cité par_:
 
   - Décret n°92-989 du 14 septembre 1992 - art. 2 (V)
   - Code de la mutualité - art. R321-3 (V)
-
-_Cite_:
-
-  - Code de la mutualité - art. R322-8 (M)
 
 
 ###### Article R326-3
@@ -5832,9 +5825,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Commission de contrôle<a id=87></a>
+### Titre III : Contrôle<a id=87></a>
 
-#### Chapitre unique<a id=88></a>
+#### Chapitre Ier : Commission de contrôle<a id=88></a>
 
 ###### Article R531-1
 
@@ -5854,7 +5847,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 _Cite_:
 
@@ -5896,7 +5889,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 _Cite_:
 
@@ -5931,7 +5924,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 **Liens**:
 
@@ -5954,19 +5947,15 @@ Le secrétaire général et le commissaire du Gouvernement peuvent présenter de
 Le représentant de la mutuelle et, le cas échéant, son conseil doivent dans tous les cas pouvoir prendre la parole en
 dernier.
 
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 _Cite_:
 
@@ -5982,19 +5971,15 @@ _Cite_:
 En matière disciplinaire la décision est prise en la seule présence du président, des membres de la commission, du secrétaire
 général et du commissaire du Gouvernement. La décision est signée du président.
 
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 **Liens**:
 
@@ -6006,11 +5991,47 @@ _Créé par_:
 La décision de la commission de contrôle en matière disciplinaire est notifiée à la mutuelle concernée par lettre recommandée
 avec demande d'avis de réception.
 
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+
+#### Chapitre II : Contrôle exercé au niveau régional<a id=89></a>
+
+###### Article R531-7
+
+Le contrôle des mutuelles mentionnées au deuxième alinéa de l'article L. 531-1 est exercé par le préfet de la région où est
+établi le siège social de l'organisme. Les attributions et pouvoirs du préfet de région à l'égard de ces mutuelles sont ceux
+qui sont conférés à la commission de contrôle par les articles L. 531-1 à L. 531-4 et L. 531-6.
+
+Afin de mettre la commission de contrôle en mesure d'exercer, le cas échéant, son pouvoir d'évocation, le préfet l'informe
+régulièrement des opérations de contrôle qu'il entreprend. Il l'informe notamment de toute mise en oeuvre des dispositions
+contenues dans les articles L. 531-2 à L. 531-4. Il peut en outre proposer à ladite commission d'engager à l'encontre d'une
+mutuelle la procédure disciplinaire prévue à l'article L. 531-5.
+
 **Nota:**
 
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+[*Nota - Arrêté du 14 septembre 1992 : Les dispositions de l'article R. 531-7 du code de la mutualité s'appliquent aux
+mutuelles, autres que les fédérations et les groupements mutualistes gérant une caisse autonome, dont les prestations versées
+en 1990 ont été inférieures à un montant de cent cinquante millions de francs.*]
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté 1992-09-14
+  - TXT_SOURCE: Arrêté du 14 septembre 1992
+  - TXT_SOURCE: Arrêté du 14 septembre 1992 - art. 1 (V)
 
 _Codifié par_:
 
@@ -6018,16 +6039,23 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
-**Liens**:
+_Cité par_:
 
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+  - Arrêté du 14 septembre 1992 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L531-1 (M)
+  - Code de la mutualité - art. L531-5 (M)
+  - Code de la mutualité - art. L531-6 (Ab)
+  - Code de la mutualité L531-1, L531-1 à L531-4, L531-6, L531-2 à L531-4, L531-5
 
 
-### Titre IV : Dispositions pénales<a id=89></a>
+### Titre IV : Dispositions pénales<a id=90></a>
 
-#### Chapitre unique<a id=90></a>
+#### Chapitre unique<a id=91></a>
 
 ###### Article R541-1
 
@@ -6072,11 +6100,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations les collectivités publiques<a id=91></a>
+## Livre V : Relations les collectivités publiques<a id=92></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=92></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=93></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=93></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=94></a>
 
 ###### Article R511-2
 
