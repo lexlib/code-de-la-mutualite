@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2001-08-31
+Version Consolidée au 2001-11-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -56,60 +56,80 @@ Version Consolidée au 2001-08-31
         - [Chapitre unique : Le fonds de garantie. (art. L431-1 à L431-8)](#53)
     - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. L510-1 à L510-15)](#54)
     - [Livre VI : Dispositions d'application. (art. L610-1 à L610-2)](#55)
-  - [Partie réglementaire ancienne (art. R122-1 à R511-2)](#56)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-1 à R126-4)](#57)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-1 à R126-4)](#58)
-        - [Chapitre II : Statuts (art. R122-1 à R122-4)](#59)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-9)](#60)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#61)
-          - [Section 2 : Dépôts, placements de fonds et réserves (art. R124-3 à R124-9)](#62)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#63)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#64)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#65)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#66)
-        - [Chapitre unique (art. R211-1)](#67)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#68)
-        - [Chapitre unique (art. R221-1)](#69)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#70)
-        - [Chapitre unique (art. R231-1 à R231-2)](#71)
-    - [Livre III : Réparation des risques sociaux (art. R311-1 à R326-3)](#72)
-      - [Titre Ier : Règles générales (art. R311-1 à R311-23)](#73)
-        - [Chapitre unique (art. R311-1 à R311-23)](#74)
-          - [Section Ier : Règles de sécurité financière (art. R311-1)](#75)
-          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#76)
-          - [Section 3 : Dispositions diverses (art. R311-23)](#77)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R326-3)](#78)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#79)
-        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-15)](#80)
-          - [Section 1 : Provisions techniques (art. R322-1 à R322-6)](#81)
-          - [Section 2 : Marge de sécurité (art. R322-7 à R322-9)](#82)
-          - [Section 3 : Placements des caisses autonomes mutualistes (art. R322-10 à R322-15)](#83)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#84)
-        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#85)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#86)
-        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-1 à R326-3)](#87)
-    - [Livre IV : Action sociale (art. R411-1)](#88)
-      - [Titre unique (art. R411-1)](#89)
-        - [Chapitre unique (art. R411-1)](#90)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#91)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#92)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#93)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#94)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#95)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-16)](#96)
-          - [Section Ier : Elections au conseil supérieur de la mutualité (art. R513-17)](#97)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#98)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#99)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#100)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#101)
-      - [Titre III : Contrôle (art. R531-1 à R531-7)](#102)
-        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#103)
-        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#104)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#105)
-        - [Chapitre unique (art. R541-1)](#106)
-    - [Livre V : Relations les collectivités publiques (art. R511-2)](#107)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#108)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#109)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R211-1 à R414-10)](#56)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R211-27)](#57)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R211-27)](#58)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. R211-1 à R211-27)](#59)
+          - [Section 1 : Dispositions générales. (art. R211-1)](#60)
+          - [Section 2 : Agrément administratif. (art. R211-2 à R211-18)](#61)
+          - [Section 3 : Dispositions particulières à la branche protection juridique. (art. R211-19 à R211-20)](#62)
+          - [Section 4 : Convention de substitution. (art. R211-21 à R211-27)](#63)
+    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R414-10)](#64)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#65)
+        - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#66)
+        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. R412-1 à R412-3)](#67)
+        - [Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-19)](#68)
+          - [Section 1 : Elections aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-10)](#69)
+          - [Section 2 : Elections au Conseil supérieur de la mutualité. (art. R413-11 à R413-18)](#70)
+          - [Section 3 : Contentieux des opérations électorales. (art. R413-19)](#71)
+        - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#72)
+  - [Partie réglementaire - Arrêtés (art. A211-1 à A212-4)](#73)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#74)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#75)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-2)](#76)
+          - [Section 1 : Agrément administratif. (art. A211-1 à A211-2)](#77)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A212-4)](#78)
+          - [Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-1 à A212-4)](#79)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#80)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#81)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#82)
+        - [Chapitre II : Statuts (art. R122-4)](#83)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-9)](#84)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#85)
+          - [Section 2 : Dépôts, placements de fonds et réserves (art. R124-3 à R124-9)](#86)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#87)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#88)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#89)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#90)
+        - [Chapitre unique (art. R211-1)](#91)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#92)
+        - [Chapitre unique (art. R221-1)](#93)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#94)
+        - [Chapitre unique (art. R231-1 à R231-2)](#95)
+    - [Livre III : Réparation des risques sociaux (art. R311-1 à R326-3)](#96)
+      - [Titre Ier : Règles générales (art. R311-1 à R311-23)](#97)
+        - [Chapitre unique (art. R311-1 à R311-23)](#98)
+          - [Section 1 : Règles de sécurité financière (art. R311-1)](#99)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#100)
+          - [Section 3 : Dispositions diverses (art. R311-23)](#101)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R326-3)](#102)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#103)
+        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-15)](#104)
+          - [Section 1 : Provisions techniques (art. R322-1 à R322-6)](#105)
+          - [Section 2 : Marge de sécurité (art. R322-7 à R322-9)](#106)
+          - [Section 3 : Placements des caisses autonomes mutualistes (art. R322-10 à R322-15)](#107)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#108)
+        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#109)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#110)
+        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-2 à R326-3)](#111)
+    - [Livre IV : Action sociale (art. R411-1)](#112)
+      - [Titre unique (art. R411-1)](#113)
+        - [Chapitre unique (art. R411-1)](#114)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#115)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#116)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#117)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#118)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#119)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#120)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#121)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#122)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#123)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#124)
+      - [Titre III : Contrôle (art. R531-1 à R531-7)](#125)
+        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#126)
+        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#127)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#128)
+        - [Chapitre unique (art. R541-1)](#129)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -7231,122 +7251,2147 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=56></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=56></a>
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=57></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=57></a>
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=58></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=58></a>
 
-#### Chapitre II : Statuts<a id=59></a>
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=59></a>
 
-###### Article R122-1
+##### Section 1 : Dispositions générales.<a id=60></a>
 
-Les statuts adoptés par l'assemblée constitutive doivent être déposés, contre récépissé, à la préfecture du département du
-siège social [*lieu*].
+###### Article R211-1
 
-La décision d'approbation ou de refus d'approbation est prise par le commissaire de la République de ce département
-[*autorité compétente*]. Toutefois, à l'égard des mutuelles, unions et fédérations gérant une caisse autonome mutualiste,
-elle est prise par le ministre chargé de la mutualité qui peut déléguer ses pouvoirs en la matière aux commissaires de la
-République.
+Toute mutuelle ou union pratiquant des opérations d'assurance ou de capitalisation est désignée par une dénomination sociale
+qui doit être suivie par la mention "mutuelle ou union soumise aux dispositions du livre II du code de la mutualité". Cette
+mention figure obligatoirement dans les statuts, les règlements, les bulletins d'adhésion et les contrats collectifs de la
+mutuelle ou de l'union ainsi que dans tous les documents à caractère contractuel ou publicitaire.
 
-L'approbation ou le refus d'approbation doit intervenir dans le délai de trois mois, à compter de la date de réception des
-statuts [*point de départ*] par l'autorité administrative compétente pour leur approbation.
-
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+Ces documents ne doivent contenir aucune assertion susceptible d'induire en erreur sur la véritable nature de la mutuelle ou
+de l'union ou l'importance réelle de ses engagements ainsi que sur la nature des contrôles exercés sur celle-ci sur la base
+des dispositions du présent titre et de celles du livre V.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Abrogé par_:
-
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
-  - Code de la mutualité - art. R231-1 (V)
-  - Code de la mutualité - art. R311-3 (Ab)
-  - Code de la mutualité - art. R321-1 (M)
-  - Code de la mutualité - art. R321-6 (Ab)
-  - Code de la mutualité - art. R531-2 (M)
+  - Code de la mutualité - art. R510-19 (V)
 
 
-###### Article R122-2
+##### Section 2 : Agrément administratif.<a id=61></a>
 
-Les délibérations portant modification des statuts qui sont soumises à approbation doivent être déposées, contre récépissé, à
-la préfecture du département du siège social [*lieu*].
+###### Article R211-2
 
-La décision d'approbation ou de refus d'approbation est prise par le commissaire de la République de ce département.
-Toutefois, à l'égard des mutuelles, unions et fédérations gérant une caisse autonome mutualiste, elle est prise par le
-ministre chargé de la mutualité, qui peut déléguer ses pouvoirs en la matière aux commissaires de la République.
+Pour l'octroi de l'agrément administratif prévu à l'article L. 211-7, les opérations d'assurances réalisées par les mutuelles
+et les unions sont classées en branches et sous-branches de la manière suivante :
 
-Le délai mentionné au deuxième alinéa de l'article L. 122-7 est de trois mois à compter de la date de réception par
-l'autorité administrative compétente [*point de départ*] pour leur approbation. Ce délai peut être renouvelé une fois, sous
-réserve que les raisons de cette prolongation aient été notifiées à la mutuelle avant l'expiration du délai normal.
+1. Accidents (y compris les accidents du travail et les maladies professionnelles) :
 
-**Nota:**
+a) Prestations forfaitaires ;
 
-[*Nota : Code de la mutualité R221-1 : L'article R. 122-2 est applicable à l'approbation du règlement visé au cinquième
-alinéa de l'article 221-1.
+b) Prestations indemnitaires ;
 
-Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+c) Combinaisons.
+
+2. Maladie :
+
+a) Prestations forfaitaires ;
+
+b) Prestations indemnitaires ;
+
+c) Combinaisons.
+
+15. Caution :
+
+a) Caution directe ;
+
+b) Caution indirecte ;
+
+16. Pertes pécuniaires diverses :
+
+a) Risques d'emploi ;
+
+h) Pertes de loyers ou de revenus ;
+
+17. Protection juridique ;
+
+18. Assistance :
+
+Assistance aux personnes en difficulté, notamment au cours de déplacements ;
+
+20. Vie-décès :
+
+Toute opération comportant des engagements dont l'exécution dépend de la durée de la vie humaine autre que les activités
+visées aux branches 22 et 26 ;
+
+21. Nuptialité-natalité :
+
+Toute opération ayant pour objet le versement d'un capital en cas de mariage ou de naissance d'enfants ;
+
+22. Assurances liées à des fonds d'investissement :
+
+Toutes opérations comportant des engagements dont l'exécution dépend de la durée de la vie humaine et liées à un fonds
+d'investissement ;
+
+24. Capitalisation :
+
+Toute opération d'appel à l'épargne en vue de la capitalisation et comportant, en échange de versements uniques ou
+périodiques, directs ou indirects, des engagements déterminés quant à leur durée et à leur montant ;
+
+25. Gestion de fonds collectifs :
+
+Toute opération consistant à gérer les placements, et notamment les actifs représentatifs des réserves des organismes qui
+fournissent des prestations en cas de décès, en cas de vie ou en cas de cessation ou de réduction d'activités ;
+
+26. Toute opération à caractère collectif définie à l'article L. 222-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Abrogé par_:
+_Créé par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. A114-2 (V)
+  - Code de la mutualité - art. A510-1 (Ab)
+  - Code de la mutualité - art. A510-3 (Ab)
+  - Code de la mutualité - art. D223-5 (V)
+  - Code de la mutualité - art. R211-21 (V)
+  - Code de la mutualité - art. R211-4 (VD)
+  - Code de la mutualité - art. R211-5 (VT)
+  - Code de la mutualité - art. R212-10 (V)
+  - Code de la mutualité - art. R212-11 (V)
+  - Code de la mutualité - art. R212-12 (VT)
+  - Code de la mutualité - art. R212-13 (VT)
+  - Code de la mutualité - art. R212-14 (VT)
+  - Code de la mutualité - art. R212-15 (VT)
+  - Code de la mutualité - art. R212-16 (VT)
+  - Code de la mutualité - art. R212-17 (VT)
+  - Code de la mutualité - art. R212-18 (VT)
+  - Code de la mutualité - art. R212-20 (VT)
+  - Code de la mutualité - art. R212-23 (VT)
+  - Code de la mutualité - art. R212-60 (V)
+  - Code de la mutualité - art. R212-64 (V)
+  - Code de la mutualité - art. R432-15 (V)
+  - Code de la mutualité - art. R432-2 (VD)
+  - Code de la mutualité - art. R432-7 (V)
+  - Code de la sécurité sociale. - art. R863-9 (VD)
+  - Code des assurances - art. R334-13 (VD)
+  - Code des assurances - art. R334-15 (VD)
+  - Code des assurances - art. R334-19 (VD)
+  - Code des assurances - art. R334-5 (VD)
+  - Code des assurances - art. R334-7 (VD)
+  - Code des assurances - art. R334-9 (VD)
+  - Code des assurances - art. R334-9-1 (VD)
+  - Code des assurances - art. R351-25 (VD)
+  - Code des assurances - art. R352-29 (V)
+  - Code monétaire et financier - art. R561-16 (VD)
 
 _Cite_:
 
-  - Code de la mutualité - art. L122-7 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
-  - SPEC_APPLI: Code de la mutualité R221-1, R213-1
-
-_Cité par_:
-
-  - Code de la mutualité - art. R221-1 (V)
-  - Code de la mutualité - art. R231-1 (V)
-  - Code de la mutualité - art. R321-1 (M)
-  - Code de la mutualité - art. R321-6 (Ab)
+  - Code de la mutualité - art. L211-7 (M)
+  - Code de la mutualité - art. L222-1 (V)
 
 
-###### Article R122-3
+###### Article R211-3
 
-La déclaration des modifications statutaires qui sont soumises à cette seule formalité est déposée, dans le délai d'un mois à
-compter de leur date [*point de départ*], contre récépissé, à la préfecture du département du siège social [*lieu*].
+L'agrément administratif est donné par branche aux mutuelles et aux unions. Cet agrément couvre la branche entière, sauf si
+la mutuelle ou l'union ne désire réaliser que des opérations relevant d'une ou plusieurs sous-branches.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R211-4
+
+Les mutuelles et les unions ne peuvent être agréées que pour pratiquer soit des opérations relevant des branches ou sous-
+branches mentionnées aux 1, 2, 15, 16, 17 et 18 de l'article R. 211-2, soit des opérations relevant des branches mentionnées
+aux 20 à 22 et 24 à 26 du même article.
+
+Toutefois, les mutuelles et les unions peuvent être agréées pour pratiquer simultanément des opérations relevant des branches
+mentionnées aux 1 et 2, 20 à 22 et 24 à 26 de l'article R. 211-2.
+
+En outre, les mutuelles et les unions peuvent être agréées pour pratiquer simultanément des opérations relevant des branches
+20 à 22 mentionnées à l'article R. 211-2 et des opérations complémentaires relatives notamment à la couverture des risques
+d'atteinte corporelle, y compris l'incapacité de travail professionnelle, des risques de décès à la suite d'un accident et du
+risque d'invalidité à la suite d'un accident ou d'une maladie, à condition que ces garanties soient souscrites
+complémentairement au contrat relevant des branches 20 à 22 et qu'elles prennent fin au plus tard en même temps que la
+garantie principale. La cotisation due doit distinguer la part relative à la couverture du risque principal et la part
+relative aux garanties accessoires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. R211-2 (V)
+
+
+###### Article R211-5
+
+Toute mutuelle ou union qui obtient l'agrément administratif pour un risque relevant d'une des branches ou sous-branches
+mentionnées aux 1, 2, 15, 16, 17 et 18 de l'article R. 211-2 peut également garantir des risques relevant d'une autre de ces
+branches ou sous-branches sans que l'agrément administratif soit exigé pour ces risques, lorsque ceux-ci sont liés au risque
+principal, concernent l'objet qui est couvert par le risque principal, et sont garantis par le bulletin d'adhésion au
+règlement ou par le contrat collectif qui couvre le risque principal.
+
+Toutefois les risques relevant de la branche 15 ne peuvent être considérés comme accessoires à d'autres risques.
+
+Le risque relevant de la branche 17 ne peut être considéré comme accessoire, dans les conditions prévues au premier alinéa,
+que lorsque le bulletin d'adhésion ou le contrat collectif ne couvre par ailleurs que le risque relevant de la branche 18.
+
+Les garanties accessoires au risque principal mentionné au premier alinéa du présent article prennent fin au plus tard en
+même temps que la garantie principale.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. R211-2 (V)
+
+
+###### Article R211-6
+
+Tous les documents accompagnant les demandes d'agrément doivent avoir été rédigés ou être traduits en français.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R211-7
+
+L'agrément administratif est accordé par le ministre chargé de la mutualité.
+
+Toutefois, lorsque la demande d'agrément concerne exclusivement des opérations relevant de la branche 2, l'agrément est
+accordé par le préfet de la région dans laquelle est situé le siège de la mutuelle ou de l'union concernée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 7 (V)
+  - Code de la mutualité - art. R211-11 (VT)
+  - Code de la mutualité - art. R211-12 (V)
+  - Code de la mutualité - art. R211-13 (V)
+  - Code de la mutualité - art. R211-17 (M)
+
+
+###### Article R211-8
+
+L'arrêté délivrant l'agrément administratif est publié.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R211-9
+
+L'autorité compétente pour délivrer l'agrément transmet la demande au Conseil supérieur de la mutualité et à la commission
+mentionnée à l'article L. 510-1.
+
+L'avis mentionné au sixième alinéa de l'article L. 411-1 est réputé rendu dans un délai de trois mois à compter de la saisine
+du Conseil supérieur de la mutualité.
+
+L'avis mentionné à l'article L. 211-8 est réputé rendu dans un délai de deux mois à compter la saisine de la commission
+mentionnée à l'article L. 510-1.
+
+Toute décision de refus d'agrément administratif doit être motivée et notifiée, par lettre recommandée avec demande d'avis de
+réception ou remise contre récépissé, par l'autorité administrative, à la mutuelle ou à l'union concernée, dans un délai de
+six mois à compter du dépôt du dossier de demande d'agrément.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Code de la mutualité - art. R111-2 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-8 (M)
+  - Code de la mutualité - art. L411-1 (Ab)
+  - Code de la mutualité - art. L510-1 (M)
+
+
+###### Article R211-10
+
+Pendant les cinq exercices suivant la délivrance de l'agrément, la mutuelle ou l'union présente à la commission de contrôle
+instituée par l'article L. 510-1, pour chaque semestre, un compte rendu d'exécution du programme d'activité mentionné à
+l'article L. 211-8. Si l'activité de la mutuelle ou de l'union n'est pas conforme au programme d'activités, la commission
+peut prendre les mesures prévues aux articles L. 510-8 et L. 510-9, ou saisir le ministre chargé de la mutualité en vue de
+l'application des dispositions de l'article L. 211-9.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-8 (M)
+  - Code de la mutualité - art. L211-9 (V)
+  - Code de la mutualité - art. L510-1 (M)
+  - Code de la mutualité - art. L510-8 (M)
+  - Code de la mutualité - art. L510-9 (M)
+
+
+###### Article R211-11
+
+Lorsqu'une mutuelle ou une union n'a pas commencé à pratiquer les opérations pour lesquelles elle a obtenu l'agrément dans le
+délai d'un an à compter de la publication de l'arrêté d'agrément, ou lorsqu'une mutuelle ou une union ne souscrit, pendant
+une période de six mois, aucun engagement au sens de l'article L. 221-1 relevant d'une branche ou sous-branche pour laquelle
+elle est agréée, elle en fait la déclaration à l'autorité administrative mentionnée à l'article R. 211-7 dès que ces délais
+sont expirés.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-1 (Ab)
+  - Code de la mutualité - art. R211-7 (V)
+
+
+###### Article R211-12
+
+A la demande d'une mutuelle ou d'une union s'engageant à ne plus émettre de nouveaux bulletins d'adhésion à un règlement ou
+de contrats collectifs relevant d'une ou plusieurs branches ou sous-branches pour laquelle elle est agréée ou lorsqu'une
+autre mutuelle ou union s'est substituée à elle en application de l'article L. 211-5, l'autorité administrative mentionnée à
+l'article R. 211-7 peut retirer l'agrément pour les branches ou sous-branches considérées.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-5 (M)
+  - Code de la mutualité - art. R211-7 (V)
+
+
+###### Article R211-13
+
+Préalablement au retrait de l'agrément administratif mentionné à l'article L. 211-9, l'autorité administrative mentionnée à
+l'article R. 211-7 notifie à la mutuelle ou à l'union concernée, par lettre recommandée avec demande d'avis de réception ou
+remise contre récépissé, les faits justifiant le retrait et l'invite à présenter ses observations écrites dans un délai de
+quinze jours.
+
+Si elle décide d'engager la procédure de retrait d'agrément, l'autorité administrative transmet au conseil supérieur de la
+mutualité une demande d'avis, accompagnée d'un rapport explicatif ainsi que des observations présentées par la mutuelle ou
+l'union.
+
+L'avis du Conseil supérieur de la mutualité est réputé rendu dans un délai de trois mois à compter de sa saisine par
+l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-9 (V)
+  - Code de la mutualité - art. R211-7 (V)
+
+
+###### Article R211-14
+
+Toute décision de retrait de l'agrément administratif doit être motivée et notifiée, par lettre recommandée avec demande
+d'avis de réception ou remise contre récépissé, à la mutuelle ou à l'union intéressée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R211-15
+
+La décision de retrait de l'agrément administratif est publiée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R211-16
+
+Une mutuelle ou une union de mutuelles dont tous les agréments ont été retirés ne cesse d'être soumise, pour l'application du
+livre II, au contrôle de la commission de contrôle instituée par l'article L. 510-1 que lorsque l'ensemble des engagements
+résultant des bulletins d'adhésion à des règlements ou contrats collectifs souscrits par la mutuelle ou l'union ont été
+intégralement et définitivement réglés aux membres participants et aux tiers bénéficiaires ou ont fait l'objet d'un transfert
+autorisé dans les conditions prévues à l'article L. 212-11.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L212-11 (M)
+  - Code de la mutualité - art. L510-1 (M)
+
+
+###### Article R211-17
+
+Si le retrait d'agrément prévu à l'article L. 211-9 ou au 6° du premier alinéa de l'article L. 510-11 concerne une mutuelle
+ou une union opérant également sur le territoire d'autres Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen, l'autorité administrative mentionnée à l'article R. 211-7 ou la commission de contrôle, selon
+le cas, informe les autorités de contrôle de ces Etats.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-9 (V)
+  - Code de la mutualité - art. L510-11 (M)
+  - Code de la mutualité - art. R211-7 (V)
+
+
+###### Article R211-18
+
+Lorsqu'une mutuelle ou une union fait l'objet d'un retrait d'agrément, la commission de contrôle peut prendre, le cas échéant
+avec le concours des autorités de contrôle des autres Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen sur le territoire desquels la mutuelle ou l'union opère, les mesures prévues à l'article L.
+510-9 afin de sauvegarder les intérêts des membres participants et des bénéficiaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L510-9 (M)
+
+
+##### Section 3 : Dispositions particulières à la branche protection juridique.<a id=62></a>
+
+###### Article R211-19
+
+Toute mutuelle ou union doit, lorsqu'elle sollicite un agrément pour la branche 17 conformément aux dispositions des articles
+L. 211-7 et L. 211-8, indiquer, lors de la présentation des documents prévus à ces articles, la modalité de gestion adoptée
+parmi celles qui sont énoncées à l'article L. 224-7.
+
+Lorsque la mutuelle ou l'union choisit de confier les remboursements de la branche de protection juridique à une mutuelle ou
+union juridiquement distincte, conformément aux dispositions du b de l'article L. 224-7, elle doit adresser copie des statuts
+de cette mutuelle ou union au ministre chargé de la mutualité.
+
+Si cette mutuelle ou union juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 510-7
+avec un autre organisme pratiquant également l'activité d'assurance, la mutuelle ou l'union qui sollicite l'agrément doit
+s'assurer et, en outre, attester :
+
+1° Que les personnes chargées de la gestion des remboursements de la branche protection juridique ou des conseils juridiques
+relatifs à cette gestion n'exercent pas la même activité pour le compte de l'autre organisme ;
+
+2° Que ses dirigeants ne sont pas aussi des dirigeants de l'autre organisme.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 3 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-7 (M)
+  - Code de la mutualité - art. L211-8 (M)
+  - Code de la mutualité - art. L224-7 (V)
+  - Code de la mutualité - art. L510-7 (M)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R211-20 (V)
+
+
+###### Article R211-20
+
+Lorsqu'une mutuelle ou union agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion
+que celle qu'elle a précédemment choisie, elle est tenue d'en informer le ministre chargé de la mutualité.
+
+La nouvelle modalité choisie prend effet un mois après sa notification au ministre sauf opposition par ce dernier dans le
+même délai pour un motif de nature à remettre en cause la décision d'agrément.
+
+Les deuxième et troisième alinéas de l'article R. 211-19 sont applicables.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 3 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. R211-19 (V)
+
+
+##### Section 4 : Convention de substitution.<a id=63></a>
+
+###### Article R211-21
+
+Les dispositions de la présente section concernent les opérations des mutuelles et des unions qui ont souscrit une convention
+de substitution pour une ou plusieurs branches mentionnées à l'article R. 211-2 avec une autre mutuelle ou union.
+
+La mutuelle ou l'union qui s'est substituée à un autre organisme est chargée, pour le compte et à la place de cet organisme,
+de faire à la commission de contrôle mentionnée à l'article L. 510-1 les différentes communications prescrites par le livre
+V, de tenir à son siège les livres de comptabilité, registres ou fichiers prévus par le présent code et de mettre à la
+disposition des agents chargés du contrôle des organismes mutualistes mentionnés à l'article L. 951-4 du code de la sécurité
+sociale tous les documents nécessaires à l'accomplissement de la mission de cette commission.
+
+La convention prévoit que la mutuelle ou l'union qui s'est substituée à un organisme doit constituer et représenter, dans les
+conditions fixées par l'article L. 212-1, l'intégralité des dettes, réserves et provisions afférentes aux engagements
+souscrits par cet organisme pour la ou les branches concernées.
+
+Elle précise en outre que toutes les écritures comptables afférentes aux engagements pris par cet organisme doivent
+apparaître dans la comptabilité de la mutuelle ou de l'union qui lui est substituée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L951-4 (M)
+  - Code de la mutualité - art. L212-1 (V)
+  - Code de la mutualité - art. L510-1 (M)
+  - Code de la mutualité - art. R211-2 (V)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R212-22 (V)
+  - Code de la mutualité - art. R212-63 (V)
+
+
+###### Article R211-22
+
+La convention conclue en application de l'article L. 211-5 spécifie que la mutuelle ou l'union se substitue à l'autre
+organisme pour la constitution des garanties et pour l'exécution des engagements dans les branches concernées.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-5 (V)
+
+
+###### Article R211-23
+
+La liste des pièces qui doivent être fournies à la commission de contrôle pour l'exercice du contrôle prévu à l'article L.
+211-5 est fixée par arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-5 (M)
+
+
+###### Article R211-24
+
+La commission refuse l'autorisation lorsque la convention, ou la modification qu'il est proposé de lui apporter, n'est pas
+conforme aux dispositions du présent code ou pour des motifs tirés de la situation financière de la mutuelle ou de l'union
+qui est substituée à l'organisme.
+
+Le refus d'autorisation doit être motivé, et notifié par lettre recommandée avec demande d'avis de réception ou remise contre
+récépissé à la mutuelle ou à l'union intéressée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+
+
+###### Article R211-25
+
+Le silence gardé pendant plus deux mois par la commission mentionnée à l'article L. 510-1, à compter de la réception du
+projet de modification d'une convention de substitution, vaut autorisation.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L510-1 (M)
+
+
+###### Article R211-26
+
+L'organisme auquel une mutuelle ou une union s'est substituée en application de l'article L. 211-5 n'est pas tenu d'obtenir
+l'agrément administratif pour la ou les branches concernées lorsque les conditions suivantes sont réunies :
+
+1° Il a souscrit auprès d'une mutuelle ou d'une union une convention conforme aux dispositions de l'article L. 211-5 et à
+celles de la présente section ;
+
+2° La commission de contrôle mentionnée à l'article L. 510-1 n'a pas notifié à l'organisme son opposition au projet de
+convention dans le délai prévu au troisième alinéa de l'article L. 211-5.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L211-5 (M)
+  - Code de la mutualité - art. L510-1 (M)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R211-27 (V)
+
+
+###### Article R211-27
+
+Les bulletins d'adhésion et les contrats collectifs au sens de l'article L. 221-1 souscrits, pour la ou les branches
+concernées par la convention de substitution, auprès d'un organisme régi par les dispositions de l'article R. 211-26
+contiennent en caractères très apparents la désignation de l'adresse de la mutuelle ou de l'union qui est substituée à cet
+organisme et reproduisent la clause de la convention par laquelle cette mutuelle ou union déclare se substituer à lui pour la
+constitution des garanties et pour l'exécution des engagements.
+
+Ils doivent également préciser que, si l'agrément accordé à la mutuelle ou à l'union qui se substitue lui est retiré, le
+bulletin d'adhésion ou le contrat collectif mentionné à l'article L. 221-1 sera résilié le dixième jour à midi à compter de
+la date de la publication de la décision du retrait d'agrément, la portion de cotisation afférente à la période non garantie
+étant alors restituée au souscripteur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-1 (Ab)
+  - Code de la mutualité - art. R211-26 (M)
+
+
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=64></a>
+
+### Titre Ier : Organes administratifs de la mutualité.<a id=65></a>
+
+#### Chapitre Ier : Conseil supérieur de la mutualité.<a id=66></a>
+
+###### Article R411-1
+
+Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité ou son représentant. Il comprend :
+
+Trente-cinq représentants des mutuelles, unions et fédérations élus par les comités régionaux de coordination de la
+mutualité ;
+
+Un député et un sénateur, élus par leur assemblée respective ;
+
+Un membre du Conseil d'Etat, désigné par le vice-président ;
+
+Un représentant du ministre chargé de la mutualité ;
+
+Un représentant du ministre chargé de la sécurité sociale ;
+
+Un représentant du ministre chargé du travail ;
+
+Un représentant du ministre chargé de la santé ;
+
+Un représentant du ministre chargé de l'économie et des finances ;
+
+Un représentant du ministre chargé de l'intérieur ;
+
+Un représentant du ministre chargé de l'économie sociale ;
+
+Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+Le président du directoire du fonds de garantie institué à l'article L. 431-4 ou son représentant ;
+
+Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux désignées par le ministre chargé de la
+mutualité et une par le ministre chargé des armées ;
+
+Un représentant de chaque confédération syndicale désignée ci-après :
+
+Confédération française démocratique du travail ;
+
+Confédération française des travailleurs chrétiens ;
+
+Confédération française de l'encadrement-CGC ;
+
+Confédération générale du travail ;
+
+Confédération générale du travail-Force ouvrière ;
+
+Un représentant du Mouvement des entreprises de France ;
+
+Un membre des professions de santé désigné par le ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Arrêté du 30 janvier 2013 - art. (V)
+  - Code de la mutualité - art. A411-1 (V)
+  - Code de la mutualité - art. A411-2 (V)
+  - Code de la mutualité - art. R411-2-1 (V)
+  - Code de la mutualité - art. R413-1 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L431-4 (M)
+
+
+###### Article R411-2
+
+La durée du mandat des membres du conseil est de six ans. Les fonctions de membre du Conseil supérieur de la mutualité sont
+gratuites.
+
+Le conseil choisit, parmi ses membres, deux vice-présidents et un trésorier.
+
+Il est convoqué par le ministre chargé de la mutualité au moins une fois par an.
+
+Le ministre désigne deux fonctionnaires comme secrétaire général et secrétaire général adjoint du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R413-5 (V)
+
+
+###### Article R411-3
+
+Le Conseil supérieur de la mutualité établit un règlement intérieur approuvé par le ministre chargé de la mutualité. Des
+commissions spécialisées peuvent être créées par le règlement intérieur, notamment pour assurer la gestion du Fonds national
+de solidarité et d'action mutualistes et émettre un avis sur les demandes d'agrément.
+
+Ces commissions peuvent s'adjoindre des experts qui ont voix consultative.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Arrêté du 30 janvier 2013 - art. (V)
+  - Code de la mutualité - art. R411-2-1 (V)
+  - Code de la mutualité - art. R421-3 (V)
+
+
+#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=67></a>
+
+###### Article R412-1
+
+Un comité régional de coordination de la mutualité est placé auprès du préfet de région.
+
+Le comité régional est élu pour six ans. Le collège électoral est composé des mutuelles, sections de mutuelles, unions et
+fédérations ayant leur siège dans la circonscription régionale et immatriculées, à la date de publication de l'arrêté fixant
+la date des élections, au registre national mentionné à l'article L. 411-1.
+
+Le nombre des membres de ce comité est fixé par arrêté du préfet de région à raison de cinq sièges par tranche de 500 voix du
+corps électoral régional déterminé conformément aux dispositions de l'article R. 413-3 sans pouvoir être inférieur à 5 ni
+supérieur à 30.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 2 (V)
+
+
+###### Article R412-2
+
+Sans préjudice des autres attributions qui lui sont conférées par le présent code, le comité régional de coordination de la
+mutualité :
+
+Procède aux enquêtes et donne les avis qui lui sont demandés par le préfet de région ;
+
+Présente, chaque année, au préfet de région un rapport sur le fonctionnement de l'ensemble des mutuelles, unions et
+fédérations de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
+
+Est habilité à rechercher et signaler au préfet de région les manquements aux dispositions de l'article L. 112-2 ;
+
+Développe l'idée mutualiste et favorise les initiatives locales, notamment en matière de prévoyance et d'action sociale ;
+
+Peut proposer toutes mesures de fusion ou de transfert de services ou établissements sociaux en vue de coordonner l'action
+mutualiste dans sa région ;
+
+Organise dans le cadre de sa circonscription l'affiliation des membres participants ayant changé de résidence ou provenant de
+mutuelles dissoutes ;
+
+Peut régler à l'amiable les différends survenus entre les mutuelles, unions et fédérations exerçant leur activité dans sa
+circonscription.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Abrogé par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+  - Décret n°2012-596 du 27 avril 2012 - art. 5
 
+_Cite_:
+
+  - Code de la mutualité - art. L112-2
+
+
+###### Article R412-3
+
+Lors de sa première réunion, le comité régional de coordination de la mutualité procède à l'élection de son président et de
+son bureau.
+
+Le comité est convoqué par le préfet de région ou son représentant au moins une fois par an. Le comité peut se doter d'un
+règlement intérieur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 5
+
+
+#### Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité.<a id=68></a>
+
+##### Section 1 : Elections aux comités régionaux de coordination de la mutualité.<a id=69></a>
+
+###### Article R413-1
+
+Le ministre chargé de la mutualité fixe la date des élections des membres des comités régionaux de coordination de la
+mutualité par un arrêté publié au Journal officiel trois mois au moins avant cette date.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2008-486 du 22 mai 2008 - art. 4 (V)
+
+
+###### Article R413-2
+
+Sont éligibles au comité régional de coordination de la mutualité les personnes qui, à la date de publication de l'arrêté
+fixant la date des élections, sont :
+
+- membres des conseils d'administration des mutuelles, unions et fédérations ayant leur siège dans la région ;
+
+- membres des conseils d'administration des mutuelles ayant une section dans la région ;
+
+- ou membres élus des organes de gestion desdites sections.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R413-3 (V)
+  - Code de la mutualité - art. R413-6 (V)
+  - Code de la mutualité - art. R413-9 (Ab)
+
+
+###### Article R413-3
+
+Chaque mutuelle et section de mutuelles composant le collège électoral dispose d'au moins une voix et d'une voix
+supplémentaire par tranche de 2 000 membres participants.
+
+L'effectif des mutuelles et sections de mutuelles à retenir est leur effectif régional mentionné au registre national à la
+date de publication de l'arrêté fixant la date des élections.
+
+Les mutuelles comportant des sections disposent, dans la région où elles ont leur siège, d'un nombre de voix déterminé en
+fonction de l'effectif des membres qui ne relèvent pas de sections.
+
+Les unions et fédérations disposent d'une voix.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 2 (V)
+  - Code de la mutualité - art. A411-2 (V)
+  - Code de la mutualité - art. R412-1 (Ab)
+  - Code de la mutualité - art. R413-6 (V)
+
+
+###### Article R413-4
+
+Aucune déclaration de candidature ne peut être enregistrée après le quarante-cinquième jour qui précède la date des
+élections.
+
+Aucun retrait de candidature n'est admis après le trentième jour qui précède le scrutin.
+
+Les candidatures sont déclarées à la préfecture de région sous forme de listes comportant les noms des candidats. Le nombre
+de candidats figurant sur chaque liste ne peut être inférieur au nombre de sièges à pourvoir et ne peut excéder le double de
+ce nombre. Les listes doivent être signées par tous les candidats qui y sont inscrits.
+
+Nul ne peut figurer sur plusieurs listes ou être candidat dans plusieurs circonscriptions.
+
+Le préfet de région fait connaître aux électeurs les candidatures déclarées.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+###### Article R413-5
+
+Les membres du comité régional de coordination de la mutualité sont élus, au scrutin de liste, à la représentation
+proportionnelle au plus fort reste et sans panachage.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 1 (V)
+  - Code de la mutualité - art. R413-2 (V)
+
+
+###### Article R413-6
+
+Le vote a lieu par correspondance.
+
+Le conseil d'administration de chaque mutuelle, union, fédération ou l'organe de gestion de chaque section de mutuelle vote
+pour une liste. Ces délibérations doivent parvenir à la préfecture de région au plus tard à la date fixée pour les élections.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R413-7 (V)
+
+
+###### Article R413-7
+
+Une commission présidée par le préfet de région ou son représentant et composée de trois présidents de mutuelle, union ou
+fédération désignés par arrêté du préfet de région procède au recensement des envois effectués dans les trois jours qui
+suivent l'élection.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R413-8 (Ab)
+
+
+###### Article R413-8
+
+La commission instituée à l'article R. 413-7 totalise le nombre de suffrages obtenus par chaque liste, détermine le quotient
+électoral, calcule le nombre de sièges obtenus par chaque liste et proclame les résultats.
+
+Elle établit sans délai le procès-verbal des opérations auxquelles elle a procédé. Ce procès-verbal est affiché au siège de
+la préfecture de région. L'original de ce procès-verbal est remis au préfet de région et conservé par celui-ci.
+
+Le préfet de région publie la liste des membres du comité régional.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+_Cite_:
+
+  - Code de la mutualité - art. R413-7
+
+
+###### Article R413-9
+
+Les membres du comité régional de coordination de la mutualité sont déclarés démissionnaires d'office par le préfet de région
+lorsque, au cours de leur mandat, ils cessent de remplir les conditions exigées par l'article R. 413-2 pour être éligibles.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+_Cite_:
+
+  - Code de la mutualité - art. R413-2
+
+
+###### Article R413-10
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre du comité régional de
+coordination de la mutualité élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le préfet de région désigne le nom de ce remplaçant par arrêté.
+
+Le mandat de la personne ayant remplacé un membre du comité régional de coordination de la mutualité dont le siège était
+devenu vacant expire lors du renouvellement du comité régional de coordination de la mutualité qui suit son entrée en
+fonction.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+##### Section 2 : Elections au Conseil supérieur de la mutualité.<a id=70></a>
+
+###### Article R413-11
+
+Le ministre chargé de la mutualité fixe la date des élections des représentants des mutuelles, unions et fédérations au
+Conseil supérieur par un arrêté publié au Journal officiel trois mois au moins avant cette date.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2008-486 du 22 mai 2008 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-12
+
+Sont éligibles au Conseil supérieur de la mutualité les personnes qui, à la date de publication de l'arrêté fixant la date
+des élections, sont membres du conseil d'administration des mutuelles, unions et fédérations inscrites, à la même date, au
+registre national prévu à l'article L. 411-1.
+
+Les représentants qui, au cours de leur mandat, cessent de remplir les conditions d'éligibilité sont déclarés démissionnaires
+d'office par le ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+_Cite_:
+
+  - Code de la mutualité - art. L411-1
+
+
+###### Article R413-13
+
+Les représentants des mutuelles, unions et fédérations sont élus par les membres des comités régionaux. Les élections ont
+lieu au scrutin de liste, à la représentation proportionnelle au plus fort reste et sans panachage. Le nombre de candidats
+figurant sur chaque liste ne peut être inférieur au nombre de sièges à pourvoir et ne peut excéder le double de ce nombre.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-14
+
+Les listes sont adressées au ministre chargé de la mutualité au plus tard le quarante-cinquième jour qui précède la date des
+élections, ainsi que les bulletins de vote correspondants en nombre suffisant pour être proposés aux électeurs.
+
+Les bulletins comportent, à l'exclusion de toute autre mention :
+
+La mention "Election au Conseil supérieur de la mutualité" ;
+
+Les noms des candidats ;
+
+Leurs qualités au titre de leurs activités mutualistes.
+
+Aucun retrait de candidature n'est admis après le trentième jour qui précède le scrutin.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-15
+
+Les membres de chaque comité régional de coordination de la mutualité sont convoqués par le préfet de région huit jours
+francs au moins avant la date de l'élection. La convocation doit mentionner l'objet de la réunion et être accompagnée des
+bulletins de vote.
+
+Chaque membre composant le comité régional dispose d'une voix.
+
+L'élection a lieu à bulletin secret.
+
+Chaque bulletin est placé sous enveloppe close ne portant aucun signe ni inscription et déposé dans une urne. Le vote de
+chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-16
+
+Une commission présidée par le préfet de région ou son représentant et composée de trois membres du comité régional de
+coordination de la mutualité désignés par arrêté du préfet de région procède au dépouillement des votes, dans les conditions
+prévues aux articles L. 65 et L. 66 du code électoral.
+
+Le préfet de région adresse, dans les vingt-quatre heures, au ministre chargé de la mutualité le procès-verbal consignant les
+résultats du scrutin.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+_Cite_:
+
+  - Code électoral - art. L65
+  - Code électoral - art. L66
+
+
+###### Article R413-17
+
+La liste des membres du Conseil supérieur de la mutualité est publiée au Journal officiel par arrêté du ministre chargé de la
+mutualité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-18
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre du Conseil supérieur de
+la mutualité élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le ministre chargé de la mutualité désigne le nom de ce remplaçant par arrêté.
+
+Le mandat de la personne ayant remplacé un membre du Conseil supérieur de la mutualité dont le siège était devenu vacant
+expire lors du renouvellement du Conseil supérieur de la mutualité qui suit son entrée en fonction.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+##### Section 3 : Contentieux des opérations électorales.<a id=71></a>
+
+###### Article R413-19
+
+La régularité des opérations électorales destinées à la désignation des membres du Conseil supérieur de la mutualité et des
+membres des comités de coordination de la mutualité peut être contestée, dans le délai de quinze jours à dater de l'élection,
+devant le tribunal d'instance du lieu de proclamation des résultats.
+
+La contestation est formée par déclaration orale ou écrite faite, remise ou dressée au greffe du tribunal d'instance. Dans
+les dix jours du recours, le tribunal d'instance statue en dernier ressort, sans frais ni forme de procédure et sur simple
+avertissement donné trois jours à l'avance à toutes les parties intéressées.
+
+La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
+demande d'avis de réception.
+
+Un pourvoi en cassation peut être formé dans les dix jours de la notification de la décision du tribunal d'instance. Les
+dispositions des articles 999 à 1008 du nouveau code de procédure civile sont applicables.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+#### Chapitre IV : Registre national des mutuelles.<a id=72></a>
+
+###### Article R414-1
+
+Les organismes qui envisagent d'acquérir la qualité de mutuelle et les unions ou fédérations demandent leur immatriculation
+au registre national des mutuelles prévu à l'article L. 411-1.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 1 (V)
+  - Code de la mutualité - art. R413-2 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L411-1 (V)
+
+
+###### Article R414-2
+
+La demande d'immatriculation conforme à un modèle fixé par arrêté du ministre chargé de la mutualité est signée par le
+président de l'organisme et déposée auprès du préfet de la région dans laquelle est situé le siège de l'organisme.
+
+La demande comporte les renseignements suivants :
+
+1° La dénomination de l'organisme suivie, le cas échéant, du sigle représentatif de ce dernier ;
+
+2° La nature des activités envisagées par les mutuelles et unions selon la nomenclature fixée par arrêté du ministre chargé
+de la mutualité qui précise notamment la liste des activités figurant à l'article L. 111-1 du présent code ;
+
+3° L'adresse du siège ;
+
+4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ;
+
+5° Les noms, noms d'usage, prénoms, domiciles personnels du président, des administrateurs et des dirigeants salariés
+mentionnés à l'article L. 114-19 ;
+
+6° Lorsque les organismes envisagent d'acquérir la qualité de mutuelles, les noms et adresses des personnes physiques ayant
+participé à leur création ;
+
+7° Lorsque les organismes sont des unions ou des fédérations, la dénomination et l'adresse du siège des mutuelles et unions
+ainsi que, pour les unions, celles des membres honoraires ayant participé à leur création ;
+
+8° Pour les organismes résultant d'une fusion ou d'une scission, la dénomination de tous les organismes mutualistes qui y ont
+participé ;
+
+9° Pour ceux créés suivant les modalités définies aux articles L. 111-3 et L. 111-4, la dénomination des organismes ayant
+participé à leur création.
+
+La demande est accompagnée des statuts et du procès-verbal de l'assemblée générale constitutive.
+
+Le préfet de région la transmet immédiatement au secrétaire général du Conseil supérieur de la mutualité qui procède, sans
+délai, à l'immatriculation de la mutuelle, de l'union ou de la fédération.
+
+Le préfet de région délivre aux organismes régis par le présent chapitre un récépissé de la demande d'immatriculation dans
+les cinq jours ouvrables suivant le dépôt d'un dossier complet. Ce récépissé comporte le numéro d'immatriculation au registre
+national des mutuelles.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 2 (V)
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 8 (V)
+  - Code de la mutualité - art. R115-1 (V)
+  - Code de la mutualité - art. R116-1 (V)
+  - Code de la mutualité - art. R414-2-1 (V)
+  - Code de la mutualité - art. R414-8 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L111-1 (Ab)
+  - Code de la mutualité - art. L111-3 (M)
+  - Code de la mutualité - art. L111-4 (V)
+  - Code de la mutualité - art. L114-19 (V)
+  - Code de la mutualité - art. L115-1 (V)
+  - Code de la mutualité - art. L115-4 (V)
+
+
+###### Article R414-3
+
+Outre les mentions prévues à l'article L. 510-11, sont mentionnées d'office au registre national des mutuelles :
+
+1° Les décisions d'agrément et de retrait d'agrément prises en application des articles L. 211-7 et L. 211-9 ;
+
+2° Les décisions de la Commission de contrôle mentionnée à l'article L. 510-1 prises en application de l'article L. 510-10 ;
+
+3° Les mesures mentionnées aux articles L. 212-15 et L. 212-16 du présent code ainsi que celles prises en application du
+titre II du livre VI du code de commerce et mentionnées à l'article 36-1 du décret n° 84-406 du 30 mai 1984 relatif au
+registre du commerce et des sociétés ;
+
+4° Les mesures d'incapacité et d'interdiction de diriger un organisme mutualiste prises à l'encontre d'un de ses dirigeants à
+la suite d'une décision juridictionnelle passée en force de chose jugée ;
+
+5° Les décisions prononçant la dissolution ou la nullité d'un organisme mutualiste ;
+
+6° Les décisions de dispense d'agrément et les conventions de substitution mentionnées à l'article L. 211-5.
+
+Le préfet de région est informé par le ministère public des décisions judiciaires prises en application des 3° à 5° ci-
+dessus. Dès réception de ces informations, il en avise, sans délai, le secrétaire général du Conseil supérieur de la
+mutualité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°84-406 du 30 mai 1984 - art. 36-1 (M)
+  - Code de la mutualité - art. L211-5 (M)
+  - Code de la mutualité - art. L211-7 (M)
+  - Code de la mutualité - art. L211-9 (V)
+  - Code de la mutualité - art. L212-15 (M)
+  - Code de la mutualité - art. L212-16 (M)
+  - Code de la mutualité - art. L510-1 (M)
+  - Code de la mutualité - art. L510-10 (V)
+  - Code de la mutualité - art. L510-11 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R414-5 (Ab)
+
+
+###### Article R414-4
+
+Le liquidateur d'une mutuelle, union ou fédération dépose auprès du préfet de région pour le compte de l'organisme une
+déclaration constatant la clôture de la liquidation dans un délai d'un mois à compter de la clôture.
+
+Le préfet de région en avise, sans délai, le secrétaire général du Conseil supérieur de la mutualité qui procède à la
+radiation de la mutuelle, de l'union ou de la fédération.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Code de la mutualité - art. R414-6 (Ab)
+
+
+###### Article R414-5
+
+Sont retirées d'office les mentions relatives aux mesures prononcées en application du 4° de l'article R. 414-3 :
+
+- lorsque intervient une décision de réhabilitation, de relevé d'incapacité ou d'amnistie faisant disparaître l'incapacité ou
+l'interdiction ;
+
+- ou lorsque arrive le terme de l'interdiction fixée par la juridiction en application de l'article L. 625-10 du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-596 du 27 avril 2012 - art. 9
+
+_Cite_:
+
+  - Code de commerce - art. L625-10
+  - Code de la mutualité - art. R414-3
+
+
+###### Article R414-6
+
+Après leur immatriculation au registre national des mutuelles, les organismes régis par le présent chapitre sont tenus de
+déposer auprès du préfet de la région dans laquelle est situé leur siège les éléments modificatifs suivants :
+
+1° Les actes, délibérations ou décisions modifiant la déclaration ou les pièces déposées lors de leur constitution dans le
+délai d'un mois à compter de la date de modification ;
+
+2° Un exemplaire mis à jour des statuts dans le délai d'un mois à compter de toute approbation d'une modification des statuts
+par l'assemblée générale ;
+
+3° Le nombre de membres participants affiliés à l'organisme au 31 décembre de chaque année et, le cas échéant, leur
+répartition par sections au plus tard le 31 mars de l'année suivante ainsi que le nombre de membres bénéficiaires et, le cas
+échéant, leur répartition par sections au plus tard le 31 décembre de l'année suivante ;
+
+4° Les documents comptables mentionnés aux j, k, l et m de l'article L. 114-9 dans le délai d'un mois à compter de leur
+présentation à l'assemblée générale ;
+
+5° La déclaration signée par le liquidateur et visée à l'article R. 414-4 ;
+
+6° Le numéro d'identité attribué par l'Institut national de la statistique et des études économiques conformément aux
+dispositions du décret n° 73-314 du 14 mars 1973 portant création d'un système national d'identification et d'un répertoire
+des entreprises et de leurs établissements.
+
+Le préfet de région en informe, sans délai, le secrétaire général du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+###### Article R414-7
+
+Le secrétaire général du Conseil supérieur de la mutualité et les préfets de région sont seuls habilités à délivrer à toute
+personne qui en fait la demande des copies ou extraits des mentions portées au registre mentionné à l'article L. 411-1 et des
+pièces déposées auprès des préfets de région.
+
+Toutefois, pour les documents comptables antérieurs à ceux établis au titre des trois derniers exercices, ces renseignements
+ne sont délivrés que sous forme d'extraits.
+
+La copie de l'extrait ou les renseignements demandés peuvent être délivrés par voie électronique.
+
+La copie, l'extrait ou le certificat est établi aux frais du demandeur, sans que, lorsqu'une reproduction est délivrée et
+envoyée, ces frais puissent excéder le coût de la reproduction et de l'envoi, et dans des conditions fixées par arrêté du
+ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cité par_:
+
+  - Arrêté du 18 avril 2005 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
+
+_Cite_:
+
+  - Code de la mutualité - art. L411-1
+
+
+###### Article R414-8
+
+Toute mutuelle, union ou fédération indique le numéro d'immatriculation mentionné à l'article R. 414-2 dans ses statuts,
+règlements, contrats, publicités ou tous autres documents concernant son activité et signés par elle ou en son nom.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. R414-2 (V)
+
+
+###### Article R414-9
+
+Le fait pour tout dirigeant ou liquidateur d'une mutuelle, union ou fédération de méconnaître les obligations résultant du
+présent chapitre est puni d'une contravention de cinquième classe.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+###### Article R414-10
+
+Le préfet rend compte au comité régional de coordination de la mutualité des immatriculations et des radiations des
+mutuelles, unions et fédérations ayant leur siège dans la région.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
+
+
+# Partie réglementaire - Arrêtés<a id=73></a>
+
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=74></a>
+
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=75></a>
+
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=76></a>
+
+##### Section 1 : Agrément administratif.<a id=77></a>
+
+###### Article A211-1
+
+I. - Toute demande d'agrément administratif présentée par une mutuelle ou union régie par le présent livre doit être produite
+en double exemplaire et comporter :
+
+a) La liste, établie conformément aux dispositions de l'article R. 211-2, des branches ou sous-branches que la mutuelle ou
+l'union se propose de pratiquer ;
+
+b) Le cas échéant, l'indication des pays étrangers où la mutuelle ou l'union se propose d'opérer ;
+
+c) Le procès-verbal de l'assemblée générale constitutive mentionné à l'article L. 113-1 et le récépissé délivré par le préfet
+de région lors de la demande d'immatriculation au registre national des mutuelles mentionné à l'article L. 411-1 ;
+
+d) Un exemplaire des statuts ;
+
+e) La liste des membres du conseil d'administration et des dirigeants salariés mentionnés aux articles L. 114-16 et L.
+114-19, ainsi que de toute personne appelée à exercer en fait des fonctions équivalentes avec les nom, prénoms, domicile,
+nationalité, date et lieu de naissance de chacun d'eux. Si ces personnes ont résidé hors de France pendant la période de cinq
+ans précédant la demande d'agrément, elles doivent indiquer leur dernière adresse hors de France. Le dossier défini à
+l'article A. 211-2 doit être fourni par chacune de ces personnes ;
+
+f) Un programme d'activités comprenant les pièces suivantes :
+
+1. Un document précisant la nature des risques que la mutuelle ou l'union se propose de garantir ou des engagements qu'elle
+se propose de prendre ;
+
+2. Une note technique exposant le mode d'établissement des tarifs et les bases de calcul des diverses catégories de
+cotisations ; s'il s'agit d'opérations mentionnées au 26 de l'article R. 211-2, la mutuelle ou l'union doit produire une note
+technique exposant le mode d'établissement des tarifs, les modalités de détermination des cotisations annuelles ainsi que les
+indications relatives à la fixation du nombre d'unités de rente correspondant à ces cotisations ; s'il s'agit d'opérations
+mentionnées au 24 de l'article précité, le tarif complet des versements ou cotisations, accompagné de tableaux indiquant au
+moins année par année les provisions mathématiques et les valeurs de rachat correspondantes, ainsi que d'une note technique
+exposant le mode d'établissement de ces divers éléments ;
+
+3. Les principes directeurs que la mutuelle ou l'union se propose de suivre en matière de réassurance ; la liste des
+principaux réassureurs pressentis et les éléments de nature à démontrer leur intention de contracter avec la mutuelle ou
+l'union ;
+
+4. La description de l'organisation administrative et des structures de développement ainsi que des moyens en personnel et en
+matériel dont dispose la mutuelle ou l'union ; les prévisions de frais d'installation des services administratifs et des
+services de développement, ainsi que les moyens financiers destinés à y faire face ;
+
+5. Pour la branche mentionnée au 18 de l'article R. 211-2, les moyens en personnel et en matériel dont dispose la mutuelle ou
+l'union, par elle-même ou par personne interposée, pour faire face à ses engagements ;
+
+6. Pour les cinq premiers exercices comptables d'activité : les comptes de résultat et bilans prévisionnels, ainsi que le
+détail des hypothèses retenues (principes de tarification, nature des garanties, sinistralité, évolution des frais généraux,
+rendement des placements) ;
+
+7. Pour les mêmes exercices :
+
+- les prévisions relatives aux moyens financiers destinés à la couverture des engagements ;
+
+- les prévisions relatives à la marge de solvabilité que la mutuelle ou l'union doit posséder en application des dispositions
+du 3° de l'article L. 212-1 ;
+
+- les prévisions de trésorerie ;
+
+8. La justification des éléments constituant le montant minimal du fonds de garantie que la mutuelle ou l'union doit
+posséder, selon le cas, conformément aux dispositions de l'article L. 211-8 ;
+
+9. Le cas échéant, les listes et certificats détaillant les modalités de constitution du fonds d'établissement mentionné au
+4° de l'article L. 114-4 et une note détaillant les éléments constitutifs de la marge de solvabilité ;
+
+10. Le nom et l'adresse du ou des principaux établissements bancaires où sont domiciliés les comptes de la mutuelle ou de
+l'union.
+
+II. - En cas de demande d'extension d'agrément, le dossier à communiquer est le même que celui prévu au I du présent article,
+à l'exception des documents mentionnés au c. A ces documents est joint le procès-verbal de l'assemblée générale ayant décidé
+l'extension d'activité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 2 JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R211-2, L113-1, L411-1, L114-16, L114-19, A211-2, L212-1, L211-8, L114-4
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Code de la mutualité - art. A510-1 (Ab)
+
+
+###### Article A211-2
+
+Les personnes mentionnées au I (e) de l'article A. 211-1 doivent produire un état descriptif de leurs activités. Elles
+indiquent notamment :
+
+1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
+précédant la demande d'agrément ainsi que, durant cette même période, les activités exercées au sein des organes des
+mutuelles, unions ou fédérations relevant du présent code ;
+
+2. Si elles ont fait l'objet soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
+professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
+
+3. Si elles ont fait l'objet d'un licenciement pour faute lourde ou d'une mesure équivalente pendant les dix années précédant
+la demande d'agrément ;
+
+4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
+redressement ou de liquidation judiciaires prévues par le livre VI du code de commerce ou, dans le régime antérieur, de
+mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
+banqueroutes ou de mesures équivalentes à l'étranger.
+
+Les personnes mentionnées au I, e de l'article A. 211-1 doivent également produire un bulletin n° 3 de leur casier judiciaire
+datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen autre que la France. Lorsque
+ces personnes ne sont pas des ressortissants d'un Etat partie à l'accord sur l'Espace économique européen, elles doivent
+produire un document équivalent ou, à défaut, une déclaration sous serment ou une déclaration solennelle faite devant une
+autorité compétente ou un notaire, aux termes de laquelle elles affirment ne pas avoir fait, à l'étranger, l'objet d'une
+condamnation qui, si elle avait été prononcée par une juridiction française, serait inscrite au bulletin n° 3 du casier
+judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce serment ou de cette déclaration
+solennelle. En outre, si elles ne sont pas de nationalité française, ces personnes doivent satisfaire aux dispositions des
+lois et règlements relatifs à la situation et à la police des étrangers.
+
+Le même dossier doit être fourni par chaque nouvelle personne mentionnée au I, e de l'article A. 211-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 2 JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A211-1
+  - Loi n°67-563 1967-07-13
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Code de la mutualité - art. A510-1 (Ab)
+
+
+#### Chapitre II : Fonctionnement.<a id=78></a>
+
+##### Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=79></a>
+
+###### Article A212-1
+
+Les documents visés au premier alinéa de l'article L. 212-8 sont les suivants :
+
+a) La dénomination et l'adresse du siège social de la mutuelle ou de l'union ;
+
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
+
+c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b peuvent demander des informations en vue de
+l'exercice de leurs compétences ;
+
+d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux a et f (1, 3, 4, 5) de
+l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité les comptes de résultat prévisionnels,
+les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+
+e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées aux f (2 et
+10) de l'article A. 211-1 ;
+
+f) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 de l'article R.
+211-2-1 l'option choisie parmi celles énoncées à l'article L. 224-7 ;
+
+g) Le nom et les pouvoirs du mandataire général.
+
+Ces documents doivent être adressés en double exemplaire, accompagnés de la traduction certifiée conforme dans la langue
+officielle de l'Etat membre de la succursale, des informations mentionnées aux a, c à g du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-8, A211-1, R211-2-1, L224-7
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+
+
+###### Article A212-2
+
+La notification prévue au deuxième alinéa de l'article L. 212-8 est accompagnée des informations mentionnées aux a, c, d, f,
+g de l'article A. 212-1, dans leur traduction certifiée conforme dans la langue de l'Etat de la succursale ainsi que d'une
+attestation de la commission de contrôle mentionnée à l'article L. 510-1 certifiant que la mutuelle ou l'union dispose de la
+marge de solvabilité conformément aux dispositions du 3° de l'article L. 212-1.
+
+La date de réception de la notification par les autorités compétentes de l'Etat sur le territoire duquel la mutuelle ou
+l'union se propose d'ouvrir la succursale est communiquée à ces organismes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-8, A212-1, L510-1, L212-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-3
+
+La succursale peut commencer ses activités dès réception par la mutuelle ou l'union d'une communication de l'autorité
+administrative mentionnée à l'article R. 211-7 lui indiquant les conditions dans lesquelles les autorités de l'Etat de la
+succursale entendent que ces activités soient exercées sur leur territoire.
+
+En tout état de cause, la succursale peut commencer ses activités à l'expiration d'un délai de deux mois à compter de la
+réception par ces dernières autorités de la notification mentionnée à l'article A. 212-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R211-7, A212-2
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-4
+
+Tout projet de modification visé à l'article L. 212-10 est communiqué par la mutuelle ou l'union simultanément aux autorités
+compétentes de l'Etat membre de la succursale et à l'autorité administrative mentionné à l'article R. 211-7. La communication
+au ministre de la mutualité ou au préfet de région est accompagnée des documents mentionnés à l'article A. 212-1 affectés par
+le projet de modification.
+
+Lorsque, en application de l'article L. 212-10, l'autorité administrative mentionnée à l'article R. 211-7 notifie un tel
+projet de modification aux autorités compétentes de l'Etat membre de la succursale, il accompagne la notification d'un
+dossier comportant ceux des documents mentionnés à l'article A. 212-2 qui font l'objet d'une modification.
+
+La modification de la nature ou des conditions d'exercice des activités de la succursale ne peut intervenir avant
+l'expiration d'un délai d'un mois à compter de la notification par la mutuelle ou l'union à l'autorité mentionnée à l'article
+R. 211-7 et aux autorités compétentes de l'Etat membre de la succursale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-10, R211-7, A212-1, A212-2
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+# Partie réglementaire ancienne<a id=80></a>
+
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=81></a>
+
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=82></a>
+
+#### Chapitre II : Statuts<a id=83></a>
 
 ###### Article R122-4
 
 La reconnaissance d'utilité publique obtenue par des sociétés mutualistes avant l'entrée en vigueur du décret n° 59-1209 du
-19 octobre 1959 ne peut être retirée que par décret en Conseil d'Etat, après avis du conseil supérieur de la mutualité
-[*conditions de forme*].
+19 octobre 1959 ne peut être retirée que par décret en Conseil d'Etat, après avis du conseil supérieur de la mutualité.
+
+**Nota:**
+
+Le décret n° 59-1209 du 19 octobre 1959 n'est plus en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7358,23 +9403,35 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=60></a>
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
-##### Section 1 : Dispositions générales<a id=61></a>
+
+#### Chapitre IV : Capacité civile et dispositions financières<a id=84></a>
+
+##### Section 1 : Dispositions générales<a id=85></a>
 
 ###### Article R124-1
 
-Les déclarations prévues aux articles L. 124-2 [*acquisition, vente, construction, agrandissement changement de destination
-des immeubles*] et L. 124-3 [*emprunts*] sont faites, contre récépissé, à la préfecture du département dans lequel est situé
-le siège social de la mutuelle dans un délai d'un mois après la délibération de l'assemblée générale ou la décision du
-conseil d'administration [*point de départ, organisme compétent*].
+Les déclarations prévues aux articles L. 124-2 et L. 124-3 sont faites, contre récépissé, à la préfecture du département dans
+lequel est situé le siège social de la mutuelle dans un délai d'un mois après la délibération de l'assemblée générale ou la
+décision du conseil d'administration.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7384,8 +9441,8 @@ _Cite_:
 
 ###### Article R124-2
 
-L'autorisation prévue à l'article L. 124-4 [*réception de dons et legs*] est accordée par le préfet du département dans
-lequel est situé le siège social de la mutuelle [*autorité compétente, compétence territoriale*].
+L'autorisation prévue à l'article L. 124-4 est accordée par le préfet du département dans lequel est situé le siège social de
+la mutuelle.
 
 Toutefois, cette autorisation est accordée par le ministre chargé de la mutualité lorsque le montant de la libéralité dépasse
 le seuil fixé par le décret n° 66-388 du 13 juin 1966 relatif à la tutelle administrative des associations, fondations et
@@ -7393,6 +9450,11 @@ congrégations.
 
 Dans tous les cas où les dons et legs donnent lieu à réclamation des familles, l'autorisation de les accepter est donnée par
 décret en Conseil d'Etat ou par arrêté du ministre chargé de la mutualité pris conformément à l'avis du Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -7405,16 +9467,16 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 _Cité par_:
 
   - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
 
+_Modifié par_:
 
-##### Section 2 : Dépôts, placements de fonds et réserves<a id=62></a>
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+##### Section 2 : Dépôts, placements de fonds et réserves<a id=86></a>
 
 ###### Article R124-3
 
@@ -7426,6 +9488,14 @@ est de 50 p. 100.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -7442,6 +9512,14 @@ quarts du total des prestations mises effectivement à la charge de la mutuelle 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -7477,6 +9555,14 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
+
 
 ###### Article R124-6
 
@@ -7496,6 +9582,14 @@ affiliées.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R124-7
@@ -7519,6 +9613,14 @@ _Cité par_:
 
   - Arrêté du 7 juin 1989 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
+
 
 ###### Article R124-8
 
@@ -7530,6 +9632,14 @@ lorsqu'elles sont essentiellement nominatives.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R124-9
@@ -7549,9 +9659,13 @@ _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 **Liens**:
 
@@ -7562,7 +9676,7 @@ _Anciens textes_:
   - Code de la mutualité - art. R531-1 (T)
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=63></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=87></a>
 
 ###### Article R125-1
 
@@ -7577,6 +9691,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 
 ###### Article R125-2
 
@@ -7589,6 +9707,14 @@ d'un mois [*lieu*].
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-132 du 10 février 2004 - art. 2 (V) JORF 12 février 2004
 
 _Cité par_:
 
@@ -7631,6 +9757,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-19 (Ab)
@@ -7649,21 +9779,28 @@ _Cite_:
 
 ###### Article R125-4
 
-Les mutuelles désignent au moins un [*nombre*] commissaire aux comptes, lorsqu'elles remplissent une des conditions
-suivantes :
+Les mutuelles désignent au moins un commissaire aux comptes, lorsqu'elles remplissent une des conditions suivantes :
 
 1° Avoir versé des prestations, nettes de réassurance, supérieures à un montant fixé par arrêté du ministre chargé de la
 mutualité ;
 
-2° Assumer la gestion d'une caisse autonome ou d'un établissement ou service visé à l'article L. 411-1 [*établissement ou
-service à caractère sanitaire, médico-social ou culturel*], dont les ressources sont supérieures à un montant fixé par arrêté
-du ministre chargé de la mutualité.
+2° Assumer la gestion d'une caisse autonome ou d'un établissement ou service visé à l'article L. 411-1, dont les ressources
+sont supérieures à un montant fixé par arrêté du ministre chargé de la mutualité.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7674,17 +9811,17 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=64></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=88></a>
 
 ###### Article R126-1
 
-La décision prévue au troisième alinéa de l'article L. 126-1 [*fusion décidée par l'autorité administrative compétente*] est
-prise par le préfet du département dans lequel est situé le siège social de la mutuelle absorbante, après avis du comité
-départemental de coordination de la mutualité.
+La décision prévue au troisième alinéa de l'article L. 126-1 est prise par le préfet du département dans lequel est situé le
+siège social de la mutuelle absorbante, après avis du comité départemental de coordination de la mutualité.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -7694,7 +9831,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7711,14 +9848,23 @@ _Cité par_:
 
 ###### Article R126-2
 
-La décision de l'assemblée générale extraordinaire prévue à l'article L. 126-3 [*dissolution volontaire*] est communiquée à
-la préfecture du département dans lequel est situé le siège social de la mutuelle.
+La décision de l'assemblée générale extraordinaire prévue à l'article L. 126-3 est communiquée à la préfecture du département
+dans lequel est situé le siège social de la mutuelle.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7728,11 +9874,12 @@ _Cite_:
 ###### Article R126-3
 
 Dans le cas prévu à l'article L. 126-4, la dissolution est prononcée par le préfet du département dans lequel est situé le
-siège social de la mutuelle [*autorité compétente*] après avis du comité départemental de coordination de la mutualité.
+siège social de la mutuelle après avis du comité départemental de coordination de la mutualité.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -7742,15 +9889,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. L126-4 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 _Cité par_:
 
@@ -7759,12 +9902,13 @@ _Cité par_:
 
 ###### Article R126-4
 
-L'autorité administrative compétente pour exercer la surveillance prévue par l'article L. 126-5 [*durant la liquidation de la
-mutuelle*] est le préfet, assisté du comité départemental de coordination de la mutualité.
+L'autorité administrative compétente pour exercer la surveillance prévue par l'article L. 126-5 est le préfet, assisté du
+comité départemental de coordination de la mutualité.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -7774,31 +9918,32 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. L126-5 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 _Cité par_:
 
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=65></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=89></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=66></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=90></a>
 
-#### Chapitre unique<a id=67></a>
+#### Chapitre unique<a id=91></a>
 
 ###### Article R211-1
 
 Le procès-verbal de la délibération mentionnée à l'article L. 211-2 est communiqué au préfet du département dans lequel est
-situé le siège social de la mutuelle [*autorité compétente*] dans le délai d'un mois.
+situé le siège social de la mutuelle dans le délai d'un mois.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -7808,26 +9953,35 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=68></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=92></a>
 
-#### Chapitre unique<a id=69></a>
+#### Chapitre unique<a id=93></a>
 
 ###### Article R221-1
 
 L'article R. 122-2 est applicable à l'approbation du règlement visé au cinquième alinéa de l'article L. 221-1.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7835,9 +9989,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=70></a>
+### Titre III : Mutuelles des militaires<a id=94></a>
 
-#### Chapitre unique<a id=71></a>
+#### Chapitre unique<a id=95></a>
 
 ###### Article R231-1
 
@@ -7850,6 +10004,10 @@ R. 531-1, R. 531-2 et R. 531-3, après avis du ministre chargé des armées.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -7886,19 +10044,23 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cite_:
 
   - Code de la mutualité - art. L231-4 (Ab)
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=72></a>
+## Livre III : Réparation des risques sociaux<a id=96></a>
 
-### Titre Ier : Règles générales<a id=73></a>
+### Titre Ier : Règles générales<a id=97></a>
 
-#### Chapitre unique<a id=74></a>
+#### Chapitre unique<a id=98></a>
 
-##### Section Ier : Règles de sécurité financière<a id=75></a>
+##### Section 1 : Règles de sécurité financière<a id=99></a>
 
 ###### Article R311-1
 
@@ -7928,7 +10090,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°93-688 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 **Liens**:
 
@@ -7952,7 +10118,7 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 9 (V)
 
 
-##### Section 2 : Caisse mutualiste de garantie<a id=76></a>
+##### Section 2 : Caisse mutualiste de garantie<a id=100></a>
 
 ###### Article R311-2
 
@@ -8777,7 +10943,7 @@ _Créé par_:
   - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
-##### Section 3 : Dispositions diverses<a id=77></a>
+##### Section 3 : Dispositions diverses<a id=101></a>
 
 ###### Article R311-23
 
@@ -8789,9 +10955,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 **Liens**:
 
@@ -8823,9 +10993,9 @@ _Anciens textes_:
   - Code de la mutualité - art. R311-4 (T)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=78></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=102></a>
 
-#### Chapitre Ier : Dispositions générales<a id=79></a>
+#### Chapitre Ier : Dispositions générales<a id=103></a>
 
 ###### Article R321-1
 
@@ -8841,6 +11011,11 @@ d'un an.
 4. Prévoyance collective mentionnée à l'article L. 121-1 (2e alinéa).
 
 5. Réassurance d'opérations pratiquées par les caisses autonomes mutualistes.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -8867,7 +11042,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -8888,13 +11063,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Décret n°90-768 du 30 août 1990 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -8913,19 +11088,24 @@ Dans le cas où le nombre des adhérents d'une caisse autonome vient à tomber a
 atteint à nouveau dans un délai de trois ans. A défaut, l'approbation est retirée suivant la procédure prévue aux articles R.
 326-2 et R. 326-3.
 
+**Nota:**
+
+Les articles R. 326-2 et R. 326-3 du code de la mutualité (ancien) ont été abrogés par l'article 2 du décret n° 2002-354 du
+14 mars 2002.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Décret n°88-574 du 5 mai 1988 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -8937,8 +11117,8 @@ _Cite_:
 
 Le montant maximum des engagements par risque et par membre participant que peut prendre sans obligation de réassurance une
 caisse autonome mutualiste est déterminé par celle-ci dans les limites qui sont fixées par arrêté du ministre chargé de la
-mutualité [*autorité compétente*] ou, au-delà de ces limites, après accord donné par le ministre chargé de la mutualité en
-fonction des risques assurés, des effectifs et de la marge de sécurité de ladite caisse.
+mutualité ou, au-delà de ces limites, après accord donné par le ministre chargé de la mutualité en fonction des risques
+assurés, des effectifs et de la marge de sécurité de ladite caisse.
 
 Lorsque les maxima ci-dessus sont dépassés, les engagements supplémentaires sont réassurés auprès d'une autre caisse autonome
 mutualiste couvrant le risque mentionné au 5° de l'article R. 321-1 ou auprès de la Caisse nationale de prévoyance.
@@ -8948,10 +11128,6 @@ mutualiste couvrant le risque mentionné au 5° de l'article R. 321-1 ou auprès
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 **Liens**:
 
@@ -8963,14 +11139,14 @@ _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 1 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la mutualité - art. R321-1 (M)
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R321-5
 
-Le règlement de la caisse autonome mutualiste détermine notamment [*mentions obligatoires*] :
+Le règlement de la caisse autonome mutualiste détermine notamment  :
 
 1. Le ou les risques couverts par ladite caisse autonome ainsi que leurs limites ;
 
@@ -8997,42 +11173,17 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
-
-###### Article R321-6
-
-Les règlements des caisses autonomes mutualistes et leurs modifications sont approuvés par le ministre chargé de la mutualité
-[*autorité compétente*] dans les conditions prévues, respectivement, à l'article R. 122-1 et à l'article R. 122-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
-_Abrogé par_:
-
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
-
-_Cite_:
-
-  - Code de la mutualité - art. R122-1 (Ab)
-  - Code de la mutualité - art. R122-2 (Ab)
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R321-7
 
 Les conventions, documents publicitaires, notes d'information ou tous autres documents établis ou émis par ou pour une caisse
-autonome mutualiste doivent être communiqués, sur sa demande, au ministre chargé de la mutualité [*autorité compétente*]. Le
-ministre peut prescrire les rectifications ou modifications de ces documents qu'exige la réglementation en vigueur, notamment
-celle concernant la protection des consommateurs.
+autonome mutualiste doivent être communiqués, sur sa demande, au ministre chargé de la mutualité. Le ministre peut prescrire
+les rectifications ou modifications de ces documents qu'exige la réglementation en vigueur, notamment celle concernant la
+protection des consommateurs.
 
 **Liens relatifs à cet article**
 
@@ -9040,14 +11191,14 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Règles de sécurité financière<a id=80></a>
+#### Chapitre II : Règles de sécurité financière<a id=104></a>
 
-##### Section 1 : Provisions techniques<a id=81></a>
+##### Section 1 : Provisions techniques<a id=105></a>
 
 ###### Article R322-1
 
@@ -9062,9 +11213,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R322-2
@@ -9093,10 +11248,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 2 (Ab)
@@ -9109,6 +11260,14 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 2 (Ab)
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 3 (Ab)
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R322-3
@@ -9135,10 +11294,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 5 (M)
@@ -9147,6 +11302,14 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 5 (V)
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 5 bis (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9170,9 +11333,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9192,10 +11359,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 6 (V)
@@ -9203,6 +11366,14 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9219,12 +11390,16 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
-##### Section 2 : Marge de sécurité<a id=82></a>
+##### Section 2 : Marge de sécurité<a id=106></a>
 
 ###### Article R322-7
 
@@ -9245,15 +11420,19 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Décret n°88-574 du 5 mai 1988 - art. 2 (V)
   - Arrêté du 27 juillet 1988 - art. 1 (Ab)
   - Code de la mutualité - art. R322-9 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R322-8
@@ -9268,9 +11447,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cité par_:
 
@@ -9291,20 +11474,24 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
   - Code de la mutualité - art. R322-7 (M)
 
 
-##### Section 3 : Placements des caisses autonomes mutualistes<a id=83></a>
+##### Section 3 : Placements des caisses autonomes mutualistes<a id=107></a>
 
 ###### Article R322-10
 
@@ -9386,16 +11573,20 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
-
 _Cité par_:
 
   - Décret n°90-1051 du 26 novembre 1990 - art. 29 (V)
   - Code de la mutualité - art. R322-11 (Ab)
   - Code de la mutualité - art. R322-12 (Ab)
   - Code de la mutualité - art. R322-13 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R322-11
@@ -9436,14 +11627,18 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
-
 _Cité par_:
 
   - Décret n°89-364 du 7 juin 1989 - art. 3 (V)
   - Décret n°90-1051 du 26 novembre 1990 - art. 30 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9470,9 +11665,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9496,9 +11695,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9525,10 +11728,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
-
 _Cité par_:
 
   - Arrêté du 7 juin 1989 - art. 2 (V)
@@ -9536,6 +11735,14 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 
 ###### Article R322-15
@@ -9558,18 +11765,22 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 7 juin 1989
   - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
 
+_Modifié par_:
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=84></a>
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
+
+
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=108></a>
 
 ###### Article R323-1
 
@@ -9584,7 +11795,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R323-2
@@ -9599,16 +11810,16 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R323-3
 
 Les mutuelles ou les unions affiliées au groupement mutualiste gestionnaire de la caisse autonome doivent passer avec ce
-groupement un contrat prévoyant le versement de cotisations pendant cinq ans au moins [*durée*]. Ce contrat peut être dénoncé
-avant la fin de chaque exercice annuel, moyennant un préavis de cinq ans.
+groupement un contrat prévoyant le versement de cotisations pendant cinq ans au moins. Ce contrat peut être dénoncé avant la
+fin de chaque exercice annuel, moyennant un préavis de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -9616,16 +11827,16 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R323-4
 
 L'arrêt du versement des cotisations que doit acquitter une mutuelle ou une union affiliée entraîne la suspension ou
 suppression du service des allocations à la catégorie de bénéficiaires correspondants dans les conditions précisées par le
-règlement de la caisse autonome [*sanction*].
+règlement de la caisse autonome.
 
 Les versements antérieurs restent définitivement acquis à la caisse autonome.
 
@@ -9635,9 +11846,9 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R323-5
@@ -9651,7 +11862,7 @@ des probabilités de décès.
 
 Les allocations versées au cours d'une année ne doivent pas dépasser le cinquième de la provision technique constituée au 31
 décembre de l'année précédente, non plus que le cinquième de la différence entre le montant des fonds propres déterminés au
-31 décembre de l'année précédente et le montant de la marge financière de sécurité réglementaire [*maximum*].
+31 décembre de l'année précédente et le montant de la marge financière de sécurité réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -9659,12 +11870,12 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=85></a>
+#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=109></a>
 
 ###### Article R324-1
 
@@ -9683,10 +11894,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 8 (Ab)
@@ -9694,6 +11901,14 @@ _Créé par_:
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cite_:
 
@@ -9712,9 +11927,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
 
 _Cité par_:
 
@@ -9737,10 +11956,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 9 (Ab)
@@ -9749,12 +11964,20 @@ _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 9 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-720 du 2 mai 2002 - art. 7 () JORF 4 mai 2002
+
 _Cite_:
 
   - Code de la mutualité - art. R324-2 (M)
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=86></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=110></a>
 
 ###### Article R325-1
 
@@ -9769,9 +11992,9 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R325-2
@@ -9788,18 +12011,18 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R325-3
 
-Les caisses autonomes communiquent annuellement [*périodicité*] à chaque adhérent, sur sa demande, le montant de la valeur
-éventuelle de rachat et de réduction.
+Les caisses autonomes communiquent annuellement à chaque adhérent, sur sa demande, le montant de la valeur éventuelle de
+rachat et de réduction. 
 
-Elles ne peuvent refuser ni la réduction ni le rachat si deux cotisations annuelles ou 15 p. 100 au moins des cotisations
-prévues ont été payés.
+Elles ne peuvent refuser ni la réduction ni le rachat si deux cotisations annuelles ou 15  % au moins des cotisations prévues
+ont été payés. 
 
 Le calcul des valeurs de rachat et de réduction est déterminé par le règlement de la caisse en fonction de la provision
 mathématique. La pénalité éventuellement appliquée ne peut dépasser un taux fixé par arrêté du ministre chargé de la
@@ -9811,10 +12034,6 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 10 (Ab)
@@ -9822,6 +12041,10 @@ _Créé par_:
 _Cité par_:
 
   - Arrêté du 27 juillet 1988 - art. 10 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R325-4
@@ -9838,20 +12061,20 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R325-5
 
 Tout adhérent à titre individuel à une garantie annuelle couvrant les risques mentionnés aux 2° et 3° de l'article R. 321-1 a
 la faculté d'y renoncer par lettre recommandée, avec demande d'avis de réception dans les trente jours suivant le paiement de
-la première cotisation [*délai*].
+la première cotisation.
 
 Le règlement de la caisse, le contrat ou la note d'information explicative doivent comporter des indications précises sur les
-conditions d'exercice de cette renonciation [*mentions obligatoires*]. Le défaut de communication de ces documents proroge le
-délai prévu au premier alinéa ci-dessus, jusqu'au trentième jour suivant la date de leur remise effective à l'adhérent.
+conditions d'exercice de cette renonciation. Le défaut de communication de ces documents proroge le délai prévu au premier
+alinéa ci-dessus, jusqu'au trentième jour suivant la date de leur remise effective à l'adhérent.
 
 La renonciation entraîne la restitution de l'intégralité des cotisations versées, dans les trente jours à compter de la
 réception de la lettre recommandée. Les intérêts de retard au taux légal courent de plein droit à l'expiration de ce délai.
@@ -9862,9 +12085,9 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -9882,57 +12105,12 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=87></a>
-
-###### Article R326-1
-
-Le transfert ou la cession par un groupement mutualiste gestionnaire d'une caisse autonome à une ou plusieurs autres caisses
-autonomes mutualistes ou à la Caisse nationale de prévoyance de tous les contrats afférents à l'ensemble ou à certains
-risques dont la caisse autonome cédante assure la couverture et, de même, la cessation pure et simple d'activité par une
-caisse autonome, ne peuvent être décidés que dans les mêmes formes que celles que requièrent les articles L. 126-1 à L. 126-4
-pour la fusion, la scission ou la dissolution des mutuelles. La décision est dans tous les cas soumise à l'approbation du
-ministre chargé de la mutualité. Celui-ci est également compétent, le cas échéant, pour se substituer aux organes défaillants
-de la mutuelle intéressée.
-
-La décision approuvant ces opérations détermine, s'il y a lieu, les conditions de prise en charge des engagements par le
-groupement gestionnaire de la caisse autonome ou par une autre caisse autonome ou par la Caisse nationale de prévoyance,
-ainsi que les conditions de transfert de l'actif et du passif à l'un de ces organismes.
-
-En cas de cessation pure et simple d'activité, la liquidation de la caisse autonome est poursuivie conformément aux
-dispositions prévues, pour la liquidation d'une mutuelle consécutive à sa dissolution, par les deux premiers alinéas de
-l'article L. 126-5.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Créé par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
-
-_Abrogé par_:
-
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
-
-_Cite_:
-
-  - Code de la mutualité - art. L126-1 (Ab)
-  - Code de la mutualité - art. L126-2 (Ab)
-  - Code de la mutualité - art. L126-3 (Ab)
-  - Code de la mutualité - art. L126-4 (Ab)
-  - Code de la mutualité - art. L126-5 (Ab)
-
-_Cité par_:
-
-  - Code de la mutualité - art. R326-3 (Ab)
-
+#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=111></a>
 
 ###### Article R326-2
 
@@ -9945,14 +12123,18 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Modifié par_:
-
-  - Décret n°92-989 du 14 septembre 1992 - art. 2 (V) JORF 17 septembre 1992
-
 _Cité par_:
 
   - Décret n°92-989 du 14 septembre 1992 - art. 2 (V)
   - Code de la mutualité - art. R321-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-354 du 14 mars 2002 - art. 2 () JORF 16 mars 2002
 
 
 ###### Article R326-3
@@ -9968,9 +12150,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-354 du 14 mars 2002 - art. 2 () JORF 16 mars 2002
 
 _Cité par_:
 
@@ -9981,23 +12167,27 @@ _Cite_:
   - Code de la mutualité - art. R326-1 (Ab)
 
 
-## Livre IV : Action sociale<a id=88></a>
+## Livre IV : Action sociale<a id=112></a>
 
-### Titre unique<a id=89></a>
+### Titre unique<a id=113></a>
 
-#### Chapitre unique<a id=90></a>
+#### Chapitre unique<a id=114></a>
 
 ###### Article R411-1
 
 Les règlements et conventions de gestion des établissements ou services à caractère sanitaire, médico-social, social ou
 culturel doivent être déposés, contre récépissé, à la préfecture du département dans lequel est situé le siège social de la
 mutuelle. Ils sont soumis à l'approbation du préfet du département. Le délai mentionné au troisième alinéa de l'article L.
-411-6 est de trois mois à compter de la date du récépissé de dépôt [*point de départ*].
+411-6 est de trois mois à compter de la date du récépissé de dépôt.
 
-Ce délai peut être renouvelé une fois par décision motivée notifiée à la mutuelle avant l'expiration du délai normal
-[*renouvellement exprès*].
+Ce délai peut être renouvelé une fois par décision motivée notifiée à la mutuelle avant l'expiration du délai normal.
 
 Ces dispositions sont applicables aux modifications apportées aux règlements et conventions.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -10007,18 +12197,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=91></a>
+## Livre V : Relations avec les collectivités publiques<a id=115></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=92></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=116></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=93></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=117></a>
 
 ###### Article R511-1
 
@@ -10076,6 +12266,32 @@ _Cité par_:
 
   - Arrêté du 19 avril 1994 - art. Annexe (M)
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+###### Article R511-2
+
+La durée du mandat des membres du conseil est de six ans. Les fonctions de membre du Conseil supérieur de la mutualité sont
+gratuites.
+
+Le conseil choisit, parmi ses membres, deux vice-présidents et un trésorier.
+
+Il est convoqué par le ministre chargé de la mutualité au moins une fois par an.
+
+Le ministre désigne un fonctionnaire comme secrétaire général du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 
 ###### Article R511-3
 
@@ -10090,6 +12306,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 
 ###### Article R511-4
 
@@ -10102,19 +12322,28 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=94></a>
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=118></a>
 
 ###### Article R512-1
 
 Un comité départemental de coordination de la mutualité est placé auprès du préfet.
 
-Il est élu pour six ans [*durée du mandat*] par les mutuelles ayant leur siège dans le département, les sections des
-mutuelles à caractère professionnel ou interprofessionnel instituées dans le département dans les conditions prévues par
-l'article L. 221-1 ainsi que les sections, situées dans le département, qui sont prévues par les statuts d'une mutuelle et
-dotées d'un organe de gestion.
+Il est élu pour six ans par les mutuelles ayant leur siège dans le département, les sections des mutuelles à caractère
+professionnel ou interprofessionnel instituées dans le département dans les conditions prévues par l'article L. 221-1 ainsi
+que les sections, situées dans le département, qui sont prévues par les statuts d'une mutuelle et dotées d'un organe de
+gestion.
 
 Le nombre des membres de ce comité est fixé par arrêté du préfet du département ; il est compris entre six et vingt-quatre.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -10122,15 +12351,15 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 _Cité par_:
 
   - Arrêté du 19 avril 1994 - art. Annexe (M)
   - Code de la mutualité - art. R513-1 (V)
   - Code de la mutualité - art. R513-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10144,8 +12373,8 @@ la mutualité :
 
 1° Procède aux enquêtes et donne les avis qui lui sont demandés par le préfet ;
 
-2° Présente, chaque année [*périodicité*], au préfet un rapport sur le fonctionnement de l'ensemble des groupements
-mutualistes de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
+2° Présente, chaque année, au préfet un rapport sur le fonctionnement de l'ensemble des groupements mutualistes de son
+ressort, qui est également transmis au Conseil supérieur de la mutualité ;
 
 3° Est habilité à rechercher et signaler au préfet les manquements aux dispositions de l'article L. 122-3, alinéa 2 ;
 
@@ -10160,6 +12389,11 @@ de mutuelles dissoutes ;
 7° Peut régler à l'amiable les différends survenus entre les groupements mutualistes exerçant leur activité dans sa
 circonscription.
 
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -10168,7 +12402,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10190,6 +12424,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 
 ###### Article R512-4
 
@@ -10203,22 +12441,22 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 _Cité par_:
 
   - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=95></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=119></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=96></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=120></a>
 
 ###### Article R513-1
 
@@ -10240,6 +12478,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cite_:
 
   - Code de la mutualité - art. R512-1 (M)
@@ -10248,8 +12490,8 @@ _Cite_:
 ###### Article R513-2
 
 Le ministre chargé de la mutualité fixe les dates des élections au Conseil supérieur par un arrêté publié au Journal officiel
-trois mois au moins avant ces dates [*délai*]. Le même arrêté désigne le préfet de région chargé de l'organisation de
-l'élection du représentant du vingt-troisième collège prévu par l'article R. 513-3.
+trois mois au moins avant ces dates. Le même arrêté désigne le préfet de région chargé de l'organisation de l'élection du
+représentant du vingt-troisième collège prévu par l'article R. 513-3.
 
 **Liens relatifs à cet article**
 
@@ -10259,7 +12501,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10327,6 +12569,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cité par_:
 
   - Code de la mutualité - art. R513-10 (V)
@@ -10336,7 +12582,7 @@ _Cité par_:
 ###### Article R513-4
 
 Sont électrices les mutuelles ayant leur siège social dans les départements formant la circonscription du collège régional et
-les sections de mutuelles définies à l'article R. 512-1 situées dans les mêmes départements [*condition d'électorat*].
+les sections de mutuelles définies à l'article R. 512-1 situées dans les mêmes départements.
 
 Les mutuelles et sections de mutuelles composant le collège électoral disposent d'un nombre de voix déterminé en fonction de
 l'effectif de leurs membres.
@@ -10381,7 +12627,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10402,12 +12648,12 @@ dont dispose chaque mutuelle ou section.
 Aucun groupement ne peut être inscrit sur ces listes s'il n'a pas fourni l'état ou les déclarations mentionnés à l'article
 précédent.
 
-La liste est révisée, au plus tard quatre-vingt-douze jours avant chaque scrutin [*date limite, délai*], après avis du comité
-départemental de coordination de la mutualité.
+La liste est révisée, au plus tard quatre-vingt-douze jours avant chaque scrutin, après avis du comité départemental de
+coordination de la mutualité.
 
 Une réclamation peut être formée par toute mutuelle ou section de mutuelle ayant son siège dans le département en vue de son
 inscription sur la liste ou de la radiation d'un autre groupement. Cette réclamation est formée devant le préfet du
-département dans les quinze jours [*délai*] qui suivent la publication de l'arrêté établissant ou révisant la liste.
+département dans les quinze jours qui suivent la publication de l'arrêté établissant ou révisant la liste.
 
 **Liens relatifs à cet article**
 
@@ -10417,7 +12663,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -10442,7 +12688,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-1359 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R513-7
@@ -10457,6 +12703,10 @@ Aucun retrait de candidature n'est admis après le trentième jour qui précède
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -10476,7 +12726,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R513-9
@@ -10505,7 +12755,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -10523,6 +12773,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cité par_:
 
   - Code de la mutualité - art. R513-22 (V)
@@ -10536,8 +12790,8 @@ _Cite_:
 ###### Article R513-11
 
 Une commission présidée par le préfet du département ou son représentant et composée de trois présidents de mutuelle désignés
-par arrêté du préfet procède au recensement des envois effectués et au dépouillement des votes dans les trois jours [*délai*]
-qui suivent l'élection, dans les conditions prévues aux articles L. 65 et L. 66 du Code électoral.
+par arrêté du préfet procède au recensement des envois effectués et au dépouillement des votes dans les trois jours qui
+suivent l'élection, dans les conditions prévues aux articles L. 65 et L. 66 du Code électoral.
 
 Lorsqu'un électeur a envoyé un nombre d'enveloppes supérieur à celui des voix dont il dispose, la commission procède au
 retrait d'un nombre d'enveloppes égal à cet excédent. Les enveloppes sont annexées au procès-verbal sans avoir été ouvertes.
@@ -10557,7 +12811,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10579,6 +12833,10 @@ Une commission composée de trois présidents de groupement mutualiste désigné
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -10605,6 +12863,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 
 ###### Article R513-14
 
@@ -10627,6 +12889,10 @@ des vingt-cinq électeurs.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -10653,6 +12919,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cité par_:
 
   - Code de la mutualité - art. R513-16 (V)
@@ -10668,13 +12938,15 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cite_:
 
   - Code de la mutualité - art. R513-14 (M)
   - Code de la mutualité - art. R513-15 (M)
 
-
-##### Section Ier : Elections au conseil supérieur de la mutualité<a id=97></a>
 
 ###### Article R513-17
 
@@ -10689,6 +12961,10 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
 _Cite_:
 
   - Code électoral - art. L65 (M)
@@ -10696,7 +12972,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=98></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=121></a>
 
 ###### Article R513-18
 
@@ -10708,6 +12984,10 @@ représentants des collèges régionaux des mutuelles au Conseil supérieur de l
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R513-19
@@ -10726,13 +13006,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Modifié par_:
-
-  - Décret n°86-1359 du 30 décembre 1986 - art. 3 () JORF 31 décembre 1986
-
 _Cité par_:
 
   - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
 ###### Article R513-20
@@ -10745,6 +13025,10 @@ Le collège électoral est composé des mutuelles et sections de mutuelles inscr
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10765,7 +13049,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10787,7 +13071,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-1359 du 30 décembre 1986 - art. 4 () JORF 31 décembre 1986
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10798,7 +13082,7 @@ _Cite_:
 ###### Article R513-23
 
 Le dépouillement des votes s'effectue conformément aux dispositions des trois premiers alinéas de l'article R. 513-11. Le
-préfet [*autorité compétente*] publie la liste des membres du comité départemental.
+préfet publie la liste des membres du comité départemental.
 
 **Liens relatifs à cet article**
 
@@ -10808,7 +13092,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
@@ -10828,10 +13112,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=99></a>
+##### Section 3 : Contentieux des opérations électorales<a id=122></a>
 
 ###### Article R513-25
 
@@ -10839,8 +13123,7 @@ Les dispositions de l'article R. 125-3 sont applicables aux contestations relati
 électorales pour la désignation des membres du Conseil supérieur de la mutualité et des membres des comités de coordination
 de la mutualité.
 
-Ces contestations sont portées devant le tribunal d'instance du lieu de proclamation des résultats [*juridiction
-compétente*].
+Ces contestations sont portées devant le tribunal d'instance du lieu de proclamation des résultats.
 
 **Liens relatifs à cet article**
 
@@ -10848,18 +13131,22 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cite_:
 
   - Code de la mutualité - art. R125-3 (M)
 
+**Liens**:
 
-### Titre II : Incitation à l'action mutualiste<a id=100></a>
+  - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
-#### Chapitre III : Subventions<a id=101></a>
+
+### Titre II : Incitation à l'action mutualiste<a id=123></a>
+
+#### Chapitre III : Subventions<a id=124></a>
 
 ###### Article R523-1
 
@@ -10871,6 +13158,14 @@ réalisations mutualistes pouvant donner lieu à subventions.
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
 
 _Cité par_:
 
@@ -10890,14 +13185,22 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
+
 _Cité par_:
 
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Contrôle<a id=102></a>
+### Titre III : Contrôle<a id=125></a>
 
-#### Chapitre Ier : Commission de contrôle<a id=103></a>
+#### Chapitre Ier : Commission de contrôle<a id=126></a>
 
 ###### Article R531-1
 
@@ -10917,7 +13220,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 _Cite_:
 
@@ -10959,7 +13266,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 _Cite_:
 
@@ -10994,7 +13305,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 **Liens**:
 
@@ -11025,7 +13340,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 _Cite_:
 
@@ -11049,7 +13368,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 **Liens**:
 
@@ -11069,14 +13392,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 **Liens**:
 
   - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 
-#### Chapitre II : Contrôle exercé au niveau régional<a id=104></a>
+#### Chapitre II : Contrôle exercé au niveau régional<a id=127></a>
 
 ###### Article R531-7
 
@@ -11107,13 +13434,17 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Créé par_:
-
-  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
-
 _Cité par_:
 
   - Arrêté du 14 septembre 1992 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+_Abrogé par_:
+
+  - Décret n°2002-1457 du 16 décembre 2002 - art. 4 () JORF 17 décembre 2002
 
 _Cite_:
 
@@ -11123,13 +13454,13 @@ _Cite_:
   - Code de la mutualité L531-1, L531-1 à L531-4, L531-6, L531-2 à L531-4, L531-5
 
 
-### Titre IV : Dispositions pénales<a id=105></a>
+### Titre IV : Dispositions pénales<a id=128></a>
 
-#### Chapitre unique<a id=106></a>
+#### Chapitre unique<a id=129></a>
 
 ###### Article R541-1
 
-Sont punis de la peine d'amende prévue pour les contraventions de la cinquième classe [*(1) montant*] :
+Sont punis de la peine d'amende prévue pour les contraventions de la cinquième classe (1) :
 
 1° Toute personne qui, à quelque titre que ce soit, participe à l'administration ou à la direction d'un groupement soumis aux
 dispositions du présent code et fonctionnant sous la dénomination de mutuelle sans que ses statuts aient été approuvés en
@@ -11146,9 +13477,17 @@ présent code, au cas où ce groupement ne se serait pas conformé à l'article 
 
 **Nota:**
 
-Nota : (1) voir l'article 131-13 du code pénal.
+(1) voir l'article 131-13 du code pénal.
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la mutualité (ancien) L122-5, L111-2, L121-2, L122-7, L124-6, L124-7, L125-3, L125-5, L125-7, L125-8, L125-9, L125-10, L321-1, L321-2, L411-6, L122-3
+  - Code pénal - art. 131-13 (M)
 
 _Codifié par_:
 
@@ -11156,69 +13495,6 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
-  - TXT_ASSOCIE: Code de la mutualité - art. L111-2 (M)
-  - TXT_ASSOCIE: Code de la mutualité - art. L121-2 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L122-3 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L122-5 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L122-7 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L124-6 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L124-7 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-10 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-3 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-5 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-7 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-8 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L125-9 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L321-1 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L321-2 (Ab)
-  - TXT_ASSOCIE: Code de la mutualité - art. L411-6 (Ab)
-
-_Cite_:
-
-  - Code de la mutualité - art. L111-2 (M)
-  - Code de la mutualité - art. L121-2 (Ab)
-  - Code de la mutualité - art. L122-3 (Ab)
-  - Code de la mutualité - art. L122-5 (Ab)
-  - Code de la mutualité - art. L122-7 (Ab)
-  - Code de la mutualité - art. L124-6 (Ab)
-  - Code de la mutualité - art. L124-7 (Ab)
-  - Code de la mutualité - art. L125-10 (Ab)
-  - Code de la mutualité - art. L125-3 (Ab)
-  - Code de la mutualité - art. L125-5 (Ab)
-  - Code de la mutualité - art. L125-7 (Ab)
-  - Code de la mutualité - art. L125-8 (Ab)
-  - Code de la mutualité - art. L125-9 (Ab)
-  - Code de la mutualité - art. L321-1 (Ab)
-  - Code de la mutualité - art. L321-2 (Ab)
-  - Code de la mutualité - art. L411-6 (Ab)
-
-
-## Livre V : Relations les collectivités publiques<a id=107></a>
-
-### Titre Ier : Organes administratifs de la mutualité<a id=108></a>
-
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=109></a>
-
-###### Article R511-2
-
-La durée du mandat des membres du conseil est de six ans. Les fonctions de membre du Conseil supérieur de la mutualité sont
-gratuites.
-
-Le conseil choisit, parmi ses membres, deux vice-présidents et un trésorier.
-
-Il est convoqué par le ministre chargé de la mutualité au moins une fois par an.
-
-Le ministre désigne un fonctionnaire comme secrétaire général du conseil supérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
