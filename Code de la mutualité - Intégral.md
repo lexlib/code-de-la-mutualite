@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -11685,7 +11685,7 @@ Le directeur général de la Caisse des dépôts et consignations ou son représ
 Le président du directoire du fonds de garantie institué à l'article L. 431-4 ou son représentant ;
 
 Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux désignées par le ministre chargé de la
-mutualité et une par le ministre chargé des armées ;
+mutualité et une par le ministre de la défense ;
 
 Un représentant de chaque confédération syndicale désignée ci-après :
 
@@ -11711,7 +11711,7 @@ Un membre des professions de santé désigné par le ministre chargé de la sant
 
 _Modifié par_:
 
-  - Décret n°2002-1457 du 16 décembre 2002 - art. 2 () JORF 17 décembre 2002
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cité par_:
 
@@ -15770,7 +15770,16 @@ _Cite_:
 
 Il est fait application aux mutuelles des militaires des articles L. 122-5, L. 122-7, L. 126-1, L. 126-4, L. 126-5, L. 411-6,
 L. 531-1, L. 531-2, L. 531-3, L. 531-4, L. 531-5 et des articles R. 122-1, R. 122-2, R. 126-1, R. 126-3, R. 126-4, R. 411-1,
-R. 531-1, R. 531-2 et R. 531-3, après avis du ministre chargé des armées.
+R. 531-1, R. 531-2 et R. 531-3, après avis du ministre de la défense.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
+
+Les articles R. 122-1 et R. 122-2 du code de la mutualité ont été abrogés par l'article 2 du décret n° 2001-1106 du 23
+novembre 2001. Les articles R. 531-1 à R. 531-3 du code de la mutualité ont été abrogés par l'article 4 du décret n°
+2002-1457 du 16 décembre 2002.
 
 **Liens relatifs à cet article**
 
@@ -15780,7 +15789,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
@@ -15808,8 +15817,13 @@ _Cite_:
 
 ###### Article R231-2
 
-Le commissaire aux comptes est désigné par le ministre chargé des armées, en application de l'article L. 231-4 et par
-dérogation aux dispositions de l'article R. 125-4.
+Le commissaire aux comptes est désigné par le ministre de la défense, en application de l'article L. 231-4 et par dérogation
+aux dispositions de l'article R. 125-4.
+
+**Nota:**
+
+Ordonnance n° 2001-350 du 19 avril 2001 art. 3 : Les dispositions de nature législative du code de la mutualité dans sa
+rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -15819,7 +15833,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
@@ -17134,7 +17148,7 @@ _Cite_:
 
 ###### Article R511-1
 
-Le conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité. Il comprend :
+Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité. Il comprend :
 
 Deux membres du Parlement, soit un député et un sénateur, élus par leurs collègues ;
 
@@ -17160,7 +17174,7 @@ Trente représentants des groupements mutualistes, dont vingt-cinq représentant
 collèges régionaux et cinq représentant les activités mutualistes spécifiques, élus par les précédents ;
 
 Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux désignées par le ministre chargé de la
-mutualité et une par le ministre chargé des armées ;
+mutualité et une par le ministre de la défense ;
 
 Un représentant de chaque confédération syndicale désignée ci-après :
 
@@ -17190,7 +17204,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article R511-2
