@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-05-04
+Version Consolidée au 2002-05-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -85,56 +85,62 @@ Version Consolidée au 2002-05-04
           - [Section 2 : Elections au Conseil supérieur de la mutualité. (art. R413-11 à R413-18)](#82)
           - [Section 3 : Contentieux des opérations électorales. (art. R413-19)](#83)
         - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#84)
-  - [Partie réglementaire - Arrêtés (art. A211-1 à A212-4)](#85)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#86)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#87)
+  - [Partie réglementaire - Arrêtés (art. A211-1 à A222-2)](#85)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A222-2)](#86)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-19)](#87)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#88)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#89)
-        - [Chapitre II : Fonctionnement. (art. A212-1 à A212-4)](#90)
-          - [Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-1 à A212-4)](#91)
-  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#92)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#93)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#94)
-        - [Chapitre II : Statuts (art. R122-4)](#95)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#96)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#97)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#98)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#99)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#100)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#101)
-        - [Chapitre unique (art. R211-1)](#102)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#103)
-        - [Chapitre unique (art. R221-1)](#104)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#105)
-        - [Chapitre unique (art. R231-1 à R231-2)](#106)
-    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#107)
-      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#108)
-        - [Chapitre unique (art. R311-2 à R311-22)](#109)
-          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#110)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#111)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#112)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#113)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#114)
-    - [Livre IV : Action sociale (art. R411-1)](#115)
-      - [Titre unique (art. R411-1)](#116)
-        - [Chapitre unique (art. R411-1)](#117)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#118)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#119)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#120)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#121)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#122)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#123)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#124)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#125)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#126)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#127)
-      - [Titre III : Contrôle (art. R531-1 à R531-7)](#128)
-        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#129)
-        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#130)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#131)
-        - [Chapitre unique (art. R541-1)](#132)
-  - [Annexes (art. Annexe I à Annexe III)](#133)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#134)
+        - [Chapitre II : Régime financier et comptable (art. A212-1 à A212-19)](#90)
+          - [Section 1 : Marge de solvabilité (art. A212-1 à A212-3)](#91)
+          - [Section 2 : Provisions techniques (art. A212-4 à A212-9)](#92)
+          - [Section 3 : (Pas d'intitulé) (art. A212-10 à A212-14)](#93)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs (art. A212-15 à A212-20)](#94)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs (art. A212-19)](#95)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A222-2)](#96)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#97)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#98)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#99)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#100)
+        - [Chapitre II : Statuts (art. R122-4)](#101)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#102)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#103)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#104)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#105)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#106)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#107)
+        - [Chapitre unique (art. R211-1)](#108)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#109)
+        - [Chapitre unique (art. R221-1)](#110)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#111)
+        - [Chapitre unique (art. R231-1 à R231-2)](#112)
+    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#113)
+      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#114)
+        - [Chapitre unique (art. R311-2 à R311-22)](#115)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#116)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#117)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#118)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#119)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#120)
+    - [Livre IV : Action sociale (art. R411-1)](#121)
+      - [Titre unique (art. R411-1)](#122)
+        - [Chapitre unique (art. R411-1)](#123)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#124)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#125)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#126)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#127)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#128)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#129)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#130)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#131)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#132)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#133)
+      - [Titre III : Contrôle (art. R531-1 à R531-7)](#134)
+        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#135)
+        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#136)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#137)
+        - [Chapitre unique (art. R541-1)](#138)
+  - [Annexes (art. Annexe I à Annexe III)](#139)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#140)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -12541,45 +12547,68 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-#### Chapitre II : Fonctionnement.<a id=90></a>
+#### Chapitre II : Régime financier et comptable<a id=90></a>
 
-##### Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=91></a>
+##### Section 1 : Marge de solvabilité<a id=91></a>
 
 ###### Article A212-1
 
-Les documents visés au premier alinéa de l'article L. 212-8 sont les suivants :
+I. - Les emprunts et titres subordonnés entrant dans la composition de la marge de solvabilité visés au 8 de l'article R.
+212-11 et au 7 de l'article R. 212-15 doivent répondre aux conditions suivantes :
 
-a) La dénomination et l'adresse du siège social de la mutuelle ou de l'union ;
+1° Dans l'hypothèse d'une liquidation de la mutuelle ou de l'union débitrice, ces titres ou emprunts ne peuvent être
+remboursés qu'après règlement de toutes les autres dettes existant à la date de la liquidation ou contractés pour les besoins
+de celle-ci ;
 
-b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
+2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que
+la liquidation de la mutuelle ou de l'union débitrice, la dette devra être remboursée avant l'échéance convenue ;
 
-c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b peuvent demander des informations en vue de
-l'exercice de leurs compétences ;
+3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que la commission de contrôle instituée à
+l'article L. 510-1 aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au
+présent article, ne pas s'opposer à la modification envisagée ;
 
-d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux a et f (1, 3, 4, 5) de
-l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité les comptes de résultat prévisionnels,
-les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement de fonds au moins égale à cinq ans ou,
+lorsque aucune échéance n'est fixée, un préavis d'au moins cinq ans pour tout remboursement.
 
-e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées aux f (2 et
-10) de l'article A. 211-1 ;
+II. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au I ci-dessus, la
+mutuelle ou l'union débitrice soumet à la Commission de contrôle instituée à l'article L. 510-1 un plan indiquant comment la
+marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
+si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par la mutuelle
+ou l'union au cours des cinq dernières années au moins avant l'échéance de remboursement.
 
-f) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 de l'article R.
-211-2-1 l'option choisie parmi celles énoncées à l'article L. 224-7 ;
+III. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
+solvabilité peuvent être remboursés par anticipation à l'initiative de la mutuelle ou de l'union débitrice si la Commission
+de contrôle instituée par l'article L. 510-1 a préalablement autorisé un tel remboursement, après s'être assurée que la marge
+de solvabilité ne risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la
+marge requise par la réglementation.
 
-g) Le nom et les pouvoirs du mandataire général.
+Dans les mêmes conditions, la Commission de contrôle instituée par l'article L. 510-1 peut autoriser le remboursement des
+fonds provenant des emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de
+solvabilité sans application du préavis prévu au 4° du paragraphe I du présent article.
 
-Ces documents doivent être adressés en double exemplaire, accompagnés de la traduction certifiée conforme dans la langue
-officielle de l'Etat membre de la succursale, des informations mentionnées aux a, c à g du présent article.
+Dans les cas visés au présent paragraphe, la mutuelle ou l'union débitrice soumet au moins six mois à l'avance à la
+Commission de contrôle instituée par l'article L. 510-1, à l'appui de sa demande d'autorisation, un plan indiquant comment la
+marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision
+notifiée à la mutuelle ou à l'union à l'expiration d'un délai de six mois vaut autorisation.
+
+Sont notamment soumis aux dispositions du présent paragraphe l'amortissement anticipé par offre publique d'achat ou d'échange
+et le rachat en bourse de titres cotés ; toutefois, un émetteur peut racheter en bourse sans autorisation préalable jusqu'à 5
+p 100 des titres émis, à condition d'informer la commission de contrôle instituée par l'article L. 510-1 des rachats
+effectués.
+
+IV. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
+remboursement est subordonné à autorisation préalable de la commission de contrôle instituée par l'article L. 510-1 n'ont pas
+à prévoir le délai de préavis minimum visé au 4° du I du présent article.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) L212-8, A211-1, R211-2-1, L224-7
+  - Code de la mutualité (nouveau) R212-11, R212-15, L510-1
 
 **Liens**:
 
@@ -12592,23 +12621,22 @@ _Cité par_:
 
 ###### Article A212-2
 
-La notification prévue au deuxième alinéa de l'article L. 212-8 est accompagnée des informations mentionnées aux a, c, d, f,
-g de l'article A. 212-1, dans leur traduction certifiée conforme dans la langue de l'Etat de la succursale ainsi que d'une
-attestation de la commission de contrôle mentionnée à l'article L. 510-1 certifiant que la mutuelle ou l'union dispose de la
-marge de solvabilité conformément aux dispositions du 3° de l'article L. 212-1.
+L'excédent annuel mentionné au 6 a, de l'article R. 212-15 pour le calcul des excédents futurs résulte de la moyenne
+arithmétique des excédents réalisés au cours des cinq dernières années.
 
-La date de réception de la notification par les autorités compétentes de l'Etat sur le territoire duquel la mutuelle ou
-l'union se propose d'ouvrir la succursale est communiquée à ces organismes.
+L'excédent de chaque exercice pris en compte pour ce calcul est le résultat technique des opérations vie, auquel sont
+ajoutées les participations des membres participants aux excédents autres que celles qui ne dépendent pas du résultat de
+l'exercice. Il n'est pas tenu compte des profits et charges à caractère exceptionnel.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) L212-8, A212-1, L510-1, L212-1
+  - Code de la mutualité (nouveau) R212-15
 
 **Liens**:
 
@@ -12617,65 +12645,733 @@ _Cite_:
 
 ###### Article A212-3
 
-La succursale peut commencer ses activités dès réception par la mutuelle ou l'union d'une communication de l'autorité
-administrative mentionnée à l'article R. 211-7 lui indiquant les conditions dans lesquelles les autorités de l'Etat de la
-succursale entendent que ces activités soient exercées sur leur territoire.
+Le facteur mentionné au 6 a de l'article R. 212-15 par lequel l'excédent annuel estimé peut être multiplié représente la
+durée résiduelle moyenne des bulletins d'adhésion ou contrats, corrigée comme il est dit au troisième alinéa du présent
+article. Ce facteur ne peut excéder dix.
 
-En tout état de cause, la succursale peut commencer ses activités à l'expiration d'un délai de deux mois à compter de la
-réception par ces dernières autorités de la notification mentionnée à l'article A. 212-2.
+La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
+durées résiduelles des bulletins d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de la Commission
+de contrôle mentionnée à l'article L. 510-1, à partir de la cotisation annuelle ou d'une cotisation équivalente compte tenu
+de la durée du bulletin d'adhésion ou du contrat collectif ou de la provision mathématique.
+
+Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
+compte de l'extinction des bulletins d'adhésion ou des contrats collectifs avant leur terme.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) R211-7, A212-2
+  - Code de la mutualité (nouveau) R212-15, L510-1
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+
+##### Section 2 : Provisions techniques<a id=92></a>
 
 ###### Article A212-4
 
-Tout projet de modification visé à l'article L. 212-10 est communiqué par la mutuelle ou l'union simultanément aux autorités
-compétentes de l'Etat membre de la succursale et à l'autorité administrative mentionné à l'article R. 211-7. La communication
-au ministre de la mutualité ou au préfet de région est accompagnée des documents mentionnés à l'article A. 212-1 affectés par
-le projet de modification.
-
-Lorsque, en application de l'article L. 212-10, l'autorité administrative mentionnée à l'article R. 211-7 notifie un tel
-projet de modification aux autorités compétentes de l'Etat membre de la succursale, il accompagne la notification d'un
-dossier comportant ceux des documents mentionnés à l'article A. 212-2 qui font l'objet d'une modification.
-
-La modification de la nature ou des conditions d'exercice des activités de la succursale ne peut intervenir avant
-l'expiration d'un délai d'un mois à compter de la notification par la mutuelle ou l'union à l'autorité mentionnée à l'article
-R. 211-7 et aux autorités compétentes de l'Etat membre de la succursale.
+La provision technique pour cotisations non acquises prévue au 3° de l'article R. 212-23 est calculée prorata temporis pour
+chacune des catégories d'opérations définies au 1° du I de l'article L. 111-1, bulletin par bulletin, contrat par contrat ou
+sur la base de méthodes statistiques.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté 2001-11-23 art. 1, art. 4 JORF 25 novembre 2001
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) L212-10, R211-7, A212-1, A212-2
+  - Code de la mutualité (nouveau) R212-23, L111-1
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=92></a>
+###### Article A212-5
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=93></a>
+Pour déterminer la provision pour risques en cours prévue au 4° de l'article R. 212-23, la mutuelle ou l'union calcule,
+bulletin par bulletin, contrat collectif par contrat collectif ou par des méthodes statistiques, séparément pour chacune des
+catégories d'opérations définies au 1° du I de l'article L. 111-1, le montant total des charges des sinistres rattachés à
+l'exercice écoulé et à l'exercice précédent. Elle rapporte ce total au montant des cotisations brutes émises au cours de ces
+exercices, corrigé de la variation, sur la même période, des cotisations restant à émettre, des cotisations à annuler et de
+la provision pour cotisations non acquises. Si ce rapport est supérieur à 100 %, l'écart constaté par rapport à 100 % est
+appliqué au montant des provisions pour cotisations non acquises et, le cas échéant, des cotisations qui seront émises, au
+titre des opérations en cours à la date de l'inventaire, pendant la période définie au 4° de l'article R. 212-23. Le montant
+ainsi calculé est inscrit pour provisions pour risques en cours. Pour l'application du présent alinéa, les sinistres sont
+rattachés à l'exercice de survenance.
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=94></a>
+La commission de contrôle instituée par l'article L. 510-1 peut prescrire à une mutuelle ou union de prendre des dispositions
+appropriées pour le calcul prévu au précédent alinéa. Elle peut également, si le taux calculé en application du précédent
+alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou de la tarification,
+prescrire l'utilisation d'un taux plus élevé. Elle peut également, sur la base de justifications appropriées fournies par la
+mutuelle ou l'union, autoriser l'utilisation d'un taux inférieur.
 
-#### Chapitre II : Statuts<a id=95></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-23, L111-1, L510-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-6
+
+Pour les acceptations en réassurance ou les opérations collectives, lorsqu'un traité, un contrat ou un règlement prévoit
+qu'en cas de résiliation une somme est susceptible d'être payée au cédant, à l'adhérent ou au membre participant en sus du
+règlement des sinistres et que le total des provisions constituées, au titre de ce traité, ce contrat ou ce règlement, à
+l'exception des provisions pour sinistres à payer, est inférieur à cette somme, évaluée dans l'hypothèse où le traité, le
+contrat ou le règlement serait résilié à la prochaine date de résiliation possible, la provision pour risques en cours prévue
+au 4° de l'article R. 212-23 est augmentée de la différence ainsi constatée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-23
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-7
+
+La part des réassureurs dans les provisions pour cotisations non acquises et dans la provision pour risques en cours prévues
+aux 3° et 4° de l'article R. 212-23 est calculée dans les mêmes conditions et selon les mêmes méthodes que celles retenues
+pour le calcul des provisions brutes objet de la cession, sans pouvoir excéder le montant effectivement à la charge des
+réassureurs tel qu'il résulte de l'application des clauses des traités, compte tenu notamment des prescriptions de l'article
+A. 212-8 et de toutes les conditions du traité applicables en cas de résiliation à la plus prochaine date de résiliation
+possible, en particulier lorsque le traité prévoit dans ce cas des pénalités ou restitutions à la charge de la cédante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-23, A212-8
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-8
+
+Lorsqu'un traité ou tout engagement de la cédante, quelle qu'en soit la forme, prévoit un ajustement rétroactif des
+cotisations en fonction de la sinistralité constatée ou de tout autre élément de résultat du traité ou d'un autre traité, la
+part du réassureur concerné dans les provisions pour risques en cours prévue au 4° de l'article R. 212-23 est diminuée du
+montant total des compléments de cotisation qui, compte tenu de la sinistralité constatée, seront dus en application de cet
+engagement.
+
+Lorsque l'application des dispositions du précédent alinéa conduit à une valeur négative de la part du réassureur dans la
+provision pour risques en cours, cette part est inscrite pour une valeur nulle, et la cédante constate selon le cas une
+provision pour charges ou une dette à l'égard du réassureur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-23
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-9
+
+Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme :
+
+1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice, au titre
+des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
+susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
+
+2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
+sinistres d'invalidité en cours à cette date ;
+
+Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
+suivants :
+
+1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article.
+
+Toutefois, il est possible pour une institution d'utiliser une loi de maintien établie par ses soins et certifiée par un
+actuaire indépendant de cette institution, agréé à cet effet par l'une des associations d'actuaires reconnues par la
+commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
+
+2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen des emprunts de l'Etat français calculé sur base
+semestrielle, sans pouvoir dépasser 4,5 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 24 décembre 2010 (V)
+  - Arrêté du 24 décembre 2010 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L510-1 (M)
+
+
+##### Section 3 : (Pas d'intitulé)<a id=93></a>
+
+###### Article A212-10
+
+Les tarifs pratiqués par les mutuelles et unions effectuant des opérations mentionnées au b du 1° du I de l'article L. 111-1
+comprennent la rémunération de celles-ci et sont établis d'après les éléments suivants :
+
+1° Un taux d'intérêt technique fixé dans les conditions prévues par arrêté ;
+
+2° Une des tables suivantes :
+
+- table TD 88-90 pour les assurances en cas de décès et TV 88-90 pour les assurances en cas de vie établies sur la base des
+données publiées par l'Institut national de la statistique et des études économiques annexées au présent article et tables de
+génération pour les rentes viagères ;
+
+- tables établies par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par
+l'une des associations d'actuaires reconnues par la commission de contrôle instituée à l'article L. 510-1.
+
+Pour les opérations de rentes viagères, les tarifs et les provisions techniques déterminés en utilisant les tables visées aux
+deuxième tiret du 2° ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables de génération visées au
+premier tiret du 2°.
+
+Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, la mutuelle ou l'union
+peut utiliser les tables visées au premier tiret du 2° avec une méthode forfaitaire dès lors que celle-ci est justifiable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 15 (Ab)
+  - Arrêté du 22 avril 2004 - art. 7 (Ab)
+  - Arrêté du 8 décembre 2006 - art. 7 (M)
+  - Arrêté du 8 décembre 2006 - art. 8 (M)
+  - Arrêté du 8 décembre 2006 - art. 9 (M)
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L111-1, L510-1
+
+
+###### Article A212-11
+
+Les provisions mathématiques des opérations d'assurance sur la vie, de capitalisation et d'assurance nuptialité-natalité, à
+cotisations périodiques, sont calculées en prenant en compte les prélèvements destinés aux frais d'acquisition dans
+l'engagement du payeur de cotisations.
+
+La provision résultant du calcul précédent ne peut être négative, ni inférieure à la valeur de rachat du contrat ou du
+bulletin d'adhésion, ni inférieure à la provision correspondant au capital réduit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-12
+
+1° Les provisions mathématiques des opérations de capitalisation, d'assurance nuptialité-natalité, d'acquisition d'immeubles
+au moyen de la constitution de rentes viagères, d'assurance sur la vie dont les tarifs ont pris effet à partir du 1er janvier
+1997 sont calculées d'après des taux d'intérêt au plus égaux à ceux retenus pour l'établissement du tarif et, s'ils
+comportent un élément viager, d'après les tables de mortalité mentionnées à l'article A 212-10 ;
+
+2° La provision de gestion mentionnée au 4° de l'article R. 212-26 est dotée, à due concurrence de l'ensemble des charges de
+gestion future des contrats ou des règlements non couverts par des prélèvements sur cotisations ou par des prélèvements sur
+produits financiers prévus par ceux-ci ;
+
+3° Les mutuelles et unions peuvent calculer les provisions mathématiques de leurs opérations en cours en appliquant lors de
+tous les inventaires annuels ultérieurs les bases techniques définies au présent article.
+
+Cette possibilité ne concerne pas les opérations conclues avant le 1er janvier 1997, pour lesquelles l'actif représentatif
+des engagements correspondants est isolé dans la comptabilité de la mutuelle ou de l'union et a été déterminé de manière à
+pouvoir procurer un taux de rendement supérieur d'au moins un tiers au taux d'intérêt du tarif.
+
+Les mutuelles et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2003 inclus les effets de la
+modification des bases de calcul des provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 15 (Ab)
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-10, R212-26
+
+
+###### Article A212-13
+
+Les provisions mathématiques des opérations individuelles et collectives des rentes viagères en cours de service au 1er
+janvier 1997 ou liquidées à compter de cette date sont calculées en appliquant à ces opérations, lors de leurs inventaires
+annuels postérieurs à cette date, les bases techniques définies au 1° de l'article A. 212-12.
+
+Pour la détermination des provisions mathématiques, les mutuelles et unions peuvent répartir sur une période allant jusqu'à
+l'exercice 2010 inclus les effets de l'utilisation des tables de génération mentionnées à l'article A. 212-10.
+
+Les mutuelles et les unions devront néanmoins avoir atteint, à compter de l'exercice 2003, un niveau de provisionnement des
+rentes viagères supérieur ou égal à celui obtenu avec la table TV 88-90 mentionnée au 2° de l'article A. 212-10.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 16 (Ab)
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-12, A212-10
+
+
+###### Article A212-14
+
+Si, lors de l'inventaire, le taux de rendement réel des actifs d'une mutuelle ou d'une union, diminué d'un cinquième, est
+inférieur au quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participation aux
+excédents dans des conditions définies par arrêté des opérations de la mutuelle ou de l'union, par le montant moyen des
+provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants :
+
+1° Les provisions mathématiques recalculées avec le taux de rendement réel de la mutuelle ou de l'union diminué du
+cinquième ;
+
+2° Les provisions mathématiques à l'inventaire.
+
+Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
+financiers mentionnée au 5° de l'article R. 212-26. Cette provision est reprise dans les comptes de la mutuelle ou de l'union
+à l'inventaire suivant.
+
+Les opérations en unité de compte ainsi que les opérations collectives relevant de l'article L. 222-1 ne sont pas concernées
+par ces dispositions.
+
+Le taux de rendement réel des actifs est égal au rapport :
+
+- des produits de placement nets de charges des mutuelles et unions nets de charges augmenté des plus-values sur cessions
+d'éléments d'actifs, nettes des moins-values, ainsi que du montant des réévaluations d'actifs ;
+
+- au montant moyen, au cours de l'exercice, de l'ensemble des placements, ainsi que des autres éléments d'actifs pouvant être
+admis en représentation des provisions techniques, à l'exception des valeurs remises par les réassureurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-26, L222-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+##### Section 5 : Réglementation des placements et autres éléments d'actifs<a id=94></a>
+
+###### Article A212-15
+
+I. - La caution ou engagement équivalent mentionnée au troisième alinéa de l'article R. 212-50 doit :
+
+- être régie par le droit français et soumise en cas de litige à la compétence exclusive des juridictions françaises ;
+
+- constituer une garantie à la première demande, irrévocable et inconditionnelle.
+
+II. - L'établissement de crédit garant visé au troisième alinéa de l'article précité doit répondre aux conditions suivantes :
+
+1° Le garant est un établissement de crédit habilité à opérer en France en application de la loi n° 84-46 du 24 janvier 1984
+modifiée relative à l'activité et au contrôle des établissements de crédit et respecte, compte tenu de la garantie envisagée,
+l'ensemble des dispositions législatives et réglementaires qui lui sont applicables ;
+
+2° Le garant n'est pas une entreprise liée au réassureur ni à la mutuelle ou l'union garantie.
+
+III. - La dérogation prévue au troisième alinéa de l'article R. 212-50 ne peut être accordée par la commission de contrôle
+mentionnée à l'article L. 510-1 que dans la mesure où elle ne diminue pas la qualité de la représentation des engagements
+réglementés, et dans les limites suivantes :
+
+- la durée fixée initialement par la commission de contrôle ne peut excéder un exercice, éventuellement renouvelable dans les
+conditions définies par celle-ci ;
+
+- le montant total des garanties admises au titre de ladite dérogation ne peut à aucun moment excéder :
+
+- le montant maximum autorisé par la commission de contrôle ;
+
+- la moitié du montant total des engagements réglementés tels que définis à l'article R. 212-21 ;
+
+- les deux tiers du montant total de la part des réassureurs dans les provisions techniques.
+
+IV. - La dérogation peut être supprimée à tout moment par la commission de contrôle mentionnée à l'article L. 510-1 si celle-
+ci estime que les conditions l'ayant justifiée ne sont plus remplies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-50, L510-1, R212-21
+  - Loi n°84-46 1984-01-24
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-16
+
+Pour l'application de l'article R. 212-56, la commission de contrôle mentionnée à l'article L. 510-1 notifie à la mutuelle ou
+à l'union, par lettre recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et le nom de l'expert
+qu'elle a choisi pour chacun d'eux.
+
+Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, la mutuelle ou l'union fait connaître à la
+commission de contrôle, par lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par
+la commission de contrôle comme expert unique, dont la conclusion liera les deux parties, ou si elle demande une expertise
+contradictoire, d'abord par deux experts, le premier désigné par la commission de contrôle, le second désigné par la mutuelle
+ou l'union, puis, en cas de désaccord entre ces deux experts, par un tiers expert, dont les conclusions lieront les deux
+parties.
+
+Lorsque la mutuelle ou l'union opte pour l'expertise contradictoire, elle indique dans sa réponse le nom, l'adresse et les
+qualités de son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à
+l'effectuer dans le délai fixé à l'alinéa suivant. Dès réception de la réponse de la mutuelle ou de l'union, la commission
+invite l'expert unique ou les deux experts à procéder à l'expertise. Elle communique cet avis à la mutuelle ou à l'union.
+
+L'expert unique ou les deux experts déposent leurs conclusions et les notifient aux deux parties dans un délai maximal de
+trois mois à dater de l'avis de la commission ci-dessus prévu.
+
+S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
+soit après accord entre les parties, par la commission de contrôle, soit, à défaut d'accord entre les parties, dans les
+quinze jours du dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du
+tribunal de grande instance du siège social de la mutuelle ou de l'union.
+
+Le tiers expert dépose ses conclusions et les notifie aux deux parties dans les deux mois de sa désignation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-56, L510-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-17
+
+Si, après avoir été désigné comme il est indiqué à l'article A. 212-16, un expert se trouve empêché de remplir sa mission
+dans les délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont
+dûment prorogés.
+
+Toutefois, si l'expert défaillant est celui de l'institution ou de l'union, la commission de contrôle mentionnée à l'article
+L. 510-1 peut requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront
+les deux parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu au
+deuxième alinéa de l'article A. 212-16 ou si l'expert de la mutuelle ou de l'union n'a pas déposé son rapport dans le délai
+fixé au quatrième alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-16, L510-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-18
+
+I. - Le ou les experts désignés conformément aux dispositions des articles A. 212-16 et A. 212-17 sont dispensés de prêter
+serment.
+
+II. - Les institutions ou les unions sont tenues de fournir aux experts, dès leur désignation, et sur demande de ceux-ci,
+conjointe ou non, tous les moyens d'investigation que ces derniers jugent utiles pour l'accomplissement de leur mission,
+notamment lorsqu'il s'agit d'immeubles, pour la visite des lieux et la connaissance des actes et documents se rapportant aux
+immeubles expertisés.
+
+III. - Le ou les experts adressent à la mutuelle ou à l'union, avec leur rapport, l'état de leurs vacations, frais et
+honoraires, et en remettent une copie à la commission de contrôle mentionnée à l'article L. 510-1. Lorsqu'elle envisage de
+contester le montant demandé par un des experts, la mutuelle ou l'union le notifie à la commission de contrôle dans un délai
+de quinze jours à compter de la réception de l'état des vacations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-16, A212-17, L510-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-20
+
+Les mutuelles et unions pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1, maintiennent le revenu
+net de leurs placements à un montant au moins égal à celui des intérêts dont sont créditées les provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L111-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+##### Section 5 : Réglementation des placements et autres éléments d'actifs<a id=95></a>
+
+###### Article A212-19
+
+I. - En cas de vente de valeurs évaluées conformément à l'article R. 212-52, à l'exception des obligations à taux variable,
+des versements ou des prélèvement et versements sont effectués sur la réserve de capitalisation prévue au 3° de l'article R.
+212-26.
+
+Le montant de ces versements ou prélèvements, calculé dans les conditions fixées au II et au III du présent article, est tel
+que le rendement actuariel des titres soit après prélèvement et versement, égal à celui qui en était attendu lors de
+l'acquisition de ces mêmes titres.
+
+II. - Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
+calculé en tenant compte du prix d'acquisition, des probabilités, dates d'échéances et montants, nets de tous impôts, des
+coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement.
+
+Pour les obligations visées au II de l'article R. 212-52, le calcul s'effectue en prenant pour valeur de remboursement la
+valeur de remboursement initiale multipliée par le rapport entre l'indice de référence à la date considérée et ce même indice
+à la date d'émission du titre.
+
+III. - Lors de la vente ou de la conversion d'une obligation, l'opération est appliquée au titre le plus ancien du
+portefeuille.
+
+En cas de vente ou de conversion d'un titre, on se réfère à la date d'acquisition de ce titre pour calculer, en fonction de
+son taux actuariel de rendement, sa valeur actuelle au jour de la vente ou de la conversion.
+
+Pour les obligations visées au II de l'article R. 212-52, la valeur actuelle ainsi calculée est multipliée par le rapport
+entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
+
+Lorsque le prix de vente est supérieur à la valeur actuelle, l'excédent est versé à la réserve de capitalisation. Lorsqu'il
+lui est inférieur, la différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle ci.
+
+IV. - Les mutuelles ou unions, dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750
+000 Euros à la date de l'inventaire, peuvent ne pas appliquer les dispositions du II et du III (2e et 3e alinéas) du présent
+article. Elles sont alors tenues de porter à la réserve de capitalisation 10 % de l'excédent résultant de la comparaison
+entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés au I du présent article vendus
+dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une fois
+exercée, l'option prévue au présent paragraphe ne peut être remise en cause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-52, R212-26
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 14 (Ab)
+
+
+### Titre II : Opérations des mutuelles et des unions.<a id=96></a>
+
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=97></a>
+
+###### Article A222-1
+
+I. - Les tarifs utilisés pour pratiquer les opérations collectives relevant de l'article L. 222-1 comprennent la rémunération
+de la mutuelle ou de l'union qui les met en oeuvre. Le règlement indique les frais prélevés par la mutuelle ou l'union.
+
+II. - Les provisions techniques spéciales mentionnées à l'article R. 222-8 sont représentées par un actif unique.
+
+III. - L'équivalence actuarielle prévue à l'article R. 222-15 est établie dans les conditions suivantes :
+
+Les valeurs limites du quotient de la valeur de service par la valeur d'acquisition sont multipliées par un coefficient
+correcteur égal :
+
+- lorsque le règlement prévoit un âge d'entrée en jouissance inférieur à soixante-cinq ans, au quotient du capital
+constitutif de la rente viagère différée reposant sur une tête dont l'âge est l'âge d'entrée en jouissance prévu par le
+règlement, le différé étant égal à la différence entre soixante-cinq ans et cet âge, par le capital constitutif d'une rente
+viagère immédiate reposant sur une tête d'âge égal à l'âge d'entrée en jouissance prévu par le règlement ;
+
+- lorsque le règlement prévoit un âge d'entrée en jouissance supérieur à soixante-cinq ans, au quotient du capital
+constitutif de la rente viagère immédiate reposant sur une tête d'âge de soixante-cinq ans, par le capital constitutif d'une
+rente viagère différée reposant sur une tête d'âge de soixante-cinq ans, le différé étant égal à la différence entre l'âge
+d'entrée en jouissance prévu par le règlement et soixante-cinq ans ;
+
+- lorsque le règlement prévoit la réversion, au quotient du capital constitutif de la rente individuelle différée de vingt
+ans reposant sur une tête d'âge de quarante-cinq ans, par le capital constitutif de cette rente, augmenté de la partie
+réversible calculée dans les conditions prévues par le règlement, les conjoints étant supposés âgés tous deux de quarante-
+cinq ans.
+
+Si le règlement prévoit à la fois une réversion et un âge d'entrée en jouissance différent de soixante-cinq ans, le
+coefficient correcteur est égal au produit du coefficient correspondant à l'anticipation ou à l'ajournement et du coefficient
+correspondant à la réversion, calculés comme il est dit ci-dessus. Les calculs sont effectués selon les modalités prévues au
+paragraphe IV ci-après.
+
+IV. - Les calculs de la provision mathématique théorique mentionnée à l'article R. 222-16, des équivalences actuarielles
+prévues à l'article R. 222-15 et de la répartition des droits prévue au second alinéa de l'article R. 222-21 sont effectués à
+l'aide d'un taux d'intérêt au plus égal à 60 % du taux moyen des emprunts de l'Etat français, calculé sur une base
+semestrielle, sans pouvoir excéder 3,5 % et en utilisant une des tables de mortalité prévues au 2° du premier alinéa de
+l'article A. 212-10.
+
+La provision mathématique théorique ne peut être inférieure à celle qui résulterait de l'utilisation des tables prévues au
+premier tiret du 2° du premier alinéa de l'article A. 212-10.
+
+Les mutuelles et les unions peuvent répartir sur une période allant jusqu'en 2015 les effets sur le calcul de la provision
+mathématique théorique des dispositions du premier alinéa, sans que le taux d'actualisation utilisé puisse excéder le taux de
+rendement de l'actif affecté à la couverture de la provision technique spéciale prévue à l'article R. 222-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 16 (Ab)
+  - Arrêté du 5 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L222-1, R222-8, R222-15, R222-16, R222-21, A212-10
+
+
+###### Article A222-2
+
+I. - L'unité de rente correspondant à un rachat a la même valeur d'acquisition que l'unité de rente acquise normalement dans
+l'année du rachat.
+
+II. - Chaque année, les institutions et les unions pratiquant les opérations collectives relevant de l'article L. 222-1
+communiquent à la commission de contrôle prévue à l'article L. 510-1, pour chacun des règlements qu'elles mettent en oeuvre,
+la valeur de service et la valeur d'acquisition de l'unité de rente pour l'exercice à venir.
+
+Elles communiquent également :
+
+- le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
+
+- le montant de la provision technique spéciale à cette même date ;
+
+- le montant de la fraction des excédents affectés à ladite provision ;
+
+- le montant des arrérages calculés d'après la nouvelle valeur de service et susceptibles d'être servis pendant l'exercice en
+cours.
+
+La communication de ces renseignements intervient au plus tard le 1er juin de chaque année et, en tout état de cause, avant
+la fixation de la nouvelle valeur de service de l'unité de rente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L222-1, L510-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+# Partie réglementaire ancienne<a id=98></a>
+
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=99></a>
+
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=100></a>
+
+#### Chapitre II : Statuts<a id=101></a>
 
 ###### Article R122-4
 
@@ -12701,9 +13397,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=96></a>
+#### Chapitre IV : Capacité civile et dispositions financières<a id=102></a>
 
-##### Section 1 : Dispositions générales<a id=97></a>
+##### Section 1 : Dispositions générales<a id=103></a>
 
 ###### Article R124-1
 
@@ -12769,7 +13465,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=98></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=104></a>
 
 ###### Article R125-1
 
@@ -12902,7 +13598,7 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=99></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=105></a>
 
 ###### Article R126-1
 
@@ -13020,11 +13716,11 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=100></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=106></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=101></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=107></a>
 
-#### Chapitre unique<a id=102></a>
+#### Chapitre unique<a id=108></a>
 
 ###### Article R211-1
 
@@ -13051,9 +13747,9 @@ _Cite_:
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=103></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=109></a>
 
-#### Chapitre unique<a id=104></a>
+#### Chapitre unique<a id=110></a>
 
 ###### Article R221-1
 
@@ -13080,9 +13776,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=105></a>
+### Titre III : Mutuelles des militaires<a id=111></a>
 
-#### Chapitre unique<a id=106></a>
+#### Chapitre unique<a id=112></a>
 
 ###### Article R231-1
 
@@ -13145,13 +13841,13 @@ _Cite_:
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=107></a>
+## Livre III : Réparation des risques sociaux<a id=113></a>
 
-### Titre Ier : Règles générales<a id=108></a>
+### Titre Ier : Règles générales<a id=114></a>
 
-#### Chapitre unique<a id=109></a>
+#### Chapitre unique<a id=115></a>
 
-##### Section 2 : Caisse mutualiste de garantie<a id=110></a>
+##### Section 2 : Caisse mutualiste de garantie<a id=116></a>
 
 ###### Article R311-2
 
@@ -13976,9 +14672,9 @@ _Créé par_:
   - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=111></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=117></a>
 
-#### Chapitre Ier : Dispositions générales<a id=112></a>
+#### Chapitre Ier : Dispositions générales<a id=118></a>
 
 ###### Article R321-1
 
@@ -14179,7 +14875,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=113></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=119></a>
 
 ###### Article R323-1
 
@@ -14274,7 +14970,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=114></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=120></a>
 
 ###### Article R325-1
 
@@ -14407,11 +15103,11 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-## Livre IV : Action sociale<a id=115></a>
+## Livre IV : Action sociale<a id=121></a>
 
-### Titre unique<a id=116></a>
+### Titre unique<a id=122></a>
 
-#### Chapitre unique<a id=117></a>
+#### Chapitre unique<a id=123></a>
 
 ###### Article R411-1
 
@@ -14444,11 +15140,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=118></a>
+## Livre V : Relations avec les collectivités publiques<a id=124></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=119></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=125></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=120></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=126></a>
 
 ###### Article R511-1
 
@@ -14567,7 +15263,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=121></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=127></a>
 
 ###### Article R512-1
 
@@ -14694,9 +15390,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=122></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=128></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=123></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=129></a>
 
 ###### Article R513-1
 
@@ -15212,7 +15908,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=124></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=130></a>
 
 ###### Article R513-18
 
@@ -15355,7 +16051,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=125></a>
+##### Section 3 : Contentieux des opérations électorales<a id=131></a>
 
 ###### Article R513-25
 
@@ -15384,9 +16080,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=126></a>
+### Titre II : Incitation à l'action mutualiste<a id=132></a>
 
-#### Chapitre III : Subventions<a id=127></a>
+#### Chapitre III : Subventions<a id=133></a>
 
 ###### Article R523-1
 
@@ -15438,9 +16134,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Contrôle<a id=128></a>
+### Titre III : Contrôle<a id=134></a>
 
-#### Chapitre Ier : Commission de contrôle<a id=129></a>
+#### Chapitre Ier : Commission de contrôle<a id=135></a>
 
 ###### Article R531-1
 
@@ -15643,7 +16339,7 @@ _Abrogé par_:
   - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 
-#### Chapitre II : Contrôle exercé au niveau régional<a id=130></a>
+#### Chapitre II : Contrôle exercé au niveau régional<a id=136></a>
 
 ###### Article R531-7
 
@@ -15694,9 +16390,9 @@ _Cite_:
   - Code de la mutualité L531-1, L531-1 à L531-4, L531-6, L531-2 à L531-4, L531-5
 
 
-### Titre IV : Dispositions pénales<a id=131></a>
+### Titre IV : Dispositions pénales<a id=137></a>
 
-#### Chapitre unique<a id=132></a>
+#### Chapitre unique<a id=138></a>
 
 ###### Article R541-1
 
@@ -15738,9 +16434,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=133></a>
+# Annexes<a id=139></a>
 
-## Annexes à l'article A211-3<a id=134></a>
+## Annexes à l'article A211-3<a id=140></a>
 
 ###### Article Annexe I
 
