@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-03-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -76,8 +76,8 @@ Version Consolidée au 2002-03-05
   - [Partie réglementaire - Arrêtés (art. A211-1 à A212-4)](#73)
     - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#74)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-4)](#75)
-        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-2)](#76)
-          - [Section 1 : Agrément administratif. (art. A211-1 à A211-2)](#77)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#76)
+          - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#77)
         - [Chapitre II : Fonctionnement. (art. A212-1 à A212-4)](#78)
           - [Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-1 à A212-4)](#79)
   - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#80)
@@ -130,6 +130,8 @@ Version Consolidée au 2002-03-05
         - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#127)
       - [Titre IV : Dispositions pénales (art. R541-1)](#128)
         - [Chapitre unique (art. R541-1)](#129)
+  - [Annexes (art. Annexe I à Annexe III)](#130)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#131)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -9328,6 +9330,84 @@ _Cité par_:
   - Code de la mutualité - art. A510-1 (Ab)
 
 
+###### Article A211-3
+
+La mutuelle ou l'union qui souhaite se substituer à un autre organisme mutualiste présente à la commission de contrôle
+instituée par l'article L. 510-1 un dossier d'information en double exemplaire qui comporte :
+
+a) La décision d'agrément ou la copie de la demande d'agrément de la mutuelle ou de l'union ;
+
+b) La copie des statuts et des règlements détaillant les prestations garanties par la mutuelle ou l'union ;
+
+c) Le projet de convention de substitution ;
+
+d) Le nom et l'adresse du siège social de l'organisme cédant ;
+
+e) Les décisions des assemblées générales des deux organismes autorisant la conclusion de la convention ;
+
+f) Pour les deux organismes, le bilan et le compte de résultat du dernier exercice connu, ainsi que les montants et les
+bénéficiaires des engagements donnés hors bilan par catégorie ;
+
+g) Pour la mutuelle ou l'union, le bilan et le compte de résultat prévisionnels de l'exercice suivant celui de la signature
+de la convention, ainsi que les montants et les bénéficiaires des engagements donnés hors bilan par catégorie, assortis des
+pièces justificatives des cessions d'engagements hors bilan effectuées ou prévues depuis la clôture du dernier exercice
+connu ;
+
+h) Les traités ou projets de traité de réassurance des engagements pris par la mutuelle ou l'union et les documents par
+lesquels les réassureurs donnent leur accord sur les montants ou les proportions de risques ou de sinistres pris en charge
+par eux ;
+
+i) Un état justifié des engagements pris ou repris selon le modèle joint en annexe I, un tableau de calcul du besoin de marge
+de solvabilité selon le modèle joint en annexe II et un tableau des éléments constitutifs de la marge selon le modèle joint
+en annexe III.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-02-06 art. 1 JORF 8 mars 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L510-1, annexe I, annexe II, annexe III
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A211-4
+
+Lorsque la mutuelle ou l'union a bénéficié d'apports financiers ou de transferts d'actifs depuis la clôture du dernier
+exercice connu ou que de tels apports ou transferts sont prévus avant la clôture de l'exercice suivant celui de la signature
+de la convention, le dossier comporte également en double exemplaire :
+
+a) Le nom et l'adresse du siège social des organismes mutualistes ayant fusionné ou décidé de fusionner avec la mutuelle ou
+l'union, la date effective ou prévisionnelle de la fusion ainsi que la décision de leurs assemblées générales, le bilan et le
+compte de résultat du dernier exercice connu et les montants et les bénéficiaires des engagements donnés hors bilan par
+catégorie au titre de cet exercice ;
+
+b) La nature, la date et le montant des apports en fonds propres, des transferts de provisions et des émissions et
+souscriptions de titres et emprunts subordonnés assortis des pièces justificatives ;
+
+c) La nature, la date et le montant des souscriptions des emprunts pour fonds d'établissement et fonds de développement ainsi
+que la date des versements prévus ou réalisés assortis des pièces justificatives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-02-06 art. 1 JORF 8 mars 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+
 #### Chapitre II : Fonctionnement.<a id=78></a>
 
 ##### Section 2 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=79></a>
@@ -13576,5 +13656,774 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+
+# Annexes<a id=130></a>
+
+## Annexes à l'article A211-3<a id=131></a>
+
+###### Article Annexe I
+
+Etat consolidé des engagements pris ou repris par une mutuelle ou une union se substituant à d'autres organismes mutualistes
+établi sur la base du dernier exercice disponible (en Euros)
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="2" rowspan="2" valign="middle">
+
+ENGAGEMENTS
+
+</td>
+      <td width="113" colspan="2">
+
+Provisions mathématiques et de gestion
+
+</td>
+      <td colspan="2" width="113">
+
+Autres provisions techniques*
+
+</td>
+      <td colspan="2" width="113">
+
+TOTAL des provisions techniques (en Euros)
+
+</td>
+    </tr>
+    <tr>
+      <td width="56">
+
+Brutes
+
+</td>
+      <td width="56">
+
+Nettes
+
+</td>
+      <td width="56">
+
+Brutes
+
+</td>
+      <td width="56">
+
+Nettes
+
+</td>
+      <td width="56">
+
+Brutes
+
+</td>
+      <td width="56">
+
+Nettes
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">
+
+OPERATIONS NON VIE
+
+</td>
+      <td>
+
+Soins de santé
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Indemnités Journalières
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Invalidité-dépendance
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Chômage
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Décès accidentel
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Autres garanties (à préciser)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des provisions Correspondant aux engagements non liés à la durée de la vie Humaines (en Euros)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="6">
+
+OPERATIONS VIE
+
+</td>
+      <td>
+
+Décès toutes cause
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rentes de survivants
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Retraite
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Epargne
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Autres garanties (à préciser)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des provisions correspondant aux engagements liés à la durée de la vie humaine (en Euros)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+TOTAL en Euros
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="8">
+
+* Opérations vie : participation aux excédents, aléas financiers, frais d'acquisition, capitalisation, exigibilité,
+égalisation.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+Opérations non vie : cotisations non acquises et risques en cours (liées aux cotisations perçues d'avance), capitalisation,
+prestations à payer, risques croissants, exigibilité, égalisation, réassurance d'opérations vie.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Montant des capitaux sous risques (total des garanties décès souscrites)
+
+<table>
+  <thead>
+    <tr>
+      <td width="234">
+
+Montant avant cession en réassurance
+
+</td>
+      <td width="221">
+
+Montant après cession en réassurance
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+N.B. : Les provisions doivent être justifiées par des études actuarielles jointes au dossier, réalisées par des personnes
+dont la qualification et les diplômes seront indiqués. Ces études doivent signaler les éléments à partir desquels elles ont
+été établies, notamment les effectifs de cotisants et de prestataires, les tarifs, les montants de prestations, les tables et
+les taux d'actualisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 février 2002 - art. 1
+
+
+###### Article Annexe II
+
+Calcul du besoin de marge de solvabilité des unions et mutuelles reprenant les engagements d'autres organismes mutualistes
+(en euros)
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="33%">
+
+ORGANISMES
+
+(nom et numéro d'identification)
+
+</td>
+      <td valign="top" width="33%">
+
+COTISATIONS
+
+brutes HT
+
+du dernier exercice *
+
+(hors opérations liées
+
+à la durée de la vie humaine)
+
+</td>
+      <td width="33%" valign="top">
+
+MOYENNE
+
+des prestations brutes
+
+des trois derniers exercices *
+
+(hors opérations vie)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="33%">
+
+Organisme se substituant à d'autres mutuelles
+
+</td>
+      <td valign="top" width="33%">
+      </td><td width="33%" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="33%">
+
+Organismes cédant leurs engagements par le biais de la substitution:
+
+- mutuelle ou union 1
+
+</td>
+      <td valign="top" width="33%">
+      </td><td width="33%" valign="top">
+    </td></tr>
+    <tr>
+      <td width="33%" valign="top">
+
+- mutuelle ou union 2
+
+</td>
+      <td valign="top" width="33%">
+      </td><td valign="top" width="33%">
+    </td></tr>
+    <tr>
+      <td width="33%" valign="top">
+
+- etc. 
+
+</td>
+      <td width="33%" valign="top">
+      </td><td valign="top" width="33%">
+    </td></tr>
+    <tr>
+      <td valign="top" width="33%">
+
+Mutuelles et unions devant fusionner avec l'organisme repreneur:
+
+- mutuelle ou no 1
+
+</td>
+      <td width="33%" valign="top">
+      </td><td width="33%" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="33%">
+
+- mutuelle ou no 2
+
+</td>
+      <td width="33%" valign="top">
+      </td><td valign="top" width="33%">
+    </td></tr>
+    <tr>
+      <td width="33%" valign="top">
+
+- etc. 
+
+</td>
+      <td width="33%" valign="top">
+      </td><td valign="top" width="33%">
+    </td></tr>
+    <tr>
+      <td valign="top" width="33%">
+
+Total consolidé 
+
+pour l'organisme repreneur (en euros) 
+
+</td>
+      <td valign="top" width="33%">
+      </td><td valign="top" width="33%">
+    </td></tr>
+    <tr>
+      <td width="100%" valign="top" colspan="3">
+
+* Pour les mutuelles antérieurement réassurées par l'organisme repreneur, indiquer les prestations et cotisations nettes
+(pour ne pas compter deux fois le même montant). Pour les mutuelles à garantir par le repreneur, n'indiquer que les
+prestations et cotisations relatives aux risques visés par la convention de substitution. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Besoin de marge en fonction des cotisations brutes relatives aux opérations non vie et aux garanties complémentaires des
+opérations relevant des branches 20 à 22 :
+
+Le total des deux tranches de cotisations brutes (jusqu'à 10 M€ et au-delà de 10 M€) est multiplié par le rapport des
+dernières prestations nettes sur les dernières prestations brutes, ce multiple ne pouvant être inférieur à 0,50.
+
+<table>
+  <thead>
+    <tr>
+      <td width="455" colspan="3">
+
+Prestations du repreneur au dernier exercice (hors opérations vie)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+montant brut
+
+</td>
+      <td>
+
+montant net
+
+</td>
+      <td>
+
+rapport net/brut
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1
+          <sup>o</sup> tranche
+
+</td>
+      <td colspan="2">
+
+(18 % jusqu'à 10 M€) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2
+          <sup>o</sup> tranche
+
+</td>
+      <td colspan="2">
+
+(cotisations brutes - 10 M€) × 16 %
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Total des deux tranches multiplié par rapport net/brut
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Besoin de marge en fonction de la moyenne sur trois ans des prestations brutes relatives aux opérations non vie et aux
+garanties complémentaires des opérations relevant des branches 20 à 22 :
+
+Le total des deux tranches de prestations brutes (26 % de la moyenne des prestations jusqu'à 7 M€ et 23 % au-delà) est
+multiplié par le rapport des dernières prestations nettes sur les dernières prestations brutes, ce multiple ne pouvant être
+inférieur à 0,50.
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+1
+          <sup>o</sup> tranche
+
+</td>
+      <td>
+
+(26 % de 7 M€)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2
+          <sup>o</sup> tranche
+
+</td>
+      <td>
+
+(moyenne des prestations - 7 M€) × 23 %
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Total des deux tranches multiplié par rapport net/brut
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour la marge non vie, retenir le plus élevé des deux résultats ci-dessus.
+
+Besoin de marge pour les opérations vie (total des deux résultats ci-dessous)
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" colspan="3">
+
+1
+          <sup>o</sup> résultat à partir des provisions mathématiques
+
+et de gestion des opérations vie (cf. annexe I)
+
+</td>
+      <td align="center" colspan="3">
+
+2
+          <sup>o</sup> résultat à partir des capitaux sous risques
+
+ou total des garanties décès souscrites (cf. annexe I)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+montant brut
+
+</td>
+      <td>
+
+montant net
+
+</td>
+      <td>
+
+rapport net/brut
+
+</td>
+      <td>
+
+montant brut
+
+</td>
+      <td>
+
+montant net
+
+</td>
+      <td>
+
+rapport net/brut
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+1
+          <sup>o</sup> résultat = (4 % du montant brut) × (rapport net/brut)*
+
+</td>
+      <td colspan="3">
+
+2
+          <sup>o</sup> résultat = (0,3 % du montant brut) × (rapport net/brut)**
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+* Si le rapport net/brut est inférieur à 0,85, retenir 0,85. De plus, lorsqu'il n'y a pas de risque de placement pour les
+fonds d'investissement, les fonds collectifs et l'épargne exprimée en unités de compte, multiplier les provisions par 1 % (et
+non 4 %).
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+** Si le rapport net/brut est inférieur à 0,50, retenir 0,50. De plus, pour les garanties décès temporaires, multiplier les
+capitaux sous risque par 0,1 % (au lieu de 0,3 %) si la durée maximale est de 3 ans, et par 0,15 % si elle est de 4 ou 5 ans.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le besoin global de marge est égal au total des marges vie et non vie calculées ci-dessus.
+
+NB : si les rapports " net/brut " doivent baisser pour l'exercice suivant la signature de la convention, remplir un 2
+  <sup>o</sup> état.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 février 2002 - art. 1
+
+
+###### Article Annexe III
+
+État consolidé, établi sur la base du dernier exercice disponible et des engagements reçus par l'organisme repreneur à la
+date de dépôt du dossier, des éléments de la marge de solvabilité prévisionnelle des mutuelles et unions reprenant les
+engagements d'autres organismes mutualistes (en euros)
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ ORGANISMES (nom et numéro      │ FONDS PROPRES à la    │ AUGMENTATION DES FONDS PROPRES    │ TITRES PARTICIPATIFS ou su-  ┃
+┃ d'identification)              │ fin du dernier exer-  │ par apports d'actifs au repreneur │ bordonnés émis par le repre- ┃
+┃                                │ cice (hors augmenta-  │ (1) avant la fin de l'exercice    │ neur et non remboursés avant ┃
+┃                                │ tion prévue à la co-  │ suivant celui de la reprise des   │ la fin de l'exercice suivant ┃
+┃                                │ lonne suivante)       │ engagements                       │ la reprise des engagements   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Organisme repreneur (union     │                       │                                   │                              ┃
+┃ ou mutuelle appelée à se       │                       │                                   │                              ┃
+┃ substituer à d'autres orga-    │                       │                                   │                              ┃
+┃ nismes mutualistes)            │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Mutuelles et unions     │ A    │                       │                                   │ dont à durée indéterminée:   ┃
+┃ passant une convention  │      │                       │                                   │                              ┃
+┃ de substitution avec    │      │                       │                                   │                              ┃
+┃ l'organisme repreneur   │      │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ B    │                       │                                   │ dont à durée indéterminée:   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Etc. │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Mutuelles et unions     │ 1    │                       │                                   │                              ┃
+┃ ayant décidé de fusion- │      │                       │                                   │                              ┃
+┃ ner avec le repreneur   │      │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ 2    │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Etc. │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Autres organismes sous- │ 1°   │                       │                                   │ dont à durée indéterminée:   ┃
+┃ cripteurs de titres     │      │                       │                                   │                              ┃
+┃ émis par le repreneur   │      │                       │                                   │                              ┃
+┃ ou lui apportant des    │      │                       │                                   │                              ┃
+┃ fonds propres           │      │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ 2°   │                       │                                   │ dont à durée indéterminée:   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Etc. │                       │                                   │                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total consolidé pour    │      │                       │                                   │ dont à durée indéterminée:   ┃
+┃ l'organisme repreneur   │      │                       │                                   │                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+<pre>
+┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━┓
+┃ MARGE    │ dont Fonds propres du   │ dont EMPRUNTS pour  │ TITRES PARTICIPA-   │ APPORTS ulté- │ dont RÉ-  │ dont PLUS-   ┃
+┃ prévi-   │ dernier exercice (hors  │ fonds d'établisse-  │ TIFS ou subordonnés │ rieurs (réa-  │ SULTATS   │ VALUES LA-   ┃
+┃ sion-    │ emprunts pour FE et FD) │ ment (FE) ou de dé- │ (émis ou à émettre) │ lisés ou pro- │ prévi-    │ TENTES (2)   ┃
+┃ nelle    │                         │ veloppement (FD)    │                     │ mis)          │ sionnels  │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ (1) Les cessions d'actifs au titre des provisions techniques ne sont pas comprises dans cette catégo-                     ┃
+┃ rie, ni les apports antérieurs de fonds propres (déjà inclus dans la colonne précédente). (2) Dé-                         ┃
+┃ taillées par catégories de valeurs mobilières et justifiées par une attestation d'un commissaire aux                      ┃
+┃ comptes.                                                                                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 février 2002 - art. 1
 
 
