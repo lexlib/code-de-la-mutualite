@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2001-12-04
+Version Consolidée au 2001-12-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -1623,10 +1623,9 @@ _Codifié par_:
 Les fonctions d'administrateur sont gratuites.
 
 Cependant, lorsque l'importance de l'organisme le nécessite, l'assemblée générale peut décider d'allouer une indemnité au
-président du conseil d'administration ou à des administrateurs auxquels des attributions permanentes ont été confiées et qui,
-pour l'exercice de leurs fonctions, doivent cesser tout ou partie de leur activité professionnelle. Les cas et conditions de
-cette indemnisation, notamment le seuil d'activité à partir duquel elle peut être allouée, sont définis par décret en Conseil
-d'Etat.
+président du conseil d'administration ou à des administrateurs auxquels des attributions permanentes ont été confiées. Les
+cas et conditions de cette indemnisation, notamment le seuil d'activité à partir duquel elle peut être allouée, sont définis
+par décret en Conseil d'Etat.
 
 L'organisme rembourse à l'employeur les rémunérations maintenues, dans des limites fixées par décret, pour permettre aux
 administrateurs salariés d'exercer leurs fonctions pendant le temps de travail, ainsi que les avantages et les charges y
@@ -1649,6 +1648,10 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2001-1246 du 21 décembre 2001 - art. 9 () JORF 26 décembre 2001
+
 _Cité par_:
 
   - Code de la mutualité - art. A114-0-26 (V)
@@ -1663,8 +1666,8 @@ _Cité par_:
 
 ###### Article L114-27
 
-Les indemnités versées pour l'exercice de leurs fonctions aux administrateurs ayant cessé tout ou partie de leur activité
-professionnelle ont le caractère de rémunération au sens de l'article L. 242-1 du code de la sécurité sociale.
+Les indemnités versées pour l'exercice de leurs fonctions aux administrateurs ont le caractère de rémunération au sens de
+l'article L. 242-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -1672,9 +1675,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2001-1246 du 21 décembre 2001 - art. 9 () JORF 26 décembre 2001
+
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L242-1 (M)
+  - Code de la sécurité sociale. - art. L242-1 (VT)
 
 
 ###### Article L114-28
