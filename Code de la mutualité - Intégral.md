@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1990-01-02
+Version Consolidée au 1992-01-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -2445,6 +2445,13 @@ _Abrogé par_:
 Le contrôle des mutuelles est effectué, dans l'intérêt de leurs membres, par la commission de contrôle mentionnée aux
 articles L. 732-10 et L. 732-12 du code de la sécurité sociale.
 
+Toutefois, le contrôle des mutuelles dont les engagements sont inférieurs à des seuils déterminés par arrêté du ministre
+chargé de la mutualité, pris après avis de la commission de contrôle, est exercé au niveau régional par l'autorité
+administrative, dans les conditions prévues aux articles L. 531-1-1 à L. 531-4 et L. 531-6.
+
+La commission de contrôle dispose d'un pouvoir d'évocation et demeure seule compétente pour prononcer les sanctions
+disciplinaires mentionnées à l'article L. 531-5.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2464,17 +2471,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-1009 du 31 décembre 1989 - art. 18 () JORF 2 janvier 1990
+  - Loi n°91-1406 du 31 décembre 1991 - art. 22 () JORF 4 janvier 1992
 
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 14 septembre 1992
   - TXT_SOURCE: Arrêté du 14 septembre 1992 - art. 1 (V)
 
+_Abrogé par_:
+
+  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 _Cite_:
 
   - Code de la sécurité sociale. - art. L732-10 (Ab)
   - Code de la sécurité sociale. - art. L732-12 (Ab)
+  - Code de la mutualité - art. L531-5 (M)
+  - Code de la mutualité - art. L531-6 (Ab)
+  - Code de la mutualité L531-1-1 à L531-4, L531-6, L531-5
 
 
 ###### Article L531-1-1
