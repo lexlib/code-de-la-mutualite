@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -1934,8 +1934,8 @@ personnes visées aux alinéas ci-dessus après un délai de dix ans à compter 
 titre de reconnaissance de la Nation.
 
 Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut être constituée au profit des bénéficiaires
-visés par les dispositions du présent article est calculé par référence à l'indice 95 des pensions militaires d'invalidité et
-des victimes de guerre. Il est exprimé en francs au 1er janvier de chaque année en fonction de la valeur du point des
+visés par les dispositions du présent article est calculé par référence à l'indice 100 des pensions militaires d'invalidité
+et des victimes de guerre. Il est exprimé en francs au 1er janvier de chaque année en fonction de la valeur du point des
 pensions militaires d'invalidité à cette date.
 
 **Liens relatifs à cet article**
@@ -2029,7 +2029,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 107 () JORF 31 décembre 1997
+  - Loi - art. 122 () JORF 31 décembre 1998
 
 
 ## Livre IV : Action sociale<a id=27></a>
