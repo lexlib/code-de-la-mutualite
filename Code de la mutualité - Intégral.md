@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-03-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -61,40 +61,43 @@ Version Consolidée au 1993-01-30
       - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#58)
         - [Chapitre unique (art. R231-1 à R231-2)](#59)
     - [Livre III : Réparation des risques sociaux (art. R311-1 à R326-3)](#60)
-      - [Titre Ier : Règles générales (art. R311-1 à R311-4)](#61)
-        - [Chapitre unique (art. R311-1 à R311-4)](#62)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R326-3)](#63)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#64)
-        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-15)](#65)
-          - [Section 1 : Provisions techniques (art. R322-1 à R322-6)](#66)
-          - [Section 2 : Marge de sécurité (art. R322-7 à R322-9)](#67)
-          - [Section 3 : Placements des caisses autonomes mutualistes (art. R322-10 à R322-15)](#68)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#69)
-        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#70)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#71)
-        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-1 à R326-3)](#72)
-    - [Livre IV : Action sociale (art. R411-1)](#73)
-      - [Titre unique (art. R411-1)](#74)
-        - [Chapitre unique (art. R411-1)](#75)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#76)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#77)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#78)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#79)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#80)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-16)](#81)
-          - [Section Ier : Elections au conseil supérieur de la mutualité (art. R513-17)](#82)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#83)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#84)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#85)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#86)
-      - [Titre III : Contrôle (art. R531-1 à R531-7)](#87)
-        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#88)
-        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#89)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#90)
-        - [Chapitre unique (art. R541-1)](#91)
-    - [Livre V : Relations les collectivités publiques (art. R511-2)](#92)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#93)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#94)
+      - [Titre Ier : Règles générales (art. R311-1 à R311-23)](#61)
+        - [Chapitre unique (art. R311-1 à R311-23)](#62)
+          - [Section Ier : Règles de sécurité financière (art. R311-1)](#63)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#64)
+          - [Section 3 : Dispositions diverses (art. R311-23)](#65)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R326-3)](#66)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#67)
+        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-15)](#68)
+          - [Section 1 : Provisions techniques (art. R322-1 à R322-6)](#69)
+          - [Section 2 : Marge de sécurité (art. R322-7 à R322-9)](#70)
+          - [Section 3 : Placements des caisses autonomes mutualistes (art. R322-10 à R322-15)](#71)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#72)
+        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#73)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#74)
+        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-1 à R326-3)](#75)
+    - [Livre IV : Action sociale (art. R411-1)](#76)
+      - [Titre unique (art. R411-1)](#77)
+        - [Chapitre unique (art. R411-1)](#78)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#79)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#80)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#81)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#82)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#83)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-16)](#84)
+          - [Section Ier : Elections au conseil supérieur de la mutualité (art. R513-17)](#85)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#86)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#87)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#88)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#89)
+      - [Titre III : Contrôle (art. R531-1 à R531-7)](#90)
+        - [Chapitre Ier : Commission de contrôle (art. R531-1 à R531-6)](#91)
+        - [Chapitre II : Contrôle exercé au niveau régional (art. R531-7)](#92)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#93)
+        - [Chapitre unique (art. R541-1)](#94)
+    - [Livre V : Relations les collectivités publiques (art. R511-2)](#95)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#96)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#97)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=2></a>
@@ -3795,6 +3798,8 @@ _Cite_:
 
 #### Chapitre unique<a id=62></a>
 
+##### Section Ier : Règles de sécurité financière<a id=63></a>
+
 ###### Article R311-1
 
 Toute mutuelle doit justifier qu'elle dispose d'une marge financière de sécurité dont le montant minimum est fixé, par arrêté
@@ -3807,7 +3812,7 @@ année au plus.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+[*Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.*]
 
 **Liens relatifs à cet article**
 
@@ -3821,9 +3826,13 @@ _Cité par_:
   - Décret n°90-768 du 30 août 1990 - art. 13 (V)
   - Décret n°88-385 du 15 avril 1988 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
 **Liens**:
 
-  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
   - TXT_SOURCE: Décret n°88-385 du 15 avril 1988
   - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. 1 (V)
   - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. 2 (V)
@@ -3843,18 +3852,23 @@ _Cité par_:
   - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 9 (V)
 
 
+##### Section 2 : Caisse mutualiste de garantie<a id=64></a>
+
 ###### Article R311-2
 
-Les mutuelles dont l'effectif est supérieur à 3500 personnes protégées ou qui gèrent au moins un établissement ou service [*à
-caractère sanitaire, médico-social ou culturel*] mentionné à l'article L. 411-1 doivent se garantir auprès d'une fédération
-mutualiste. Cette garantie doit être souscrite dans le délai de trois ans suivant la création de la mutuelle [*point de
-départ*].
+La caisse mutualiste de garantie créée par l'article L. 311-6 gère un fonds de garantie destiné à prendre en charge, à titre
+d'avances remboursables, le règlement des prestations statutaires, autres que celles mentionnées à l'article L. 321-1, dues
+par les mutuelles affiliées à la caisse qui se trouvent dans l'incapacité de faire face à leurs engagements.
 
-Une convention entre la fédération mutualiste gestionnaire et la mutuelle détermine les conditions de cette garantie.
+L'attribution de ces avances est subordonnée aux conditions prévues par le premier alinéa de l'article R. 311-17, et donne
+lieu à l'établissement d'un contrat écrit.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -3868,27 +3882,40 @@ _Cité par_:
   - Code de la mutualité - art. R324-1 (Ab)
   - Décret n°88-385 du 15 avril 1988 - art. Annexe, article 1 (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
 
 _Cite_:
 
-  - Code de la mutualité - art. L411-1 (Ab)
+  - Code de la mutualité - art. L311-6 (Ab)
+  - Code de la mutualité - art. L321-1 (Ab)
+  - Code de la mutualité - art. R311-17 (P)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
 ###### Article R311-3
 
-Les règlements des systèmes de garantie sont approuvés par le ministre chargé de la mutualité dans les conditions prévues à
-l'article R. 122-1.
+Les mutuelles dont l'effectif est supérieur à 2 000 cotisants [*nombre*] et qui versent effectivement des prestations
+complémentaires aux régimes obligatoires d'assurance maladie doivent se garantir auprès de la caisse mutualiste de garantie.
+Cette obligation ne s'applique pas aux fédérations mutualistes gérant une caisse autonome mutualiste si elles sont déjà
+réassurées au premier franc.
+
+Les mutuelles réassurées au premier franc auprès d'autres organismes mutualistes sont dispensées de l'affiliation à la caisse
+mutualiste de garantie.
+
+Sous réserve de l'accord du conseil d'administration de la caisse mutualiste de garantie, les mutuelles de moins de 2 000
+cotisants peuvent également se garantir auprès de cette caisse.
 
 **Nota:**
 
-[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -3896,9 +3923,9 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
 
 _Cité par_:
 
@@ -3906,16 +3933,753 @@ _Cité par_:
   - Code de la mutualité - art. R311-11 (P)
   - Code de la mutualité - art. R311-4 (P)
 
-_Cite_:
-
-  - Code de la mutualité - art. R122-1 (Ab)
-
 **Liens**:
 
-  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
 ###### Article R311-4
+
+L'assemblée générale de la caisse mutualiste de garantie est composée des représentants des mutuelles mentionnées aux premier
+et troisième alinéas de l'article R. 311-3.
+
+Chaque mutuelle désigne pour une durée de trois ans renouvelable, selon les modalités qu'elle détermine, un représentant à
+l'assemblée générale de la caisse mutualiste de garantie et deux suppléants, choisis parmi ses adhérents. Le nom du
+représentant et des suppléants désignés par chaque mutuelle est adressé au conseil d'administration de la caisse mutualiste
+de garantie deux mois au moins avant chaque renouvellement de l'assemblée générale.
+
+Chaque représentant dispose d'un nombre de voix déterminé en fonction du nombre de cotisants de la mutuelle. Le nombre de
+voix de chaque mutuelle est fixé par le conseil d'administration sortant de la caisse mutualiste de garantie, en fonction du
+nombre des cotisants de la mutuellle tel qu'il ressort des dernières statistiques disponibles. Les cotisants s'entendent des
+membres participants mentionnés à l'article L. 121-1 qui versent, directement ou indirectement, une cotisation à l'organisme
+affilié à la caisse mutualiste de garantie pour acquérir ou faire acquérir vocation aux avantages sociaux.
+
+Chaque mutuelle dispose d'une voix par tranche de 1 à 5 000 cotisants *nombre*.
+
+Tout représentant d'une mutuelle à l'assemblée générale peut recevoir mandat de représentants d'autres mutuelles, sans que le
+total des voix ainsi réunies par un même représentant puisse excéder le nombre de voix de la mutuelle la plus importante
+augmenté d'une voix.
+
+En cas d'empêchement ou de vacance en cours de mandat, pour cause de décès, démission ou toute autre cause, d'un membre de
+l'assemblée générale, celui-ci est remplacé par un de ses suppléants, choisi par la mutuelle.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L121-1 (M)
+  - Code de la mutualité - art. R311-3 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-1 (M)
+  - SPEC_APPLI: Code de la mutualité - art. R311-2 (Ab)
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+  - SPEC_APPLI: Code de la mutualité - art. R311-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-5
+
+L'assemblée générale de la caisse mutualiste de garantie *attributions* :
+
+a) Élit les membres du conseil d'administration ;
+
+b) Désigne les membres de la commission de contrôle mentionnée à l'article L. 125-10 et les commissaires aux comptes ;
+
+c) Approuve le rapport d'activité et le compte rendu de la gestion financière du conseil d'administration, le bilan et le
+rapport sur la gestion comptable de la caisse mutualiste de garantie présenté par la commission de contrôle.
+
+L'assemblée générale statue sur toutes les questions qui lui sont soumises par le conseil d'administration.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L125-10 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-6
+
+Les articles R. 311-7, R. 311-10, R. 311-12 à R. 311-14 et R. 311-18 à R. 311-22 constituent le règlement de la caisse
+mutualiste de garantie mentionné au 5° de l'article L. 311-7.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L311-7 (Ab)
+  - Code de la mutualité - art. R311-10 (P)
+  - Code de la mutualité - art. R311-7 (P)
+  - Code de la mutualité R311-7, R311-10, R311-12 à R311-14, R311-18 à R311-22, L311-7
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-7
+
+L'assemblée générale se réunit au moins une fois par an, sur convocation du président du conseil d'administration
+*périodicité*.
+
+La convocation est obligatoire quand elle est demandée par la majorité des administrateurs composant le conseil
+d'administration ou par un tiers des représentants des mutuelles à l'assemblée générale.
+
+L'assemblée générale doit être convoquée un mois au moins avant la date de sa réunion. L'ordre du jour, arrêté par le conseil
+d'administration, doit être joint aux convocations.
+
+L'assemblée générale ne délibère valablement qu'en présence d'un nombre de délégués représentant au moins un quart des voix
+des mutuelles affiliées à la caisse mutualiste de garantie. Si ce quorum n'est pas atteint, une seconde assemblée est
+convoquée dans les deux mois suivants. Elle délibère valablement quel que soit le nombre de délégués présents ou représentés.
+Ses décisions sont prises à la majorité des suffrages exprimés.
+
+Il est établi un procès-verbal de chaque réunion de l'assemblée générale. Le procès-verbal est communiqué aux mutuelles
+affiliées à la caisse.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-6 (P)
+
+
+###### Article R311-8
+
+La caisse mutualiste de garantie est administrée par un conseil d'administration composé de vingt et un membres [*nombre*]
+élus à bulletin secret parmi les membres de l'assemblée générale, au scrutin majoritaire à un tour. L'assemblée générale
+désigne de la même façon un membre suppléant pour chaque administrateur.
+
+Les membres du conseil d'administration sont élus pour trois ans [*durée du mandat*. Leur mandat est renouvelable.
+
+Les candidatures sont adressées à la caisse mutualiste de garantie par lettre recommandée avec avis de réception, deux mois
+au plus tard avant le renouvellement du conseil d'administration *]condition de forme, délai*.
+
+Chaque dossier de candidature [*contenu*] comprend la déclaration de candidature au poste de titulaire et la déclaration de
+son suppléant, signées par les intéressés. Elle mentionne leur nom et prénoms et précise leur mutuelle d'appartenance. Le
+dossier comprend également une déclaration du candidat et de son suppléant attestant sur l'honneur qu'ils ne sont concernés
+par aucune des incompatibilités opposables aux membres du conseil d'administration de la caisse mutualiste de garantie.
+
+La liste des candidatures est affichée au siège de la caisse mutualiste de garantie quarante-cinq jours au moins avant la
+date fixée pour les élections.
+
+Les candidats qui ont obtenu le plus grand nombre de voix sont proclamés élus.
+
+Lorsque deux candidats ont obtenu le même nombre de suffrages, ils sont départagés au bénéfice du plus âgé.
+
+Les résultats du scrutin sont affichés au siège de la caisse mutualiste de garantie.
+
+Ils peuvent être contestés dans les conditions prévues par l'article R. 125-3. En ce cas, les administrateurs proclamés élus
+demeurent en fonctions jusqu'à ce qu'il ait été définitivement statué sur les contestations.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. R125-3 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-9
+
+Les membres du conseil d'administration cessent leurs fonctions lorsqu'ils perdent la qualité d'adhérent d'une mutuelle
+affiliée à la caisse mutualiste de garantie, de membre de l'assemblée générale ou qu'ils ne remplissent plus les conditions
+prévues au premier alinéa de l'article L. 125-7 du code de la mutualité. Le conseil d'administration constate la cessation
+des fonctions des membres concernés.
+
+En cas d'empêchement ou de vacance en cours de mandat par décès, démission ou toute autre cause d'un membre du conseil
+d'administration, celui-ci est remplacé par son suppléant.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L125-7 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-10
+
+Le conseil d'administration procède à l'élection en son sein, à bulletin secret, de son président, de deux vice-présidents,
+de son secrétaire général et de son trésorier, qui constituent le bureau.
+
+Le conseil d'administration peut déléguer, sous sa responsabilité et son contrôle, une partie de ses pouvoirs au bureau ou à
+ses membres individuellement. Il peut également accorder au directeur mentionné au 8° de l'article R. 311-11 les délégations
+de pouvoirs nécessaires en vue d'assurer sous son contrôle le fonctionnement de la caisse.
+
+Le président du conseil d'administration représente la caisse mutualiste de garantie en justice et dans tous les actes de la
+vie civile. Il préside les réunions du conseil d'administration et de l'assemblée générale. Il engage les dépenses, dans le
+respect des délibérations prises par le conseil d'administration au titre des 3°, 4° et 6° de l'article R. 311-11.
+
+Les vice-présidents secondent le président qu'ils suppléent en cas d'empêchement avec les mêmes pouvoirs dans toutes ses
+fonctions.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. R311-11 (P)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-6 (P)
+
+
+###### Article R311-11
+
+Le conseil d'administration règle par ses délibérations les affaires de la caisse mutualiste de garantie. Il a notamment pour
+attributions :
+
+1° D'établir la liste des mutuelles qui sont tenues de se garantir auprès de la caisse mutualiste de garantie en application
+du premier alinéa de l'article R. 311-3, et d'approuver l'affiliation des mutuelles mentionnées au troisième alinéa du même
+article ;
+
+2° De fixer le montant de la participation financière des mutuelles mentionnée à l'article R. 311-15 ;
+
+3° D'assurer la gestion financière du fonds de garantie, dans le respect des règles relatives aux placements des mutuelles
+définies par les articles R. 124-5 à R. 124-8 ;
+
+4° De décider des interventions du fonds de garantie, d'en fixer les modalités et les conditions préalables ;
+
+5° D'apprécier les mesures de redressement des mutuelles prévues au premier alinéa de l'article R. 311-17 ;
+
+6° D'arrêter le budget de fonctionnement de la caisse ;
+
+7° D'élaborer le rapport annuel d'activité et d'établir le bilan et le compte de résultats du fonds de garantie, qu'il
+présente à l'assemblée générale ;
+
+8° De nommer le directeur.
+
+Le conseil d'administration peut également apprécier la situation financière des mutuelles affiliées et appeler leur
+attention, en tant que de besoin, sur les risques présentés par leur gestion financière et comptable.
+
+Les membres du conseil d'administration sont tenus de ne pas divulguer les informations relatives à la situation des
+mutuelles dont ils peuvent avoir connaissance dans l'exercice de leurs fonctions *secret professionnel*.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-10 (P)
+
+_Cite_:
+
+  - Code de la mutualité - art. R311-15 (P)
+  - Code de la mutualité - art. R311-17 (P)
+  - Code de la mutualité - art. R311-3 (Ab)
+  - Code de la mutualité R311-3, R311-15, R124-5 à R124-8, R311-17
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-12
+
+Le conseil d'administration se réunit au moins une fois par trimestre civil, sur convocation de son président. La convocation
+est obligatoire quand elle est demandée par le quart des membres du conseil [*périodicité*.
+
+Le conseil d'administration ne délibère valablement que si la moitié au moins de ses membres sont présents *]quorum*. Les
+décisions sont prises à la majorité des membres présents, le président ayant voix prépondérante en cas de partage égal des
+voix. Il est établi un procès-verbal de chaque réunion, qui est transmis dans un délai de deux mois à la commission de
+contrôle des mutuelles mentionnée à l'article L. 531-1.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L531-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-13
+
+Le président du conseil d'administration veille à la régularité du fonctionnement du conseil et assure l'exécution de ses
+délibérations. Il peut déléguer sa signature au directeur de la caisse ou à des salariés pour des objets déterminés.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-14
+
+Les attributions du secrétaire général et les modalités suivant lesquelles il peut, sous sa responsabilité et sous son
+contrôle, confier au directeur de la caisse ou à des salariés l'exécution de certaines tâches qui lui incombent et leur
+déléguer sa signature pour des objets déterminés sont fixées par l'assemblée générale sur proposition du conseil
+d'administration.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-15
+
+Les mutuelles affiliées versent à la caisse mutualiste de garantie une participation au fonds de garantie et aux frais de
+fonctionnement et de gestion de la caisse, calculée en pourcentage du montant des prestations statutaires versées lors du
+dernier exercice dont les résultats sont connus, pour la part non réassurée de leurs activités.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-11 (P)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-16
+
+Les mutuelles affiliées communiquent à la caisse mutualiste de garantie leurs documents comptables dès qu'ils ont été
+constitués et au plus tard dans les trois mois suivant la clôture de leur exercice comptable *délai*.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-17
+
+Pour bénéficier de l'intervention du fonds de garantie, la mutuelle concernée doit présenter un plan de redressement à la
+caisse mutualiste de garantie. Lorsque ce plan est accepté, un contrat écrit conclu entre la caisse mutualiste de garantie et
+la mutuelle fixe, préalablement à l'intervention du fonds de garantie, leurs engagements respectifs.
+
+Les sommes ainsi avancées ne peuvent être affectées qu'au paiement des prestations dues aux cotisants et à leurs ayants
+droit.
+
+La caisse mutualiste de garantie poursuit le remboursement des avances accordées selon un échéancier arrêté d'un commun
+accord au moment de la signature du contrat ou de la mise en jeu de la garantie.
+
+En cas de mise en redressement ou de liquidation judiciaire de la mutuelle, l'intervention de la caisse mutualiste de
+garantie a lieu à la date du jugement fixant l'ouverture de la procédure, sans attendre la conclusion du contrat mentionné au
+premier alinéa ci-dessus.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-11 (P)
+  - Code de la mutualité - art. R311-2 (P)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-18
+
+Les recettes de la caisse comprennent la participation des mutuelles garanties, les produits financiers et divers et, plus
+généralement, toutes autres recettes non interdites par la loi.
+
+Les dépenses comprennent les débours nécessaires pour l'exercice de la garantie incombant à la caisse mutualiste de garantie,
+ainsi que les frais afférents à son fonctionnement courant.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-19
+
+Chaque exercice comptable commence le 1er janvier et finit le 31 décembre de chaque année *périodicité, date*.
+
+Avant le 30 juin de chaque année, il est établi un compte de résultats et un bilan au 31 décembre précédent.
+
+Ces documents sont présentés à la prochaine assemblée générale de la caisse mutualiste de garantie.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-20
+
+Le trésorier est responsable des opérations financières de la caisse et tient sa comptabilité.
+
+Il est chargé du paiement des dépenses engagées par le président et fait encaisser les sommes dues à la caisse.
+
+Il fait procéder, selon les directives du conseil d'administration, à l'achat, à la vente et, d'une façon générale, à toutes
+les opérations sur les titres et valeurs.
+
+Il présente au conseil d'administration un rapport annuel sur la situation financière de la caisse.
+
+Le trésorier peut, sous sa responsabilité et son contrôle, confier au chef du service comptable l'exécution de certaines
+tâches qui lui incombent et lui déléguer sa signature pour des objets déterminés.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-21
+
+La commission de contrôle prévue à l'article L. 125-10 est composée de six membres élus pour trois ans *nombre, durée du
+mandat* et de six suppléants également élus ; elle se réunit au moins une fois par an *périodicité*.
+
+Elle vérifie la régularité des opérations comptables, contrôle la tenue de la comptabilité, la caisse et le portefeuille. Les
+résultats de ses travaux sont consignés dans un rapport écrit communiqué au président du conseil d'administration avant
+l'assemblée générale et présenté à celle-ci.
+
+Ce rapport est annexé au procès-verbal de la délibération de l'assemblée.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L125-10 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+###### Article R311-22
+
+Les commissaires aux comptes portent à la connaissance du conseil d'administration les contrôles et vérifications auxquels
+ils ont procédé dans le cadre des attributions qu'ils tiennent de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales. Ils assistent la commission de contrôle dans ses travaux.
+
+Ils signalent dans leur rapport annuel au conseil d'administration les irrégularités et inexactitudes éventuelles qu'ils ont
+relevées au cours de l'accomplissement de leur mission.
+
+**Nota:**
+
+Nota : Code de la mutualité R311-23 : non application du présent titre aux caisses autonomes mutualistes.
+
+Nota : Ce texte n'a pas été à ce jour abrogé, mais il est devenu sans objet depuis l'abrogation des dispositions législatives
+correspondantes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
+
+
+##### Section 3 : Dispositions diverses<a id=65></a>
+
+###### Article R311-23
 
 Les dispositions du présent titre ne sont pas applicables aux caisses autonomes mutualistes.
 
@@ -3925,24 +4689,43 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Transféré par_:
+_Créé par_:
 
-  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+  - Décret n°93-688 du 27 mars 1993 - art. 3 () JORF 28 mars 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la mutualité - art. R311-1 (M)
-  - SPEC_APPLI: Code de la mutualité - art. R311-2 (Ab)
-  - SPEC_APPLI: Code de la mutualité - art. R311-3 (Ab)
+  - SPEC_APPLI: Code de la mutualité - art. R311-1 (Ab)
+  - SPEC_APPLI: Code de la mutualité - art. R311-10 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-11 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-12 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-13 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-14 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-15 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-16 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-17 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-18 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-19 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-2 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-20 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-21 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-22 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-3 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-4 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-5 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-6 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-7 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-8 (P)
+  - SPEC_APPLI: Code de la mutualité - art. R311-9 (P)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la mutualité - art. R311-23 (M)
+  - Code de la mutualité - art. R311-4 (T)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=63></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=66></a>
 
-#### Chapitre Ier : Dispositions générales<a id=64></a>
+#### Chapitre Ier : Dispositions générales<a id=67></a>
 
 ###### Article R321-1
 
@@ -4162,9 +4945,9 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-#### Chapitre II : Règles de sécurité financière<a id=65></a>
+#### Chapitre II : Règles de sécurité financière<a id=68></a>
 
-##### Section 1 : Provisions techniques<a id=66></a>
+##### Section 1 : Provisions techniques<a id=69></a>
 
 ###### Article R322-1
 
@@ -4341,7 +5124,7 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-##### Section 2 : Marge de sécurité<a id=67></a>
+##### Section 2 : Marge de sécurité<a id=70></a>
 
 ###### Article R322-7
 
@@ -4421,7 +5204,7 @@ _Cite_:
   - Code de la mutualité - art. R322-7 (M)
 
 
-##### Section 3 : Placements des caisses autonomes mutualistes<a id=68></a>
+##### Section 3 : Placements des caisses autonomes mutualistes<a id=71></a>
 
 ###### Article R322-10
 
@@ -4686,7 +5469,7 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=69></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=72></a>
 
 ###### Article R323-1
 
@@ -4781,7 +5564,7 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=70></a>
+#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=73></a>
 
 ###### Article R324-1
 
@@ -4871,7 +5654,7 @@ _Cite_:
   - Code de la mutualité - art. R324-2 (M)
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=71></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=74></a>
 
 ###### Article R325-1
 
@@ -5004,7 +5787,7 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=72></a>
+#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=75></a>
 
 ###### Article R326-1
 
@@ -5098,11 +5881,11 @@ _Cite_:
   - Code de la mutualité - art. R326-1 (Ab)
 
 
-## Livre IV : Action sociale<a id=73></a>
+## Livre IV : Action sociale<a id=76></a>
 
-### Titre unique<a id=74></a>
+### Titre unique<a id=77></a>
 
-#### Chapitre unique<a id=75></a>
+#### Chapitre unique<a id=78></a>
 
 ###### Article R411-1
 
@@ -5131,11 +5914,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=76></a>
+## Livre V : Relations avec les collectivités publiques<a id=79></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=77></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=80></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=78></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=81></a>
 
 ###### Article R511-1
 
@@ -5220,7 +6003,7 @@ _Codifié par_:
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=79></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=82></a>
 
 ###### Article R512-1
 
@@ -5333,9 +6116,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=80></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=83></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=81></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=84></a>
 
 ###### Article R513-1
 
@@ -5791,7 +6574,7 @@ _Cite_:
   - Code de la mutualité - art. R513-15 (M)
 
 
-##### Section Ier : Elections au conseil supérieur de la mutualité<a id=82></a>
+##### Section Ier : Elections au conseil supérieur de la mutualité<a id=85></a>
 
 ###### Article R513-17
 
@@ -5813,7 +6596,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=83></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=86></a>
 
 ###### Article R513-18
 
@@ -5948,7 +6731,7 @@ _Modifié par_:
   - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=84></a>
+##### Section 3 : Contentieux des opérations électorales<a id=87></a>
 
 ###### Article R513-25
 
@@ -5974,9 +6757,9 @@ _Cite_:
   - Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=85></a>
+### Titre II : Incitation à l'action mutualiste<a id=88></a>
 
-#### Chapitre III : Subventions<a id=86></a>
+#### Chapitre III : Subventions<a id=89></a>
 
 ###### Article R523-1
 
@@ -6012,9 +6795,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Contrôle<a id=87></a>
+### Titre III : Contrôle<a id=90></a>
 
-#### Chapitre Ier : Commission de contrôle<a id=88></a>
+#### Chapitre Ier : Commission de contrôle<a id=91></a>
 
 ###### Article R531-1
 
@@ -6193,7 +6976,7 @@ _Modifié par_:
   - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 
-#### Chapitre II : Contrôle exercé au niveau régional<a id=89></a>
+#### Chapitre II : Contrôle exercé au niveau régional<a id=92></a>
 
 ###### Article R531-7
 
@@ -6240,9 +7023,9 @@ _Cite_:
   - Code de la mutualité L531-1, L531-1 à L531-4, L531-6, L531-2 à L531-4, L531-5
 
 
-### Titre IV : Dispositions pénales<a id=90></a>
+### Titre IV : Dispositions pénales<a id=93></a>
 
-#### Chapitre unique<a id=91></a>
+#### Chapitre unique<a id=94></a>
 
 ###### Article R541-1
 
@@ -6287,11 +7070,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations les collectivités publiques<a id=92></a>
+## Livre V : Relations les collectivités publiques<a id=95></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=93></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=96></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=94></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=97></a>
 
 ###### Article R511-2
 
