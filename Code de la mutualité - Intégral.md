@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-05-05
+Version Consolidée au 2002-07-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -87,15 +87,15 @@ Version Consolidée au 2002-05-05
         - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#84)
   - [Partie réglementaire - Arrêtés (art. A211-1 à A222-2)](#85)
     - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A222-2)](#86)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-19)](#87)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-24)](#87)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#88)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#89)
-        - [Chapitre II : Régime financier et comptable (art. A212-1 à A212-19)](#90)
-          - [Section 1 : Marge de solvabilité (art. A212-1 à A212-3)](#91)
-          - [Section 2 : Provisions techniques (art. A212-4 à A212-9)](#92)
-          - [Section 3 : (Pas d'intitulé) (art. A212-10 à A212-14)](#93)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs (art. A212-15 à A212-20)](#94)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs (art. A212-19)](#95)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A212-24)](#90)
+          - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#91)
+          - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#92)
+          - [Section 3 (art. A212-10 à A212-14)](#93)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#94)
+          - [Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-21 à A212-24)](#95)
       - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A222-2)](#96)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#97)
   - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#98)
@@ -12551,9 +12551,9 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-#### Chapitre II : Régime financier et comptable<a id=90></a>
+#### Chapitre II : Fonctionnement.<a id=90></a>
 
-##### Section 1 : Marge de solvabilité<a id=91></a>
+##### Section 1 : Marge de solvabilité.<a id=91></a>
 
 ###### Article A212-1
 
@@ -12606,9 +12606,9 @@ remboursement est subordonné à autorisation préalable de la commission de con
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12634,9 +12634,9 @@ l'exercice. Il n'est pas tenu compte des profits et charges à caractère except
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12645,6 +12645,10 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-3
@@ -12663,9 +12667,9 @@ compte de l'extinction des bulletins d'adhésion ou des contrats collectifs avan
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12676,7 +12680,7 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-##### Section 2 : Provisions techniques<a id=92></a>
+##### Section 2 : Provisions techniques.<a id=92></a>
 
 ###### Article A212-4
 
@@ -12686,9 +12690,9 @@ sur la base de méthodes statistiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12697,6 +12701,10 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-5
@@ -12720,9 +12728,9 @@ mutuelle ou l'union, autoriser l'utilisation d'un taux inférieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12744,9 +12752,13 @@ au 4° de l'article R. 212-23 est augmentée de la différence ainsi constatée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 _Cite_:
 
@@ -12768,17 +12780,21 @@ possible, en particulier lorsque le traité prévoit dans ce cas des pénalités
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) R212-23, A212-8
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-23, A212-8
 
 
 ###### Article A212-8
@@ -12795,9 +12811,9 @@ provision pour charges ou une dette à l'égard du réassureur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -12806,6 +12822,10 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-9
@@ -12833,9 +12853,9 @@ semestrielle, sans pouvoir dépasser 4,5 %.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 3 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 **Liens**:
 
@@ -12851,7 +12871,7 @@ _Cite_:
   - Code de la mutualité - art. L510-1 (M)
 
 
-##### Section 3 : (Pas d'intitulé)<a id=93></a>
+##### Section 3<a id=93></a>
 
 ###### Article A212-10
 
@@ -12878,9 +12898,13 @@ peut utiliser les tables visées au premier tiret du 2° avec une méthode forfa
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L111-1, L510-1
 
 **Liens**:
 
@@ -12894,10 +12918,6 @@ _Cité par_:
   - Arrêté du 8 décembre 2006 - art. 8 (M)
   - Arrêté du 8 décembre 2006 - art. 9 (M)
 
-_Cite_:
-
-  - Code de la mutualité (nouveau) L111-1, L510-1
-
 
 ###### Article A212-11
 
@@ -12910,13 +12930,17 @@ bulletin d'adhésion, ni inférieure à la provision correspondant au capital r�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-12
@@ -12942,9 +12966,9 @@ modification des bases de calcul des provisions mathématiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 **Liens**:
 
@@ -12973,9 +12997,9 @@ rentes viagères supérieur ou égal à celui obtenu avec la table TV 88-90 ment
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 **Liens**:
 
@@ -13019,9 +13043,9 @@ admis en représentation des provisions techniques, à l'exception des valeurs r
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 4 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13032,7 +13056,7 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-##### Section 5 : Réglementation des placements et autres éléments d'actifs<a id=94></a>
+##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=94></a>
 
 ###### Article A212-15
 
@@ -13070,9 +13094,9 @@ ci estime que les conditions l'ayant justifiée ne sont plus remplies.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13114,9 +13138,9 @@ Le tiers expert dépose ses conclusions et les notifie aux deux parties dans les
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13141,9 +13165,9 @@ fixé au quatrième alinéa de cet article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13171,9 +13195,9 @@ de quinze jours à compter de la réception de l'état des vacations.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13183,28 +13207,6 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-
-###### Article A212-20
-
-Les mutuelles et unions pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1, maintiennent le revenu
-net de leurs placements à un montant au moins égal à celui des intérêts dont sont créditées les provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) L111-1
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-##### Section 5 : Réglementation des placements et autres éléments d'actifs<a id=95></a>
 
 ###### Article A212-19
 
@@ -13245,9 +13247,9 @@ exercée, l'option prévue au présent paragraphe ne peut être remise en cause.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 5 JORF 5 mai 2002
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -13260,6 +13262,168 @@ _Cite_:
 _Cité par_:
 
   - Arrêté du 22 avril 2004 - art. 14 (Ab)
+
+
+###### Article A212-20
+
+Les mutuelles et unions pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1, maintiennent le revenu
+net de leurs placements à un montant au moins égal à celui des intérêts dont sont créditées les provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L111-1
+
+
+##### Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=95></a>
+
+###### Article A212-21
+
+Les documents visés au premier alinéa de l'article L. 212-8 sont les suivants :
+
+a) La dénomination et l'adresse du siège social de la mutuelle ou de l'union ;
+
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
+
+c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b peuvent demander des informations en vue de
+l'exercice de leurs compétences ;
+
+d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux a et f (1, 3, 4, 5) de
+l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité, les comptes de résultat prévisionnels,
+les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+
+e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnée au f (2 et 10)
+de l'article A. 211-1 ;
+
+f) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 de l'article R. 211-2,
+l'option choisie parmi celles énoncées à l'article L. 224-7 ;
+
+g) Le nom et les pouvoirs du mandataire général.
+
+Ces documents doivent être adressés en double exemplaire, accompagnés de la traduction certifiée conforme dans la langue
+officielle de l'Etat membre de la succursale des informations mentionnées aux a, c à g du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Abrogé par_:
+
+  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-8, A211-1, R211-2, L224-7
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-22
+
+La notification prévue au deuxième alinéa de l'article L. 212-8 est accompagnée des informations mentionnées aux a, c, d, f,
+g de l'article A. 212-21, dans leur traduction certifiée conforme dans la langue de l'Etat de la succursale, ainsi que d'une
+attestation de la commission de contrôle mentionnée à l'article L. 510-1 certifiant que la mutuelle ou l'union dispose de la
+marge de solvabilité conformément aux dispositions du 3° de l'article L. 212-1.
+
+La date de réception de la notification par les autorités compétentes de l'Etat sur le territoire duquel la mutuelle ou
+l'union se propose d'ouvrir la succursale est communiquée à ces organismes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Abrogé par_:
+
+  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-8, A212-21, L510-1, L212-1
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-23
+
+La succursale peut commencer ses activités dès réception par la mutuelle ou l'union d'une communication de l'autorité
+administrative mentionnée à l'article R. 211-7 lui indiquant les conditions dans lesquelles les autorités de l'Etat de la
+succursale entendent que ces activités soient exercées sur leur territoire.
+
+En tout état de cause, la succursale peut commencer ses activités à l'expiration d'un délai de deux mois à compter de la
+réception par ces dernières autorités de la notification mentionnée à l'article A. 212-22.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Abrogé par_:
+
+  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R211-7, A212-22
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A212-24
+
+Tout projet de modification visé à l'article L. 212-10 est communiqué par la mutuelle ou l'union simultanément aux autorités
+compétentes de l'Etat membre de la succursale et à l'autorité administrative mentionnée à l'article R. 211-7. La
+communication au ministre de la mutualité ou au préfet de région est accompagnée des documents mentionnés à l'article A.
+212-21 affectés par le projet de modification.
+
+Lorsque, en application de l'article L. 212-10, l'autorité administrative mentionnée à l'article R. 211-7 notifie un tel
+projet de modification aux autorités compétentes de l'Etat membre de la succursale, il accompagne la notification d'un
+dossier comportant ceux des documents mentionnés à l'article A. 212-21 qui font l'objet d'une modification.
+
+La modification de la nature ou des conditions d'exercice des activités de la succursale ne peut intervenir avant
+l'expiration d'un délai d'un mois à compter de la notification par la mutuelle ou l'union à l'autorité mentionnée à l'article
+R. 211-7 et aux autorités compétentes de l'Etat membre de la succursale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+
+_Abrogé par_:
+
+  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-10, R211-7, A212-21
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
 ### Titre II : Opérations des mutuelles et des unions.<a id=96></a>
