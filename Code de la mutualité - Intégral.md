@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -23,8 +23,8 @@ Version Consolidée au 1993-01-05
       - [Titre III : Mutuelle des militaires (art. L231-1 à L231-4)](#20)
         - [Chapitre unique (art. L231-1 à L231-4)](#21)
     - [Livre III : Réparation des risques sociaux (art. L311-1 à L321-9)](#22)
-      - [Titre Ier : Règles générales (art. L311-1 à L311-5)](#23)
-        - [Chapitre unique (art. L311-1 à L311-5)](#24)
+      - [Titre Ier : Règles générales (art. L311-1 à L311-8)](#23)
+        - [Chapitre unique (art. L311-1 à L311-8)](#24)
       - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. L321-1 à L321-9)](#25)
         - [Chapitre unique (art. L321-1 à L321-9)](#26)
     - [Livre IV : Action sociale (art. L411-1 à L411-8)](#27)
@@ -748,6 +748,37 @@ _Cité par_:
 
   - Code de la mutualité - art. R124-3 (Ab)
   - Code de la mutualité - art. R124-4 (Ab)
+
+
+###### Article L124-5-1
+
+Les mutuelles peuvent émettre des titres participatifs dans les conditions prévues par les articles 283-6 et 283-7 de la loi
+n° 66-537 du 24 juillet 1966 sur les sociétés commerciales. Pour l'application de ces dispositions, les mots : "assemblée
+d'actionnaires ou de porteurs de parts" désignent : "l'assemblée générale des membres honoraires et participants", et le
+mot :
+
+"actionnaire" désigne : "les membres honoraires et participants".
+
+En ce qui concerne leur rémunération, la partie variable de ces titres participatifs ne peut être calculée par référence à un
+critère représentatif du volume d'activité de la mutuelle émettrice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 283-6, art. 283-7
+
+_Codifié par_:
+
+  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Créé par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 VI JORF 30 janvier 1993
+
+_Abrogé par_:
+
+  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 
 ###### Article L124-6
@@ -1538,20 +1569,21 @@ _Cité par_:
 
 ###### Article L311-1
 
-Un décret en Conseil d'Etat :
-
-a) Détermine les règles de sécurité financière relatives aux engagements des mutuelles ;
-
-b) Précise les conditions dans lesquelles les mutuelles doivent se garantir auprès d'une fédération mutualiste gérant un
-système de garantie dont le règlement est soumis à l'approbation de l'autorité administrative ;
-
-c) Détermine le règlement type des systèmes de garantie et des dispositions à caractère obligatoire.
+Un décret en Conseil d'Etat détermine les règles de sécurité financière relatives aux engagements des mutuelles.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Modifié par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 I JORF 30 janvier 1993
+
+_Abrogé par_:
+
+  - Loi n°94-43 du 18 janvier 1994 - art. 83 () JORF 19 janvier 1994
 
 _Cité par_:
 
@@ -1563,11 +1595,36 @@ _Cité par_:
 Les mutuelles ne peuvent se réassurer qu'auprès des unions et fédérations mutualistes. Les unions ne peuvent se réassurer
 qu'auprès des fédérations.
 
+Dans tous les cas où une mutuelle se réassure contre un risque qu'elle garantit, elle reste seule responsable vis-à-vis des
+personnes garanties.
+
+Les fédérations mutualistes gérant au moins une caisse autonome peuvent se réassurer auprès d'organismes pratiquant la
+réassurance.
+
+Les fédérations mutualistes gérant au moins une caisse autonome peuvent, dans des conditions d'activité et de sécurité
+financière fixées par décret en Conseil d'Etat, prévoir dans leurs statuts et règlements l'acceptation en réassurance des
+risques mentionnés au 1° de l'article L. 111-1.
+
+Les opérations mises en oeuvre au titre du troisième et du quatrième alinéa du présent article font l'objet de comptes
+distincts.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Modifié par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 II JORF 30 janvier 1993
+
+_Abrogé par_:
+
+  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+_Cite_:
+
+  - Code de la mutualité - art. L111-1 (Ab)
 
 
 ###### Article L311-3
@@ -1639,6 +1696,118 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+
+###### Article L311-6
+
+Il est créé une caisse mutualiste de garantie dotée de la personnalité morale auprès de laquelle les mutuelles doivent se
+garantir, dans des conditions fixées par voie réglementaire.
+
+Les articles L. 124-2, L. 124-7, L. 125-5, L. 125-6, L. 125-7, L. 125-8, L. 125-10 et L. 125-11 sont applicables à la caisse
+mutualiste de garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Créé par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°93-688 du 27 mars 1993 - art. 4 (V)
+  - TXT_ASSOCIE: Décret n°93-688 du 27 mars 1993 - art. 5 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L124-2 (Ab)
+  - Code de la mutualité - art. L124-7 (Ab)
+  - Code de la mutualité - art. L125-10 (Ab)
+  - Code de la mutualité - art. L125-11 (Ab)
+  - Code de la mutualité - art. L125-5 (Ab)
+  - Code de la mutualité - art. L125-6 (Ab)
+  - Code de la mutualité - art. L125-7 (Ab)
+  - Code de la mutualité - art. L125-8 (Ab)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-2 (P)
+
+_Abrogé par_:
+
+  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
+
+
+###### Article L311-7
+
+Un décret en Conseil d'Etat détermine :
+
+1° Les modalités selon lesquelles, en fonction du nombre de leurs cotisants, les mutuelles peuvent être représentées à
+l'assemblée générale de la caisse mutualiste de garantie ;
+
+2° La composition du conseil d'administration et du bureau de la caisse mutualiste de garantie, le mode de désignation de
+leurs membres, la nature et la durée de leurs pouvoirs ;
+
+3° Les droits et obligations des mutuelles garanties ;
+
+4° Les règles de gestion administrative et financière ;
+
+5° Le règlement de la caisse mutualiste de garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Créé par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993 rectificatif JORF 23 avril 1993
+
+_Cité par_:
+
+  - Code de la mutualité - art. R311-6 (P)
+
+_Abrogé par_:
+
+  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
+
+
+###### Article L311-8
+
+La commission de contrôle instituée par l'article L. 531-1 du présent code veille au respect des dispositions applicables à
+la caisse mutualiste de garantie, dans les conditions fixées aux articles L. 531-1-2, L. 531-1-3, L. 531-1-4, L. 531-1-5, L.
+531-1-6, L. 531-2, L. 531-3, L. 531-4 et L. 531-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+_Créé par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993
+
+_Cite_:
+
+  - Code de la mutualité - art. L531-1 (M)
+  - Code de la mutualité - art. L531-1-2 (Ab)
+  - Code de la mutualité - art. L531-1-3 (Ab)
+  - Code de la mutualité - art. L531-1-4 (Ab)
+  - Code de la mutualité - art. L531-1-5 (Ab)
+  - Code de la mutualité - art. L531-1-6 (Ab)
+  - Code de la mutualité - art. L531-2 (M)
+  - Code de la mutualité - art. L531-3 (M)
+  - Code de la mutualité - art. L531-4 (M)
+  - Code de la mutualité - art. L531-6 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
 
 
 ### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=25></a>
@@ -1745,7 +1914,7 @@ risques ainsi que les règles de sécurité des engagements relatives notamment 
 applicables aux caisses autonomes mutualistes.
 
 Ce décret fixe également les conditions dans lesquelles les caisses sont tenues de se réassurer auprès d'autres caisses
-autonomes mutualistes ou de la caisse nationale de prévoyance.
+autonomes mutualistes ou d'organismes pratiquant la réassurance.
 
 **Liens relatifs à cet article**
 
@@ -1753,9 +1922,17 @@ _Codifié par_:
 
   - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+_Modifié par_:
+
+  - Loi n°93-121 1993-01-27 art. 49 IV JORF 30 janvier 1993
+
 _Cité par_:
 
   - Arrêté du 26 décembre 1997 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 
 ###### Article L321-5
