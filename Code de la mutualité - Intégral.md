@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1994-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -22,9 +22,9 @@ Version Consolidée au 1993-03-28
         - [Chapitre unique (art. L221-1)](#19)
       - [Titre III : Mutuelle des militaires (art. L231-1 à L231-4)](#20)
         - [Chapitre unique (art. L231-1 à L231-4)](#21)
-    - [Livre III : Réparation des risques sociaux (art. L311-1 à L321-9)](#22)
-      - [Titre Ier : Règles générales (art. L311-1 à L311-8)](#23)
-        - [Chapitre unique (art. L311-1 à L311-8)](#24)
+    - [Livre III : Réparation des risques sociaux (art. L311-2 à L321-9)](#22)
+      - [Titre Ier : Règles générales (art. L311-2 à L311-5)](#23)
+        - [Chapitre unique (art. L311-2 à L311-5)](#24)
       - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. L321-1 à L321-9)](#25)
         - [Chapitre unique (art. L321-1 à L321-9)](#26)
     - [Livre IV : Action sociale (art. L411-1 à L411-8)](#27)
@@ -1568,29 +1568,6 @@ _Cité par_:
 
 #### Chapitre unique<a id=24></a>
 
-###### Article L311-1
-
-Un décret en Conseil d'Etat détermine les règles de sécurité financière relatives aux engagements des mutuelles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
-
-_Modifié par_:
-
-  - Loi n°93-121 1993-01-27 art. 49 I JORF 30 janvier 1993
-
-_Abrogé par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 83 () JORF 19 janvier 1994
-
-_Cité par_:
-
-  - Décret n°88-385 du 15 avril 1988 - art. Annexe, article 1 (V)
-
-
 ###### Article L311-2
 
 Les mutuelles ne peuvent se réassurer qu'auprès des unions et fédérations mutualistes. Les unions ne peuvent se réassurer
@@ -1697,118 +1674,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
-
-
-###### Article L311-6
-
-Il est créé une caisse mutualiste de garantie dotée de la personnalité morale auprès de laquelle les mutuelles doivent se
-garantir, dans des conditions fixées par voie réglementaire.
-
-Les articles L. 124-2, L. 124-7, L. 125-5, L. 125-6, L. 125-7, L. 125-8, L. 125-10 et L. 125-11 sont applicables à la caisse
-mutualiste de garantie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
-
-_Créé par_:
-
-  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°93-688 du 27 mars 1993 - art. 4 (V)
-  - TXT_ASSOCIE: Décret n°93-688 du 27 mars 1993 - art. 5 (V)
-
-_Cite_:
-
-  - Code de la mutualité - art. L124-2 (Ab)
-  - Code de la mutualité - art. L124-7 (Ab)
-  - Code de la mutualité - art. L125-10 (Ab)
-  - Code de la mutualité - art. L125-11 (Ab)
-  - Code de la mutualité - art. L125-5 (Ab)
-  - Code de la mutualité - art. L125-6 (Ab)
-  - Code de la mutualité - art. L125-7 (Ab)
-  - Code de la mutualité - art. L125-8 (Ab)
-
-_Cité par_:
-
-  - Code de la mutualité - art. R311-2 (P)
-
-_Abrogé par_:
-
-  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
-
-
-###### Article L311-7
-
-Un décret en Conseil d'Etat détermine :
-
-1° Les modalités selon lesquelles, en fonction du nombre de leurs cotisants, les mutuelles peuvent être représentées à
-l'assemblée générale de la caisse mutualiste de garantie ;
-
-2° La composition du conseil d'administration et du bureau de la caisse mutualiste de garantie, le mode de désignation de
-leurs membres, la nature et la durée de leurs pouvoirs ;
-
-3° Les droits et obligations des mutuelles garanties ;
-
-4° Les règles de gestion administrative et financière ;
-
-5° Le règlement de la caisse mutualiste de garantie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
-
-_Créé par_:
-
-  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993 rectificatif JORF 23 avril 1993
-
-_Cité par_:
-
-  - Code de la mutualité - art. R311-6 (P)
-
-_Abrogé par_:
-
-  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
-
-
-###### Article L311-8
-
-La commission de contrôle instituée par l'article L. 531-1 du présent code veille au respect des dispositions applicables à
-la caisse mutualiste de garantie, dans les conditions fixées aux articles L. 531-1-2, L. 531-1-3, L. 531-1-4, L. 531-1-5, L.
-531-1-6, L. 531-2, L. 531-3, L. 531-4 et L. 531-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
-
-_Créé par_:
-
-  - Loi n°93-121 1993-01-27 art. 49 III JORF 30 janvier 1993
-
-_Cite_:
-
-  - Code de la mutualité - art. L531-1 (M)
-  - Code de la mutualité - art. L531-1-2 (Ab)
-  - Code de la mutualité - art. L531-1-3 (Ab)
-  - Code de la mutualité - art. L531-1-4 (Ab)
-  - Code de la mutualité - art. L531-1-5 (Ab)
-  - Code de la mutualité - art. L531-1-6 (Ab)
-  - Code de la mutualité - art. L531-2 (M)
-  - Code de la mutualité - art. L531-3 (M)
-  - Code de la mutualité - art. L531-4 (M)
-  - Code de la mutualité - art. L531-6 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°93-43 1994-01-18 art. 83 JORF 19 janvier 1994
 
 
 ### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=25></a>
