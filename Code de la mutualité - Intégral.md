@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -48,9 +48,9 @@ Version Consolidée au 1992-01-04
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-1 à R126-4)](#45)
       - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-1 à R126-4)](#46)
         - [Chapitre II : Statuts (art. R122-1 à R122-4)](#47)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-8)](#48)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-9)](#48)
           - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#49)
-          - [Section 2 : Dépôts, placements de fonds et réserves (art. R124-3 à R124-8)](#50)
+          - [Section 2 : Dépôts, placements de fonds et réserves (art. R124-3 à R124-9)](#50)
         - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#51)
         - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#52)
     - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#53)
@@ -87,8 +87,8 @@ Version Consolidée au 1992-01-04
           - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#84)
       - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#85)
         - [Chapitre III : Subventions (art. R523-1 à R523-2)](#86)
-      - [Titre III : Contrôle (art. R531-1 à R531-3)](#87)
-        - [Chapitre unique (art. R531-1 à R531-3)](#88)
+      - [Titre III : Commission de contrôle (art. R531-1 à R531-6)](#87)
+        - [Chapitre unique (art. R531-1 à R531-6)](#88)
       - [Titre IV : Dispositions pénales (art. R541-1)](#89)
         - [Chapitre unique (art. R541-1)](#90)
     - [Livre V : Relations les collectivités publiques (art. R511-2)](#91)
@@ -3243,6 +3243,36 @@ _Codifié par_:
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
 
+###### Article R124-9
+
+Dans les trois premiers mois de chaque année [*délai, périodicité*], les mutuelles doivent adresser aux commissaires de la
+République, dans les formes déterminées par le ministre chargé de la mutualité, un état de leurs effectifs, de leurs
+placements de fonds, de leurs recettes et dépenses y compris celles des établissements, oeuvres ou services créés ou gérés
+par elles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Cité par_:
+
+  - Arrêté du 27 juillet 1988 - art. 6 (V)
+
+_Créé par_:
+
+  - Décret n°92-328 du 30 mars 1992 - art. 2 () JORF 1er avril 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+_Anciens textes_:
+
+  - Code de la mutualité - art. R531-1 (T)
+
+
 #### Chapitre V : Assemblée générale et administration des mutuelles<a id=51></a>
 
 ###### Article R125-1
@@ -5801,29 +5831,15 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Contrôle<a id=87></a>
+### Titre III : Commission de contrôle<a id=87></a>
 
 #### Chapitre unique<a id=88></a>
 
 ###### Article R531-1
 
-Dans les trois premiers mois de chaque année [*délai, périodicité*], les mutuelles doivent adresser aux commissaires de la
-République, dans les formes déterminées par le ministre chargé de la mutualité, un état de leurs effectifs, de leurs
-placements de fonds, de leurs recettes et dépenses y compris celles des établissements, oeuvres ou services créés ou gérés
-par elles.
+La commission de contrôle mentionnée à l'article L. 531-1 se réunit sur convocation de son président.
 
-Le ministre chargé de la mutualité peut faire procéder au contrôle sur place des opérations des mutuelles par les membres de
-l'inspection générale des affaires sociales, par les agents de contrôle de ses services extérieurs ou par les fonctionnaires
-de son choix.
-
-Le ministre chargé des finances peut également faire procéder aux mêmes vérifications par l'inspection générale des finances
-et par les comptables supérieurs du Trésor.
-
-Le commissaire de la République peut faire procéder aux mêmes vérifications sur les mutuelles soumises à son contrôle par les
-agents de contrôle des services extérieurs susmentionnés.
-
-Les mutuelles sont tenues [*obligation*] de communiquer aux fonctionnaires et agents chargés du contrôle sur pièce ou sur
-place leurs livres registres, procès-verbaux et pièces comptables de toute nature.
+En matière disciplinaire, elle ne peut délibérer que si quatre, au moins, de ses membres sont présents [*quorum*].
 
 **Nota:**
 
@@ -5835,9 +5851,13 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°92-328 du 30 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+
+_Cite_:
+
+  - Code de la mutualité - art. L531-1 (M)
 
 _Nouveaux textes_:
 
@@ -5855,8 +5875,13 @@ _Cité par_:
 
 ###### Article R531-2
 
-L'autorité administrative compétente pour engager les procédures prévues aux articles L. 531-2, L. 531-3 et L. 531-4 est
-déterminée suivant les dispositions de l'article R. 122-1.
+Lorsque la commission estime qu'il peut y avoir lieu de faire application des sanctions prévues à l'article L. 531-5, elle
+porte à la connaissance de la mutuelle concernée, par lettre recommandée avec demande d'avis de réception adressée au
+représentant légal de la mutuelle, les faits qui lui sont reprochés ; elle lui fait savoir qu'il peut prendre connaissance et
+copie des pièces du dossier ; elle l'invite à faire parvenir ses observations écrites dans un délai qui ne peut être
+inférieur à huit jours.
+
+Copie de la lettre de notification est adressée au commissaire du Gouvernement.
 
 **Nota:**
 
@@ -5868,39 +5893,9 @@ _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la mutualité - art. L531-2 (M)
-  - Code de la mutualité - art. L531-3 (M)
-  - Code de la mutualité - art. L531-4 (M)
-  - Code de la mutualité - art. R122-1 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
-
-_Cité par_:
-
-  - Code de la mutualité - art. R231-1 (V)
-
-
-###### Article R531-3
-
-Le retrait d'approbation prévu à l'article L. 531-5 est prononcé par arrêté motivé du ministre chargé de la mutualité, après
-avis de la section permanente du Conseil supérieur de la mutualité.
-
-En cas de recours contentieux devant la juridiction administrative, les opérations de liquidation sont suspendues jusqu'à ce
-que cette juridiction ait rendu une décision définitive.
-
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
 
 _Cite_:
 
@@ -5913,6 +5908,120 @@ _Cite_:
 _Cité par_:
 
   - Code de la mutualité - art. R231-1 (V)
+
+
+###### Article R531-3
+
+Le représentant légal de la mutuelle est convoqué, par lettre recommandée avec demande d'avis de réception, pour être entendu
+par la commission : cette lettre doit lui parvenir huit jours au moins avant la date de la réunion de la commission
+[*condition de forme*].
+
+Il peut se faire assister ou représenter par toute personne de son choix.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+_Cité par_:
+
+  - Code de la mutualité - art. R231-1 (V)
+
+
+###### Article R531-4
+
+Lors de l'audition, le rapporteur, choisi parmi les membres de l'inspection générale des affaires sociales et les agents ou
+fonctionnaires commissionnés mentionnés à l'article L. 531-1-2, présente l'affaire.
+
+Le président peut faire entendre toute personne dont il estime l'audition utile.
+
+Le secrétaire général et le commissaire du Gouvernement peuvent présenter des observations.
+
+Le représentant de la mutuelle et, le cas échéant, son conseil doivent dans tous les cas pouvoir prendre la parole en
+dernier.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+
+_Cite_:
+
+  - Code de la mutualité - art. L531-1-2 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+
+###### Article R531-5
+
+En matière disciplinaire la décision est prise en la seule présence du président, des membres de la commission, du secrétaire
+général et du commissaire du Gouvernement. La décision est signée du président.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+
+###### Article R531-6
+
+La décision de la commission de contrôle en matière disciplinaire est notifiée à la mutuelle concernée par lettre recommandée
+avec demande d'avis de réception.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
 
 
 ### Titre IV : Dispositions pénales<a id=89></a>
