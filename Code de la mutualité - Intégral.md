@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1988-08-01
+Version Consolidée au 1989-06-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -65,34 +65,35 @@ Version Consolidée au 1988-08-01
         - [Chapitre unique (art. R311-1 à R311-4)](#62)
       - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R326-3)](#63)
         - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#64)
-        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-9)](#65)
+        - [Chapitre II : Règles de sécurité financière (art. R322-1 à R322-15)](#65)
           - [Section 1 : Provisions techniques (art. R322-1 à R322-6)](#66)
           - [Section 2 : Marge de sécurité (art. R322-7 à R322-9)](#67)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#68)
-        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#69)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#70)
-        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-1 à R326-3)](#71)
-    - [Livre IV : Action sociale (art. R411-1)](#72)
-      - [Titre unique (art. R411-1)](#73)
-        - [Chapitre unique (art. R411-1)](#74)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#75)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#76)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#77)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#78)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#79)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-16)](#80)
-          - [Section Ier : Elections au conseil supérieur de la mutualité (art. R513-17)](#81)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#82)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#83)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#84)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#85)
-      - [Titre III : Contrôle (art. R531-1 à R531-3)](#86)
-        - [Chapitre unique (art. R531-1 à R531-3)](#87)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#88)
-        - [Chapitre unique (art. R541-1)](#89)
-    - [Livre V : Relations les collectivités publiques (art. R511-2)](#90)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#91)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#92)
+          - [Section 3 : Placements des caisses autonomes mutualistes (art. R322-10 à R322-15)](#68)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#69)
+        - [Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès (art. R324-1 à R324-3)](#70)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#71)
+        - [Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation (art. R326-1 à R326-3)](#72)
+    - [Livre IV : Action sociale (art. R411-1)](#73)
+      - [Titre unique (art. R411-1)](#74)
+        - [Chapitre unique (art. R411-1)](#75)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#76)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#77)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#78)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#79)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#80)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-16)](#81)
+          - [Section Ier : Elections au conseil supérieur de la mutualité (art. R513-17)](#82)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#83)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#84)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#85)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#86)
+      - [Titre III : Contrôle (art. R531-1 à R531-3)](#87)
+        - [Chapitre unique (art. R531-1 à R531-3)](#88)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#89)
+        - [Chapitre unique (art. R541-1)](#90)
+    - [Livre V : Relations les collectivités publiques (art. R511-2)](#91)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-2)](#92)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-2)](#93)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=2></a>
@@ -3399,9 +3400,9 @@ Pour l'application des dispositions du présent titre, les risques mentionnés �
 1. Accidents.
 
 2. Incapacité de travail ou invalidité résultant de la maladie et autres risques comportant le service de prestations au-delà
-d'un an [*durée*].
+d'un an.
 
-3. Opérations comportant des engagements dont l'exécution dépend de la vie humaine (vieillesse, vie, décès).
+3. Opérations comportant des engagements dont l'exécution dépend de la durée de la vie humaine (vieillesse, vie, décès).
 
 4. Prévoyance collective mentionnée à l'article L. 121-1 (2e alinéa).
 
@@ -3412,10 +3413,6 @@ d'un an [*durée*].
 _Codifié par_:
 
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Modifié par_:
-
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 _Cité par_:
 
@@ -3433,6 +3430,10 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
 
 _Cite_:
 
@@ -3869,12 +3870,131 @@ _Cite_:
   - Code de la mutualité - art. R322-7 (M)
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=68></a>
+##### Section 3 : Placements des caisses autonomes mutualistes<a id=68></a>
 
-###### Article R323-1
+###### Article R322-10
 
-Les caisses autonomes assurant la couverture du risque vieillesse par répartition à la date du 31 juillet 1988 sont seules
-autorisées à exercer cette activité dans les conditions prévues à la présente section.
+Les provisions techniques constituées en application de l'article R. 322-2 et les fonds des caisses autonomes de retraite par
+répartition, quelles que soient les réserves dont ils sont la contrepartie, ne peuvent être représentés que sous la forme des
+actifs ci-après :
+
+1° Obligations et titres participatifs inscrits à la cote officielle ou en instance d'inscription, obligations non cotées
+émises par l'Etat ou jouissant de sa garantie ;
+
+2° Actions et parts d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux relevant des chapitres
+III à V de la loi n° 88-1201 du 23 décembre 1988, dont l'objet est limité à la gestion d'un portefeuille de valeurs
+mentionnées au 1° ci-dessus ;
+
+3° Actions et droits de sociétés inscrites à la cote officielle ou à la cote du second marché des bourses françaises de
+valeurs, acquises par transaction effectuée sur une bourse française ;
+
+4° Actions et droits de sociétés non cotées à la cote officielle ou à la cote du second marché d'une bourse française de
+valeurs et actions de sociétés cotées sur une bourse étrangère ;
+
+5° Actions et parts d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux qui relèvent des
+chapitres III à V de la loi n° 88-1201 du 23 décembre 1988, dont l'actif est composé de 50 p. 100 au moins de valeurs
+mobilières françaises cotées ;
+
+6° Actions des établissements spécialisés dans le financement des coopératives, mutuelles et associations et agréés à cet
+effet par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+7° Actions et parts des unions d'économie sociale instituées par la loi n° 83-657 du 20 juillet 1983 et figurant sur une
+liste dressée conjointement par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+8° Immeubles bâtis situés en France ;
+
+9° Immeubles non bâtis situés en France et parts de groupements forestiers ;
+
+10° Actions et parts de sociétés immobilières ;
+
+11° Prêts aux communes, syndicats de communes, communautés urbaines, districts, départements, régions, territoires d'outre-
+mer et leurs établissements publics ;
+
+12° Prêts hypothécaires ;
+
+13° Prêts aux organismes d'habitations à loyer modéré, aux coopératives de construction et aux sociétés d'économie mixte de
+construction de logements ;
+
+14° Prêts à des établissements spécialisés dans le financement des coopératives, mutuelles et associations et agréés à cet
+effet par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+15° Prêts à des organismes mutualistes régis par le code de la mutualité ;
+
+16° Bons émis et négociables sur le marché hypothécaire ;
+
+17° Billets de trésorerie, certificats de dépôt, bons des institutions et sociétés financières régies par les articles 32, 35
+et 36 de la loi n° 85-1321 du 14 décembre 1985 ;
+
+18° Bons du Trésor ;
+
+19° Dépôts à terme à plus d'un an auprès de la Banque de France, de la Caisse des dépôts et consignations, d'un comptable du
+Trésor et des établissements de crédit ;
+
+20° Dépôts en compte courant ou dépôts à terme d'un an au plus aux chèques postaux, à la Banque de France, à la Caisse des
+dépôts et consignations, auprès d'un comptable du Trésor et dans les établissements de crédit.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-657 1983-07-20
+  - Loi n°85-1321 1985-12-14 art. 32, art. 35, art. 36
+  - Loi n°85-1321 du 14 décembre 1985 - art. 36 (Ab)
+  - Loi n°88-1201 1988-12-23
+  - Code de la mutualité - art. R322-2 (M)
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+_Cité par_:
+
+  - Décret n°90-1051 du 26 novembre 1990 - art. 29 (V)
+  - Code de la mutualité - art. R322-11 (Ab)
+  - Code de la mutualité - art. R322-12 (Ab)
+  - Code de la mutualité - art. R322-13 (Ab)
+
+
+###### Article R322-11
+
+I. - Rapportée au montant des provisions techniques, ou à l'ensemble de l'actif pour les caisses autonomes de retraite par
+répartition, la valeur au bilan des catégories d'actifs énumérées ci-après doit satisfaire aux limites suivantes :
+
+a) 34 p. 100 au moins pour les placements mentionnés aux 1° et 2° de l'article R. 322-10 ;
+
+b) 1 p. 100 au plus pour les placements mentionnés au 4° ;
+
+c) 10 p.  100 au plus pour les placements mentionnés aux 6° et 7° ;
+
+d) 25 p. 100 au plus pour les placements mentionnés du 8° au 10°, les placements mentionnés au 9° ne devant pas dépasser 5 p.
+100 ;
+
+e) 40 p. 100 au plus pour les placements mentionnés du 11° au 20°.
+
+II. - Le rapport avec l'ensemble des provisions techniques, ou l'ensemble de l'actif pour les caisses autonomes de retraite
+par répartition, ne peut dépasser :
+
+a) 5 p. 100 pour les créances de toute nature sur une même personne morale, à l'exception des valeurs du Trésor ou garanties
+par l'Etat ainsi que des actions et parts de sociétés d'investissement à capital variable ou fonds communs de placement dont
+l'objet est limité à la gestion d'un portefeuille de ces mêmes valeurs ;
+
+b) 5 p. 100 pour les actions ou parts d'une même société ; toutefois, pour les valeurs mentionnées au 5° de l'article R.
+322-10 émises par une même société ou un même fonds, ce taux est fixé à 10 p. 100 et, pour les valeurs mentionnées au 4° de
+l'article R. 322-10 émises par une même société, ce taux est fixé à 0,25 p. 100.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
 
 **Liens relatifs à cet article**
 
@@ -3884,7 +4004,153 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+_Cité par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 3 (V)
+  - Décret n°90-1051 du 26 novembre 1990 - art. 30 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-12
+
+Les caisses autonomes peuvent procéder à des opérations de ventes de contrats ainsi qu'à des achats d'options de ventes,
+négociés sur des marchés réglementés, en couverture d'actifs qu'elles détiennent au titre des catégories énumérées à
+l'article R. 322-10.
+
+Elles ne peuvent procéder à des achats de contrats ou à des ventes d'options de ventes que s'ils ont pour objet le dénouement
+des opérations mentionnées à l'alinéa précédent.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+_Cite_:
+
+  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-13
+
+Les prêts mentionnés au 13° de l'article R. 322-10 doivent avoir reçu la garantie d'une collectivité locale [*condition
+d'obtention*] ayant pour effet, avec renonciation au bénéfice de discussion et au bénéfice de division, de substituer
+immédiatement et sans réserve la collectivité garante au débiteur défaillant.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+_Cite_:
+
+  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-14
+
+Les prêts consentis par les caisses autonomes mutualistes à des organismes mutualistes régis par le code de la mutualité
+doivent être assortis, à la date de conclusion du prêt, d'un taux d'intérêt au moins égal au plus élevé des deux taux
+suivants :
+
+[*condition de validité*] le taux de calcul des provisions mathématiques majoré du quart, et un taux fixé par arrêté conjoint
+du ministre chargé de la mutualité et du ministre chargé des finances.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+_Cité par_:
+
+  - Arrêté du 7 juin 1989 - art. 2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+
+###### Article R322-15
+
+Les placements des caisses autonomes mutualistes font l'objet d'une évaluation au 31 décembre de chaque année
+[*périodicité*].
+
+L'état retraçant ces placements est communiqué au ministre chargé de la mutualité au plus tard le 30 juin [*date limite*]
+suivant dans les formes et selon les règles d'évaluation fixées par arrêté du ministre chargé de la mutualité et du ministre
+chargé des finances.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Créé par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 7 juin 1989
+  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=69></a>
+
+###### Article R323-1
+
+Les caisses autonomes assurant la couverture du risque vieillesse par répartition à la date du 31 juillet 1988 sont seules
+autorisées à exercer cette activité dans les conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+_Modifié par_:
+
+  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
 
 
 ###### Article R323-2
@@ -3964,7 +4230,7 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=69></a>
+#### Chapitre IV : Mutuelles assurant la couverture annuelle des risques accidents, invalidité, vie-décès<a id=70></a>
 
 ###### Article R324-1
 
@@ -4054,7 +4320,7 @@ _Cite_:
   - Code de la mutualité - art. R324-2 (M)
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=70></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=71></a>
 
 ###### Article R325-1
 
@@ -4187,7 +4453,7 @@ _Créé par_:
   - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 
-#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=71></a>
+#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation<a id=72></a>
 
 ###### Article R326-1
 
@@ -4289,11 +4555,11 @@ _Cite_:
   - Code de la mutualité - art. R326-1 (Ab)
 
 
-## Livre IV : Action sociale<a id=72></a>
+## Livre IV : Action sociale<a id=73></a>
 
-### Titre unique<a id=73></a>
+### Titre unique<a id=74></a>
 
-#### Chapitre unique<a id=74></a>
+#### Chapitre unique<a id=75></a>
 
 ###### Article R411-1
 
@@ -4322,11 +4588,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=75></a>
+## Livre V : Relations avec les collectivités publiques<a id=76></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=76></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=77></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=77></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=78></a>
 
 ###### Article R511-1
 
@@ -4411,7 +4677,7 @@ _Codifié par_:
   - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=78></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=79></a>
 
 ###### Article R512-1
 
@@ -4524,9 +4790,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=79></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=80></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=80></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=81></a>
 
 ###### Article R513-1
 
@@ -4982,7 +5248,7 @@ _Cite_:
   - Code de la mutualité - art. R513-15 (M)
 
 
-##### Section Ier : Elections au conseil supérieur de la mutualité<a id=81></a>
+##### Section Ier : Elections au conseil supérieur de la mutualité<a id=82></a>
 
 ###### Article R513-17
 
@@ -5004,7 +5270,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=82></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=83></a>
 
 ###### Article R513-18
 
@@ -5139,7 +5405,7 @@ _Modifié par_:
   - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=83></a>
+##### Section 3 : Contentieux des opérations électorales<a id=84></a>
 
 ###### Article R513-25
 
@@ -5165,9 +5431,9 @@ _Cite_:
   - Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=84></a>
+### Titre II : Incitation à l'action mutualiste<a id=85></a>
 
-#### Chapitre III : Subventions<a id=85></a>
+#### Chapitre III : Subventions<a id=86></a>
 
 ###### Article R523-1
 
@@ -5203,9 +5469,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Contrôle<a id=86></a>
+### Titre III : Contrôle<a id=87></a>
 
-#### Chapitre unique<a id=87></a>
+#### Chapitre unique<a id=88></a>
 
 ###### Article R531-1
 
@@ -5317,9 +5583,9 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-### Titre IV : Dispositions pénales<a id=88></a>
+### Titre IV : Dispositions pénales<a id=89></a>
 
-#### Chapitre unique<a id=89></a>
+#### Chapitre unique<a id=90></a>
 
 ###### Article R541-1
 
@@ -5364,11 +5630,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations les collectivités publiques<a id=90></a>
+## Livre V : Relations les collectivités publiques<a id=91></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=91></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=92></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=92></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=93></a>
 
 ###### Article R511-2
 
