@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-10-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L611-1)](#1)
     - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. L111-1 à L126-5)](#2)
@@ -1921,10 +1921,11 @@ décédés du fait de cette participation ;
 conflits d'Indochine ou de Corée, ainsi que des veuves, orphelins et ascendants des militaires décédés du fait de leur
 participation à ces combats ;
 
-6° Des anciens militaires et anciens membres des forces supplétives françaises ayant pris part aux opérations d'Afrique du
-Nord, titulaires du titre de reconnaissance de la Nation institué par l'article 77 de la loi n° 67-1114 du 21 décembre 1967
-ou titulaires de la carte du combattant attribuée dans les conditions fixées par la loi n° 74-1044 du 9 décembre 1974, ainsi
-que des veuves, orphelins et ascendants des militaires décédés du fait de leur participation à ces opérations.
+6° Des anciens militaires et anciens membres des forces supplétives françaises ayant pris part à la guerre d'Algérie ou aux
+combats en Tunisie et au Maroc, titulaires du titre de reconnaissance de la Nation institué par l'article 77 de la loi n°
+67-1114 du 21 décembre 1967 ou titulaires de la carte du combattant attribuée dans les conditions fixées par la loi n°
+74-1044 du 9 décembre 1974, ainsi que des veuves, orphelins et ascendants des militaires décédés du fait de leur
+participation à ces opérations.
 
 7° Des militaires des forces armées françaises ainsi que des personnes civiles titulaires de la carte du combattant ou du
 titre de reconnaissance de la nation du fait de leur participation, en vertu des décisions des autorités françaises, au sein
@@ -2032,7 +2033,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 122 () JORF 31 décembre 1998
+  - Loi n°99-882 du 18 octobre 1999 - art. 5 () JORF 20 octobre 1999
 
 
 ## Livre IV : Action sociale<a id=27></a>
