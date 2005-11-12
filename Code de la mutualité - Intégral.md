@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-10-11
+Version Consolidée au 2005-11-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -121,71 +121,73 @@ Version Consolidée au 2005-10-11
       - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#118)
         - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#119)
   - [Partie réglementaire - Arrêtés (art. A114-1 à A510-4)](#120)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-9)](#121)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-9)](#122)
-        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-9)](#123)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-10)](#121)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-10)](#122)
+        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-10)](#123)
     - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-4)](#124)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A212-24)](#125)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-2)](#125)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#126)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#127)
-        - [Chapitre II : Fonctionnement. (art. A212-1 à A212-24)](#128)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-2)](#128)
           - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#129)
           - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#130)
           - [Section 3 (art. A212-10 à A212-14)](#131)
           - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#132)
           - [Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-21 à A212-24)](#133)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#134)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#135)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#136)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#137)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#138)
-      - [Chapitre unique (art. A510-1 à A510-4)](#139)
-        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#140)
-        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#141)
-  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#142)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#143)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#144)
-        - [Chapitre II : Statuts (art. R122-4)](#145)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#146)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#147)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#148)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#149)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#150)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#151)
-        - [Chapitre unique (art. R211-1)](#152)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#153)
-        - [Chapitre unique (art. R221-1)](#154)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#155)
-        - [Chapitre unique (art. R231-1 à R231-2)](#156)
-    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#157)
-      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#158)
-        - [Chapitre unique (art. R311-2 à R311-22)](#159)
-          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#160)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#161)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#162)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#163)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#164)
-    - [Livre IV : Action sociale (art. R411-1)](#165)
-      - [Titre unique (art. R411-1)](#166)
-        - [Chapitre unique (art. R411-1)](#167)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#168)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#169)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#170)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#171)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#172)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#173)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#174)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#175)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#176)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#177)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#178)
-        - [Chapitre unique (art. R541-1)](#179)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#180)
-    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#181)
-    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#182)
-    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#183)
-    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#184)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#185)
+          - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#134)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#135)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#136)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#137)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#138)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#139)
+      - [Chapitre unique (art. A510-1 à A510-4)](#140)
+        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#141)
+        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#142)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#143)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#144)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#145)
+        - [Chapitre II : Statuts (art. R122-4)](#146)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#147)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#148)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#149)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#150)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#151)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#152)
+        - [Chapitre unique (art. R211-1)](#153)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#154)
+        - [Chapitre unique (art. R221-1)](#155)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#156)
+        - [Chapitre unique (art. R231-1 à R231-2)](#157)
+    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#158)
+      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#159)
+        - [Chapitre unique (art. R311-2 à R311-22)](#160)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#161)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#162)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#163)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#164)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#165)
+    - [Livre IV : Action sociale (art. R411-1)](#166)
+      - [Titre unique (art. R411-1)](#167)
+        - [Chapitre unique (art. R411-1)](#168)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#169)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#170)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#171)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#172)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#173)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#174)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#175)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#176)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#177)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#178)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#179)
+        - [Chapitre unique (art. R541-1)](#180)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#181)
+    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#182)
+    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#183)
+    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#184)
+    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#185)
+    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#186)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#187)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -17188,6 +17190,37 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
+###### Article A114-10
+
+Les mutuelles et unions soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 212-7-2 et
+des articles R. 213-1, R. 213-5 et R. 213-6 fournissent chaque année à la commission de contrôle mentionnée à l'article L.
+510-1, avant le 31 mai, un dossier constitué conformément aux annexes 1 et 2 du présent article.
+
+Le dossier est certifié par le président du conseil d'administration ou le directeur général dans les mutuelles ou unions,
+par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères, sous la formule suivante :
+"Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
+l'article L. 510-12 du code de la mutualité, conforme aux écritures de la mutuelle ou union et de ses organismes apparentés,
+et aux dispositions de la section VI du chapitre IV du livre Ier du même code."
+
+La commission de contrôle mentionnée à l'article L. 510-1 peut dispenser une mutuelle ou union de produire les éléments du
+dossier prévus à l'annexe 1 lorsque ce dossier est fourni par un organisme apparenté ou lorsque la commission a attribué
+l'exercice de la surveillance complémentaire à une autre autorité conformément à l'article R. 213-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
+
+_Cité par_:
+
+  - Arrêté du 21 décembre 2009 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-2, R213-1, R213-5, R213-6, L510-1, annexe 1
+
+
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=124></a>
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=125></a>
@@ -18296,9 +18329,83 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=134></a>
+##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=134></a>
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=135></a>
+###### Article A213-1
+
+Sont considérés comme pouvant être effectivement rendus disponibles pour couvrir la solvabilité ajustée des mutuelles ou
+unions participantes visées à l'article R. 213-1 et des mutuelles ou unions visées à l'article R. 213-5, et comme pouvant
+être pris en compte au titre des organismes apparentés intégrés dans le calcul de solvabilité ajustée les éléments suivants :
+
+1. Les plus-values latentes sur actifs dans la limite, s'agissant d'organismes assureurs sur la vie ou mixtes, de l'exigence
+de marge de solvabilité de l'organisme assureur à l'actif duquel ces actifs sont inscrits. Au-delà, les plus-values latentes
+sur actifs de ces organismes assureurs ne sont prises en compte qu'une fois déduits les droits à participations des assurés ;
+
+2. Les titres et emprunts subordonnés détenus en dehors de l'ensemble formé par les mutuelles ou unions et les organismes
+auxquels elles sont apparentées ou subordonnées dans la mesure où ils sont admis à contribuer à la constitution de la marge
+de solvabilité de l'organisme assureur au passif duquel ils sont inscrits. Toutefois, la commission de contrôle mentionnée à
+l'article L. 510-1 dispose de la capacité de considérer comme pouvant être rendue disponible une plus grande part de ces
+titres et emprunts, dès lors qu'elle considère comme adéquate la répartition à l'intérieur de l'ensemble formé par les
+mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées des éléments admissibles pour la
+marge ;
+
+3. Les rappels de cotisations des sociétés d'assurance mutuelle ou des mutuelles relevant du livre II du code de la
+mutualité, dans la mesure et pour le montant où ils sont admis à contribuer à la constitution de la marge de solvabilité de
+l'organisme assureur qui a la possibilité d'y faire appel ;
+
+4. Les intérêts minoritaires dans la mesure où ils sont admis à contribuer à la constitution de la marge de solvabilité de
+l'organisme assureur dont ils représentent une partie des fonds propres et dans la limite de la part de l'exigence de
+solvabilité de cet organisme correspondant au pourcentage de détention par lesdits intérêts minoritaires.
+
+En outre, dans tous les cas, ne peuvent être considérés comme pouvant être effectivement rendus disponibles les actifs des
+organismes dont le siège est situé dans un Etat exerçant des restrictions aux mouvements de capitaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 1 JORF 13 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R213-1, R213-5, L510-1
+
+
+###### Article A213-2
+
+La déclaration des opérations mentionnées à l'article R. 213-6 est jointe au dossier mentionné à l'article A. 114-10, annexe
+II. La mutuelle ou union soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont pas incluses dans
+les documents décrits à l'article A. 114-10, annexe II. Les opérations, effectuées directement ou indirectement avec les
+organismes auxquels elle est apparentée ou subordonnée, supérieures à 5 % des fonds propres ou à 0,5 % des provisions
+techniques de l'ensemble formé par ces organismes tels que calculés à la clôture de l'exercice précédent. Ce tableau doit
+isoler les opérations suivantes : les prêts, les transactions portant sur les éléments admissibles pour la marge de
+solvabilité, les investissements, l'état des cessions d'actifs internes à l'ensemble formé par ces organismes (notamment les
+ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan.
+
+Chacune de ces opérations doit être déclarée en précisant l'organisme vendeur, l'organisme acheteur, la valeur comptable dans
+le premier, le prix de vente et la référence ayant permis d'établir celui-ci.
+
+Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les trente jours à la
+commission de contrôle mentionnée à l'article L. 510-1.
+
+En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
+indirectement entre organismes apparentés du même ensemble formé par les mutuelles ou unions et les organismes auxquels elles
+sont apparentées ou subordonnées sont déclarés sans délai par la mutuelle ou union soumise à surveillance complémentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 1 JORF 13 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R213-6, A114-10, L510-1
+
+
+### Titre II : Opérations des mutuelles et des unions.<a id=135></a>
+
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=136></a>
 
 ###### Article A222-1
 
@@ -18403,9 +18510,9 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=136></a>
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=137></a>
 
-##### Section 1 : Dispositions générales.<a id=137></a>
+##### Section 1 : Dispositions générales.<a id=138></a>
 
 ###### Article A223-1
 
@@ -18506,11 +18613,11 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=138></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=139></a>
 
-### Chapitre unique<a id=139></a>
+### Chapitre unique<a id=140></a>
 
-#### Section 1 : Libre prestation de services.<a id=140></a>
+#### Section 1 : Libre prestation de services.<a id=141></a>
 
 ###### Article A510-1
 
@@ -18618,7 +18725,7 @@ _Modifié par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
 
 
-#### Section 2 : Contrôle déconcentré.<a id=141></a>
+#### Section 2 : Contrôle déconcentré.<a id=142></a>
 
 ###### Article A510-4
 
@@ -18652,13 +18759,13 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=142></a>
+# Partie réglementaire ancienne<a id=143></a>
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=143></a>
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=144></a>
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=144></a>
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=145></a>
 
-#### Chapitre II : Statuts<a id=145></a>
+#### Chapitre II : Statuts<a id=146></a>
 
 ###### Article R122-4
 
@@ -18684,9 +18791,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=146></a>
+#### Chapitre IV : Capacité civile et dispositions financières<a id=147></a>
 
-##### Section 1 : Dispositions générales<a id=147></a>
+##### Section 1 : Dispositions générales<a id=148></a>
 
 ###### Article R124-1
 
@@ -18752,7 +18859,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=148></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=149></a>
 
 ###### Article R125-1
 
@@ -18858,7 +18965,7 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=149></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=150></a>
 
 ###### Article R126-1
 
@@ -18976,11 +19083,11 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=150></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=151></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=151></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=152></a>
 
-#### Chapitre unique<a id=152></a>
+#### Chapitre unique<a id=153></a>
 
 ###### Article R211-1
 
@@ -19007,9 +19114,9 @@ _Cite_:
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=153></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=154></a>
 
-#### Chapitre unique<a id=154></a>
+#### Chapitre unique<a id=155></a>
 
 ###### Article R221-1
 
@@ -19036,9 +19143,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=155></a>
+### Titre III : Mutuelles des militaires<a id=156></a>
 
-#### Chapitre unique<a id=156></a>
+#### Chapitre unique<a id=157></a>
 
 ###### Article R231-1
 
@@ -19115,13 +19222,13 @@ _Cite_:
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=157></a>
+## Livre III : Réparation des risques sociaux<a id=158></a>
 
-### Titre Ier : Règles générales<a id=158></a>
+### Titre Ier : Règles générales<a id=159></a>
 
-#### Chapitre unique<a id=159></a>
+#### Chapitre unique<a id=160></a>
 
-##### Section 2 : Caisse mutualiste de garantie<a id=160></a>
+##### Section 2 : Caisse mutualiste de garantie<a id=161></a>
 
 ###### Article R311-2
 
@@ -19946,9 +20053,9 @@ _Créé par_:
   - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=161></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=162></a>
 
-#### Chapitre Ier : Dispositions générales<a id=162></a>
+#### Chapitre Ier : Dispositions générales<a id=163></a>
 
 ###### Article R321-1
 
@@ -20149,7 +20256,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=163></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=164></a>
 
 ###### Article R323-1
 
@@ -20244,7 +20351,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=164></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=165></a>
 
 ###### Article R325-1
 
@@ -20377,11 +20484,11 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-## Livre IV : Action sociale<a id=165></a>
+## Livre IV : Action sociale<a id=166></a>
 
-### Titre unique<a id=166></a>
+### Titre unique<a id=167></a>
 
-#### Chapitre unique<a id=167></a>
+#### Chapitre unique<a id=168></a>
 
 ###### Article R411-1
 
@@ -20414,11 +20521,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=168></a>
+## Livre V : Relations avec les collectivités publiques<a id=169></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=169></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=170></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=170></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=171></a>
 
 ###### Article R511-1
 
@@ -20537,7 +20644,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=171></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=172></a>
 
 ###### Article R512-1
 
@@ -20664,9 +20771,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=172></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=173></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=173></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=174></a>
 
 ###### Article R513-1
 
@@ -21182,7 +21289,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=174></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=175></a>
 
 ###### Article R513-18
 
@@ -21325,7 +21432,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=175></a>
+##### Section 3 : Contentieux des opérations électorales<a id=176></a>
 
 ###### Article R513-25
 
@@ -21354,9 +21461,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=176></a>
+### Titre II : Incitation à l'action mutualiste<a id=177></a>
 
-#### Chapitre III : Subventions<a id=177></a>
+#### Chapitre III : Subventions<a id=178></a>
 
 ###### Article R523-1
 
@@ -21408,9 +21515,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre IV : Dispositions pénales<a id=178></a>
+### Titre IV : Dispositions pénales<a id=179></a>
 
-#### Chapitre unique<a id=179></a>
+#### Chapitre unique<a id=180></a>
 
 ###### Article R541-1
 
@@ -21452,9 +21559,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=180></a>
+# Annexes<a id=181></a>
 
-## Annexe à l'article A114-4<a id=181></a>
+## Annexe à l'article A114-4<a id=182></a>
 
 ###### Article Annexe à l'article A114-4
 
@@ -21528,7 +21635,7 @@ _Cite_:
   - Code de la mutualité - art. L211-7
 
 
-## Annexes à l'article A114-5<a id=182></a>
+## Annexes à l'article A114-5<a id=183></a>
 
 ###### Article Annexe C1 à l'article A114-5
 
@@ -29727,7 +29834,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-7<a id=183></a>
+## Annexes à l'article A114-7<a id=184></a>
 
 ###### Article Annexe T1 à l'article A114-7
 
@@ -31176,7 +31283,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-9<a id=184></a>
+## Annexes à l'article A114-9<a id=185></a>
 
 ###### Article Annexe E1 à l'article A114-9
 
@@ -32984,7 +33091,213 @@ Total
 
 
 
-## Annexes à l'article A211-3<a id=185></a>
+## Annexes à l'article A114-10<a id=186></a>
+
+###### Article Annexe 1 à l'article A114-10
+
+1. Renseignements généraux
+
+La raison sociale de l'organisme consolidant ou combinant, son adresse, la date de sa constitution.
+
+Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration de cet
+organisme.
+
+Les nom, date et lieu de naissance, domicile, grade et fonction des personnels exerçant ces fonctions de direction au niveau
+de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées.
+
+Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants de l'organisme consolidant ou
+combinant.
+
+Le statut fiscal de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
+subordonnées.
+
+Liste des organismes consolidés ou combinés avec indication lorsqu'ils appartiennent à une activité soumise à un contrôle
+(banques, assurances, services d'investissement) des autorités de contrôle auxquelles ils sont soumis ainsi que de la part
+détenue et du montant des fonds propres.
+
+L'organigramme de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
+subordonnées avec les pourcentages de détention.
+
+La liste des prêts réalisés entre les organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
+elles sont apparentées ou subordonnées.
+
+2. Compte de résultat, bilans consolidés ou combinés et annexe complétés par les rapports de gestion et des commissaires aux
+comptes
+
+Lorsque l'organisme combinant ou consolidant a fait usage des facultés de dérogation prévues par le règlement CRC 2000-05
+pour ne pas retraiter les comptes d'un organisme, les sources d'écart sont explicitées et accompagnées d'une estimation
+chiffrée.
+
+Si l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées est soumis
+à obligation de publication des comptes par l'AMF, les documents établis en application de cette obligation sont joints au
+dossier annuel.
+
+Les informations des points 3, 5 et 6 ne sont pas exigées pour les organismes assureurs mis en équivalence.
+
+3. Etat de ventilation des principales données techniques (état G 1)
+
+Ventilation par organismes assureurs des cotisations émises, soldes de souscription, provisions techniques et contribution
+aux résultats. Doivent figurer dans cet état tous les organismes assureurs représentant plus de 5 % des cotisations ou des
+provisions techniques. Les organismes dans un même pays formant un sous-ensemble établissant des comptes combinés ou
+consolidés peuvent être regroupés. Les données des autres organismes sont regroupées en trois rubriques : France, Union
+européenne (hors France), reste du monde. Cette ventilation s'effectue séparément pour les activités vie et non-vie.
+
+4. Etat de marge ajustée (état G 2)
+
+Un premier tableau établit l'exigence de marge en ventilant selon le mode de consolidation ou de combinaison et en indiquant,
+le cas échéant, les pourcentages appliqués pour les organismes assureurs en intégration proportionnelle ou mises en
+équivalence :
+
+- pour les organismes établis dans l'Union européenne, cet état récapitule les exigences de marge de chaque organisme. S'il y
+a lieu, ce besoin de marge sera ensuite corrigé des incidences des cessions internes ;
+
+- pour les organismes hors Union européenne sont récapitulés les besoins de fonds propres et assimilés découlant des
+législations nationales. Ces éléments seront éventuellement corrigés des incidences de la réassurance interne.
+
+En pied de tableau sont indiquées à titre informatif pour les activités hors assurances réglementées les exigences de fonds
+propres découlant des législations régissant ces activités.
+
+Un second tableau analyse la façon dont ces exigences sont satisfaites au niveau de l'ensemble formé par les mutuelles ou
+unions et les organismes auxquels elles sont apparentées ou subordonnées :
+
+- fonds propres (part du groupe telle qu'elle figure au passif du bilan combiné) ;
+
+- intérêts minoritaires et leur affectabilité aux différentes entités ;
+
+- plus-values latentes et leur affectabilité aux différentes entités ;
+
+- autres éléments éventuels.
+
+5. Etat d'analyse de l'équilibre technique non-vie (état G 3)
+
+Ventilation par organisme assureur des soldes de souscription séparant résultat de l'exercice et résultat de la liquidation
+sur exercices antérieurs. Ces données sont brutes de réassurance.
+
+6. Etat d'analyse des provisions techniques vie (état G 4)
+
+Ventilation des provisions techniques par organisme assureur et par type d'engagement : en unités de compte sans risque de
+placement, en unités de compte avec risque de placement, en euros ou en devises.
+
+Ventilation des provisions techniques des engagements en euros ou en devises par organisme assureur et par taux d'intérêt
+utilisés pour leur calcul, par tranches de 0,5 %.
+
+Ventilation des provisions techniques par organisme assureur et par type d'aléa viager : en cas de décès, en cas de vie, sans
+aléa viager.
+
+Les organismes assureurs concernés sont ceux dont les provisions techniques vie représentent plus de 5 % du total des
+provisions techniques vie des comptes consolidés ou combinés. Les organismes formant un sous-ensemble établissant des comptes
+combinés ou consolidés dans un même pays peuvent être considérés comme un seul organisme. Les autres organismes sont
+regroupés en trois rubriques :
+
+France, Union européenne (hors France), reste du monde.
+
+7. Etat d'analyse des activités hors assurances (état G 5)
+
+Si celles-ci contribuent - positivement ou négativement - à plus de 5 % du résultat de l'ensemble formé par les mutuelles ou
+unions et les organismes auxquels elles sont apparentées ou subordonnées ou occupent plus de 5 % des effectifs de cet
+ensemble, les données significatives de ces activités font l'objet d'une ventilation par organisme. Les données qui doivent
+faire l'objet d'une ventilation sont celles qui sont retenues comme significatives dans les comptes consolidés ou combinés.
+Notamment, au niveau du chiffre d'affaires :
+
+produit net bancaire, commissions de services financières, et au niveau du bilan : dépôts clientèles, crédits consentis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de la mutualité - art. A114-10 (Ab)
+
+
+###### Article Annexe 2 à l'article A114-10
+
+Chaque mutuelle ou union soumise à la surveillance complémentaire fournit les tableaux suivants relatifs à l'ensemble formé
+par les organismes apparentés au sens de l'article L. 212-7-1 du code de la mutualité :
+
+1. Etat des cessions en réassurance internes au groupe
+
+(état G 10)
+
+Tableau des cotisations cédées par cessionnaire.
+
+Tableau des provisions techniques à la charge de chaque cessionnaire ; ne sont déclarées que les provisions cédées
+supérieures à 0,5 % des provisions brutes de réassurance.
+
+Tableau de la charge de sinistres cédés.
+
+Tableau des résultats de ces cessions par cessionnaire récapitulant les résultats supérieurs à 5 % du résultat brut de
+réassurance.
+
+La forme de ces réassurances est précisée.
+
+2. Etat des mouvements d'actifs internes au groupe (état G 11)
+
+Cet état ne concerne pas les transactions réalisées à des conditions déterminées objectivement par ailleurs (titres cotés)
+sur des titres externes à l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
+subordonnées.
+
+Au-delà d'un montant supérieur à 5 % de l'exigence de marge de solvabilité de la mutuelle ou union concernée, les ventes ou
+achats d'immeubles ou de titres à l'intérieur de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
+elles sont apparentées ou subordonnées sont recensés, faisant apparaître l'organisme vendeur, l'organisme acheteur, la valeur
+comptable dans le premier, le prix de vente et la référence ayant permis d'établir celui-ci (expertise, capitalisation du
+résultat...).
+
+Ceci inclut les souscriptions de titres émis par un organisme de l'ensemble formé par les mutuelles ou unions et les
+organismes auxquels elles sont apparentées ou subordonnées même s'ils sont destinés à être cotés.
+
+3. Recensement des accords de partage de frais généraux (G 12)
+
+Liste des GIE de moyens auxquels la mutuelle ou union participe et indication de sa contribution aux frais de ceux-ci.
+
+Recensement des remboursements de frais ou prestations externes assurés par d'autres organismes de l'ensemble formé par les
+mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées dès lors qu'ils dépassent 10 % des
+frais de gestion de la mutuelle ou union.
+
+4. Recensement des risques partagés solidairement (G 13)
+
+Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans lesquels la mutuelle ou union est solidaire
+sans limites des autres membres ; montants des provisions de sinistres à payer au bilan de ces groupements.
+
+5. Recensement des opérations avec une personne physique (G 14)
+
+Liste des opérations de toute nature avec une personne physique visée à l'article R. 213-6 dès lors qu'elles dépassent 5 % de
+l'exigence de marge de solvabilité de la mutuelle ou union.
+
+6. Recensement des apports de fonds (G 15)
+
+Liste des apports de fonds aux autres organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
+elles sont apparentées ou subordonnées sous toute forme, en distinguant les apports en capital, en éléments de marge et
+autres apports dès lors qu'ils dépassent 5 % du minimum de marge de solvabilité de la mutuelle ou union.
+
+7. Recensement des engagements donnés (G 16)
+
+Liste des engagements donnés aux autres organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
+elles sont apparentées ou subordonnées dès lors qu'ils dépassent 5 % de l'exigence de marge de solvabilité de l'institution
+ou union.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de la mutualité - art. A114-10 (Ab)
+
+
+## Annexes à l'article A211-3<a id=187></a>
 
 ###### Article Annexe I
 
