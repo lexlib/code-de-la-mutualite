@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-11-13
+Version Consolidée au 2005-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
@@ -121,73 +121,75 @@ Version Consolidée au 2005-11-13
       - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#118)
         - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#119)
   - [Partie réglementaire - Arrêtés (art. A114-1 à A510-4)](#120)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-10)](#121)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-10)](#122)
-        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-10)](#123)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-11)](#121)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-11)](#122)
+        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#123)
     - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-4)](#124)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-2)](#125)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#125)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#126)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#127)
-        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-2)](#128)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-12)](#128)
           - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#129)
           - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#130)
           - [Section 3 (art. A212-10 à A212-14)](#131)
           - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#132)
           - [Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-21 à A212-24)](#133)
           - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#134)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#135)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#136)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#137)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#138)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#139)
-      - [Chapitre unique (art. A510-1 à A510-4)](#140)
-        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#141)
-        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#142)
-  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#143)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#144)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#145)
-        - [Chapitre II : Statuts (art. R122-4)](#146)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#147)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#148)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#149)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#150)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#151)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#152)
-        - [Chapitre unique (art. R211-1)](#153)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#154)
-        - [Chapitre unique (art. R221-1)](#155)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#156)
-        - [Chapitre unique (art. R231-1 à R231-2)](#157)
-    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#158)
-      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#159)
-        - [Chapitre unique (art. R311-2 à R311-22)](#160)
-          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#161)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#162)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#163)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#164)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#165)
-    - [Livre IV : Action sociale (art. R411-1)](#166)
-      - [Titre unique (art. R411-1)](#167)
-        - [Chapitre unique (art. R411-1)](#168)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#169)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#170)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#171)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#172)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#173)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#174)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#175)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#176)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#177)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#178)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#179)
-        - [Chapitre unique (art. R541-1)](#180)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#181)
-    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#182)
-    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#183)
-    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#184)
-    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#185)
-    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#186)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#187)
+          - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#135)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#136)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#137)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#138)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#139)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#140)
+      - [Chapitre unique (art. A510-1 à A510-4)](#141)
+        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#142)
+        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#143)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#144)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#145)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#146)
+        - [Chapitre II : Statuts (art. R122-4)](#147)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#148)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#149)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#150)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#151)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#152)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#153)
+        - [Chapitre unique (art. R211-1)](#154)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#155)
+        - [Chapitre unique (art. R221-1)](#156)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#157)
+        - [Chapitre unique (art. R231-1 à R231-2)](#158)
+    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#159)
+      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#160)
+        - [Chapitre unique (art. R311-2 à R311-22)](#161)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#162)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#163)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#164)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#165)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#166)
+    - [Livre IV : Action sociale (art. R411-1)](#167)
+      - [Titre unique (art. R411-1)](#168)
+        - [Chapitre unique (art. R411-1)](#169)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#170)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#171)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#172)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#173)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#174)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#175)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#176)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#177)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#178)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#179)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#180)
+        - [Chapitre unique (art. R541-1)](#181)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#182)
+    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#183)
+    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#184)
+    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#185)
+    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#186)
+    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#187)
+    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#188)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#189)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -17222,6 +17224,34 @@ _Cite_:
   - Code de la mutualité (nouveau) L212-7-2, R213-1, R213-5, R213-6, L510-1, annexe 1
 
 
+###### Article A114-11
+
+Lorsque, en application de l'article L. 212-7-9, la commission de contrôle est coordonnateur de la surveillance
+complémentaire des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du
+conglomérat financier fournit chaque année à la commission de contrôle, avant le 30 avril, un dossier constitué conformément
+à l'annexe au présent article.
+
+Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
+financière holding mixte ou par l'entité réglementée désignée par la commission de contrôle après consultation des autres
+autorités compétentes définies au 11° de l'article L. 212-7-1 et du conglomérat financier.
+
+Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante :
+
+"Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
+l'article L. 510-12 du code de la mutualité, conforme aux écritures des entités appartenant au conglomérat financier, et aux
+dispositions du chapitre IV, du livre Ier du même code".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 3 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-9, L212-7-1
+
+
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=124></a>
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=125></a>
@@ -17326,8 +17356,8 @@ _Cité par_:
 
 ###### Article A211-2
 
-Les personnes mentionnées au I (e) de l'article A. 211-1 doivent produire un état descriptif de leurs activités. Elles
-indiquent notamment :
+Les personnes mentionnées au I (e) de l'article A. 211-1 et celles mentionnées à l'article R. 213-7 doivent produire un état
+descriptif de leurs activités. Elles indiquent notamment :
 
 1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
 précédant la demande d'agrément ainsi que, durant cette même période, les activités exercées au sein des organes des
@@ -17344,33 +17374,38 @@ redressement ou de liquidation judiciaires prévues par le livre VI du code de c
 mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
 banqueroutes ou de mesures équivalentes à l'étranger.
 
-Les personnes mentionnées au I, e de l'article A. 211-1 doivent également produire un bulletin n° 3 de leur casier judiciaire
-datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
-Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen autre que la France. Lorsque
-ces personnes ne sont pas des ressortissants d'un Etat partie à l'accord sur l'Espace économique européen, elles doivent
-produire un document équivalent ou, à défaut, une déclaration sous serment ou une déclaration solennelle faite devant une
-autorité compétente ou un notaire, aux termes de laquelle elles affirment ne pas avoir fait, à l'étranger, l'objet d'une
-condamnation qui, si elle avait été prononcée par une juridiction française, serait inscrite au bulletin n° 3 du casier
-judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce serment ou de cette déclaration
-solennelle. En outre, si elles ne sont pas de nationalité française, ces personnes doivent satisfaire aux dispositions des
-lois et règlements relatifs à la situation et à la police des étrangers.
+Les personnes mentionnées au I, e de l'article A. 211-1 et celles mentionnées à l'article R. 213-7 doivent également produire
+un bulletin n° 3 de leur casier judiciaire datant de moins de trois mois ou un document équivalent délivré par une autorité
+judiciaire ou administrative compétente d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un Etat partie à l'accord sur
+l'Espace économique européen, elles doivent produire un document équivalent ou, à défaut, une déclaration sous serment ou une
+déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles affirment ne pas
+avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction française, serait
+inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce
+serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces personnes doivent
+satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
 
-Le même dossier doit être fourni par chaque nouvelle personne mentionnée au I, e de l'article A. 211-1.
+Le même dossier doit être fourni par chaque nouvelle personne mentionnée au I, e de l'article A. 211-1 et celles mentionnées
+à l'article R. 213-7.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2001-11-23 art. 1, art. 2 JORF 25 novembre 2001
+  - Arrêté 2005-11-03 art. 1 JORF 15 novembre 2005
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) A211-1
-  - Loi n°67-563 1967-07-13
+  - Loi n°67-563 du 13 juillet 1967
+  - Code de la mutualité (nouveau) A211-1, R213-7
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 _Cité par_:
 
@@ -18376,12 +18411,13 @@ _Cite_:
 
 La déclaration des opérations mentionnées à l'article R. 213-6 est jointe au dossier mentionné à l'article A. 114-10, annexe
 II. La mutuelle ou union soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont pas incluses dans
-les documents décrits à l'article A. 114-10, annexe II. Les opérations, effectuées directement ou indirectement avec les
-organismes auxquels elle est apparentée ou subordonnée, supérieures à 5 % des fonds propres ou à 0,5 % des provisions
-techniques de l'ensemble formé par ces organismes tels que calculés à la clôture de l'exercice précédent. Ce tableau doit
-isoler les opérations suivantes : les prêts, les transactions portant sur les éléments admissibles pour la marge de
-solvabilité, les investissements, l'état des cessions d'actifs internes à l'ensemble formé par ces organismes (notamment les
-ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan.
+les documents décrits à l'article A. 114-10, annexe II, ni décrites dans l'état G 22 transmis le cas échéant à la Commission
+de contrôle conformément à l'article A. 114-11. Les opérations, effectuées directement ou indirectement avec les organismes
+auxquels elle est apparentée ou subordonnée, supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques de
+l'ensemble formé par ces organismes tels que calculés à la clôture de l'exercice précédent. Ce tableau doit isoler les
+opérations suivantes : les prêts, les transactions portant sur les éléments admissibles pour la marge de solvabilité, les
+investissements, l'état des cessions d'actifs internes à l'ensemble formé par ces organismes (notamment les ventes
+d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan.
 
 Chacune de ces opérations doit être déclarée en précisant l'organisme vendeur, l'organisme acheteur, la valeur comptable dans
 le premier, le prix de vente et la référence ayant permis d'établir celui-ci.
@@ -18395,18 +18431,381 @@ sont apparentées ou subordonnées sont déclarés sans délai par la mutuelle o
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2005-11-03 art. 1 JORF 13 novembre 2005
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) R213-6, A114-10, L510-1
+  - Code de la mutualité (nouveau) R213-6, A114-10, A114-11, L510-1
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=135></a>
+##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.<a id=135></a>
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=136></a>
+###### Article A213-3
+
+Les activités d'un groupe financier s'exercent principalement dans le secteur financier au sens de l'article L. 212-7-5
+lorsque le rapport entre le total du bilan des entités du groupe appartenant au secteur financier et le total du bilan du
+groupe est supérieur à 40 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-5
+
+
+###### Article A213-4
+
+I. - Les activités d'un groupe financier dans un secteur financier sont importantes au sens de l'article L. 212-7-5 lorsque
+la valeur moyenne des deux rapports mentionnés ci-dessous dépasse 10 % :
+
+- le rapport entre le total du bilan dudit secteur et le total du bilan des entités du secteur financier du groupe ;
+
+- le rapport entre les exigences de solvabilité dudit secteur et l'exigence de solvabilité totale des entités du secteur
+financier du groupe.
+
+Pour ce calcul, les exigences de solvabilité sont calculées conformément aux dispositions des règles sectorielles prévues :
+
+- pour les entreprises relevant du secteur des assurances, par le chapitre IV du titre III du livre III du code des
+assurances, le chapitre Ier du titre III du livre IX du code de la sécurité sociale, et le chapitre II du titre Ier du livre
+II du présent code ;
+
+- pour les entreprises relevant du secteur bancaire et des services d'investissement, par les règlements n°s 91-05, 95-02 et
+97-04 du Comité de la réglementation bancaire et financière ;
+
+- pour les sociétés de gestion de portefeuille qui ne sont pas déjà reprises dans les exigences du secteur bancaire et des
+services d'investissement, par l'article 322-8 du règlement général de l'Autorité des marchés financiers.
+
+Le secteur financier qui présente la moyenne la plus basse est considéré comme le secteur financier le moins important.
+
+II. - Les activités d'un groupe financier dans un secteur financier sont également importantes au sens de l'article L.
+212-7-5 lorsque le total du bilan du secteur financier le moins important au sein du groupe dépasse 6 milliards d'euros.
+
+III. - Si un groupe financier remplissant les conditions mentionnées au 1° et au 2° de l'article L. 212-7-5 n'atteint pas le
+seuil visé au I, mais atteint le seuil visé au II du présent article, les autorités compétentes concernées définies à
+l'article L. 212-7-1 peuvent décider d'un commun accord de ne pas considérer ce groupe comme un conglomérat financier ou de
+ne lui appliquer que les dispositions relatives à l'adéquation des fonds propres définies aux articles R. 213-8 à R. 213-11.
+Les décisions prises conformément au présent paragraphe sont notifiées aux autres autorités compétentes.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-5, L212-7-1, R213-8 à R213-11
+
+
+###### Article A213-5
+
+I. - Pour le calcul des ratios mentionnés à l'article A. 213-3 et au I de l'article A. 213-4, les autorités compétentes
+concernées peuvent, d'un commun accord :
+
+a. Exclure une entité de ce calcul, dans les cas mentionnés à l'article A. 213-12 ;
+
+b. Décider qu'un groupe peut ne pas être identifié comme un conglomérat si les seuils mentionnés aux articles A. 213-3 et A.
+213-4 n'ont pas été respectés pendant trois années consécutives et ne pas tenir compte de ce respect en cas de modification
+importante de la structure du groupe ;
+
+c. Dans des circonstances exceptionnelles, soit remplacer le critère fondé sur le total du bilan par le critère de la
+structure des revenus ou le critère des activités hors bilan ou ces deux critères, soit intégrer l'un de ces critères ou les
+deux, si elles estiment que ceux-ci présentent un intérêt particulier aux fins de la surveillance complémentaire des
+conglomérats financiers.
+
+Lorsqu'un conglomérat financier a été identifié, les décisions mentionnées au a et au b sont prises sur la base d'une
+proposition faite par le coordonnateur du conglomérat financier considéré.
+
+II. - Lorsque, pour un conglomérat financier soumis à la surveillance complémentaire, les seuils mentionnés à l'article A.
+213-3 et au I de l'article A. 213-4 deviennent inférieurs respectivement à 40 % et 10 %, des seuils fixés respectivement à 35
+% et 8 % s'appliquent pendant les trois années qui suivent.
+
+De même, lorsque le seuil mentionné au II de l'article A. 213-4 devient inférieur à 6 milliards d'euros, un seuil inférieur
+fixé à 5 milliards d'euros s'applique pendant les trois années qui suivent.
+
+Pendant cette période, le coordonnateur peut, avec l'accord des autorités compétentes concernées, décider que la surveillance
+complémentaire ne s'applique plus au conglomérat financier considéré, dans la mesure où les ratios ou montants ne remontent
+pas au-dessus des seuils normaux.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A213-3, A213-4, A213-12
+
+
+###### Article A213-6
+
+Les calculs relatifs au bilan mentionnés aux articles A. 213-4 à A. 213-5 sont effectués sur la base des comptes consolidés
+ou combinés du groupe.
+
+Si ces comptes ne sont pas disponibles, le coordonnateur peut autoriser le conglomérat à utiliser les comptes agrégés. Dans
+ce cas, les entreprises dans lesquelles une participation est détenue sont prises en compte à concurrence du montant du total
+de leur bilan correspondant à la part proportionnelle agrégée détenue par le groupe.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A213-4 à A213-5
+
+
+###### Article A213-7
+
+Conformément au III de l'article L. 212-7-5, la commission de contrôle, en tant que coordonnateur, peut décider d'assujettir
+un sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
+sous-groupe appartient ne respecte pas les exigences de la surveillance complémentaire ou que la répartition de ses fonds
+propres n'est pas adaptée aux objectifs de la surveillance complémentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-5
+
+
+###### Article A213-8
+
+En application de l'article L. 212-7-9, le coordonnateur est désigné parmi les autorités compétentes des Etats parties à
+l'accord sur l'Espace économique européen selon les critères suivants :
+
+1. Lorsqu'une entité réglementée est placée à la tête du conglomérat financier, le coordonnateur est l'autorité responsable
+de la surveillance prudentielle de cette entité.
+
+2. Lorsqu'une compagnie financière holding mixte est placée à la tête du conglomérat financier, le coordonnateur est
+l'autorité responsable de la surveillance prudentielle de l'entité réglementée filiale de la compagnie financière holding
+mixte, et qui remplit les conditions suivantes :
+
+a) Lorsque la compagnie financière holding mixte est l'organisme de référence de plusieurs entités réglementées ayant leur
+siège social dans des Etats parties à l'accord sur l'Espace économique européen, l'entité est agréée dans l'Etat dans lequel
+la compagnie financière holding mixte a son siège social ;
+
+b) Lorsque les entités réglementées subordonnées de la compagnie financière holding mixte ont leur siège dans le même Etat
+que celle-ci et exercent leurs activités dans différents secteurs financiers, l'entité exerce ses activités dans le secteur
+financier le plus important ;
+
+c) Lorsque aucune entité réglementée subordonnée de la compagnie financière holding mixte n'a été agréée dans l'Etat où
+celle-ci a son siège social, l'entité possède le total de bilan le plus élevé dans le secteur financier le plus important.
+
+3. Lorsque plusieurs compagnies financières holding mixtes ayant leur siège dans différents Etats parties à l'accord sur
+l'Espace économique européen sont placées à la tête du conglomérat financier et ont chacune au moins une entité réglementée
+subordonnée agréée dans l'Etat de leur siège, le coordonnateur est l'autorité responsable de la surveillance prudentielle de
+l'entité réglementée exerçant ses activités dans le secteur financier le plus important ou de l'entité réglementée qui
+possède le total de bilan le plus élevé si ces entités exercent leur activité dans le même secteur financier.
+
+4. Dans tous les autres cas, le coordonnateur est l'autorité responsable de la surveillance prudentielle de l'entité
+réglementée qui possède le total de bilan le plus élevé dans le secteur financier le plus important.
+
+Les autorités compétentes concernées peuvent, d'un commun accord et après avoir recueilli l'avis du conglomérat financier,
+déroger à ces critères et désigner une autre autorité compétente comme coordonnateur s'il apparaît inapproprié de les
+appliquer, compte tenu de la structure du conglomérat financier et de l'importance relative de ses activités dans les
+différents Etats.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-9
+
+
+###### Article A213-9
+
+La coopération entre autorités compétentes prévue à l'article L. 212-7-13 s'exerce dans les conditions suivantes :
+
+1° Sans préjudice de leurs responsabilités respectives, toute autorité compétente communique, de sa propre initiative ou à la
+demande d'une autre autorité compétente, toute information utile permettant à cette dernière d'exercer ses fonctions
+prudentielles, au titre de la surveillance complémentaire des conglomérats financiers.
+
+Les autorités compétentes collectent et s'échangent des informations concourant à l'exercice de cette surveillance
+complémentaire. Ces informations portent notamment sur la structure du groupe financier, les principales entités faisant
+partie du conglomérat financier et les autorités compétentes de ces entités réglementées, la stratégie du conglomérat
+financier et sa situation financière ainsi que ses principaux actionnaires et dirigeants, le dispositif de gestion des
+risques et le système de contrôle interne. Elles concernent également les procédures de collecte et de vérification
+d'informations auprès des entités du conglomérat financier, les difficultés éventuellement rencontrées par ces dernières
+ainsi que les principales sanctions et mesures exceptionnelles prises à leur encontre par les autorités compétentes.
+
+2° Sans préjudice de leurs responsabilités respectives, avant de prendre une décision intéressant les fonctions prudentielles
+exercées par d'autres autorités compétentes, les autorités compétentes intéressées se consultent et échangent des
+informations sur la modification de la structure de l'actionnariat, l'organisation ou la direction des entités réglementées
+d'un conglomérat financier requérant l'approbation ou l'autorisation des autorités compétentes, ainsi que sur les principales
+sanctions et mesures exceptionnelles envisagées par les autorités compétentes.
+
+En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente
+peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
+
+3° La commission de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
+sanctions ou mesures adoptées conformément aux articles L. 212-7-16 et L. 212-7-17.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-13, L212-7-16, L212-7-17
+
+
+###### Article A213-10
+
+I. - Lorsque l'entité à la tête du conglomérat financier dont la commission de contrôle est le coordonnateur a son siège
+social dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, la commission de
+contrôle peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes
+informations utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 212-7-10, d'autre part, à lui
+communiquer lesdites informations.
+
+La commission de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur,
+définie à l'article L. 212-7-11.
+
+II. - Lorsque la commission de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 212-7-18, elle
+consulte les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
+conglomérats financiers prévu à l'article 21 de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre
+2002, pour tenir compte des lignes directrices élaborées par ce comité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L212-7-10, L212-7-11, L212-7-18
+
+
+###### Article A213-11
+
+I. - Les exigences de solvabilité relatives aux différents secteurs financiers du conglomérat sont la somme :
+
+a) Des exigences applicables aux entités réglementées dont le siège social est situé en France, telles que prévues par le
+chapitre IV du titre II du livre III du code des assurances, le chapitre Ier du titre III du livre IX du code de la sécurité
+sociale, le chapitre II du titre Ier du livre II du présent code, les règlements n° 91-05 et n° 95-02 du Comité de la
+réglementation bancaire et financière et l'article 322-8 du règlement général de l'Autorité des marchés financiers ;
+
+b) Des exigences équivalentes à celles mentionnées au a, pour les entités réglementées dont le siège social est situé hors de
+France et pour les organismes assureurs, les entreprises d'investissement et les établissements de crédit ayant leur siège
+dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, et
+
+c) Des exigences de solvabilité notionnelles calculées pour les entités non réglementées selon les règles applicables aux
+entités réglementées du secteur financier auquel elles appartiennent.
+
+II. - Pour l'application de l'article R. 213-8, les fonds propres du conglomérat financier sont constitués des éléments
+suivants :
+
+a) Les éléments mentionnés aux articles R. 212-11, R. 212-15, R. 212-18 et R. 213-3, hormis ceux figurant à l'alinéa suivant,
+calculés conformément aux règles précisées par ces dispositions et sur la base des comptes consolidés ou combinés du
+conglomérat financier, et
+
+b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur
+bancaire et des services d'investissement.
+
+Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, la commission de contrôle,
+en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
+entités du conglomérat financier.
+
+III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 213-9, les fonds propres et les exigences de
+solvabilité d'une entité sont déterminés à partir de ses comptes annuels conformément aux dispositions de l'arrêté prévu à
+l'article R. 213-8.
+
+Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités
+du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par la commission de contrôle
+mentionnée à l'article L. 510-1, après consultation des autres autorités compétentes concernées, en fonction de la
+responsabilité née de la relation existant entre l'entité et les autres entités du conglomérat financier.
+
+En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le
+cas où la responsabilité de l'organisme de référence détenant une part de capital est limitée, strictement et sans ambiguïté,
+à cette part de capital, la commission de contrôle mentionnée à l'article L. 510-1 peut décider d'admettre que le déficit de
+l'entité est pris en compte sur une base proportionnelle.
+
+Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes
+consolidés ou combinés mentionnés à l'article L. 212-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R213-8, R212-11, R212-15, R212-18, R213-3, R213-9, L510-1, L212-7
+
+
+###### Article A213-12
+
+Le coordonnateur peut décider de ne pas inclure une entité particulière dans le périmètre de calcul des exigences
+complémentaires en matière d'adéquation des fonds propres dans les cas suivants :
+
+a) Elle est située dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen où des obstacles juridiques
+empêchent le transfert des informations nécessaires ;
+
+b) Elle présente un intérêt négligeable au regard des objectifs de la surveillance complémentaire ;
+
+c) Son inclusion dans le périmètre de calcul est inopportune au regard des objectifs de cette surveillance complémentaire.
+Dans ce cas, le coordonnateur consulte, sauf urgence, les autres autorités compétentes concernées.
+
+Toutefois, si plusieurs entités sont à exclure sur la base du b, mais que, collectivement, elles présentent un intérêt non
+négligeable, elles sont incluses dans le périmètre de calcul.
+
+Lorsque le coordonnateur n'inclut pas une entité réglementée dans le périmètre de calcul dans l'un des cas visés aux points b
+et c et que cette entité a son siège dans un Etat partie à l'accord sur l'Espace économique européen, l'entité qui se trouve
+à la tête du conglomérat financier doit fournir aux autorités compétentes de cet Etat, à leur demande, toute information de
+nature à faciliter la surveillance de l'entité réglementée.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+
+
+### Titre II : Opérations des mutuelles et des unions.<a id=136></a>
+
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=137></a>
 
 ###### Article A222-1
 
@@ -18511,9 +18910,9 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=137></a>
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=138></a>
 
-##### Section 1 : Dispositions générales.<a id=138></a>
+##### Section 1 : Dispositions générales.<a id=139></a>
 
 ###### Article A223-1
 
@@ -18614,11 +19013,11 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=139></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=140></a>
 
-### Chapitre unique<a id=140></a>
+### Chapitre unique<a id=141></a>
 
-#### Section 1 : Libre prestation de services.<a id=141></a>
+#### Section 1 : Libre prestation de services.<a id=142></a>
 
 ###### Article A510-1
 
@@ -18726,7 +19125,7 @@ _Modifié par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
 
 
-#### Section 2 : Contrôle déconcentré.<a id=142></a>
+#### Section 2 : Contrôle déconcentré.<a id=143></a>
 
 ###### Article A510-4
 
@@ -18760,13 +19159,13 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=143></a>
+# Partie réglementaire ancienne<a id=144></a>
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=144></a>
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=145></a>
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=145></a>
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=146></a>
 
-#### Chapitre II : Statuts<a id=146></a>
+#### Chapitre II : Statuts<a id=147></a>
 
 ###### Article R122-4
 
@@ -18792,9 +19191,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=147></a>
+#### Chapitre IV : Capacité civile et dispositions financières<a id=148></a>
 
-##### Section 1 : Dispositions générales<a id=148></a>
+##### Section 1 : Dispositions générales<a id=149></a>
 
 ###### Article R124-1
 
@@ -18860,7 +19259,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=149></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=150></a>
 
 ###### Article R125-1
 
@@ -18964,7 +19363,7 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=150></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=151></a>
 
 ###### Article R126-1
 
@@ -19082,11 +19481,11 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=151></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=152></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=152></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=153></a>
 
-#### Chapitre unique<a id=153></a>
+#### Chapitre unique<a id=154></a>
 
 ###### Article R211-1
 
@@ -19113,9 +19512,9 @@ _Cite_:
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=154></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=155></a>
 
-#### Chapitre unique<a id=155></a>
+#### Chapitre unique<a id=156></a>
 
 ###### Article R221-1
 
@@ -19142,9 +19541,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=156></a>
+### Titre III : Mutuelles des militaires<a id=157></a>
 
-#### Chapitre unique<a id=157></a>
+#### Chapitre unique<a id=158></a>
 
 ###### Article R231-1
 
@@ -19221,13 +19620,13 @@ _Cite_:
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=158></a>
+## Livre III : Réparation des risques sociaux<a id=159></a>
 
-### Titre Ier : Règles générales<a id=159></a>
+### Titre Ier : Règles générales<a id=160></a>
 
-#### Chapitre unique<a id=160></a>
+#### Chapitre unique<a id=161></a>
 
-##### Section 2 : Caisse mutualiste de garantie<a id=161></a>
+##### Section 2 : Caisse mutualiste de garantie<a id=162></a>
 
 ###### Article R311-2
 
@@ -20052,9 +20451,9 @@ _Créé par_:
   - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=162></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=163></a>
 
-#### Chapitre Ier : Dispositions générales<a id=163></a>
+#### Chapitre Ier : Dispositions générales<a id=164></a>
 
 ###### Article R321-1
 
@@ -20255,7 +20654,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=164></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=165></a>
 
 ###### Article R323-1
 
@@ -20350,7 +20749,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=165></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=166></a>
 
 ###### Article R325-1
 
@@ -20483,11 +20882,11 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-## Livre IV : Action sociale<a id=166></a>
+## Livre IV : Action sociale<a id=167></a>
 
-### Titre unique<a id=167></a>
+### Titre unique<a id=168></a>
 
-#### Chapitre unique<a id=168></a>
+#### Chapitre unique<a id=169></a>
 
 ###### Article R411-1
 
@@ -20520,11 +20919,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=169></a>
+## Livre V : Relations avec les collectivités publiques<a id=170></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=170></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=171></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=171></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=172></a>
 
 ###### Article R511-1
 
@@ -20643,7 +21042,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=172></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=173></a>
 
 ###### Article R512-1
 
@@ -20770,9 +21169,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=173></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=174></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=174></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=175></a>
 
 ###### Article R513-1
 
@@ -21288,7 +21687,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=175></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=176></a>
 
 ###### Article R513-18
 
@@ -21431,7 +21830,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=176></a>
+##### Section 3 : Contentieux des opérations électorales<a id=177></a>
 
 ###### Article R513-25
 
@@ -21460,9 +21859,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=177></a>
+### Titre II : Incitation à l'action mutualiste<a id=178></a>
 
-#### Chapitre III : Subventions<a id=178></a>
+#### Chapitre III : Subventions<a id=179></a>
 
 ###### Article R523-1
 
@@ -21514,9 +21913,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre IV : Dispositions pénales<a id=179></a>
+### Titre IV : Dispositions pénales<a id=180></a>
 
-#### Chapitre unique<a id=180></a>
+#### Chapitre unique<a id=181></a>
 
 ###### Article R541-1
 
@@ -21558,9 +21957,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=181></a>
+# Annexes<a id=182></a>
 
-## Annexe à l'article A114-4<a id=182></a>
+## Annexe à l'article A114-4<a id=183></a>
 
 ###### Article Annexe à l'article A114-4
 
@@ -21634,7 +22033,7 @@ _Cite_:
   - Code de la mutualité - art. L211-7
 
 
-## Annexes à l'article A114-5<a id=183></a>
+## Annexes à l'article A114-5<a id=184></a>
 
 ###### Article Annexe C1 à l'article A114-5
 
@@ -29833,7 +30232,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-7<a id=184></a>
+## Annexes à l'article A114-7<a id=185></a>
 
 ###### Article Annexe T1 à l'article A114-7
 
@@ -31282,7 +31681,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-9<a id=185></a>
+## Annexes à l'article A114-9<a id=186></a>
 
 ###### Article Annexe E1 à l'article A114-9
 
@@ -33090,7 +33489,7 @@ Total
 
 
 
-## Annexes à l'article A114-10<a id=186></a>
+## Annexes à l'article A114-10<a id=187></a>
 
 ###### Article Annexe 1 à l'article A114-10
 
@@ -33296,7 +33695,73 @@ _Cité par_:
   - Code de la mutualité - art. A114-10 (Ab)
 
 
-## Annexes à l'article A211-3<a id=187></a>
+## Annexe à l'article A114-11<a id=188></a>
+
+###### Article Annexe à l'article A114-11
+
+I. - Le dossier est établi sur la base des comptes du dernier exercice. Sous réserve des adaptations prévues au II, il
+comprend les éléments suivants :
+
+a) Les éléments mentionnés à l'annexe I à l'article A. 114-10. Toutefois, lorsqu'il est fait usage de la faculté, prévue à
+l'article R. 213-2, de calculer la marge ajustée de la même façon que les exigences complémentaires de fonds propres d'un
+conglomérat financier, l'état G 2 n'est pas fourni et les informations prévues à cet état sont portées dans l'état G 20
+défini ci-après.
+
+b) Etat G 20. - Exigences complémentaires en matière d'adéquation des fonds propres :
+
+Un premier tableau (non reproduit) indique les exigences de solvabilité du secteur financier définies au II de l'article A.
+213-11, en distinguant au minimum les exigences relatives au secteur des assurances de celles relatives au secteur bancaire
+et des services d'investissement.
+
+Un second tableau (non reproduit) indique les fonds propres du conglomérat définis au I de l'article A. 213-11 avec leur
+décomposition par catégorie d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les éléments du
+secteur des assurances et ceux du secteur bancaire et des services d'investissement.
+
+c) Etat G 21. - Concentrations de risques :
+
+Tableau A : risque de contrepartie
+
+Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dessous, le montant agrégé des risques sur cette
+contrepartie, provenant notamment d'instruments financiers, de prêts, de garanties et cautions, de contrats d'assurance ou de
+réassurance. Sont toutefois exclus les placements d'assurance pour lesquels le risque de placement est intégralement supporté
+par les assurés, ou dont la contrepartie est un Etat membre de l'OCDE ou un organisme international à caractère public dont
+un ou plusieurs Etats membres de l'Union européenne font partie. En outre, sont seulement indiquées les contreparties pour
+lesquelles le montant brut agrégé excède 300 millions d'euros ou 10 % des fonds propres du conglomérat financier. Une
+contrepartie est soit un organisme isolé, soit plusieurs organismes appartenant au même groupe au sens du 1° de l'article R.
+212-45. Le tableau fait apparaître le montant agrégé des risques de contrepartie pour le secteur de l'assurance d'une part,
+pour le secteur bancaire et des entreprises d'investissement d'autre part. A cette fin, il est considéré que la compagnie
+financière holding mixte appartient au secteur financier le plus important.
+
+Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
+dans ces états comptables
+
+Doit également être déclaré tout ensemble de transactions intragroupes d'un même type lorsque leur montant total de ces
+transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
+indiqué le montant total des transactions.
+
+II. - La commission de contrôle définit, après consultation des autres autorités compétentes concernées et du conglomérat
+financier, les seuils de déclaration appropriés.
+
+Après consultation des autres autorités compétentes concernées définies au 11° de l'article L. 212-7-1 et du conglomérat
+financier, elle détermine les autres catégories de risques à inclure dans l'état G 21, compte tenu de la structure du
+conglomérat financier et de sa gestion des risques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2005-11-03 art. 3 JORF 15 novembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A114-10, R213-2, A213-11, R212-45, L212-7-1
+
+_Cité par_:
+
+  - Code de la mutualité - art. A114-11 (Ab)
+
+
+## Annexes à l'article A211-3<a id=189></a>
 
 ###### Article Annexe I
 
