@@ -1,8 +1,8 @@
 # Code de la mutualité  
-Version Consolidée au 2005-12-01
+Version Consolidée au 2005-12-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L115-8)](#2)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
       - [Chapitre Ier : Objet des mutuelles, unions et fédérations. (art. L111-1 à L111-6)](#3)
       - [Chapitre II : Principes mutualistes. (art. L112-1 à L112-4)](#4)
       - [Chapitre III : Création, fusion, scission et dissolution des mutuelles, unions et fédérations. (art. L113-1 à L113-4)](#5)
@@ -18,180 +18,181 @@ Version Consolidée au 2005-12-01
         - [Section 1 : Mutuelles et sections de mutuelles d'entreprises ou interentreprises. (art. L115-1 à L115-3)](#15)
         - [Section 2 : Sections de mutuelles à caractère professionnel ou interprofessionnel. (art. L115-4)](#16)
         - [Section 3 : Mutuelles des militaires. (art. L115-5 à L115-8)](#17)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation (art. L211-1 à L226-1)](#18)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. L211-1 à L213-5)](#19)
-        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. L211-1 à L211-10)](#20)
-        - [Chapitre II : Fonctionnement. (art. L212-1 à L212-27)](#21)
-          - [Section 1 : Régime financier et comptable. (art. L212-1 à L212-7-19)](#22)
-          - [Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation. (art. L212-11 à L212-22)](#23)
-          - [Section 4 : Privilèges. (art. L212-23 à L212-26)](#24)
-          - [Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires. (art. L212-27)](#25)
-        - [Chapitre III : Peines. (art. L213-1 à L213-5)](#26)
-      - [Titre II : Opérations des mutuelles et des unions. (art. L221-1 à L226-1)](#27)
-        - [Chapitre Ier : Dispositions générales. (art. L221-1 à L221-18)](#28)
-          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6)](#29)
-          - [Section 2 : Exécution du contrat. (art. L221-7 à L221-17)](#30)
-          - [Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur. (art. L221-18)](#31)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. L222-1 à L222-2)](#32)
-        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. L223-1 à L223-27)](#33)
-          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25)](#34)
-          - [Section 2 : Dispositions particulières à certaines opérations collectives vie. (art. L223-26)](#35)
-          - [Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat. (art. L223-27)](#36)
-        - [Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé. (art. L224-1 à L224-9)](#37)
-          - [Section 1 : Protection juridique. (art. L224-1 à L224-7)](#38)
-          - [Section 2 : Principe indemnitaire. (art. L224-8 à L224-9)](#39)
-        - [Chapitre V : Loi applicable aux contrats pour les risques situés dans un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris. (art. L225-1 à L225-10)](#40)
-          - [Section 1 : Dispositions applicables aux opérations relatives à la couverture de risques de dommages corporels liés aux accidents, à la maladie, à la protection juridique, à l'assistance, au chômage et à la caution mutualiste. (art. L225-1 à L225-6)](#41)
-          - [Section 2 : Dispositions applicables aux opérations de capitalisation et à la couverture de risques liés à la personne et à la durée de la vie humaine à l'exception de celles visées à la section 1. (art. L225-7 à L225-10)](#42)
-        - [Chapitre VI : Dispositions relatives au cautionnement. (art. L226-1)](#43)
-    - [Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L310-1 à L320-6)](#44)
-      - [Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L310-1 à L310-4)](#45)
-      - [Titre II : Champ d'intervention des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L320-1 à L320-6)](#46)
-    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. L411-1 à L431-8)](#47)
-      - [Titre Ier : Organes administratifs de la mutualité. (art. L411-1 à L412-2)](#48)
-        - [Chapitre Ier : Conseil supérieur de la mutualité. (art. L411-1 à L411-3)](#49)
-        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. L412-1 à L412-2)](#50)
-      - [Titre II : Incitation à l'action mutualiste. (art. L421-1 à L421-3)](#51)
-        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. L421-1 à L421-3)](#52)
-      - [Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance. (art. L431-1 à L431-8)](#53)
-        - [Chapitre unique : Le fonds de garantie. (art. L431-1 à L431-8)](#54)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. L510-1 à L510-15)](#55)
-    - [Livre VI : Dispositions d'application. (art. L610-1 à L610-2)](#56)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R114-1 à R510-19)](#57)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. R114-1 à R114-8)](#58)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. R114-1 à R114-8)](#59)
-        - [Section 3 : Assemblée générale. (art. R114-1 à R114-2)](#60)
-        - [Section 5 : Dispositions relatives aux fonctions d'administrateur. (art. R114-4 à R114-8)](#61)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-4)](#62)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R213-11)](#63)
-        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. R211-1 à R211-31)](#64)
-          - [Section 1 : Dispositions générales. (art. R211-1)](#65)
-          - [Section 2 : Agrément administratif. (art. R211-2 à R211-18)](#66)
-          - [Section 3 : Dispositions particulières à la branche protection juridique. (art. R211-19 à R211-20)](#67)
-          - [Section 4 : Convention de substitution. (art. R211-21 à R211-27)](#68)
-          - [Section 5 : Contrôle interne (art. R211-28 à R211-31)](#69)
-        - [Chapitre II : Fonctionnement. (art. R212-1 à R212-83)](#70)
-          - [Section 1 : Dispositions générales. (art. R212-1 à R212-9-1)](#71)
-          - [Section 2 : Marge de solvabilité. (art. R212-10 à R212-20)](#72)
-          - [Section 3 : Engagements réglementés. (art. R212-21 à R212-22)](#73)
-          - [Section 4 : Provisions techniques. (art. R212-23 à R212-27-1)](#74)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. R212-28 à R212-59)](#75)
-          - [Section 6 : Transfert de portefeuille. (art. R212-60 à R212-64)](#76)
-          - [Section 7 : Instruments financiers à terme. (art. R212-70 à R212-83)](#77)
-        - [Chapitre III : Surveillance complémentaire (art. R213-1 à R213-11)](#78)
-      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-4)](#79)
-        - [Chapitre Ier : Dispositions générales. (art. R221-1 à R221-2)](#80)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. R222-1 à R222-22)](#81)
-          - [Section 1 : Contenu du règlement. (art. R222-1 à R222-6)](#82)
-          - [Section 2 : Dispositions techniques et comptables. (art. R222-7 à R222-18)](#83)
-          - [Section 3 : Conversion du règlement. (art. R222-19 à R222-22)](#84)
-        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-4)](#85)
-          - [Section 1 : Dispositions générales (art. R223-1 à R223-4)](#86)
-    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R421-4)](#87)
-      - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#88)
-        - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#89)
-        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. R412-1 à R412-3)](#90)
-        - [Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-19)](#91)
-          - [Section 1 : Elections aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-10)](#92)
-          - [Section 2 : Elections au Conseil supérieur de la mutualité. (art. R413-11 à R413-18)](#93)
-          - [Section 3 : Contentieux des opérations électorales. (art. R413-19)](#94)
-        - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#95)
-      - [Titre II : Incitation à l'action mutualiste. (art. R421-1 à R421-4)](#96)
-        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. R421-1 à R421-4)](#97)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. R510-1 à R510-19)](#98)
-      - [Chapitre Ier : Commission de contrôle (art. R510-1 à R510-16)](#99)
-        - [Section 1 : Modalités de contrôle (art. R510-2 à R510-2-1)](#100)
-        - [Section 2 : Mesures de sauvegarde et d'assainissement (art. R510-3 à R510-10-1)](#101)
-        - [Section 3 : Procédure disciplinaire (art. R510-11 à R510-15)](#102)
-        - [Section 4 : Notification de l'exercice d'activités en libre prestation de services (art. R510-16)](#103)
-      - [Chapitre II : Déconcentration du contrôle. (art. R510-18)](#104)
-      - [Chapitre III : Dispositions pénales. (art. R510-19)](#105)
-  - [Partie réglementaire - Décrets simples (art. D114-1 à D412-3)](#106)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. D114-1 à D114-10)](#107)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-10)](#108)
-        - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#109)
-        - [Section 6 : Dispositions financières et comptables. (art. D114-10)](#110)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D223-1)](#111)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D212-8)](#112)
-        - [Chapitre II : Fonctionnement (art. D212-1 à D212-8)](#113)
-          - [Section 1 : Régime financier et comptable (art. D212-1 à D212-4)](#114)
-          - [Section 2 : Combinaison des comptes (art. D212-5 à D212-8)](#115)
-      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1)](#116)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1)](#117)
-          - [Section 1 : Dispositions générales (art. D223-1)](#118)
-    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#119)
-      - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#120)
-        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#121)
-  - [Partie réglementaire - Arrêtés (art. A114-1 à A510-4)](#122)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-11)](#123)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-11)](#124)
-        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#125)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-4)](#126)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#127)
-        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#128)
-          - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#129)
-        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-12)](#130)
-          - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#131)
-          - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#132)
-          - [Section 3 (art. A212-10 à A212-14)](#133)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#134)
-          - [Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-21 à A212-24)](#135)
-          - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#136)
-          - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#137)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#138)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#139)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#140)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#141)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#142)
-      - [Chapitre unique (art. A510-1 à A510-4)](#143)
-        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#144)
-        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#145)
-  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#146)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#147)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#148)
-        - [Chapitre II : Statuts (art. R122-4)](#149)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#150)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#151)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#152)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#153)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#154)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#155)
-        - [Chapitre unique (art. R211-1)](#156)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#157)
-        - [Chapitre unique (art. R221-1)](#158)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#159)
-        - [Chapitre unique (art. R231-1 à R231-2)](#160)
-    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#161)
-      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#162)
-        - [Chapitre unique (art. R311-2 à R311-22)](#163)
-          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#164)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#165)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#166)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#167)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#168)
-    - [Livre IV : Action sociale (art. R411-1)](#169)
-      - [Titre unique (art. R411-1)](#170)
-        - [Chapitre unique (art. R411-1)](#171)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#172)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#173)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#174)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#175)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#176)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#177)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#178)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#179)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#180)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#181)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#182)
-        - [Chapitre unique (art. R541-1)](#183)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#184)
-    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#185)
-    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#186)
-    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#187)
-    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#188)
-    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#189)
-    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#190)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#191)
+      - [Chapitre VI : Dispositions relatives aux activités d'intermédiation en assurance et en réassurance (art. L116-1 à L116-4)](#18)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation (art. L211-1 à L226-1)](#19)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. L211-1 à L213-5)](#20)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. L211-1 à L211-10)](#21)
+        - [Chapitre II : Fonctionnement. (art. L212-1 à L212-27)](#22)
+          - [Section 1 : Régime financier et comptable. (art. L212-1 à L212-7-19)](#23)
+          - [Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation. (art. L212-11 à L212-22)](#24)
+          - [Section 4 : Privilèges. (art. L212-23 à L212-26)](#25)
+          - [Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires. (art. L212-27)](#26)
+        - [Chapitre III : Peines. (art. L213-1 à L213-5)](#27)
+      - [Titre II : Opérations des mutuelles et des unions. (art. L221-1 à L226-1)](#28)
+        - [Chapitre Ier : Dispositions générales. (art. L221-1 à L221-18)](#29)
+          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6)](#30)
+          - [Section 2 : Exécution du contrat. (art. L221-7 à L221-17)](#31)
+          - [Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur. (art. L221-18)](#32)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. L222-1 à L222-2)](#33)
+        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. L223-1 à L223-27)](#34)
+          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25)](#35)
+          - [Section 2 : Dispositions particulières à certaines opérations collectives vie. (art. L223-26)](#36)
+          - [Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat. (art. L223-27)](#37)
+        - [Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé. (art. L224-1 à L224-9)](#38)
+          - [Section 1 : Protection juridique. (art. L224-1 à L224-7)](#39)
+          - [Section 2 : Principe indemnitaire. (art. L224-8 à L224-9)](#40)
+        - [Chapitre V : Loi applicable aux contrats pour les risques situés dans un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris. (art. L225-1 à L225-10)](#41)
+          - [Section 1 : Dispositions applicables aux opérations relatives à la couverture de risques de dommages corporels liés aux accidents, à la maladie, à la protection juridique, à l'assistance, au chômage et à la caution mutualiste. (art. L225-1 à L225-6)](#42)
+          - [Section 2 : Dispositions applicables aux opérations de capitalisation et à la couverture de risques liés à la personne et à la durée de la vie humaine à l'exception de celles visées à la section 1. (art. L225-7 à L225-10)](#43)
+        - [Chapitre VI : Dispositions relatives au cautionnement. (art. L226-1)](#44)
+    - [Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L310-1 à L320-6)](#45)
+      - [Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L310-1 à L310-4)](#46)
+      - [Titre II : Champ d'intervention des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales. (art. L320-1 à L320-6)](#47)
+    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. L411-1 à L431-8)](#48)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. L411-1 à L412-2)](#49)
+        - [Chapitre Ier : Conseil supérieur de la mutualité. (art. L411-1 à L411-3)](#50)
+        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. L412-1 à L412-2)](#51)
+      - [Titre II : Incitation à l'action mutualiste. (art. L421-1 à L421-3)](#52)
+        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. L421-1 à L421-3)](#53)
+      - [Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance. (art. L431-1 à L431-8)](#54)
+        - [Chapitre unique : Le fonds de garantie. (art. L431-1 à L431-8)](#55)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. L510-1 à L510-15)](#56)
+    - [Livre VI : Dispositions d'application. (art. L610-1 à L610-2)](#57)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R114-1 à R510-19)](#58)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. R114-1 à R114-8)](#59)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. R114-1 à R114-8)](#60)
+        - [Section 3 : Assemblée générale. (art. R114-1 à R114-2)](#61)
+        - [Section 5 : Dispositions relatives aux fonctions d'administrateur. (art. R114-4 à R114-8)](#62)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-4)](#63)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R213-11)](#64)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. R211-1 à R211-31)](#65)
+          - [Section 1 : Dispositions générales. (art. R211-1)](#66)
+          - [Section 2 : Agrément administratif. (art. R211-2 à R211-18)](#67)
+          - [Section 3 : Dispositions particulières à la branche protection juridique. (art. R211-19 à R211-20)](#68)
+          - [Section 4 : Convention de substitution. (art. R211-21 à R211-27)](#69)
+          - [Section 5 : Contrôle interne (art. R211-28 à R211-31)](#70)
+        - [Chapitre II : Fonctionnement. (art. R212-1 à R212-83)](#71)
+          - [Section 1 : Dispositions générales. (art. R212-1 à R212-9-1)](#72)
+          - [Section 2 : Marge de solvabilité. (art. R212-10 à R212-20)](#73)
+          - [Section 3 : Engagements réglementés. (art. R212-21 à R212-22)](#74)
+          - [Section 4 : Provisions techniques. (art. R212-23 à R212-27-1)](#75)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. R212-28 à R212-59)](#76)
+          - [Section 6 : Transfert de portefeuille. (art. R212-60 à R212-64)](#77)
+          - [Section 7 : Instruments financiers à terme. (art. R212-70 à R212-83)](#78)
+        - [Chapitre III : Surveillance complémentaire (art. R213-1 à R213-11)](#79)
+      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-4)](#80)
+        - [Chapitre Ier : Dispositions générales. (art. R221-1 à R221-2)](#81)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. R222-1 à R222-22)](#82)
+          - [Section 1 : Contenu du règlement. (art. R222-1 à R222-6)](#83)
+          - [Section 2 : Dispositions techniques et comptables. (art. R222-7 à R222-18)](#84)
+          - [Section 3 : Conversion du règlement. (art. R222-19 à R222-22)](#85)
+        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-4)](#86)
+          - [Section 1 : Dispositions générales (art. R223-1 à R223-4)](#87)
+    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R421-4)](#88)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#89)
+        - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#90)
+        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. R412-1 à R412-3)](#91)
+        - [Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-19)](#92)
+          - [Section 1 : Elections aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-10)](#93)
+          - [Section 2 : Elections au Conseil supérieur de la mutualité. (art. R413-11 à R413-18)](#94)
+          - [Section 3 : Contentieux des opérations électorales. (art. R413-19)](#95)
+        - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#96)
+      - [Titre II : Incitation à l'action mutualiste. (art. R421-1 à R421-4)](#97)
+        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. R421-1 à R421-4)](#98)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. R510-1 à R510-19)](#99)
+      - [Chapitre Ier : Autorité de contrôle. (art. R510-1 à R510-16)](#100)
+        - [Section 1 : Modalités de contrôle. (art. R510-2 à R510-2-1)](#101)
+        - [Section 2 : Mesures de sauvegarde et d'assainissement. (art. R510-3 à R510-10-1)](#102)
+        - [Section 3 : Procédure disciplinaire. (art. R510-11 à R510-15)](#103)
+        - [Section 4 : Notification de l'exercice d'activités en libre prestation de services. (art. R510-16)](#104)
+      - [Chapitre II : Déconcentration du contrôle. (art. R510-18)](#105)
+      - [Chapitre III : Dispositions pénales. (art. R510-19)](#106)
+  - [Partie réglementaire - Décrets simples (art. D114-1 à D412-3)](#107)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. D114-1 à D114-10)](#108)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-10)](#109)
+        - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#110)
+        - [Section 6 : Dispositions financières et comptables. (art. D114-10)](#111)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D223-1)](#112)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D212-8)](#113)
+        - [Chapitre II : Fonctionnement (art. D212-1 à D212-8)](#114)
+          - [Section 1 : Régime financier et comptable (art. D212-1 à D212-4)](#115)
+          - [Section 2 : Combinaison des comptes (art. D212-5 à D212-8)](#116)
+      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1)](#117)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1)](#118)
+          - [Section 1 : Dispositions générales (art. D223-1)](#119)
+    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#120)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#121)
+        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#122)
+  - [Partie réglementaire - Arrêtés (art. A114-1 à A510-4)](#123)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-11)](#124)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-11)](#125)
+        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#126)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-4)](#127)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#128)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#129)
+          - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#130)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-12)](#131)
+          - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#132)
+          - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#133)
+          - [Section 3 (art. A212-10 à A212-14)](#134)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#135)
+          - [Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen (art. A212-21 à A212-24)](#136)
+          - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#137)
+          - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#138)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#139)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#140)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#141)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#142)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#143)
+      - [Chapitre unique (art. A510-1 à A510-4)](#144)
+        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#145)
+        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#146)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#147)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#148)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#149)
+        - [Chapitre II : Statuts (art. R122-4)](#150)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#151)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#152)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#153)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#154)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#155)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#156)
+        - [Chapitre unique (art. R211-1)](#157)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#158)
+        - [Chapitre unique (art. R221-1)](#159)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#160)
+        - [Chapitre unique (art. R231-1 à R231-2)](#161)
+    - [Livre III : Réparation des risques sociaux (art. R311-2 à R325-6)](#162)
+      - [Titre Ier : Règles générales (art. R311-2 à R311-22)](#163)
+        - [Chapitre unique (art. R311-2 à R311-22)](#164)
+          - [Section 2 : Caisse mutualiste de garantie (art. R311-2 à R311-22)](#165)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#166)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#167)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#168)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#169)
+    - [Livre IV : Action sociale (art. R411-1)](#170)
+      - [Titre unique (art. R411-1)](#171)
+        - [Chapitre unique (art. R411-1)](#172)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#173)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#174)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#175)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#176)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#177)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#178)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#179)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#180)
+      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#181)
+        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#182)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#183)
+        - [Chapitre unique (art. R541-1)](#184)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#185)
+    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#186)
+    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#187)
+    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#188)
+    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#189)
+    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#190)
+    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#191)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#192)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -548,7 +549,7 @@ décret en Conseil d'Etat. Les ressources des systèmes fédéraux de garantie s
 
 Une mutuelle ou union ne peut être membre de plus d'un système fédéral de garantie.
 
-Sans préjudice des pouvoirs de contrôle conférés à la commission visée à l'article L. 510-1, les systèmes fédéraux veillent à
+Sans préjudice des pouvoirs de contrôle conférés à l'Autorité visée à l'article L. 510-1, les systèmes fédéraux veillent à
 l'application par leurs membres des dispositions législatives et réglementaires qui les régissent et exercent un contrôle
 administratif, technique et financier sur leur organisation et leur gestion.
 
@@ -564,15 +565,19 @@ Le système fédéral de garantie est subrogé dans les droits de l'organisme d�
 concurrence du montant de toutes les sommes qu'il a versées.
 
 Lorsqu'une mutuelle ou une union relevant du livre II du présent code cesse d'être membre d'un système fédéral de garantie,
-celui-ci en informe le ministre chargé de la mutualité et la commission de contrôle mentionnée à l'article L. 510-1 qui
-s'assure de son adhésion directe au fonds de garantie mentionné à l'article L. 431-1. Le système fédéral de garantie informe
-également le président du fonds mentionné à l'article L. 431-1.
+celui-ci en informe le ministre chargé de la mutualité et l'Autorité de contrôle mentionnée à l'article L. 510-1 qui s'assure
+de son adhésion directe au fonds de garantie mentionné à l'article L. 431-1. Le système fédéral de garantie informe également
+le président du fonds mentionné à l'article L. 431-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -820,8 +825,8 @@ l'assemblée générale ayant prononcé la dissolution, de l'excédent de l'acti
 de garantie mentionné à l'article L. 431-1.
 
 A défaut de réunion de l'assemblée générale durant deux années civiles consécutives, la dissolution peut être prononcée par
-la commission de contrôle mentionnée à l'article L. 510-1, qui nomme un liquidateur. L'excédent de l'actif net sur le passif
-est dévolu au fonds de garantie mentionné à l'article L. 431-1.
+l'Autorité de contrôle mentionnée à l'article L. 510-1, qui nomme un liquidateur. L'excédent de l'actif net sur le passif est
+dévolu au fonds de garantie mentionné à l'article L. 431-1.
 
 A défaut de décision de l'assemblée générale dans les cas de dissolution visés à l'article L. 212-16, l'excédent de l'actif
 net sur le passif est affecté au fonds de garantie mentionné à l'article L. 431-1.
@@ -834,7 +839,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 90 (V) JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -1084,9 +1089,9 @@ L'assemblée générale peut également être convoquée par :
 
 2° Les commissaires aux comptes ;
 
-3° La commission de contrôle mentionnée à l'article L. 510-1, d'office ou à la demande d'un membre participant ;
+3° L'Autorité de contrôle mentionnée à l'article L. 510-1, d'office ou à la demande d'un membre participant ;
 
-4° Un administrateur provisoire nommé par la commission de contrôle mentionnée à l'article L. 510-1, à la demande d'un ou
+4° Un administrateur provisoire nommé par l'Autorité de contrôle mentionnée à l'article L. 510-1, à la demande d'un ou
 plusieurs membres participants ;
 
 5° Les liquidateurs.
@@ -1111,6 +1116,10 @@ présent code.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -1327,7 +1336,7 @@ _Codifié par_:
 
 Les comptes annuels sont communiqués par les mutuelles, unions et fédérations à toute personne qui en fait la demande, dans
 des conditions fixées par arrêté du ministre chargé de la mutualité. Cet arrêté définit les états, tableaux et documents
-transmis à la commission de contrôle mentionnée à l'article L. 510-1, qui sont communiqués en réponse à une telle demande.
+transmis à l'Autorité de contrôle mentionnée à l'article L. 510-1, qui sont communiqués en réponse à une telle demande.
 
 Lorsqu'une mutuelle, une union ou une fédération refuse communication en tout ou partie des documents demandés au titre de
 l'alinéa précédent, le président du tribunal de grande instance statuant en référé peut, à la demande de la personne
@@ -1338,6 +1347,10 @@ concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de l
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -1909,15 +1922,21 @@ _Codifié par_:
 Aucune rémunération liée d'une manière directe ou indirecte au volume des cotisations des unions et des mutuelles ne peut
 être allouée à quelque titre que ce soit à un administrateur ou à un dirigeant salarié.
 
-Lorsqu'une mutuelle ou une union traite avec un mandataire, autre qu'un administrateur ou un dirigeant salarié, désigné par
-une personne morale souscriptrice d'un contrat collectif, elle peut lui verser une commission. Cette personne morale est
-informée du montant et du destinataire de la commission.
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -2138,13 +2157,17 @@ _Cité par_:
 ###### Article L114-40
 
 Lorsque le commissaire aux comptes informe le président du tribunal de grande instance, en application de l'article L. 612-3
-du code de commerce, il informe en même temps la commission de contrôle.
+du code de commerce, il informe en même temps l'Autorité de contrôle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -2189,7 +2212,7 @@ celui-ci confirme le caractère préoccupant de la situation, ils établissent u
 Le rapport est transmis au dirigeant et aux commissaires aux comptes. Le dirigeant est tenu de le remettre au président. Le
 conseil d'administration doit en être saisi dès qu'il est appelé à se réunir.
 
-II. - Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de la commission de contrôle
+II. - Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de l'Autorité de contrôle
 mentionnée à l'article L. 510-1, tout fait révélant la cessation des paiements de l'organisme.
 
 III. - Les informations concernant la mutuelle, union ou fédération communiquées en application du présent article ont par
@@ -2201,6 +2224,10 @@ obligation de discrétion.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -2287,7 +2314,7 @@ mutualité, par le comité de la réglementation comptable conformément aux dis
 6 avril 1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière.
 
 Un arrêté détermine, selon la nature et l'importance de leurs opérations, les états statistiques que les organismes doivent
-produire, ainsi que la nature et la périodicité des informations qu'ils doivent transmettre à la commission de contrôle
+produire, ainsi que la nature et la périodicité des informations qu'ils doivent transmettre à l'Autorité de contrôle
 mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
@@ -2301,6 +2328,10 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cité par_:
 
   - Code de la mutualité - art. A114-4 (Ab)
@@ -2310,7 +2341,7 @@ _Cité par_:
 
 ###### Article L114-47
 
-Est puni de six mois d'emprisonnement et de 7 500 Euro d'amende :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
 
 1° Le fait, pour tout administrateur d'une mutuelle, union ou fédération régie par le présent code, d'accepter, d'exercer ou
 de conserver les fonctions d'administrateur en violation des obligations prévues à l'article L. 114-28 ;
@@ -2320,7 +2351,16 @@ code, de méconnaître l'une des interdictions visées à l'article L. 114-21 ;
 
 3° Le fait, pour tout administrateur ou dirigeant salarié d'une mutuelle ou union régie par le présent code, de recevoir, à
 quelque titre que ce soit, une rémunération liée d'une manière directe ou indirecte au volume des cotisations desdits
-organismes.
+organismes ;
+
+4° Le fait, pour tout président ou dirigeant salarié d'une mutuelle ou union régie par les livres II et III du présent code,
+de méconnaître l'une des dispositions des articles L. 116-1 à L. 116-4.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -2328,10 +2368,15 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
 _Cite_:
 
   - Code de la mutualité - art. L114-21 (M)
   - Code de la mutualité - art. L114-28 (V)
+  - Code de la mutualité L114-28, L114-21, L116-1 à L116-4
 
 
 ###### Article L114-48
@@ -2712,11 +2757,139 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation<a id=18></a>
+### Chapitre VI : Dispositions relatives aux activités d'intermédiation en assurance et en réassurance<a id=18></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=19></a>
+###### Article L116-1
 
-#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=20></a>
+Sous réserve que la mutuelle ou l'union continue de pratiquer à titre principal les activités conformes à son objet social,
+et lorsqu'elle y est autorisée par ses statuts, la mutuelle ou l'union peut présenter des garanties dont le risque est porté
+par un autre organisme habilité à pratiquer des opérations d'assurance. 
+
+Toutefois, les mutuelles et les unions régies par les dispositions du livre III du présent code ne peuvent présenter, à titre
+accessoire, que des garanties en rapport avec leur activité ou relevant des opérations d'assurance mentionnées au 1° du I de
+l'article L. 111-1 dont le risque est porté par une mutuelle ou une union régie par les dispositions du livre II du présent
+code.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
+_Cite_:
+
+  - Code de la mutualité - art. L111-1 (V)
+
+_Cité par_:
+
+  - Code de la mutualité - art. L114-47 (V)
+  - Code de la mutualité - art. L116-4 (V)
+  - Code de la mutualité - art. L223-25-3 (Ab)
+
+
+###### Article L116-2
+
+Lorsqu'elles y sont autorisées par leurs statuts, les mutuelles et les unions régies par le livre II du présent code peuvent
+recourir à des intermédiaires d'assurance ou de réassurance. Les dispositions du livre III et du livre V du code des
+assurances relatives aux intermédiaires sont applicables aux intermédiaires des mutuelles et des unions.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
+_Cité par_:
+
+  - Code de la mutualité - art. L116-5 (V)
+
+
+###### Article L116-3
+
+Lorsque l'intermédiaire a été désigné par une personne morale souscriptrice, la mutuelle ou l'union informe cette dernière du
+montant et du destinataire de la rémunération versée.
+
+La mutuelle ou l'union ne peut déléguer, de manière totale ou partielle, la gestion d'un contrat collectif que si ses statuts
+l'y autorisent. L'assemblée générale définit les principes que doivent respecter ces délégations de gestion. Le délégataire
+rend compte chaque année de sa gestion au conseil d'administration de la mutuelle ou de l'union.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
+_Cité par_:
+
+  - Code de la mutualité - art. L116-4 (V)
+
+
+###### Article L116-4
+
+Le conseil d'administration établit, chaque année, un rapport qu'il présente à l'assemblée générale et dans lequel il rend
+compte des opérations d'intermédiation et de délégation de gestion visées aux articles L. 116-1 à L. 116-3. Les informations
+contenues dans ce rapport sont déterminées par  décret.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
+mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
+_Cité par_:
+
+  - Code de la mutualité - art. L114-47 (V)
+
+_Cite_:
+
+  - Code de la mutualité L116-1 à L116-3
+
+
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation<a id=19></a>
+
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=20></a>
+
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=21></a>
 
 ###### Article L211-1
 
@@ -2767,7 +2940,7 @@ _Cité par_:
 
 ###### Article L211-3
 
-Les mutuelles et unions soumises aux dispositions du présent livre sont tenues de déclarer à la commission de contrôle
+Les mutuelles et unions soumises aux dispositions du présent livre sont tenues de déclarer à l'Autorité de contrôle
 mentionnée à l'article L. 510-1 toute convention de gestion par laquelle elles participent au financement d'une mutuelle ou
 d'une union soumise aux dispositions du livre III ou disposent avec elle de services communs. Toute modification de la
 convention fait l'objet de la même procédure.
@@ -2777,6 +2950,10 @@ convention fait l'objet de la même procédure.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -2801,38 +2978,39 @@ _Codifié par_:
 ###### Article L211-5
 
 Pour l'application du dernier alinéa du I de l'article L. 111-1, les mutuelles ou les unions concluent avec les organismes
-qui se substituent à elles une convention de substitution, dans des conditions fixées par décret en Conseil d'Etat.
+qui se substituent à elles une convention de substitution, dans des conditions fixées par décret en Conseil d'Etat. 
 
 Les opérations faites en application de la convention de substitution sont considérées, au regard des dispositions du présent
-livre, comme des opérations directes de la mutuelle ou de l'union qui s'est substituée à l'organisme concerné.
+livre, comme des opérations directes de la mutuelle ou de l'union qui s'est substituée à l'organisme concerné. 
 
 Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure une telle convention qu'au plus tôt deux
-mois après avoir informé de ce projet la commission de contrôle mentionnée à l'article L. 510-1. Les organismes qui se sont
-substitués à d'autres sont tenus d'informer la commission de contrôle au plus tard deux mois avant la modification ou la
+mois après avoir informé de ce projet l'Autorité de contrôle mentionnée à l'article L. 510-1. Les organismes qui se sont
+substitués à d'autres sont tenus d'informer l'Autorité de contrôle au plus tard deux mois avant la modification ou la
 résiliation de la convention.
 
 A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne
-sont pas soumises aux dispositions des articles L. 212-1, L. 212-3 et L. 212-15 à L. 212-22.
+sont pas soumises aux dispositions des articles L. 212-1, 
+L. 212-3 et L. 212-15 à L. 212-22. 
 
 Elles sont également dispensées de nommer un commissaire aux comptes lorsque la mutuelle ou l'union avec laquelle elles ont
 passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à
-elles certifie les comptes annuels.
+elles certifie les comptes annuels. 
 
-Toute modification de la convention de substitution est soumise à l'autorisation préalable de la commission de contrôle.
+Toute modification de la convention de substitution est soumise à l'autorisation préalable de l'Autorité de contrôle. 
 
 Au plus tard deux mois avant l'expiration de la convention de substitution, les mutuelles et les unions sont tenues de
-justifier auprès de la commission de contrôle :
+justifier auprès de l'Autorité de contrôle : 
 
-a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une nouvelle ;
+a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une nouvelle ; 
 
 b) Soit qu'elles ont obtenu un agrément pour exercer à nouveau les activités au titre desquelles elles avaient obtenu une
-dispense d'agrément, ou pour lesquelles a été constatée la caducité de l'agrément dont elles disposaient ;
+dispense d'agrément, ou pour lesquelles a été constatée la caducité de l'agrément dont elles disposaient ; 
 
 c) Soit enfin qu'elles ont obtenu l'autorisation de transférer leur portefeuille dans les conditions prévues à l'article L.
-212-11.
+212-11. 
 
 Si elles ne peuvent apporter l'une des justifications mentionnées aux a et b ci-dessus, elles ne peuvent passer de nouveaux
-contrats ou en renouveler, à compter de la date de l'expiration de la convention. A compter de cette même date, elles sont
+contrats ou en renouveler, à compter de la date de l'expiration de la convention.A compter de cette même date, elles sont
 passibles des peines prévues à l'article L. 510-11.
 
 **Liens relatifs à cet article**
@@ -2872,17 +3050,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code de la mutualité - art. L111-1 (Ab)
+  - Code de la mutualité - art. L111-1 (V)
   - Code de la mutualité - art. L212-1 (V)
-  - Code de la mutualité - art. L212-11 (M)
-  - Code de la mutualité - art. L212-3 (M)
-  - Code de la mutualité - art. L510-1 (M)
-  - Code de la mutualité - art. L510-11 (M)
-  - Code de la mutualité L111-1, L510-1, L212-1, L212-3, L212-15 à L212-22, L212-11, L510-11
+  - Code de la mutualité - art. L212-15 (V)
+  - Code de la mutualité - art. L212-3 (V)
 
 
 ###### Article L211-6
@@ -3008,12 +3183,12 @@ _Cité par_:
 
 Pour accorder l'agrément, l'autorité administrative s'assure que les éléments du programme d'activité établi selon les
 principes définis par arrêté du ministre chargé de la mutualité sont adaptés à la nature des activités que l'organisme se
-propose d'exercer. 
+propose d'exercer.
 
 Elle s'assure également que les moyens administratifs, notamment d'encadrement, et les moyens techniques et financiers dont
-la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union. 
+la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union.
 
-Elle vérifie le respect des règles relatives à l'éligibilité des administrateurs édictées par le présent code. 
+Elle vérifie le respect des règles relatives à l'éligibilité des administrateurs édictées par le présent code.
 
 Elle vérifie l'honorabilité et la qualification ou l'expérience professionnelle des personnes chargées de la diriger. Elle
 prend en compte le niveau et les modalités de constitution de son fonds de garantie.
@@ -3023,7 +3198,7 @@ réglementaires, notamment prudentielles, prévues par le présent code ou lorsq
 des dirigeants lui paraissent de nature à mettre en péril la capacité de l'organisme à respecter ses engagements à l'égard
 des membres participants.
 
-L'autorité administrative refuse l'agrément, après avis de la commission de contrôle mentionnée à l'article L. 510-1, lorsque
+L'autorité administrative refuse l'agrément, après avis de l'Autorité de contrôle mentionnée à l'article L. 510-1, lorsque
 l'exercice de la mission de surveillance de la mutuelle ou de l'union est susceptible d'être entravé, soit par l'existence de
 relations de contrôle direct ou indirect entre l'organisme requérant et d'autres personnes physiques ou morales, soit par des
 dispositions législatives, réglementaires ou administratives d'un Etat qui n'est ni membre de la Communauté européenne ni
@@ -3036,6 +3211,10 @@ L'arrêté mentionné au premier alinéa fixe la liste des documents à produire
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -3062,10 +3241,6 @@ _Cité par_:
   - Code des assurances - art. R336-6 (VD)
   - Code monétaire et financier - art. L517-2 (VD)
   - Code monétaire et financier - art. L612-20 (VD)
-
-_Cite_:
-
-  - Code de la mutualité - art. L510-1 (V)
 
 
 ###### Article L211-9
@@ -3151,9 +3326,9 @@ _Cite_:
   - Code de la mutualité - art. L211-9 (V)
 
 
-#### Chapitre II : Fonctionnement.<a id=21></a>
+#### Chapitre II : Fonctionnement.<a id=22></a>
 
-##### Section 1 : Régime financier et comptable.<a id=22></a>
+##### Section 1 : Régime financier et comptable.<a id=23></a>
 
 ###### Article L212-1
 
@@ -3221,13 +3396,17 @@ et indique si la marge de solvabilité est constituée conformément à la régl
 contient obligatoirement une analyse des conditions dans lesquelles l'organisme est en mesure, à moyen et long terme, de
 faire face à l'ensemble de ses engagements.
 
-Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à la commission de contrôle mentionnée à l'article L. 510-1.
+Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -3514,11 +3693,11 @@ _Cité par_:
 
 Les mutuelles ou unions régies par les dispositions du présent livre et apparentées à au moins un autre organisme assureur ou
 subordonnées à un organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation
-financière par la commission de contrôle mentionnée à l'article L. 510-1.
+financière par l'Autorité de contrôle mentionnée à l'article L. 510-1. 
 
-La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union. La commission peut
+La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union.L'Autorité peut
 toutefois décider d'exclure un organisme apparenté de la surveillance complémentaire si elle estime que sa prise en compte
-présenterait un intérêt négligeable ou serait contraire aux objectifs de cette surveillance.
+présenterait un intérêt négligeable ou serait contraire aux objectifs de cette surveillance. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article, et notamment :
 
@@ -3526,20 +3705,11 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 - les règles prudentielles applicables dans le cadre de la surveillance complémentaire.
 
-**Nota:**
-
-Nota : Ordonnance 2001-767 2001-08-29 art. 3 : les dispositions de l'article L212-7-2 du code de la mutualité s'appliquent
-pour la première fois à la surveillance des comptes ouverts à compter du 1er janvier 2001.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -3554,9 +3724,13 @@ _Cité par_:
   - Code des assurances - art. L310-15 (Ab)
   - Code des assurances - art. L334-3-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cite_:
 
-  - Code de la mutualité - art. L510-1 (M)
+  - Code de la mutualité - art. L510-1 (V)
 
 
 ###### Article L212-7-3
@@ -3682,14 +3856,14 @@ _Cité par_:
 
 ###### Article L212-7-6
 
-La commission de contrôle mentionnée à l'article L. 510-1, la commission bancaire, l'Autorité des marchés financiers, en
+L'Autorité de contrôle mentionnée à l'article L. 510-1, la commission bancaire, l'Autorité des marchés financiers, en
 liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats membres ou autres Etats
 parties à l'accord sur l'Espace économique européen identifient les groupes entrant dans le champ de la surveillance
 complémentaire des conglomérats financiers et échangent à cet effet toute information utile à l'accomplissement de leurs
 missions respectives.
 
-Lorsqu'un groupe a été identifié comme un conglomérat financier et que la commission de contrôle mentionnée à l'article L.
-510-1 est désignée, conformément aux dispositions de l'article L. 212-7-9, comme le coordonnateur de la surveillance
+Lorsqu'un groupe a été identifié comme un conglomérat financier et que l'Autorité de contrôle mentionnée à l'article L. 510-1
+est désignée, conformément aux dispositions de l'article L. 212-7-9, comme le coordonnateur de la surveillance
 complémentaire, elle en informe l'entité tête de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le
 plus élevé dans le secteur financier le plus important du groupe. Elle en informe également les autorités compétentes qui ont
 agréé les entités réglementées du groupe et les autorités compétentes de l'Etat membre ou de l'autre Etat partie à l'accord
@@ -3702,9 +3876,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -3820,8 +3998,8 @@ _Cité par_:
 
 ###### Article L212-7-10
 
-Lorsqu'elle est désignée comme coordonnateur, la commission de contrôle mentionnée à l'article L. 510-1 assure, au titre de
-la surveillance complémentaire :
+Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle mentionnée à l'article L. 510-1 assure, au titre de la
+surveillance complémentaire :
 
 a) La coordination de la collecte et de la diffusion de toute information utile dans la marche normale des affaires comme
 dans les situations d'urgence, et en particulier de toute information importante intéressant la surveillance prudentielle
@@ -3842,9 +4020,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cité par_:
 
@@ -3887,7 +4069,7 @@ _Cité par_:
 
 ###### Article L212-7-12
 
-Afin de faciliter l'exercice de la surveillance complémentaire, la commission de contrôle mentionnée à l'article L. 510-1
+Afin de faciliter l'exercice de la surveillance complémentaire, l'Autorité de contrôle mentionnée à l'article L. 510-1
 conclut avec les autorités compétentes concernées, et, en tant que de besoin, toute autre autorité compétente intéressée, des
 accords de coordination. Ces accords sont publiés au Journal officiel de la République française. Ils peuvent confier des
 missions supplémentaires au coordinateur et préciser les procédures à suivre dans le cadre de la surveillance complémentaire.
@@ -3899,9 +4081,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -3910,8 +4096,8 @@ _Cite_:
 
 ###### Article L212-7-13
 
-La commission de contrôle mentionnée à l'article L. 510-1 coopère avec les autorités compétentes chargées de la surveillance
-des entités réglementées appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle, avec le coordinateur.
+L'Autorité de contrôle mentionnée à l'article L. 510-1 coopère avec les autorités compétentes chargées de la surveillance des
+entités réglementées appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle, avec le coordinateur.
 
 Pour les besoins de l'exercice de leurs fonctions respectives, les autorités compétentes peuvent échanger des informations
 relatives aux entités réglementées appartenant à un conglomérat financier, conformément aux règles sectorielles, avec les
@@ -3926,9 +4112,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -3966,10 +4156,10 @@ _Abrogé par_:
 
 Lorsque les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen
 souhaitent, dans des cas déterminés, vérifier les informations relatives à une entité établie en France, réglementée ou non,
-appartenant à un conglomérat financier et mentionnée à l'article L. 510-1, elles demandent à la commission de contrôle
+appartenant à un conglomérat financier et mentionnée à l'article L. 510-1, elles demandent à l'Autorité de contrôle
 mentionnée à l'article L. 510-1 de faire procéder à cette vérification.
 
-La commission de contrôle mentionnée à l'article L. 510-1 y donne suite, dans le cadre de ses compétences, soit en procédant
+L'Autorité de contrôle mentionnée à l'article L. 510-1 y donne suite, dans le cadre de ses compétences, soit en procédant
 elle-même à cette vérification, soit en permettant à l'autorité qui a présenté la demande d'y procéder elle-même, soit en
 permettant qu'un commissaire aux comptes ou un expert y procède.
 
@@ -3982,9 +4172,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -3993,13 +4187,13 @@ _Cite_:
 
 ###### Article L212-7-16
 
-Lorsque la commission de contrôle mentionnée à l'article L. 510-1, dans l'exercice de ses fonctions de coordonnateur,
-constate que la solvabilité des entités réglementées appartenant à un conglomérat financier risque d'être compromise, ou que
-les transactions entre les différentes entités du conglomérat ou que les concentrations de risques menacent la situation
+Lorsque l'Autorité de contrôle mentionnée à l'article L. 510-1, dans l'exercice de ses fonctions de coordonnateur, constate
+que la solvabilité des entités réglementées appartenant à un conglomérat financier risque d'être compromise, ou que les
+transactions entre les différentes entités du conglomérat ou que les concentrations de risques menacent la situation
 financière de ces entités réglementées, ou qu'une entité réglementée ne se conforme pas aux exigences de l'article L.
 212-7-8, ou une compagnie financière holding mixte ne respecte pas les dispositions législatives et réglementaires afférentes
-à son activité, la commission de contrôle mentionnée à l'article L. 510-1 peut prononcer, à l'encontre de cette compagnie ou
-de ses dirigeants :
+à son activité, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut prononcer, à l'encontre de cette compagnie ou de
+ses dirigeants :
 
 1° Une ou plusieurs des sanctions prévues aux 1, 2, 4 et 5 de l'article L. 510-11 ;
 
@@ -4015,22 +4209,22 @@ ci comprend plusieurs filiales qui sont des entités réglementées, le plafond 
 capital de l'entité réglementée qui est astreinte au capital minimum le plus élevé. Les sommes correspondantes sont versées
 au Trésor public et sont recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine.
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut décider de reporter sa décision à l'expiration d'un délai
-imparti aux entités réglementées ou à la compagnie financière holding mixte placée à la tête du groupe pour prendre toute
-mesure destinée à rétablir ou renforcer leur équilibre financier ou à corriger leurs pratiques.
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut décider de reporter sa décision à l'expiration d'un délai imparti
+aux entités réglementées ou à la compagnie financière holding mixte placée à la tête du groupe pour prendre toute mesure
+destinée à rétablir ou renforcer leur équilibre financier ou à corriger leurs pratiques.
 
 Dans les cas visés aux alinéas précédents, les dispositions des deux derniers alinéas de l'article L. 510-11 sont
 applicables.
 
-La commission de contrôle mentionnée à l'article L. 510-1 informe de ces constatations les autorités compétentes chargées de
-la surveillance sectorielle des entités réglementées du conglomérat financier.
+L'Autorité de contrôle mentionnée à l'article L. 510-1 informe de ces constatations les autorités compétentes chargées de la
+surveillance sectorielle des entités réglementées du conglomérat financier.
 
 Lorsque le coordonnateur est une autorité compétente d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen, il peut prononcer à l'encontre d'une compagnie financière holding mixte ayant son siège en France, dans
 les conditions prévues à l'alinéa précédent, les sanctions prévues au présent article ou prendre les mesures prévues par son
 droit national.
 
-Les autorités compétentes sectorielles, y compris la commission de contrôle mentionnée à l'article L. 510-1 lorsqu'elle
+Les autorités compétentes sectorielles, y compris l'Autorité de contrôle mentionnée à l'article L. 510-1 lorsqu'elle
 intervient en cette qualité, peuvent faire usage, aux fins de la surveillance complémentaire, des pouvoirs de sanctions dont
 elles disposent au titre de la surveillance sectorielle à l'égard des entités réglementées soumises à leur contrôle.
 
@@ -4040,9 +4234,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -4058,7 +4256,7 @@ _Cité par_:
 ###### Article L212-7-17
 
 Lorsqu'une entité réglementée utilise son appartenance à un conglomérat financier pour se soustraire, totalement ou
-partiellement, à l'application des règles sectorielles dont elle relève, la commission de contrôle mentionnée à l'article L.
+partiellement, à l'application des règles sectorielles dont elle relève, l'Autorité de contrôle mentionnée à l'article L.
 510-1 peut faire usage des pouvoirs prévus au livre V.
 
 **Liens relatifs à cet article**
@@ -4067,9 +4265,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
@@ -4090,7 +4292,7 @@ surveillance complémentaire.
 Afin d'assurer la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier dont
 l'entreprise mère a son siège social dans un Etat non membre ni partie à l'Espace économique européen, les autorités
 compétentes peuvent également appliquer d'autres méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été
-validées par la commission de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 212-7-9 pour être
+validées par l'Autorité de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 212-7-9 pour être
 coordinateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent notamment
 exiger la constitution d'une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un autre
 Etat partie à l'accord sur l'Espace économique européen et appliquer les dispositions relatives à la surveillance
@@ -4103,9 +4305,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cité par_:
 
@@ -4113,15 +4319,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L212-7-9 (V)
+  - Code de la mutualité - art. L212-7-9
 
 
 ###### Article L212-7-19
 
-Aux fins de la surveillance complémentaire prévue par le présent chapitre, la commission de contrôle mentionnée à l'article
-L. 510-1 peut conclure les accords prévus à l'article L. 212-7-11 avec les autorités compétentes d'un Etat non partie à
-l'accord sur l'Espace économique européen en vue du contrôle de toute entité, réglementée ou non, appartenant à un
-conglomérat financier.
+Aux fins de la surveillance complémentaire prévue par le présent chapitre, l'Autorité de contrôle mentionnée à l'article L.
+510-1 peut conclure les accords prévus à l'article L. 212-7-11 avec les autorités compétentes d'un Etat non partie à l'accord
+sur l'Espace économique européen en vue du contrôle de toute entité, réglementée ou non, appartenant à un conglomérat
+financier.
 
 **Liens relatifs à cet article**
 
@@ -4129,17 +4335,21 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
-  - Code de la mutualité - art. L212-7-11 (V)
-  - Code de la mutualité - art. L510-1 (M)
+  - Code de la mutualité - art. L212-7-11
+  - Code de la mutualité - art. L510-1
 
 
-##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.<a id=23></a>
+##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.<a id=24></a>
 
 ###### Article L212-11
 
@@ -4276,16 +4486,16 @@ _Cite_:
 La dissolution volontaire comporte, pour la mutuelle ou pour l'union, l'engagement de ne plus réaliser, pour l'ensemble des
 agréments qui lui avaient été accordés, de nouvelles opérations.
 
-La mutuelle ou l'union en informe immédiatement la commission de contrôle mentionnée à l'article L. 510-1.
+La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
-Dans le mois de la décision constatant la caducité de l'agrément, elle soumet à la commission un programme de liquidation
+Dans le mois de la décision constatant la caducité de l'agrément, elle soumet à l'Autorité un programme de liquidation
 précisant notamment les délais prévisibles et les conditions financières de la liquidation ainsi que les moyens en personnel
 et matériels mis en oeuvre pour la gestion des engagements résiduels.
 
 Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier
 décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en
-oeuvre sont communiqués à la commission qui peut, dans les conditions mentionnées à l'article L. 510-7, réaliser tous
-contrôles sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements.
+oeuvre sont communiqués à l'Autorité qui peut, dans les conditions mentionnées à l'article L. 510-7, réaliser tous contrôles
+sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements.
 
 **Liens relatifs à cet article**
 
@@ -4293,16 +4503,15 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cité par_:
 
   - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
   - Code de la mutualité - art. L214-5 (V)
   - Code de la mutualité - art. L510-4 (Ab)
-
-_Cite_:
-
-  - Code de la mutualité - art. L510-1 (M)
-  - Code de la mutualité - art. L510-7 (M)
 
 
 ###### Article L212-15
@@ -4453,11 +4662,11 @@ _Cité par_:
 En cas de retrait de l'agrément accordé à une mutuelle ou une union, les garanties relatives aux a, c, d et e du 1° du I de
 l'article L. 111-1 conclues en application des dispositions du titre II du présent livre cessent de plein droit d'avoir effet
 le quarantième jour à midi, à compter de la publication au Journal officiel de la décision prononçant ce retrait. Les
-cotisations échues avant la date de la décision de l'autorité administrative ou de la commission de contrôle mentionnée à
+cotisations échues avant la date de la décision de l'autorité administrative ou de l'Autorité de contrôle mentionnée à
 l'article L. 510-1 prononçant le retrait d'agrément, et non payées à cette date, sont dues en totalité à la mutuelle ou à
 l'union mais elles ne sont définitivement acquises à celle-ci que proportionnellement à la période garantie jusqu'au jour de
 la résiliation. Pour celles des garanties qui sont permanentes ou qui ont été reconduites, tacitement ou non, entre la date
-de la décision de l'autorité administrative ou de la commission de contrôle prononçant le retrait d'agrément et la date de
+de la décision de l'autorité administrative ou de l'Autorité de contrôle prononçant le retrait d'agrément et la date de
 résiliation de plein droit des garanties souscrites en application du titre II du présent livre, les cotisations ne sont dues
 que proportionnellement à la durée de la période garantie.
 
@@ -4466,6 +4675,10 @@ que proportionnellement à la durée de la période garantie.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -4480,30 +4693,34 @@ _Cité par_:
 
 ###### Article L212-21
 
-Après la publication au Journal officiel de la décision de l'autorité administrative ou de la commission de contrôle
-mentionnée à l'article L. 510-1 prononçant le retrait de l'agrément accordé à une mutuelle ou une union, les garanties
-souscrites par l'organisme relevant du b du 1° du I de l'article L. 111-1 demeurent régies par leurs règlements ou conditions
-générales et particulières tant que la décision de la commission prévue à l'alinéa suivant n'a pas été publiée au Journal
-officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement de toutes les sommes dues au
-titre des bulletins d'adhésion ou des contrats collectifs. Les cotisations encaissées par le liquidateur sont versées à un
-compte spécial qui fait l'objet d'une liquidation distincte.
+Après la publication au Journal officiel de la décision de l'autorité administrative ou de l'Autorité de contrôle mentionnée
+à l'article L. 510-1 prononçant le retrait de l'agrément accordé à une mutuelle ou une union, les garanties souscrites par
+l'organisme relevant du b du 1° du I de l'article L. 111-1 demeurent régies par leurs règlements ou conditions générales et
+particulières tant que la décision de l'Autorité prévue à l'alinéa suivant n'a pas été publiée au Journal officiel, mais le
+liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement de toutes les sommes dues au titre des
+bulletins d'adhésion ou des contrats collectifs. Les cotisations encaissées par le liquidateur sont versées à un compte
+spécial qui fait l'objet d'une liquidation distincte.
 
-La commission de contrôle, à la demande du liquidateur et sur le rapport du juge commissaire, peut fixer la date à laquelle
-les garanties cessent d'avoir effet, autoriser leur transfert en tout ou partie à d'autres, proroger leur échéance, décider
-la réduction des sommes payables en cas de vie ou de décès ainsi que des excédents attribués et des valeurs de rachat, de
+L'Autorité de contrôle, à la demande du liquidateur et sur le rapport du juge commissaire, peut fixer la date à laquelle les
+garanties cessent d'avoir effet, autoriser leur transfert en tout ou partie à d'autres, proroger leur échéance, décider la
+réduction des sommes payables en cas de vie ou de décès ainsi que des excédents attribués et des valeurs de rachat, de
 manière à ramener la valeur des engagements de la mutuelle ou de l'union au montant que la situation de la liquidation permet
 de couvrir.
 
 Le versement des cotisations périodiques est suspendu dix jours après la nomination du liquidateur, et jusqu'à la publication
-de la décision de la commission de contrôle fixant la date à laquelle les garanties cessent d'avoir effet. En cas de
-transfert du portefeuille, les versements suspendus sont effectués par l'entreprise cessionnaire, abattus du taux de
-réduction défini par la commission de contrôle mentionnée à l'article L. 510-1.
+de la décision de l'Autorité de contrôle fixant la date à laquelle les garanties cessent d'avoir effet. En cas de transfert
+du portefeuille, les versements suspendus sont effectués par l'entreprise cessionnaire, abattus du taux de réduction défini
+par l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -4513,9 +4730,9 @@ _Cite_:
 
 ###### Article L212-22
 
-A la requête de la commission de contrôle mentionnée à l'article L. 510-1, le tribunal peut prononcer la nullité d'une ou
+A la requête de l'Autorité de contrôle mentionnée à l'article L. 510-1, le tribunal peut prononcer la nullité d'une ou
 plusieurs opérations réalisées par les dirigeants d'une mutuelle ou union pourvue d'un liquidateur à la suite du retrait de
-l'agrément, à charge, pour la commission de contrôle, d'apporter la preuve que les personnes qui ont adhéré à l'organisme ou
+l'agrément, à charge, pour l'Autorité de contrôle, d'apporter la preuve que les personnes qui ont adhéré à l'organisme ou
 contracté avec celui-ci savaient que l'actif était insuffisant pour garantir les créances privilégiées des participants et
 bénéficiaires et que l'opération incriminée devait avoir pour effet de diminuer cette garantie.
 
@@ -4525,12 +4742,16 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cite_:
 
   - Code de la mutualité - art. L510-1 (M)
 
 
-##### Section 4 : Privilèges.<a id=24></a>
+##### Section 4 : Privilèges.<a id=25></a>
 
 ###### Article L212-23
 
@@ -4573,7 +4794,7 @@ _Cité par_:
 Lorsque les actifs d'une mutuelle ou union sont insuffisants pour assurer la représentation de ses engagements réglementés ou
 lorsque la situation financière de cet organisme est telle que les intérêts des membres participants et des bénéficiaires
 sont susceptibles d'être compromis à bref délai, les immeubles faisant partie de son patrimoine peuvent être grevés d'une
-hypothèque inscrite à la requête de la commission de contrôle mentionnée à l'article L. 510-1. Lorsque la mutuelle ou l'union
+hypothèque inscrite à la requête de l'Autorité de contrôle mentionnée à l'article L. 510-1. Lorsque la mutuelle ou l'union
 fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit à la date du retrait d'agrément.
 
 **Liens relatifs à cet article**
@@ -4581,6 +4802,10 @@ fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droi
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -4651,7 +4876,7 @@ _Cité par_:
   - Décret n°2007-1859 du 26 décembre 2007 (V)
 
 
-##### Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires.<a id=25></a>
+##### Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires.<a id=26></a>
 
 ###### Article L212-27
 
@@ -4695,7 +4920,7 @@ _Cité par_:
   - Code de la mutualité - art. R510-8 (VT)
 
 
-#### Chapitre III : Peines.<a id=26></a>
+#### Chapitre III : Peines.<a id=27></a>
 
 ###### Article L213-1
 
@@ -4847,11 +5072,11 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=27></a>
+### Titre II : Opérations des mutuelles et des unions.<a id=28></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=28></a>
+#### Chapitre Ier : Dispositions générales.<a id=29></a>
 
-##### Section 1 : Modalités d'affiliation.<a id=29></a>
+##### Section 1 : Modalités d'affiliation.<a id=30></a>
 
 ###### Article L221-1
 
@@ -4947,14 +5172,15 @@ Pour l'application de l'alinéa précédent, une convention détermine les droit
 unions concernées et, notamment, les conditions dans lesquelles sont mises en oeuvre les dispositions du présent titre
 relatives à l'information des membres participants ainsi que des mutuelles et unions souscriptrices.
 
-Une mutuelle ou une union qui présente des garanties dont le risque est porté par un autre organisme mutualiste agit comme
-intermédiaire mutualiste.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -5047,7 +5273,7 @@ _Cite_:
   - Code de la mutualité - art. L221-3 (M)
 
 
-##### Section 2 : Exécution du contrat.<a id=30></a>
+##### Section 2 : Exécution du contrat.<a id=31></a>
 
 ###### Article L221-7
 
@@ -5397,45 +5623,45 @@ _Cité par_:
   - Code de la mutualité - art. L223-27 (V)
 
 
-##### Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur.<a id=31></a>
+##### Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur.<a id=32></a>
 
 ###### Article L221-18
 
-I. - 1° La fourniture à distance d'opérations d'assurance individuelles à un consommateur est régie par les dispositions du
+I.-1° La fourniture à distance d'opérations d'assurance individuelles à un consommateur est régie par les dispositions du
 présent titre et par celles des sous-sections 2 et 3 de la section 2 du chapitre Ier du titre II du livre Ier du code de la
-consommation, à l'exception des articles L. 121-20-10, L. 121-20-12 et L. 121-20-17, ci-après reproduites :
+consommation, à l'exception des articles L. 121-20-10, L. 121-20-12 et L. 121-20-17, ci-après reproduites : 
 
-Sous-section 2
+" Sous-section 2 
 
-Dispositions particulières
+Dispositions particulières 
 
-aux contrats portant sur des services financiers
+aux contrats portant sur des services financiers " 
 
-Art. L. 121-20-8. -     La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre
-d'un système de vente ou de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour
-ce contrat, utilise exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la
-conclusion du contrat.
+" Art.L. 121-20-8.-La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un
+système de vente ou de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce
+contrat, utilise exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion
+du contrat. 
 
 Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
 que les opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par
 le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du
-code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes.
+code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes. " 
 
-Art. L. 121-20-9. -     Pour les contrats portant sur des services financiers comportant une première convention de service
-suivie d'opérations successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les
-dispositions de la présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats
-renouvelables par tacite reconduction, les dispositions de la présente sous-section ne s'appliquent qu'au contrat initial.
+" Art.L. 121-20-9.-Pour les contrats portant sur des services financiers comportant une première convention de service suivie
+d'opérations successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions
+de la présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par
+tacite reconduction, les dispositions de la présente sous-section ne s'appliquent qu'au contrat initial. 
 
 En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature, échelonnées
 dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-20-10 ne sont applicables qu'à la
 première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un an, ces dispositions
-s'appliquent à l'opération suivante, considérée comme une première opération.
+s'appliquent à l'opération suivante, considérée comme une première opération. " 
 
-Art. L. 121-20-11. -     Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel
-il a accès en temps utile et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à
+" Art.L. 121-20-11.-Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a
+accès en temps utile et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à
 l'article L. 121-20-10. Le fournisseur peut remplir ses obligations au titre de l'article L. 121-20-10 et du présent article
 par l'envoi au consommateur d'un document unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support
-durable et que les informations mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat.
+durable et que les informations mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat. 
 
 Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a été
 conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la transmission
@@ -5444,145 +5670,145 @@ des informations pré-contractuelles et contractuelles sur un support papier ou 
 A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
 conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
 communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
-du service financier fourni.
+du service financier fourni. " 
 
-Art. L. 121-20-13. -     I. - Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L.
-121-20-12 ne peuvent recevoir de commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord
-du consommateur. Lorsque celui-ci exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du
-service financier effectivement fourni, à l'exclusion de toute pénalité.
+" Art.L. 121-20-13.-I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne
+peuvent recevoir de commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du
+consommateur. Lorsque celui-ci exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service
+financier effectivement fourni, à l'exclusion de toute pénalité. 
 
 Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que le
 consommateur a été informé du montant dû, conformément à l'article L. 121-20-10. Toutefois, il ne peut pas exiger ce paiement
-s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur.
+s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur. 
 
 Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
 consommateur, ils ne peuvent recevoir de commencement d'exécution durant les sept premiers jours, sauf s'agissant des
 contrats de crédit affecté mentionnés au IV de l'article L. 121-20-12, qui ne peuvent recevoir de commencement d'exécution
-durant les trois premiers jours.
+durant les trois premiers jours. 
 
-II. - Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
+II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
 toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
 du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
 rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
-vigueur.
+vigueur. 
 
 Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
 bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
-sa volonté de se rétracter.
+sa volonté de se rétracter. " 
 
-Art. L. 121-20-14. -     Les dispositions de l'article L. 34-5 du code des postes et communications électroniques,
-reproduites à l'article L. 121-20-5, sont applicables aux services financiers.
+" Art.L. 121-20-14.-Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à
+l'article L. 121-20-5, sont applicables aux services financiers. 
 
 Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
 mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
-consommateur n'a pas manifesté son opposition.
+consommateur n'a pas manifesté son opposition. 
 
-Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur.
+Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur. " 
 
-Sous-section 3
+" Sous-section 3 
 
-Dispositions communes
+Dispositions communes " 
 
-Art. L. 121-20-15. -     Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le
+" Art.L. 121-20-15.-Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le
 contrat, le juge devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus
-protectrices de la loi de la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du
+protectrices de la loi de la résidence habituelle du consommateur assurant la transposition de la directive 97 / 7 / CE du
 Parlement européen et du Conseil du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance
-et de la directive 2002/65/CE du Parlement européen et du Conseil du 23 septembre 2002, concernant la commercialisation à
+et de la directive 2002 / 65 / CE du Parlement européen et du Conseil du 23 septembre 2002, concernant la commercialisation à
 distance de services financiers auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un
 ou plusieurs Etats membres de la Communauté européenne ; cette condition est présumée remplie si la résidence des
-consommateurs est située dans un Etat membre.
+consommateurs est située dans un Etat membre. " 
 
-Art. L. 121-20-16. -     Les dispositions de la présente section sont d'ordre public ;
+" Art.L. 121-20-16.-Les dispositions de la présente section sont d'ordre public ; 
 
-2° Pour l'application du 1°, il y a lieu d'entendre :
+2° Pour l'application du 1°, il y a lieu d'entendre : 
 
-a) "le membre participant qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou professionnelle"
-là où est mentionné "le consommateur" ;
+a) " le membre participant qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou professionnelle
+" là où est mentionné " le consommateur " ; 
 
-b) "la mutuelle, l'union ou son intermédiaire en assurance" là où est mentionné "le fournisseur" ;
+b) " la mutuelle, l'union ou son intermédiaire en assurance " là où est mentionné " le fournisseur " ; 
 
-c) "le montant total de la cotisation" là où est mentionné "le prix total" ;
+c) " le montant total de la cotisation " là où est mentionné " le prix total " ; 
 
-d) "le droit de renonciation" là où est mentionné "le droit de rétractation" ;
+d) " le droit de renonciation " là où est mentionné " le droit de rétractation " ; 
 
-e) "le II de l'article L. 221-18 du code de la mutualité" là où est mentionné "l'article L. 121-20-12" ;
+e) " le II de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 121-20-12 " ; 
 
-f) "le III de l'article L. 221-18 du code de la mutualité" là où est mentionné "l'article L. 121-20-10" ;
+f) " le III de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 121-20-10 " ; 
 
 3° Pour l'application de l'article L. 121-20-11 du code de la consommation, les conditions d'adhésion doivent comprendre,
 outre les informations prévues à l'article L. 223-8, un modèle de lettre destiné à faciliter l'exercice du droit de
-renonciation lorsque ce droit existe.
+renonciation lorsque ce droit existe. 
 
-II. - 1° Toute personne physique ayant adhéré, à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
+II.-1° Toute personne physique ayant adhéré, à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
 professionnelle, à un règlement à distance, dispose d'un délai de quatorze jours calendaires révolus pour y renoncer, sans
-avoir à justifier de motif ni à supporter de pénalités. Ce délai commence à courir :
+avoir à justifier de motif ni à supporter de pénalités. Ce délai commence à courir : 
 
-a) Soit à compter du jour où l'adhésion a pris effet ;
+a) Soit à compter du jour où l'adhésion a pris effet ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions d'adhésion et les informations, conformément à l'article L.
-121-20-11 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ;
+121-20-11 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ; 
 
 2° Toutefois, en ce qui concerne les opérations mentionnées au b du 1° du I de l'article L. 111-1, le délai précité est porté
-à 30 jours calendaires révolus. Ce délai commence à courir :
+à 30 jours calendaires révolus. Ce délai commence à courir : 
 
-a) Soit à compter du jour où l'intéressé est informé que l'adhésion a pris effet ;
+a) Soit à compter du jour où l'intéressé est informé que l'adhésion a pris effet ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions d'adhésion et les informations, conformément à l'article L.
-121-20-11 du code de la consommation si cette dernière date est postérieure à celle mentionnée au a.
+121-20-11 du code de la consommation si cette dernière date est postérieure à celle mentionnée au a. 
 
-III. - En temps utile avant l'adhésion à distance à un règlement, le membre participant reçoit les informations suivantes :
+III.-En temps utile avant l'adhésion à distance à un règlement, le membre participant reçoit les informations suivantes : 
 
 1° La dénomination de la mutuelle ou de l'union, l'adresse de son siège social, son numéro d'immatriculation au registre
 national des mutuelles, les coordonnées de l'autorité chargée de son contrôle ainsi que, le cas échéant, l'adresse de la
-section mutualiste qui propose la couverture ;
+section mutualiste qui propose la couverture ; 
 
 2° Le montant total de la cotisation ou, lorsque ce montant ne peut être indiqué, la base de calcul de cette cotisation
-permettant au membre participant de vérifier celle-ci ;
+permettant au membre participant de vérifier celle-ci ; 
 
-3° La durée minimale du bulletin d'adhésion au règlement ainsi que les garanties et exclusions prévues par celui-ci ;
+3° La durée minimale du bulletin d'adhésion au règlement ainsi que les garanties et exclusions prévues par celui-ci ; 
 
 4° La durée pendant laquelle les informations fournies sont valables, les modalités de l'adhésion au règlement et de paiement
 de la cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation d'une technique de
-commercialisation à distance ;
+commercialisation à distance ; 
 
 5° L'existence ou l'absence d'un droit de renonciation et, si ce droit existe, sa durée, les modalités pratiques de son
 exercice notamment l'adresse à laquelle la notification de la renonciation doit être envoyée. Le membre participant doit
 également être informé du montant de cotisation que la mutuelle ou l'union peut lui réclamer en contrepartie de la prise
-d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de renonciation ;
+d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de renonciation ; 
 
 6° La loi sur laquelle la mutuelle ou l'union se fonde pour établir les relations précontractuelles avec le membre
 participant ainsi que la loi applicable au bulletin d'adhésion au règlement et la langue que la mutuelle ou l'union s'engage
-à utiliser, avec l'accord du membre participant, pendant la durée du bulletin d'adhésion au règlement ;
+à utiliser, avec l'accord du membre participant, pendant la durée du bulletin d'adhésion au règlement ; 
 
 7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du bulletin d'adhésion au
 règlement y compris, le cas échéant, l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui
 d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes
-d'indemnisation.
+d'indemnisation. 
 
 Les informations sur les conditions d'adhésion communiquées en phase précontractuelle doivent être conformes à la loi
-applicable au bulletin d'adhésion au règlement.
+applicable au bulletin d'adhésion au règlement. 
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée.
+compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée. 
 
-IV. - La mutuelle ou l'union doit également indiquer, pour les opérations mentionnées au b du 1° du I de l'article L. 111-1
-les informations mentionnées à l'article L. 223-8, notamment le montant maximal des frais qu'elle peut prélever et, lorsque
-les garanties de ces bulletins d'adhésion au règlement sont exprimées en unités de compte, les caractéristiques principales
-de celles-ci. Dans ce dernier cas, elle doit en outre préciser qu'elle ne s'engage que sur le nombre des unités de compte et
-non sur leur valeur qui peut être sujette à des fluctuations à la hausse comme à la baisse.
+IV.-La mutuelle ou l'union doit également indiquer, pour les opérations mentionnées au b du 1° du I de l'article L. 111-1 les
+informations mentionnées à l'article L. 223-8, notamment le montant maximal des frais qu'elle peut prélever et, lorsque les
+garanties de ces bulletins d'adhésion au règlement sont exprimées en unités de compte, les caractéristiques principales de
+celles-ci. Dans ce dernier cas, elle doit en outre préciser qu'elle ne s'engage que sur le nombre des unités de compte et non
+sur leur valeur qui peut être sujette à des fluctuations à la hausse comme à la baisse.
 
-V. - Un décret en Conseil d'Etat fixe les informations communiquées au membre participant en cas de communication par
-téléphonie vocale.
+V.-Un décret en Conseil d'Etat fixe les informations communiquées au membre participant en cas de communication par
+téléphonie vocale. 
 
-VI. - Les infractions aux dispositions du présent article sont constatées et sanctionnées par la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance dans les conditions prévues au livre V.
+VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle des
+assurances et des mutuelles dans les conditions prévues au livre V. 
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de la mutuelle ou de l'union de rembourser le membre participant dans les conditions fixées à l'article L. 121-20-13
 du code de la consommation peuvent également être constatées et poursuivies dans les conditions prévues à l'article L.
-121-20-17 du même code.
+121-20-17 du même code. 
 
-Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
+Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat ".
 
 **Liens relatifs à cet article**
 
@@ -5590,9 +5816,9 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-648 du 6 juin 2005 - art. 3 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -5604,6 +5830,16 @@ _Cite_:
   - Code de la mutualité - art. L223-8 (M)
   - Code de la mutualité L121-20-10, L121-20-12, L121-20-17, L121-20-5, L223-8, L111-1
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-11 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-13 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-14 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-15 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8 (V)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9 (V)
+
 _Cité par_:
 
   - Code de la consommation - art. R*132-2-1 (V)
@@ -5612,7 +5848,7 @@ _Cité par_:
   - Code de la mutualité - art. R223-6 (V)
 
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=32></a>
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=33></a>
 
 ###### Article L222-1
 
@@ -5787,9 +6023,9 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-#### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.<a id=33></a>
+#### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.<a id=34></a>
 
-##### Section 1 : Dispositions générales.<a id=34></a>
+##### Section 1 : Dispositions générales.<a id=35></a>
 
 ###### Article L223-1
 
@@ -5946,26 +6182,38 @@ _Codifié par_:
 
 Tout membre participant qui a signé un bulletin d'adhésion auprès d'une mutuelle ou par l'intermédiaire de celle-ci auprès
 d'une union a la faculté d'y renoncer par lettre recommandée avec demande d'avis de réception pendant un délai de trente
-jours à compter du premier versement.
+jours calendaires révolus à compter du moment où il est informé que l'adhésion a pris effet. Ce délai expire le dernier jour
+à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé.
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
-renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les plans
-d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les
-valeurs de transfert ainsi que, dans le même tableau, la somme des cotisations versées au terme de chacune des huit premières
-années au moins. La mutuelle ou l'union doit, en outre, remettre, contre récépissé, une note d'information sur les
-dispositions essentielles des règlements incluant, lorsque le contrat comporte des garanties exprimées en unités de compte,
-les caractéristiques principales de ces unités de compte, sur les conditions d'exercice de la faculté de renonciation, ainsi
-que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation.
+renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les bulletins
+d'adhésion ou les contrats en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle et
+notamment, pour les plans d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant
+réforme des retraites, les valeurs de transfert ainsi que, dans le même tableau, la somme des cotisations versées au terme de
+chacune des huit premières années au moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et explique le
+mécanisme de calcul des valeurs de rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union
+doit, en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles des règlements incluant,
+lorsque le contrat comporte des garanties exprimées en unités de compte, les caractéristiques principales de ces unités de
+compte, sur les conditions d'exercice de la faculté de renonciation.
 
-Le défaut de remise des documents et informations énumérés au précédent alinéa entraîne de plein droit la prorogation du
-délai prévu au premier alinéa jusqu'au trentième jour suivant la date de la remise effective de ces documents. Un nouveau
-délai de trente jours court à compter de la date de réception du bulletin d'adhésion, signé par l'adhérent avec des réserves
-ou modifications, lorsque ce bulletin comporte des réserves ou des modifications essentielles à l'offre originelle.
+Pour les opérations collectives facultatives, la note précise que les droits et obligations du membre participant peuvent
+être modifiés par des avenants aux bulletins d'adhésion ou contrats. Les modalités d'adoption de ces avenants par l'employeur
+ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants.
+
+De plus, il est inséré en début de note un encadré indiquant en caractères très apparents la nature du contrat. L'encadré
+comporte en particulier le regroupement des frais dans une même rubrique, les garanties offertes, la disponibilité des sommes
+en cas de rachat, la participation aux bénéfices, ainsi que les modalités de désignation du bénéficiaire. Un arrêté du
+ministre chargé de la mutualité, pris après avis de l'Autorité de contrôle des assurances et des mutuelles, fixe le format de
+cet encadré ainsi que, de façon limitative, son contenu.
+
+Le défaut de remise des documents et informations énumérés au deuxième alinéa entraîne de plein droit la prorogation du délai
+prévu au premier alinéa jusqu'au trentième jour calendaire révolu suivant la date de remise effective de ces documents, dans
+la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet.
 
 La renonciation entraîne la restitution, par la mutuelle ou l'union, de l'intégralité des sommes versées par le cotisant,
-dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce délai, les sommes non
-restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis à l'expiration de ce délai
-de deux mois, au double du taux légal.
+dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre recommandée. Au-delà de ce
+délai, les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis à
+l'expiration de ce délai de deux mois, au double du taux légal.
 
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
 deux mois.
@@ -5983,14 +6231,14 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
-
 _Cite_:
 
   - Loi n°2003-775 2003-08-21 art. 108
-  - Code de la mutualité 108
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -6078,6 +6326,46 @@ _Cité par_:
 
   - Code de la mutualité - art. R223-11 (V)
   - Code monétaire et financier - art. L612-39 (VD)
+
+
+###### Article L223-10-1
+
+Le bulletin d'adhésion comporte une information sur les conséquences de la désignation du ou des bénéficiaires et sur les
+modalités de cette désignation. Il précise que la clause bénéficiaire peut faire l'objet d'un acte sous seing privé ou d'un
+acte authentique.
+
+Toute personne physique ou morale peut demander par lettre à un ou plusieurs organismes professionnels représentatifs,
+habilités à cet effet par arrêté du ministre chargé de la mutualité, à être informée de l'existence d'une stipulation
+effectuée à son bénéfice dans une police souscrite par une personne physique dont elle apporte, par tout moyen, la preuve du
+décès.
+
+Dans les quinze jours suivant la réception de la lettre mentionnée à l'alinéa précédent, l'organisme transmet cette demande
+aux mutuelles ou unions agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine. Lorsque la
+personne morale ou physique mentionnée au deuxième alinéa est désignée dans une police comme bénéficiaire, ces mutuelles ou
+unions disposent d'un délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente garantis payables à son
+bénéfice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
+
+_Cité par_:
+
+  - Code de la mutualité - art. A223-10-1 (V)
+  - Code de la mutualité - art. A223-10-3 (V)
+  - Code de la mutualité - art. A223-5 (V)
+  - Code de la mutualité - art. L112-1-1 (T)
+  - Code de la mutualité - art. L221-6-1 (V)
+  - Code de la mutualité - art. L223-10-2 (VD)
+  - Code de la mutualité - art. L223-10-3 (V)
+  - Code de la mutualité - art. R223-5 (V)
+  - Code des assurances - art. A132-9-1 (VD)
 
 
 ###### Article L223-11
@@ -6484,7 +6772,7 @@ _Cite_:
   - Code de la mutualité - art. L221-14 (V)
 
 
-##### Section 2 : Dispositions particulières à certaines opérations collectives vie.<a id=35></a>
+##### Section 2 : Dispositions particulières à certaines opérations collectives vie.<a id=36></a>
 
 ###### Article L223-26
 
@@ -6517,7 +6805,7 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-##### Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat.<a id=36></a>
+##### Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat.<a id=37></a>
 
 ###### Article L223-27
 
@@ -6547,9 +6835,9 @@ _Cite_:
   - Code de la mutualité - art. L221-8 (V)
 
 
-#### Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé.<a id=37></a>
+#### Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé.<a id=38></a>
 
-##### Section 1 : Protection juridique.<a id=38></a>
+##### Section 1 : Protection juridique.<a id=39></a>
 
 ###### Article L224-1
 
@@ -6709,7 +6997,7 @@ _Cité par_:
   - Code de la mutualité - art. R211-19 (VD)
 
 
-##### Section 2 : Principe indemnitaire.<a id=39></a>
+##### Section 2 : Principe indemnitaire.<a id=40></a>
 
 ###### Article L224-8
 
@@ -6755,9 +7043,9 @@ _Cite_:
   - Code de la mutualité - art. L224-8 (V)
 
 
-#### Chapitre V : Loi applicable aux contrats pour les risques situés dans un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris.<a id=40></a>
+#### Chapitre V : Loi applicable aux contrats pour les risques situés dans un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris.<a id=41></a>
 
-##### Section 1 : Dispositions applicables aux opérations relatives à la couverture de risques de dommages corporels liés aux accidents, à la maladie, à la protection juridique, à l'assistance, au chômage et à la caution mutualiste.<a id=41></a>
+##### Section 1 : Dispositions applicables aux opérations relatives à la couverture de risques de dommages corporels liés aux accidents, à la maladie, à la protection juridique, à l'assistance, au chômage et à la caution mutualiste.<a id=42></a>
 
 ###### Article L225-1
 
@@ -6917,7 +7205,7 @@ _Cite_:
   - Code de la mutualité - art. L225-5 (V)
 
 
-##### Section 2 : Dispositions applicables aux opérations de capitalisation et à la couverture de risques liés à la personne et à la durée de la vie humaine à l'exception de celles visées à la section 1.<a id=42></a>
+##### Section 2 : Dispositions applicables aux opérations de capitalisation et à la couverture de risques liés à la personne et à la durée de la vie humaine à l'exception de celles visées à la section 1.<a id=43></a>
 
 ###### Article L225-7
 
@@ -6994,7 +7282,7 @@ _Cite_:
   - Code de la mutualité - art. L225-6 (V)
 
 
-#### Chapitre VI : Dispositions relatives au cautionnement.<a id=43></a>
+#### Chapitre VI : Dispositions relatives au cautionnement.<a id=44></a>
 
 ###### Article L226-1
 
@@ -7012,9 +7300,9 @@ _Cite_:
   - Code de la mutualité - art. L111-1 (V)
 
 
-## Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=44></a>
+## Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=45></a>
 
-### Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=45></a>
+### Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=46></a>
 
 ###### Article L310-1
 
@@ -7100,7 +7388,7 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-### Titre II : Champ d'intervention des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=46></a>
+### Titre II : Champ d'intervention des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.<a id=47></a>
 
 ###### Article L320-1
 
@@ -7198,11 +7486,11 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=47></a>
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=48></a>
 
-### Titre Ier : Organes administratifs de la mutualité.<a id=48></a>
+### Titre Ier : Organes administratifs de la mutualité.<a id=49></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité.<a id=49></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité.<a id=50></a>
 
 ###### Article L411-1
 
@@ -7313,7 +7601,7 @@ _Cite_:
   - Code de la mutualité - art. L411-1 (Ab)
 
 
-#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=50></a>
+#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=51></a>
 
 ###### Article L412-1
 
@@ -7352,9 +7640,9 @@ _Abrogé par_:
   - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
 
 
-### Titre II : Incitation à l'action mutualiste.<a id=51></a>
+### Titre II : Incitation à l'action mutualiste.<a id=52></a>
 
-#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=52></a>
+#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=53></a>
 
 ###### Article L421-1
 
@@ -7422,9 +7710,9 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-### Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance.<a id=53></a>
+### Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance.<a id=54></a>
 
-#### Chapitre unique : Le fonds de garantie.<a id=54></a>
+#### Chapitre unique : Le fonds de garantie.<a id=55></a>
 
 ###### Article L431-1
 
@@ -7498,49 +7786,53 @@ _Cite_:
 
 ###### Article L431-2
 
-I. - Lorsque, à l'occasion de la procédure prévue à l'article L. 510-11, la commission de contrôle mentionnée à l'article L.
+I. - Lorsque, à l'occasion de la procédure prévue à l'article L. 510-11, l'Autorité de contrôle mentionnée à l'article L.
 510-1 estime qu'un des organismes mentionnés au premier alinéa de l'article L. 431-1 n'est plus en mesure de faire face à ses
 engagements envers les personnes mentionnées au même article, elle décide de recourir au fonds de garantie après avoir
 consulté par écrit le président du directoire de celui-ci.
 
-S'il conteste la décision de la commission de contrôle, le président du directoire peut, dans un délai de quinze jours à
-compter de celle-ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnées
-au premier alinéa de l'article L. 431-1 et dans un délai de quinze jours, demander à la commission une nouvelle délibération
-après avoir recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
+S'il conteste la décision de l'Autorité de contrôle, le président du directoire peut, dans un délai de quinze jours à compter
+de celle-ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnées au
+premier alinéa de l'article L. 431-1 et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération après
+avoir recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
 
-La décision de la commission de contrôle de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou à
-l'union concernée. En cas de mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de
-la commission est notifiée à l'entreprise.
+La décision de l'Autorité de contrôle de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou à l'union
+concernée. En cas de mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de
+l'Autorité est notifiée à l'entreprise.
 
-II. - Dès cette notification, la commission de contrôle lance un appel d'offres en vue du transfert du portefeuille
-d'opérations de cet organisme mutualiste. Cet appel d'offres est communiqué au fonds de garantie.
+II. - Dès cette notification, l'Autorité de contrôle lance un appel d'offres en vue du transfert du portefeuille d'opérations
+de cet organisme mutualiste. Cet appel d'offres est communiqué au fonds de garantie.
 
-III. - La commission de contrôle retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des personnes
+III. - L'Autorité de contrôle retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des personnes
 mentionnées au premier alinéa de l'article L. 431-1, eu égard notamment à la solvabilité du ou des organismes candidats et
 aux taux de réduction des engagements que ces derniers proposent.
 
-La décision de la commission qui prononce le transfert de portefeuille d'opérations au profit du ou des organismes qu'elle a
+La décision de l'Autorité qui prononce le transfert de portefeuille d'opérations au profit du ou des organismes qu'elle a
 désignés et qui mentionne, le cas échéant, le taux de réduction pour chaque type d'opérations transférées est publiée au
 Journal officiel. Cette décision libère l'organisme cédant de tout engagement envers les personnes mentionnées au premier
 alinéa de l'article L. 431-1 dont les opérations ont été transférées en vertu des dispositions du présent article.
 
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, la commission de contrôle en informe le fonds de garantie.
+Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité de contrôle en informe le fonds de garantie.
 
 IV. - Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels, dus à une
 sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert, reviennent aux personnes
 mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés.
 
 V. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait par
-la commission de contrôle de tous les agréments administratifs de la mutuelle ou de l'union défaillante. Le fonds de garantie
+l'Autorité de contrôle de tous les agréments administratifs de la mutuelle ou de l'union défaillante. Le fonds de garantie
 accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille d'opérations
-qui n'a pas été transférée. L'administrateur provisoire nommé, le cas échéant, par la commission de contrôle peut accomplir
-ces actes de gestion pour le compte du fonds de garantie.
+qui n'a pas été transférée. L'administrateur provisoire nommé, le cas échéant, par l'Autorité de contrôle peut accomplir ces
+actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -7560,20 +7852,24 @@ _Cité par_:
 
 En cas de transfert de portefeuille, la partie des droits des personnes mentionnées au premier alinéa de l'article L. 431-1
 non couverte, le cas échéant, par le cessionnaire est garantie, dans les limites prévues par décret en Conseil d'Etat, par un
-versement du fonds de garantie au cessionnaire.
+versement du fonds de garantie au cessionnaire. 
 
 Lorsque la procédure de transfert de portefeuille n'a pas abouti, les droits des membres participants, de leurs ayants droit
 et des bénéficiaires de prestations sont garantis par un versement à leur profit du fonds de garantie, dans des limites
-prévues par décret en Conseil d'Etat.
+prévues par décret en Conseil d'Etat. 
 
 Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est
-arrêté par la commission de contrôle.
+arrêté par l'Autorité de contrôle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -7614,22 +7910,25 @@ président. Les membres du directoire ne peuvent exercer en même temps des fonc
 adhérentes au fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions
 qu'après agrément du ministre chargé de la mutualité.
 
-Le ministre chargé de la mutualité ou son représentant ainsi que le président de la commission de contrôle mentionnée à
+Le ministre chargé de la mutualité ou son représentant ainsi que le président de l'Autorité de contrôle mentionnée à
 l'article L. 510-1 ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le
 directoire.
 
-La commission de contrôle mentionnée à l'article L. 510-1 entend le président du directoire du fonds de garantie sur toute
+L'Autorité de contrôle mentionnée à l'article L. 510-1 entend le président du directoire du fonds de garantie sur toute
 question concernant une mutuelle ou une union pour laquelle elle envisage de mettre en oeuvre les dispositions du présent
 chapitre.
 
-Le président du directoire est également entendu, à sa demande, par la commission de contrôle mentionnée à l'article L.
-510-1.
+Le président du directoire est également entendu, à sa demande, par l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -7651,13 +7950,17 @@ sommes exigibles en vertu de l'exécution des traités de réassurance en cours.
 
 Le fonds de garantie peut engager toute action en responsabilité à l'encontre des dirigeants de droit ou de fait de la
 mutuelle ou de l'union dont la défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de tout ou partie
-des sommes versées par lui. Il en informe la commission de contrôle mentionnée à l'article L. 510-1.
+des sommes versées par lui. Il en informe l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -7671,14 +7974,18 @@ Les membres du directoire et le conseil de surveillance du fonds de garantie, ai
 fonctions, a accès aux documents et informations détenus par le fonds de garantie, sont tenus au secret professionnel dans
 les conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret n'est opposable ni à l'autorité
 judiciaire agissant dans le cadre d'une procédure pénale, ni aux juridictions civiles statuant sur un recours formé à
-l'encontre d'une décision du fonds de garantie, ni à la commission de contrôle mentionnée à l'article L. 510-1, ni aux
-membres de l'inspection générale des affaires sociales et de l'inspection générale des finances.
+l'encontre d'une décision du fonds de garantie, ni à l'Autorité de contrôle mentionnée à l'article L. 510-1, ni aux membres
+de l'inspection générale des affaires sociales et de l'inspection générale des finances.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -7764,13 +8071,13 @@ _Cite_:
   - Code de la mutualité - art. L111-6 (V)
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=55></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=56></a>
 
 ###### Article L510-1
 
 Le contrôle de l'Etat sur les mutuelles, unions et fédérations régies par le présent code est exercé, dans l'intérêt de leurs
-membres et de leurs ayants droit, par la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance instituée à l'article L. 310-12 du code des assurances.
+membres et de leurs ayants droit, par l'Autorité de contrôle des assurances et des mutuelles instituée à l'article L. 310-12
+du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -7862,82 +8169,81 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code des assurances - art. L310-12 (V)
+  - Code des assurances - art. L310-12 (M)
 
 
 ###### Article L510-1-1
 
-La composition et l'organisation administrative de la commission de contrôle sont fixées par l'article L. 310-12-1 du code
-des assurances ci-après reproduit :
+La composition et l'organisation administrative de l'Autorité de contrôle sont fixées par l'article L. 310-12-1 du code des
+assurances ci-après reproduit : 
 
-"Art. L. 310-12-1. - La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est composée
-de neuf membres :
+" Art.L. 310-12-1.-L'Autorité de contrôle des assurances et des mutuelles est composée de neuf membres : 
 
-1° Un président nommé par décret ;
+1° Un président nommé par décret ; 
 
-2° Le gouverneur de la Banque de France, président de la Commission bancaire ;
+2° Le gouverneur de la Banque de France, président de la Commission bancaire ; 
 
-3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ;
+3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ; 
 
-4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ;
+4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ; 
 
-5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ;
+5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ; 
 
-6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance.
+6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance. 
 
 Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
-sociale et de la mutualité. Un vice-président de la commission de contrôle est également nommé parmi ces membres par arrêté
+sociale et de la mutualité. Un vice-président de l'Autorité de contrôle est également nommé parmi ces membres par arrêté
 conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence
-ou d'empêchement de celui-ci.
+ou d'empêchement de celui-ci. 
 
 Le gouverneur de la Banque de France peut être représenté. Des suppléants des membres mentionnés aux 3° à 6° sont nommés dans
-les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de la commission de contrôle le remplace
-lorsqu'il exerce les compétences du président en application de l'alinéa précédent.
+les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de l'Autorité de contrôle le remplace
+lorsqu'il exerce les compétences du président en application de l'alinéa précédent. 
 
 Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
-la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
+l'Autorité de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
 sanctions, demander une seconde délibération dans des conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide
-d'une sanction, la commission de contrôle délibère hors de leur présence.
+d'une sanction, l'Autorité de contrôle délibère hors de leur présence. 
 
 Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de cinq ans. Leur mandat est renouvelable une
-fois.
+fois. 
 
-En cas de vacance d'un siège de membre de la commission de contrôle pour quelque cause que ce soit, il est procédé à son
+En cas de vacance d'un siège de membre de l'Autorité de contrôle pour quelque cause que ce soit, il est procédé à son
 remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
-pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de la commission ne peuvent être
-révoqués.
+pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de l'Autorité ne peuvent être
+révoqués. 
 
-Les décisions de la commission de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
-président est prépondérante.
+Les décisions de l'Autorité de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
+président est prépondérante. 
 
-Dans des matières et conditions fixées par décret en Conseil d'Etat, la commission de contrôle peut créer en son sein une ou
+Dans des matières et conditions fixées par décret en Conseil d'Etat, l'Autorité de contrôle peut créer en son sein une ou
 plusieurs commissions spécialisées et leur donner délégation pour prendre des décisions de portée individuelle. Il est créé
 au moins une commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité.
 
-La commission de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant
-des experts, pour préparer et instruire ses décisions.
+L'Autorité de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant des
+experts, pour préparer et instruire ses décisions. 
 
-Le président de la commission de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
+Le président de l'Autorité de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction. 
 
 Il peut déléguer sa signature dans les matières où il tient de dispositions législatives ou réglementaires une compétence
-propre.
+propre. 
 
-Les services de la commission de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
+Les services de l'Autorité de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
 des assurances par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, après avis
-de la commission.
+de l'Autorité. 
 
-Le personnel des services de la commission de contrôle est composé d'agents publics mis à sa disposition dans des conditions
-fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
+Le personnel des services de l'Autorité de contrôle est composé d'agents publics mis à sa disposition dans des conditions
+fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé. 
 
-Sur proposition du secrétaire général, la commission de contrôle fixe les règles de déontologie applicables au personnel des
-services de la commission.
+Sur proposition du secrétaire général, l'Autorité de contrôle fixe les règles de déontologie applicables au personnel des
+services de l'Autorité.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance et la Commission bancaire se
-réunissent conjointement au moins deux fois par an et en tant que de besoin sur des sujets d'intérêt commun."
+L'Autorité de contrôle des assurances et des mutuelles et la Commission bancaire se réunissent conjointement au moins deux
+fois par an et en tant que de besoin sur des sujets d'intérêt commun. "
 
 **Liens relatifs à cet article**
 
@@ -7947,11 +8253,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 74 () JORF 10 décembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
-_Cite_:
+**Liens**:
 
-  - Code des assurances - art. L310-12-1 (M)
+  - PILOTE_SUIVEUR: Code des assurances - art. L310-12-1 (V)
 
 _Cité par_:
 
@@ -7965,9 +8271,9 @@ par l'autorité administrative, lorsque les mutuelles et les unions relèvent du
 substitution en application de l'article L. 211-5, ou pratiquent exclusivement les opérations mentionnées au a du 1° du I de
 l'article L. 111-1 à l'exception des prestations d'une durée supérieure à un an et au titre desquelles les cotisations
 encaissées et les prestations versées ne dépassent pas des seuils fixés par arrêté conjoint des ministres chargés de la
-mutualité et de l'économie, pris après avis de la commission de contrôle.
+mutualité et de l'économie, pris après avis de l'Autorité de contrôle.
 
-La commission de contrôle dispose, cependant, d'un pouvoir d'évocation à l'égard de ces mutuelles et unions et demeure seule
+L'Autorité de contrôle dispose, cependant, d'un pouvoir d'évocation à l'égard de ces mutuelles et unions et demeure seule
 compétente pour prononcer les sanctions disciplinaires prévues à l'article L. 510-11.
 
 **Liens relatifs à cet article**
@@ -7975,10 +8281,6 @@ compétente pour prononcer les sanctions disciplinaires prévues à l'article L.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
-
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -7991,41 +8293,49 @@ _Cité par_:
   - Code monétaire et financier - art. D533-11 (M)
   - Code monétaire et financier - art. D533-13 (V)
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 _Cite_:
 
-  - Code de la mutualité - art. L111-1 (Ab)
-  - Code de la mutualité - art. L211-5 (M)
-  - Code de la mutualité - art. L510-1 (M)
-  - Code de la mutualité - art. L510-11 (M)
+  - Code de la mutualité - art. L111-1
+  - Code de la mutualité - art. L211-5
+  - Code de la mutualité - art. L510-1
+  - Code de la mutualité - art. L510-11
 
 
 ###### Article L510-3
 
-La commission de contrôle veille au respect, par les mutuelles, unions et fédérations ainsi que par toute entité appartenant
-à un conglomérat financier défini à l'article L. 212-7-5 dont la surveillance est coordonnée par la commission de contrôle
+L'Autorité de contrôle veille au respect, par les mutuelles, unions et fédérations ainsi que par toute entité appartenant à
+un conglomérat financier défini à l'article L. 212-7-5 dont la surveillance est coordonnée par l'Autorité de contrôle
 mentionnée à l'article L. 510-1 dans les conditions prévues à l'article L. 212-7-9, des dispositions législatives et
-réglementaires du présent code. 
+réglementaires du présent code.
 
-La commission de contrôle s'assure notamment que les mutuelles et unions relevant du livre II remplissent les engagements
+L'Autorité de contrôle s'assure notamment que les mutuelles et unions relevant du livre II remplissent les engagements
 qu'elles ont contractés à l'égard de leurs membres participants ainsi que des bénéficiaires de leurs opérations, et qu'elles
-présentent la marge de solvabilité prescrite.A cette fin, elle examine leur situation financière et leurs conditions
+présentent la marge de solvabilité prescrite. A cette fin, elle examine leur situation financière et leurs conditions
 d'exploitation. Elle vérifie que les mutuelles et unions disposent d'une bonne organisation administrative et comptable et de
-procédures de contrôle interne adéquates. 
+procédures de contrôle interne adéquates.
 
-La commission de contrôle s'assure en outre que les modalités de constitution et de fonctionnement des organismes soumis à
-son contrôle sont conformes aux dispositions qui les régissent. 
+L'Autorité de contrôle s'assure en outre que les modalités de constitution et de fonctionnement des organismes soumis à son
+contrôle sont conformes aux dispositions qui les régissent.
 
 Toute mutuelle ou union relevant du livre II, agréée conformément aux dispositions de l'article L. 211-7, qui projette
 d'ouvrir une succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le territoire
 d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de modifier la
-nature ou les conditions d'exercice de ces activités, notifie son projet à la commission de contrôle. Celle-ci s'assure que
-la mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard de son
-projet. Si elle estime que ces conditions ne sont pas remplies, la commission de contrôle ne communique pas à l'autorité de
-contrôle de cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les
-conditions d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels la
-commission doit se prononcer. 
+nature ou les conditions d'exercice de ces activités, notifie son projet à l'Autorité de contrôle. Celle-ci s'assure que la
+mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard de son projet.
+Si elle estime que ces conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à l'autorité de contrôle de
+cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions
+d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels l'Autorité doit se
+prononcer.
 
-Avant un refus d'agrément, la commission de contrôle est saisie pour avis par l'autorité administrative détentrice du pouvoir
+Avant un refus d'agrément, l'Autorité de contrôle est saisie pour avis par l'autorité administrative détentrice du pouvoir
 d'accorder l'agrément, dans les conditions mentionnées à l'article L. 211-8.
 
 **Liens relatifs à cet article**
@@ -8036,15 +8346,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2004-1201 2004-11-12 art. 15 1° JORF 16 novembre 2004
-
-_Cite_:
-
-  - Code de la mutualité - art. L211-7 (V)
-  - Code de la mutualité - art. L211-8 (V)
-  - Code de la mutualité - art. L212-7-5 (V)
-  - Code de la mutualité - art. L212-7-9 (V)
-  - Code de la mutualité - art. L510-1 (V)
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -8106,20 +8408,20 @@ _Cite_:
 
 ###### Article L510-6
 
-La commission de contrôle peut demander aux commissaires aux comptes d'une mutuelle, d'une union ou d'une fédération tout
+L'Autorité de contrôle peut demander aux commissaires aux comptes d'une mutuelle, d'une union ou d'une fédération tout
 renseignement sur l'activité de celle-ci. Les commissaires aux comptes sont alors déliés, à son égard, du secret
 professionnel.
 
-La commission de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
+L'Autorité de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
 les informations nécessaires à l'accomplissement de leur mission. Ces informations sont couvertes par le secret
 professionnel.
 
-La commission de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors
-tenus d'apporter des réponses en cette forme.
+L'Autorité de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors tenus
+d'apporter des réponses en cette forme.
 
-Les commissaires aux comptes sont tenus de signaler, dans les meilleurs délais, à la commission tout fait ou décision
-concernant la mutuelle, l'union ou la fédération mentionnée au premier alinéa, dont ils ont eu connaissance dans l'exercice
-de leur mission, de nature :
+Les commissaires aux comptes sont tenus de signaler, dans les meilleurs délais, à l'Autorité tout fait ou décision concernant
+la mutuelle, l'union ou la fédération mentionnée au premier alinéa, dont ils ont eu connaissance dans l'exercice de leur
+mission, de nature :
 
 a) A constituer une violation des dispositions législatives et réglementaires qui leur sont applicables et susceptible
 d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
@@ -8131,23 +8433,23 @@ c) A entraîner le refus de la certification de ses comptes ou l'émission de r�
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur
 mission de commissaires aux comptes dans un organisme subordonné à la mutuelle, à l'union, à la fédération, ou dans un
 organisme relevant de l'article L. 212-7 ou dans une mutuelle, une union appartenant à un conglomérat financier dont la
-surveillance est coordonnée par la commission de contrôle mentionnée à l'article L. 510-1 dans les conditions prévues à
+surveillance est coordonnée par l'Autorité de contrôle mentionnée à l'article L. 510-1 dans les conditions prévues à
 l'article L. 212-7-9.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution des obligations imposées par le présent article.
 
-La commission de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
+L'Autorité de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
 commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret.
 
-La commission de contrôle peut en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux
+L'Autorité de contrôle peut en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux
 comptes supplémentaire.
 
 Lorsqu'elle a connaissance d'une infraction aux dispositions du présent article ainsi que de celles de l'article L. 114-39,
-commises par un commissaire aux comptes, la commission de contrôle peut demander au tribunal compétent de relever ce
-commissaire aux comptes de ses fonctions selon les modalités définies à l'article L. 823-7 du code de commerce.
+commises par un commissaire aux comptes, l'Autorité de contrôle peut demander au tribunal compétent de relever ce commissaire
+aux comptes de ses fonctions selon les modalités définies à l'article L. 823-7 du code de commerce.
 
-La commission peut également dénoncer cette infraction à l'autorité disciplinaire compétente et communiquer, à cette fin, les
+L'Autorité peut également dénoncer cette infraction à l'autorité disciplinaire compétente et communiquer, à cette fin, les
 informations qu'elle estime nécessaires.
 
 **Liens relatifs à cet article**
@@ -8158,15 +8460,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
-  - Code de commerce. - art. L823-7 (V)
-  - Code de la mutualité - art. L114-39 (V)
-  - Code de la mutualité - art. L212-7 (M)
-  - Code de la mutualité - art. L212-7-9 (V)
-  - Code de la mutualité - art. L510-1 (M)
+  - Code de commerce - art. L823-7
+  - Code de la mutualité - art. L114-39
+  - Code de la mutualité - art. L212-7
+  - Code de la mutualité - art. L212-7-9
+  - Code de la mutualité - art. L510-1
 
 _Cité par_:
 
@@ -8176,7 +8482,7 @@ _Cité par_:
 
 ###### Article L510-7
 
-Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission de contrôle peut décider
+Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, l'Autorité de contrôle peut décider
 d'étendre le contrôle sur place d'une mutuelle, d'une union ou d'une fédération à toute personne morale liée directement ou
 indirectement avec cette mutuelle, union ou fédération par une convention susceptible d'altérer son autonomie de
 fonctionnement ou de décision et concernant l'un quelconque de ses domaines d'activité et, notamment, à toute mutuelle ou
@@ -8188,17 +8494,17 @@ ou de l'union contrôlée, le respect par cette mutuelle ou cette union des enga
 participants et bénéficiaires ou la capacité des personnes morales qui lui sont apparentées à participer à d'éventuelles
 mesures de redressement ou de sauvegarde de cette mutuelle ou union.
 
-La commission de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
+L'Autorité de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
 complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés.
 
-Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, la commission souhaite vérifier des
+Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, l'Autorité souhaite vérifier des
 informations utiles à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, elle demande aux autorités compétentes
 de cet Etat qu'il soit procédé à cette vérification. Lorsque les autorités d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitent, dans des cas déterminés, vérifier des
 informations utiles à l'exercice de leur surveillance concernant une mutuelle ou union apparentée à une entreprise
-d'assurance soumise à leur surveillance complémentaire, la commission de contrôle doit répondre à leur demande soit en
-procédant elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y procéder.
+d'assurance soumise à leur surveillance complémentaire, l'Autorité de contrôle doit répondre à leur demande soit en procédant
+elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y procéder.
 
 **Liens relatifs à cet article**
 
@@ -8208,29 +8514,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
   - Code de la mutualité - art. L212-14 (V)
   - Code de la mutualité - art. R211-19 (V)
 
-_Cite_:
-
-  - Code de la mutualité - art. L212-7 (M)
-  - Code de la mutualité - art. L212-7-2 (M)
-
 
 ###### Article L510-8
 
-La commission de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de
-prendre toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion
-ou assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
+L'Autorité de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de prendre
+toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion ou
+assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
 répondre dans un délai de deux mois en précisant les mesures prises à la suite de cette recommandation.
 
 Lorsqu'un rapport lui est transmis dans les conditions de l'article L. 212-4, et qu'elle estime que la solvabilité d'une
 mutuelle ou d'une union régie par le livre II est mise en cause ou est susceptible, à terme, d'être mise en cause par des
-transferts financiers vers une mutuelle ou une union régie par le livre III, la commission de contrôle peut adresser à cette
+transferts financiers vers une mutuelle ou une union régie par le livre III, l'Autorité de contrôle peut adresser à cette
 mutuelle ou à cette union une recommandation tendant à faire cesser les transferts en cause. L'organisme est tenu de répondre
 dans les conditions prévues à l'alinéa précédent.
 
@@ -8242,7 +8543,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cité par_:
 
@@ -8258,14 +8563,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L212-4 (V)
+  - Code de la mutualité - art. L212-4
 
 
 ###### Article L510-9
 
 Lorsque la situation financière d'une mutuelle ou d'une union ou ses conditions de fonctionnement sont telles que les
-intérêts des membres participants et des bénéficiaires et de leurs ayants droit sont compromis ou susceptibles de l'être, la
-commission de contrôle prend les mesures d'urgence nécessaires à la sauvegarde de ces intérêts.
+intérêts des membres participants et des bénéficiaires et de leurs ayants droit sont compromis ou susceptibles de l'être,
+l'Autorité de contrôle prend les mesures d'urgence nécessaires à la sauvegarde de ces intérêts.
 
 Elle peut, à ce titre, mettre la mutuelle ou l'union sous surveillance spéciale.
 
@@ -8273,20 +8578,20 @@ Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie 
 limiter ou suspendre temporairement certaines opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont
 transférés les pouvoirs nécessaires à l'administration et à la direction de la mutuelle ou de l'union. Cette désignation est
 faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit
-à l'initiative de la commission de contrôle lorsque la gestion de la mutuelle ou de l'union ne peut plus être assurée dans
-des conditions normales, ou lorsque la commission a pris une mesure de suspension en application de l'article L. 510-11. A la
-date de cette désignation, les pouvoirs du conseil d'administration et des dirigeants salariés ayant reçu délégation de
-pouvoirs sont suspendus.
+à l'initiative de l'Autorité de contrôle lorsque la gestion de la mutuelle ou de l'union ne peut plus être assurée dans des
+conditions normales, ou lorsque l'Autorité a pris une mesure de suspension en application de l'article L. 510-11. A la date
+de cette désignation, les pouvoirs du conseil d'administration et des dirigeants salariés ayant reçu délégation de pouvoirs
+sont suspendus.
 
-La commission de contrôle peut exiger de l'entreprise une marge de solvabilité plus importante que celle prescrite par la
+L'Autorité de contrôle peut exiger de l'entreprise une marge de solvabilité plus importante que celle prescrite par la
 réglementation afin que l'entreprise soit rapidement en mesure de satisfaire à l'ensemble des exigences de solvabilité. Le
 niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des modalités définies par décret en
 Conseil d'Etat.
 
-La commission de contrôle peut, par entreprise, revoir à la baisse les éléments admis à constituer la marge de solvabilité
-dans des conditions fixées par décret en Conseil d'Etat.
+L'Autorité de contrôle peut, par entreprise, revoir à la baisse les éléments admis à constituer la marge de solvabilité dans
+des conditions fixées par décret en Conseil d'Etat.
 
-Les mesures mentionnées au troisième alinéa du présent article sont levées ou confirmées par la commission de contrôle, après
+Les mesures mentionnées au troisième alinéa du présent article sont levées ou confirmées par l'Autorité de contrôle, après
 procédure contradictoire, dans un délai prévu par décret en Conseil d'Etat. Ce même décret précise les modalités
 d'application du présent article.
 
@@ -8298,7 +8603,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cité par_:
 
@@ -8315,7 +8624,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L510-11 (M)
+  - Code de la mutualité - art. L510-11
 
 
 ###### Article L510-10
@@ -8356,48 +8665,46 @@ _Cité par_:
 ###### Article L510-11
 
 Lorsqu'une mutuelle, une union ou une fédération a enfreint une disposition législative ou réglementaire dans le domaine
-relevant du contrôle de la commission ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
-engagements qu'elle a contractés envers les membres participants, ayants droit ou bénéficiaires, la commission peut prononcer
-à son encontre, ou celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la
-gravité du manquement : 
+relevant du contrôle de l'Autorité ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
+engagements qu'elle a contractés envers les membres participants, ayants droit ou bénéficiaires, l'Autorité peut prononcer à
+son encontre, ou celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la gravité
+du manquement :
 
-1° L'avertissement ; 
+1° L'avertissement ;
 
-2° Le blâme ; 
+2° Le blâme ;
 
-3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ; 
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
 
-4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
+4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
 
-5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
+5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
 
-6° Le retrait total ou partiel d'agrément ; 
+6° Le retrait total ou partiel d'agrément ;
 
 7° Le transfert d'office, après organisation d'un appel d'offres fructueux, de tout ou partie de portefeuille de contrats de
-la mutuelle ou de l'union. 
+la mutuelle ou de l'union.
 
-La commission de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la mutuelle, l'union
-ou la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa. 
+L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la mutuelle, l'union ou
+la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
 
-En outre, la commission de contrôle peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire.
-Le montant de cette sanction doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des
-cotisations perçues au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en
-cas de nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont
-recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine. 
+En outre, l'Autorité de contrôle peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le
+montant de cette sanction doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des cotisations
+perçues au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en cas de
+nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées
+comme des créances de l'Etat étrangères à l'impôt et au domaine.
 
 Pour les mutuelles et unions qui ont la qualité d'organisme de référence au sens de l'article L. 212-7-1, le montant maximum
 de la sanction pécuniaire est défini par référence aux cotisations de celle des mutuelles et unions incluses par intégration
-globale dans la consolidation dont le total des cotisations émises au cours du dernier exercice clos est le plus élevé. 
+globale dans la consolidation dont le total des cotisations émises au cours du dernier exercice clos est le plus élevé.
 
-Lorsqu'une sanction prononcée par la commission de contrôle est devenue définitive, la commission peut, aux frais de la
-mutuelle, de l'union ou de la fédération sanctionnée, ordonner l'insertion de sa décision au registre national des mutuelles
-et dans trois journaux ou publications qu'elle désigne, et l'affichage dans les lieux et pour la durée qu'elle indique. Cette
-procédure ne s'applique pas aux sanctions énoncées aux 1° et 2° ci-dessus. 
+L'autorité de contrôle peut rendre publique sa décision dans les journaux, publications ou supports qu'elle désigne. Les
+frais sont supportés par la personne sanctionnée.
 
-Dans tous les cas prévus au présent article, la commission de contrôle statue après une procédure contradictoire. Elle
-informe obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se
-faire représenter ou assister. Les mutuelles, les unions ou les fédérations sanctionnées peuvent, dans un délai de deux mois
-qui suit la notification de la décision, former un recours de pleine juridiction devant le Conseil d'Etat.
+Dans tous les cas prévus au présent article, l'Autorité de contrôle statue après une procédure contradictoire. Elle informe
+obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se faire
+représenter ou assister. Les mutuelles, les unions ou les fédérations sanctionnées peuvent, dans un délai de deux mois qui
+suit la notification de la décision, former un recours de pleine juridiction devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8407,7 +8714,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -8432,21 +8740,17 @@ _Cité par_:
   - Code des assurances - art. R*310-19 (V)
   - Code des assurances - art. R310-12 (Ab)
 
-_Cite_:
-
-  - Code de la mutualité - art. L212-7-1 (V)
-
 
 ###### Article L510-12
 
-Est puni de deux ans d'emprisonnement et de 30 000 Euro d'amende le fait pour tout président administrateur ou dirigeant
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait pour tout président administrateur ou dirigeant
 ayant reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code :
 
-1° Après mise en demeure, de ne pas répondre aux demandes d'information de la commission de contrôle ou de mettre obstacle de
+1° Après mise en demeure, de ne pas répondre aux demandes d'information de l'Autorité de contrôle ou de mettre obstacle de
 quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
 renseignements inexacts ;
 
-2° De faire entrave à l'action de la commission de contrôle exercée en application des articles L. 510-1 à L. 510-15 ;
+2° De faire entrave à l'action de l'Autorité de contrôle exercée en application des articles L. 510-1 à L. 510-15 ;
 
 3° De faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses dans tout document produit au
 ministre chargé de la mutualité ou porté à la connaissance du public et des membres adhérents ou participants.
@@ -8460,6 +8764,10 @@ prévues par l'article 131-38 du code pénal.
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -8475,33 +8783,33 @@ _Cité par_:
 
 ###### Article L510-13
 
-Les membres de la commission de contrôle et les personnes qui participent ou ont participé à ses travaux sont tenus au secret
+Les membres de l'Autorité de contrôle et les personnes qui participent ou ont participé à ses travaux sont tenus au secret
 professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions dans
 les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à
 l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
 
-La commission de contrôle peut transmettre des informations aux autorités chargées de la surveillance des entreprises
+L'Autorité de contrôle peut transmettre des informations aux autorités chargées de la surveillance des entreprises
 d'assurance dans d'autres Etats. Pour les Etats qui ne sont pas partie à l'accord sur l'Espace économique européen, la
 transmission d'information ne peut se faire que sous réserve de réciprocité, et à condition que ces autorités soient elles-
 mêmes soumises au secret professionnel avec les mêmes garanties qu'en France.
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut transmettre aux banques centrales des Etats membres ou des
-autres Etats parties à l'accord sur l'Espace économique européen, au Système européen de banques centrales, à la Banque
-centrale européenne et aux autres organismes agissant au titre de leurs compétences monétaires, et, le cas échéant, à
-d'autres autorités publiques chargées de la surveillance des systèmes de paiement, des informations destinées à
-l'accomplissement de leur mission. Les informations reçues dans ce cadre sont soumises au secret professionnel.
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut transmettre aux banques centrales des Etats membres ou des autres
+Etats parties à l'accord sur l'Espace économique européen, au Système européen de banques centrales, à la Banque centrale
+européenne et aux autres organismes agissant au titre de leurs compétences monétaires, et, le cas échéant, à d'autres
+autorités publiques chargées de la surveillance des systèmes de paiement, des informations destinées à l'accomplissement de
+leur mission. Les informations reçues dans ce cadre sont soumises au secret professionnel.
 
-La commission de contrôle peut, en outre, conclure avec les autorités de contrôle des assurances des pays qui ne sont pas
-partie à l'accord sur l'Espace économique européen, sous condition de réciprocité et dans le respect du secret professionnel,
-des conventions bilatérales ayant pour objet, outre les échanges d'information prévus à l'alinéa précédent, d'étendre les
-contrôles sur place de la commission aux succursales ou filiales de mutuelles ou d'unions soumis à son contrôle qui sont
-situés sur le territoire de compétence de l'autorité cocontractante. Les contrôles sur place peuvent être effectués, au choix
-de la commission de contrôle, par celle-ci ou par l'autorité cocontractante. Seule la commission de contrôle peut prononcer
-des sanctions à l'égard de la filiale ou de la succursale contrôlée en France. L'assistance demandée par une autorité
-étrangère à la commission de contrôle est refusée par celle-ci lorsque l'exécution de la demande est de nature à porter
-atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public ou lorsqu'une procédure
-pénale quelconque a été engagée en France sur la base des mêmes faits et contre les mêmes personnes, ou lorsque celles-ci ont
-déjà été sanctionnées par une décision définitive pour les mêmes faits.
+L'Autorité de contrôle peut, en outre, conclure avec les autorités de contrôle des assurances des pays qui ne sont pas partie
+à l'accord sur l'Espace économique européen, sous condition de réciprocité et dans le respect du secret professionnel, des
+conventions bilatérales ayant pour objet, outre les échanges d'information prévus à l'alinéa précédent, d'étendre les
+contrôles sur place de l'Autorité aux succursales ou filiales de mutuelles ou d'unions soumis à son contrôle qui sont situés
+sur le territoire de compétence de l'autorité cocontractante. Les contrôles sur place peuvent être effectués, au choix de
+l'Autorité de contrôle, par celle-ci ou par l'autorité cocontractante. Seule l'Autorité de contrôle peut prononcer des
+sanctions à l'égard de la filiale ou de la succursale contrôlée en France. L'assistance demandée par une autorité étrangère à
+l'Autorité de contrôle est refusée par celle-ci lorsque l'exécution de la demande est de nature à porter atteinte à la
+souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public ou lorsqu'une procédure pénale
+quelconque a été engagée en France sur la base des mêmes faits et contre les mêmes personnes, ou lorsque celles-ci ont déjà
+été sanctionnées par une décision définitive pour les mêmes faits.
 
 **Liens relatifs à cet article**
 
@@ -8511,18 +8819,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2004-1201 2004-11-12 art. 15 3° JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code de la mutualité - art. L510-1 (M)
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
+  - Code de la mutualité - art. L510-1
 
 
 ###### Article L510-14
 
-Lorsque la commission de contrôle relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier au
+Lorsque l'Autorité de contrôle relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier au
 procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en application de
 l'article L. 510-11.
 
@@ -8532,15 +8844,23 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 _Cite_:
 
-  - Code de la mutualité - art. L510-11 (M)
+  - Code de la mutualité - art. L510-11
 
 
 ###### Article L510-15
 
-Lorsque la commission de contrôle relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code
-de commerce, elle en informe le ministre chargé de l'économie et des finances.
+Lorsque l'Autorité de contrôle relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code de
+commerce, elle en informe le ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -8548,13 +8868,21 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 _Cite_:
 
-  - Code de commerce. - art. L420-1 (M)
-  - Code de commerce. - art. L420-2 (M)
+  - Code de commerce - art. L420-1
+  - Code de commerce - art. L420-2
 
 
-## Livre VI : Dispositions d'application.<a id=56></a>
+## Livre VI : Dispositions d'application.<a id=57></a>
 
 ###### Article L610-1
 
@@ -8581,13 +8909,13 @@ _Codifié par_:
   - Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=57></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=58></a>
 
-## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=58></a>
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=59></a>
 
-### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=59></a>
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=60></a>
 
-#### Section 3 : Assemblée générale.<a id=60></a>
+#### Section 3 : Assemblée générale.<a id=61></a>
 
 ###### Article R114-1
 
@@ -8665,7 +8993,7 @@ _Cite_:
   - Code de la mutualité - art. L114-12 (V)
 
 
-#### Section 5 : Dispositions relatives aux fonctions d'administrateur.<a id=61></a>
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur.<a id=62></a>
 
 ###### Article R114-4
 
@@ -8791,13 +9119,13 @@ _Cite_:
   - Code de la mutualité - art. L222-2 (V)
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=62></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=63></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=63></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=64></a>
 
-#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=64></a>
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=65></a>
 
-##### Section 1 : Dispositions générales.<a id=65></a>
+##### Section 1 : Dispositions générales.<a id=66></a>
 
 ###### Article R211-1
 
@@ -8825,7 +9153,7 @@ _Cité par_:
   - Code de la mutualité - art. R510-19 (V)
 
 
-##### Section 2 : Agrément administratif.<a id=66></a>
+##### Section 2 : Agrément administratif.<a id=67></a>
 
 ###### Article R211-2
 
@@ -9142,10 +9470,10 @@ _Cite_:
 
 ###### Article R211-10
 
-Pendant les cinq exercices suivant la délivrance de l'agrément, la mutuelle ou l'union présente à la commission de contrôle
+Pendant les cinq exercices suivant la délivrance de l'agrément, la mutuelle ou l'union présente à l'Autorité de contrôle
 instituée par l'article L. 510-1, pour chaque semestre, un compte rendu d'exécution du programme d'activité mentionné à
-l'article L. 211-8. Si l'activité de la mutuelle ou de l'union n'est pas conforme au programme d'activités, la commission
-peut prendre les mesures prévues aux articles L. 510-8 et L. 510-9, ou saisir le ministre chargé de la mutualité en vue de
+l'article L. 211-8. Si l'activité de la mutuelle ou de l'union n'est pas conforme au programme d'activités, l'Autorité peut
+prendre les mesures prévues aux articles L. 510-8 et L. 510-9, ou saisir le ministre chargé de la mutualité en vue de
 l'application des dispositions de l'article L. 211-9.
 
 **Liens relatifs à cet article**
@@ -9154,9 +9482,9 @@ l'application des dispositions de l'article L. 211-9.
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -9269,7 +9597,7 @@ _Créé par_:
 La décision de retrait de l'agrément administratif est publiée au Journal officiel de la République française ainsi qu'au
 Journal officiel de l'Union européenne.
 
-Cette publication est assurée, selon le cas, par la commission de contrôle mentionnée à l'article L. 510-1 ou par l'autorité
+Cette publication est assurée, selon le cas, par l'Autorité de contrôle mentionnée à l'article L. 510-1 ou par l'autorité
 administrative mentionnée à l'article R. 211-7. Elle précise le nom et les coordonnées des autorités compétentes pour les
 besoins de la liquidation et, le cas échéant, du ou des liquidateurs désignés. Elle indique également la législation qui est
 applicable à cette liquidation.
@@ -9286,7 +9614,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R211-15-1
@@ -9321,9 +9649,9 @@ précise la date à laquelle l'adhésion au règlement cessera de produire effet
 III. - Lorsque le retrait d'agrément concerne une mutuelle ou une union réalisant des opérations visées au b du 1° du I de
 l'article L. 111-1, l'avis mentionné au I du présent article reproduit le texte des articles L. 212-19 et L. 212-21. Le cas
 échéant, chaque membre participant ou ayant droit est par ailleurs informé, dans les mêmes conditions, des décisions prises
-par la commission de contrôle en application du deuxième alinéa de l'article L. 212-21. Lorsque la décision de la commission
-a pour effet de fixer la date à laquelle les bulletins d'adhésion cessent d'avoir effet, cette communication intervient au
-plus tard vingt jours avant la date de cessation des effets du bulletin d'adhésion.
+par l'Autorité de contrôle en application du deuxième alinéa de l'article L. 212-21. Lorsque la décision de l'Autorité a pour
+effet de fixer la date à laquelle les bulletins d'adhésion cessent d'avoir effet, cette communication intervient au plus tard
+vingt jours avant la date de cessation des effets du bulletin d'adhésion.
 
 **Liens relatifs à cet article**
 
@@ -9335,9 +9663,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -9347,7 +9675,7 @@ _Cité par_:
 ###### Article R211-16
 
 Une mutuelle ou une union de mutuelles dont tous les agréments ont été retirés ne cesse d'être soumise, pour l'application du
-livre II, au contrôle de la commission de contrôle instituée par l'article L. 510-1 que lorsque l'ensemble des engagements
+livre II, au contrôle de l'Autorité de contrôle instituée par l'article L. 510-1 que lorsque l'ensemble des engagements
 résultant des bulletins d'adhésion à des règlements ou contrats collectifs souscrits par la mutuelle ou l'union ont été
 intégralement et définitivement réglés aux membres participants et aux tiers bénéficiaires ou ont fait l'objet d'un transfert
 autorisé dans les conditions prévues à l'article L. 212-11.
@@ -9358,9 +9686,9 @@ autorisé dans les conditions prévues à l'article L. 212-11.
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -9371,7 +9699,7 @@ _Cite_:
 ###### Article R211-17
 
 En cas de retrait d'agrément prévu à l'article L. 211-9 ou au 6° du premier alinéa de l'article L. 510-11, l'autorité
-administrative mentionnée à l'article R. 211-7 ou la commission de contrôle, selon le cas, informe d'urgence les autorités
+administrative mentionnée à l'article R. 211-7 ou l'Autorité de contrôle, selon le cas, informe d'urgence les autorités
 compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
@@ -9386,12 +9714,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R211-18
 
-Lorsqu'une mutuelle ou une union fait l'objet d'un retrait d'agrément, la commission de contrôle peut prendre, le cas échéant
+Lorsqu'une mutuelle ou une union fait l'objet d'un retrait d'agrément, l'Autorité de contrôle peut prendre, le cas échéant
 avec le concours des autorités de contrôle des autres Etats membres de la Communauté européenne ou parties à l'accord sur
 l'Espace économique européen sur le territoire desquels la mutuelle ou l'union opère, les mesures prévues à l'article L.
 510-9 afin de sauvegarder les intérêts des membres participants et des bénéficiaires.
@@ -9402,16 +9730,16 @@ l'Espace économique européen sur le territoire desquels la mutuelle ou l'union
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
   - Code de la mutualité - art. L510-9 (M)
 
 
-##### Section 3 : Dispositions particulières à la branche protection juridique.<a id=67></a>
+##### Section 3 : Dispositions particulières à la branche protection juridique.<a id=68></a>
 
 ###### Article R211-19
 
@@ -9483,7 +9811,7 @@ _Cite_:
   - Code de la mutualité - art. R211-19 (V)
 
 
-##### Section 4 : Convention de substitution.<a id=68></a>
+##### Section 4 : Convention de substitution.<a id=69></a>
 
 ###### Article R211-21
 
@@ -9491,10 +9819,10 @@ Les dispositions de la présente section concernent les opérations des mutuelle
 de substitution pour une ou plusieurs branches mentionnées à l'article R. 211-2 avec une autre mutuelle ou union.
 
 La mutuelle ou l'union qui s'est substituée à un autre organisme est chargée, pour le compte et à la place de cet organisme,
-de faire à la commission de contrôle mentionnée à l'article L. 510-1 les différentes communications prescrites par le livre
-V, de tenir à son siège les livres de comptabilité, registres ou fichiers prévus par le présent code et de mettre à la
+de faire à l'Autorité de contrôle mentionnée à l'article L. 510-1 les différentes communications prescrites par le livre V,
+de tenir à son siège les livres de comptabilité, registres ou fichiers prévus par le présent code et de mettre à la
 disposition des agents chargés du contrôle des organismes mutualistes mentionnés à l'article L. 951-4 du code de la sécurité
-sociale tous les documents nécessaires à l'accomplissement de la mission de cette commission.
+sociale tous les documents nécessaires à l'accomplissement de la mission de cette Autorité.
 
 La convention prévoit que la mutuelle ou l'union qui s'est substituée à un organisme doit constituer et représenter, dans les
 conditions fixées par l'article L. 212-1, l'intégralité des dettes, réserves et provisions afférentes aux engagements
@@ -9520,7 +9848,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -9550,8 +9878,8 @@ _Cite_:
 
 ###### Article R211-23
 
-La liste des pièces qui doivent être fournies à la commission de contrôle pour l'exercice du contrôle prévu à l'article L.
-211-5 est fixée par arrêté du ministre chargé de la mutualité.
+La liste des pièces qui doivent être fournies à l'Autorité de contrôle pour l'exercice du contrôle prévu à l'article L. 211-5
+est fixée par arrêté du ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
 
@@ -9559,9 +9887,9 @@ La liste des pièces qui doivent être fournies à la commission de contrôle po
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -9624,7 +9952,7 @@ l'agrément administratif pour la ou les branches concernées lorsque les condit
 1° Il a souscrit auprès d'une mutuelle ou d'une union une convention conforme aux dispositions de l'article L. 211-5 et à
 celles de la présente section ;
 
-2° La commission de contrôle mentionnée à l'article L. 510-1 n'a pas notifié à l'organisme son opposition au projet de
+2° L'Autorité de contrôle mentionnée à l'article L. 510-1 n'a pas notifié à l'organisme son opposition au projet de
 convention dans le délai prévu au troisième alinéa de l'article L. 211-5.
 
 **Liens relatifs à cet article**
@@ -9633,9 +9961,9 @@ convention dans le délai prévu au troisième alinéa de l'article L. 211-5.
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -9676,7 +10004,7 @@ _Cite_:
   - Code de la mutualité - art. R211-26 (V)
 
 
-##### Section 5 : Contrôle interne<a id=69></a>
+##### Section 5 : Contrôle interne<a id=70></a>
 
 ###### Article R211-28
 
@@ -9736,26 +10064,22 @@ _Créé par_:
 ###### Article R211-30
 
 Lorsqu'elle se propose d'utiliser pour la première fois des instruments financiers à terme, la mutuelle ou union en informe
-préalablement la commission de contrôle mentionnée à l'article L. 510-1, en lui transmettant le rapport sur la politique de
+préalablement l'Autorité de contrôle mentionnée à l'article L. 510-1, en lui transmettant le rapport sur la politique de
 placement mentionné à l'article R. 211-28 après son approbation par le conseil d'administration.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) L510-1, R211-28
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
-
-  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
-
 _Cité par_:
 
   - Décret n°2004-261 du 24 mars 2004 - art. 4 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R211-31
@@ -9792,9 +10116,9 @@ _Cite_:
   - Code de la mutualité - art. R212-70
 
 
-#### Chapitre II : Fonctionnement.<a id=70></a>
+#### Chapitre II : Fonctionnement.<a id=71></a>
 
-##### Section 1 : Dispositions générales.<a id=71></a>
+##### Section 1 : Dispositions générales.<a id=72></a>
 
 ###### Article R212-1
 
@@ -9919,11 +10243,11 @@ _Cité par_:
 
 ###### Article R212-5
 
-Trois mois au moins avant la réunion de l'assemblée générale, la mutuelle ou l'union soumet à l'approbation de la commission
-de contrôle mentionnée à l'article L. 510-1 le texte du projet de délibération mentionné à l'article R. 212-4. La commission
-se prononce au vu du plan d'amélioration de l'exploitation ou du plan de développement à moyen ou long terme mentionné à
+Trois mois au moins avant la réunion de l'assemblée générale, la mutuelle ou l'union soumet à l'approbation de l'Autorité de
+contrôle mentionnée à l'article L. 510-1 le texte du projet de délibération mentionné à l'article R. 212-4. L'Autorité se
+prononce au vu du plan d'amélioration de l'exploitation ou du plan de développement à moyen ou long terme mentionné à
 l'article R. 212-3. A l'expiration d'un délai de deux mois à dater du dépôt du texte de l'un ou l'autre de ces plans ainsi
-que du texte de la délibération, en l'absence de décision expresse de la commission, l'autorisation est réputée accordée.
+que du texte de la délibération, en l'absence de décision expresse de l'Autorité, l'autorisation est réputée accordée.
 
 **Liens relatifs à cet article**
 
@@ -9935,10 +10259,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 2 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R212-6
@@ -10073,7 +10396,7 @@ _Cite_:
   - Code de la mutualité - art. R213-2 (V)
 
 
-##### Section 2 : Marge de solvabilité.<a id=72></a>
+##### Section 2 : Marge de solvabilité.<a id=73></a>
 
 ###### Article R212-10
 
@@ -10134,9 +10457,8 @@ qui sont considérés comme des fonds propres pour le calcul des exigences de fo
 établissements mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance peut autoriser la mutuelle ou l'union à ne pas effectuer les
-déductions prévues aux a et b.
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle des
+assurances et des mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -10147,12 +10469,12 @@ ministre chargé de la mutualité. La prise en compte de ces fonds est admise ju
 marge de solvabilité ou de la marge de solvabilité disponible, le montant le plus faible étant retenu. Toutefois, la prise en
 compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de
 cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de l'article L. 510-11, donner
-lieu à application de sanctions par la commission de contrôle mentionnée à l'article L. 510-1 ;
+lieu à application de sanctions par l'Autorité de contrôle mentionnée à l'article L. 510-1 ;
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
 mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
 
-III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
+III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de l'Autorité de contrôle mentionnée à
 l'article L. 510-1, la marge de solvabilité peut également être constituée par les éléments suivants :
 
 1. Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne où la mutuelle ou l'union exerce son
@@ -10183,7 +10505,7 @@ et 4 du III.
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 1 2° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -10288,22 +10610,27 @@ et h), 17, 18 de l'article R. 211-2 est égal au tiers de l'exigence minimale de
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
-2,25 millions d'euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15 de
-l'article R. 211-2 ;
+2,4 millions d'euros (1) lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15
+de l'article R. 211-2 ;
 
-1,5 million d'euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2, 16
-(a et h), 17, 18 de l'article R. 211-2.
+1,6 million d'euros (1) lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2,
+16 (a et h), 17, 18 de l'article R. 211-2.
 
 Lorsqu'une mutuelle ou union est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
 considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
 
 Les montants en euros mentionnés aux troisième et quatrième alinéas sont révisés annuellement en fonction de l'évolution de
-l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats membres. Chaque année, la
-commission de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet indice et
-arrondis au multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5
-%, ces montants ne sont pas révisés.
+l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats membres. Chaque année, l'Autorité
+de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet indice et arrondis au
+multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ces
+montants ne sont pas révisés.
 
 Le fonds est constitué par les éléments mentionnés aux 1, 3, 4, 5, 7 et 8 de l'article R. 212-11.
+
+**Nota:**
+
+(1) Ces montants, applicables au 1er janvier 2008, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 31 octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -10317,7 +10644,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -10405,8 +10732,8 @@ considérés comme des fonds propres pour le calcul des exigences de fonds propr
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
 détenue temporairement par une mutuelle ou une union en vue de faciliter l'assainissement et la sauvegarde de cette entité,
-la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut autoriser la mutuelle ou
-l'union à ne pas effectuer les déductions prévues aux deux alinéas précédents.
+l'Autorité de contrôle des assurances et des mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer les
+déductions prévues aux deux alinéas précédents.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -10416,13 +10743,13 @@ Ces titres et emprunts doivent répondre aux conditions, notamment de durée et 
 ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge de
 solvabilité prévue au présent article. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
 emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 510-11, donner lieu à application de sanctions par la commission de
-contrôle mentionnée à l'article L. 510-1 ;
+peut, conformément aux dispositions de l'article L. 510-11, donner lieu à application de sanctions par l'Autorité de contrôle
+mentionnée à l'article L. 510-1 ;
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
 mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
 
-III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
+III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de l'Autorité de contrôle mentionnée à
 l'article L. 510-1, la marge de solvabilité peut également être constituée par :
 
 1. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
@@ -10469,7 +10796,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 1 3° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R212-16
@@ -10582,8 +10909,8 @@ mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal au tiers d
 définie à l'article R. 212-16.
 
 Ce fonds ne peut être inférieur à 2,25 millions d'euros. Ce montant est révisé annuellement en fonction de l'évolution de
-l'indice européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année, la
-commission de contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au
+l'indice européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année,
+l'Autorité de contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au
 multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce
 montant n'est pas révisé.
 
@@ -10620,7 +10947,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -10740,7 +11067,7 @@ _Cité par_:
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
 
-##### Section 3 : Engagements réglementés.<a id=73></a>
+##### Section 3 : Engagements réglementés.<a id=74></a>
 
 ###### Article R212-21
 
@@ -10821,7 +11148,7 @@ _Créé par_:
   - Décret n°2002-720 du 2 mai 2002 - art. 4 () JORF 4 mai 2002
 
 
-##### Section 4 : Provisions techniques.<a id=74></a>
+##### Section 4 : Provisions techniques.<a id=75></a>
 
 ###### Article R212-23
 
@@ -10941,8 +11268,8 @@ externes individualisables ; elle est augmentée d'une estimation du coût des s
 La provision pour prestations à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours à
 exercer ; les recours à recevoir font l'objet d'une évaluation distincte.
 
-Par dérogation aux dispositions du deuxième alinéa du présent article, toute mutuelle ou union peut, après accord de la
-commission de contrôle mentionnée à l'article L. 510-1, utiliser des méthodes statistiques pour l'estimation des sinistres
+Par dérogation aux dispositions du deuxième alinéa du présent article, toute mutuelle ou union peut, après accord de
+l'Autorité de contrôle mentionnée à l'article L. 510-1, utiliser des méthodes statistiques pour l'estimation des sinistres
 survenus au cours des deux derniers exercices.
 
 La provision pour prestations à payer est complétée par une évaluation des charges de gestion qui, compte tenu des éléments
@@ -10958,10 +11285,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 5 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -11065,7 +11391,7 @@ Les mutuelles et unions effectuent chaque année avant l'arrêté des comptes un
 capacité à faire face à leurs engagements à l'égard des membres participants, bénéficiaires et ayants droit dans des
 conditions détériorées de marché. Les modalités de ce test sont fixées par arrêté du ministre chargé de la mutualité.
 
-Les résultats de ce test sont communiqués à la commission de contrôle mentionnée à l'article L. 510-1 à une date fixée par
+Les résultats de ce test sont communiqués à l'Autorité de contrôle mentionnée à l'article L. 510-1 à une date fixée par
 arrêté du ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
@@ -11078,9 +11404,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-486 du 28 mai 2004 - art. 2 () JORF 5 juin 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -11089,7 +11415,7 @@ _Cité par_:
   - Code de la mutualité - art. R510-3-1-2 (VT)
 
 
-##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=75></a>
+##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=76></a>
 
 ###### Article R212-28
 
@@ -11322,7 +11648,7 @@ _Cité par_:
 Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
 à l'article R. 212-21, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 212-36 à R.
 212-42, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
-sauf dérogation accordée cas par cas par la commission de contrôle mentionnée à l'article L. 510-1 :
+sauf dérogation accordée cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R. 212-31 et des prêts mentionnés au troisième
 alinéa du I de l'article R. 212-45, dont 5 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères
@@ -11346,21 +11672,21 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Modifié par_:
-
-  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
-
 _Cité par_:
 
   - Arrêté du 22 avril 2004 - art. 19 (Ab)
   - Code de la mutualité - art. R212-33 (M)
   - Code de la mutualité - art. R212-50 (V)
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 
 ###### Article R212-33
 
 Rapportée au montant défini à l'article R. 212-32, la valeur admise en représentation des actifs mentionnés ci-après ne peut
-excéder, sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée à l'article L. 510-1 :
+excéder, sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
 
@@ -11399,14 +11725,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
-
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
 _Cité par_:
 
   - Arrêté du 22 avril 2004 - art. 19 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R212-34
@@ -11415,10 +11740,10 @@ I. - Les provisions techniques des mutuelles et unions opérant à la fois sur l
 monégasque doivent être représentées dans des conditions prévues par la réglementation française. Toutefois, les actifs admis
 en représentation desdites provisions peuvent comprendre, à concurrence de 5 % du montant de celles-ci, des placements
 mobiliers ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque mutuelle ou union ou pour chaque cas,
-par la commission de contrôle mentionnée à l'article L. 510-1 et par le ministre d'Etat de la Principauté de Monaco.
+par l'Autorité de contrôle mentionnée à l'article L. 510-1 et par le ministre d'Etat de la Principauté de Monaco.
 
 II. - Pour ce qui concerne les opérations réalisées dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Wallis-
-et-Futuna et à Mayotte, la commission de contrôle mentionnée à l'article L. 510-1 peut, sur proposition du représentant de
+et-Futuna et à Mayotte, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut, sur proposition du représentant de
 l'Etat dans la collectivité concernée, consentir des dérogations aux règles de l'article R. 212-32. Elle peut de même, à
 titre exceptionnel, accorder aux mutuelles et unions des dérogations à la réglementation de contrôle.
 
@@ -11432,10 +11757,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-35
@@ -11673,7 +12001,7 @@ _Abrogé par_:
 ###### Article R212-43
 
 Les mutuelles et unions ne peuvent acquérir d'immeubles grevés de droits réels représentant plus de 65 % de leur valeur ni
-consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par la commission de contrôle
+consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par l'Autorité de contrôle
 mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
@@ -11686,10 +12014,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-44
@@ -11922,7 +12253,7 @@ l'article L. 431-4 du code monétaire et financier.
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions de l'article R. 212-54. Pour l'estimation des
 valeurs mentionnées au 1° de l'article R. 212-31, la fraction courue du coupon est prise en compte.
 
-A la demande d'une mutuelle ou union, la commission de contrôle mentionnée à l'article L. 510-1 peut, par dérogation aux
+A la demande d'une mutuelle ou union, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut, par dérogation aux
 dispositions du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie
 mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du ministre chargé de la mutualité, par une caution ou un
 engagement équivalent pris par un établissement de crédit, dès lors que la nature et la forme de l'engagement ainsi que la
@@ -11941,10 +12272,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -12068,8 +12398,8 @@ d'achat de ce titre ou de ce groupe de titres. Le prix d'achat s'entend hors int
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
 valeurs d'un Etat membre de l'Organisation de coopération et de développement économique sont retenus pour leur prix d'achat
-ou de revient ou, dans les conditions fixées dans chaque cas par la commission de contrôle mentionnée à l'article L. 510-1,
-pour une valeur déterminée après expertise effectuée conformément à l'article R. 212-56. Les valeurs sont diminuées des
+ou de revient ou, dans les conditions fixées dans chaque cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, pour
+une valeur déterminée après expertise effectuée conformément à l'article R. 212-56. Les valeurs sont diminuées des
 amortissements pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et
 d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
 
@@ -12083,8 +12413,7 @@ ne peuvent être constatées que lorsqu'il y a lieu de considérer que la dépr�
 mutuelles et unions qui, au bilan du dernier exercice clos un an avant la publication du plan comptable, constataient les
 dépréciations, même lorsque celles-ci n'avaient pas un caractère durable, peuvent continuer à faire application de cette
 méthode jusqu'au dernier exercice clos un an avant le 1er janvier 2007 ; elles peuvent y renoncer à tout moment, en le
-notifiant préalablement à la commission de contrôle mentionnée à l'article L. 510-1, cette renonciation étant alors
-définitive.
+notifiant préalablement à l'Autorité de contrôle mentionnée à l'article L. 510-1, cette renonciation étant alors définitive.
 
 **Liens relatifs à cet article**
 
@@ -12096,10 +12425,6 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Modifié par_:
-
-  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
-
 _Cité par_:
 
   - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
@@ -12109,6 +12434,10 @@ _Cité par_:
   - Code de la mutualité - art. R212-54 (V)
   - Code de la mutualité - art. R510-3-1 (VT)
   - Code de la mutualité - art. R510-3-4 (VT)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R212-54
@@ -12128,14 +12457,13 @@ le dernier prix de rachat publié au jour de l'inventaire ;
 
 d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
 cote d'une bourse de valeurs d'un Etat membre de l'organisation de coopération et de développement économique est déterminée
-sur la base d'une expertise quinquennale effectuée par un expert accepté par la commission de contrôle mentionnée à l'article
-L. 510-1. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par cette
-commission ;
+sur la base d'une expertise quinquennale effectuée par un expert accepté par l'Autorité de contrôle mentionnée à l'article L.
+510-1. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par cette
+Autorité ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée comme il est prévu aux articles R. 212-52 et R.
 212-53 ci-dessus, sauf dans le cas où une autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à
-l'article R. 212-56, soit d'un accord entre la commission de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou
-l'union.
+l'article R. 212-56, soit d'un accord entre l'Autorité de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou l'union.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des articles R. 212-52 et R. 212-53, il y a lieu de
 déduire de l'évaluation prévue au présent article les prorata d'intérêt courus depuis la dernière échéance jusqu'à la date de
@@ -12151,11 +12479,6 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
-
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
 _Cité par_:
 
   - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
@@ -12169,6 +12492,10 @@ _Cité par_:
   - Code de la mutualité - art. R212-52 (V)
   - Code de la mutualité - art. R212-55 (V)
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 
 ###### Article R212-54-1
 
@@ -12179,9 +12506,9 @@ a) Pour les instruments financiers à terme échangés sur des marchés reconnus
 
 b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué par au moins deux organismes n'appartenant pas
 à un même groupe au sens de l'article R. 212-45. Un des organismes peut être la mutuelle ou union elle-même, sauf opposition
-de la commission de contrôle mentionnée à l'article L. 510-1. Les organismes habilités à cette évaluation sont les
-établissements de crédit, les entreprises d'investissement ou, sur accord de la commission de contrôle mentionnée à l'article
-L. 510-1, des organismes spécialisés.
+de l'Autorité de contrôle mentionnée à l'article L. 510-1. Les organismes habilités à cette évaluation sont les
+établissements de crédit, les entreprises d'investissement ou, sur accord de l'Autorité de contrôle mentionnée à l'article L.
+510-1, des organismes spécialisés.
 
 **Liens relatifs à cet article**
 
@@ -12193,10 +12520,6 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
-
-  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
-
 _Cité par_:
 
   - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
@@ -12204,6 +12527,14 @@ _Cité par_:
   - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
   - Décret n°2004-342 du 21 avril 2004 - art. 47 (Ab)
   - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-55
@@ -12258,16 +12589,16 @@ _Cité par_:
 
 ###### Article R212-56
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut requérir la fixation par une expertise de la valeur de tout ou
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut requérir la fixation par une expertise de la valeur de tout ou
 partie de l'actif des mutuelles ou unions, et notamment des immeubles et des parts et actions de sociétés immobilières leur
 appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire, ainsi que des instruments
 financiers à terme utilisés par les mutuelles ou unions.
 
-Cette expertise peut être également demandée à la commission par les mutuelles et unions.
+Cette expertise peut être également demandée à l'Autorité par les mutuelles et unions.
 
 La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue aux
 articles R. 212-54 et R. 212-54-1. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions
-fixées dans chaque cas par la commission de contrôle. Elle constitue alors le nouveau prix d'achat mentionné à l'article R.
+fixées dans chaque cas par l'Autorité de contrôle. Elle constitue alors le nouveau prix d'achat mentionné à l'article R.
 212-53, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
 
 Les frais de l'expertise sont à la charge de la mutuelle ou de l'union.
@@ -12284,13 +12615,17 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
   - Code de la mutualité - art. R212-53 (V)
   - Code de la mutualité - art. R212-54 (V)
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-57
@@ -12365,7 +12700,7 @@ frais d'acquisition à reporter en fonction de la durée de vie résiduelle des 
 Le montant des frais d'acquisition ainsi reportés est au plus égal à l'écart entre les montants de provisions mathématiques
 inscrites au bilan et le montant des provisions mathématiques qui seraient à inscrire si les frais d'acquisition n'étaient
 pas pris en compte dans les engagements des membres participants, bénéficiaires et ayants droit. Le montant de cet écart,
-ainsi que le calcul des frais d'acquisition reportés, doivent pouvoir être justifiés à tout moment auprès de la commission de
+ainsi que le calcul des frais d'acquisition reportés, doivent pouvoir être justifiés à tout moment auprès de l'Autorité de
 contrôle mentionnée à l'article L. 510-1. Les frais d'acquisition reportés sont admis en représentation des provisions
 techniques.
 
@@ -12379,10 +12714,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 _Cité par_:
 
@@ -12390,7 +12728,7 @@ _Cité par_:
   - Code de la mutualité - art. R212-26 (VT)
 
 
-##### Section 6 : Transfert de portefeuille.<a id=76></a>
+##### Section 6 : Transfert de portefeuille.<a id=77></a>
 
 ###### Article R212-60
 
@@ -12462,17 +12800,17 @@ _Cite_:
 
 ###### Article R212-62
 
-Lorsqu'en application du 7° de l'article L. 510-11, la commission de contrôle instituée par l'article L. 510-1 décide le
+Lorsqu'en application du 7° de l'article L. 510-11, l'Autorité de contrôle instituée par l'article L. 510-1 décide le
 transfert d'office d'un portefeuille de bulletins d'adhésion ou de contrats collectifs conclus sur le territoire d'un ou
 plusieurs Etats parties à l'accord sur l'Espace économique européen, elle en avise les autorités compétentes de ces
 différents Etats.
 
 Lorsque l'entreprise d'assurance cessionnaire a son siège social dans un Etat partie à l'accord sur l'Espace économique
-européen, la commission de contrôle s'assure auprès des autorités compétentes de cet Etat que l'entreprise possède, compte
-tenu du transfert, la marge de solvabilité nécessaire.
+européen, l'Autorité de contrôle s'assure auprès des autorités compétentes de cet Etat que l'entreprise possède, compte tenu
+du transfert, la marge de solvabilité nécessaire.
 
 La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel à la
-diligence de la commission de contrôle.
+diligence de l'Autorité de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -12480,9 +12818,9 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -12543,7 +12881,7 @@ _Cite_:
   - Code de la mutualité - art. R211-2 (V)
 
 
-##### Section 7 : Instruments financiers à terme.<a id=77></a>
+##### Section 7 : Instruments financiers à terme.<a id=78></a>
 
 ###### Article R212-70
 
@@ -12664,7 +13002,7 @@ _Abrogé par_:
 
 ###### Article R212-73
 
-Sauf dérogation expresse de la commission de contrôle mentionnée à l'article L. 510-1, une mutuelle ou union ne peut utiliser
+Sauf dérogation expresse de l'Autorité de contrôle mentionnée à l'article L. 510-1, une mutuelle ou union ne peut utiliser
 d'instrument financier à terme que dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72.
 
 Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
@@ -12672,17 +13010,13 @@ trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code de la mutualité (nouveau) L510-1, R212-70, R212-71, R212-72, R211-28
-
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -12742,10 +13076,10 @@ _Créé par_:
 
 ###### Article R212-76
 
-Sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée à l'article L. 510-1, notamment au regard
-d'une modification globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des
-instruments financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de
-dispersion définie au premier alinéa de l'article R. 212-32.
+Sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, notamment au regard d'une
+modification globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des instruments
+financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de dispersion
+définie au premier alinéa de l'article R. 212-32.
 
 Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives vis-à-vis d'une même
 contrepartie s'il existe entre les parties à l'opération une convention-cadre mentionnée à l'article R. 212-81.
@@ -12760,17 +13094,21 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-77
 
-Sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée à l'article L. 510-1, le montant des
-liquidités à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 212-31 et qui
-font l'objet d'opérations d'anticipation de placement dans des titres de même nature ne peut excéder 20 % de la base de
-dispersion définie au premier alinéa de l'article R. 212-32.
+Sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, le montant des liquidités
+à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 212-31 et qui font l'objet
+d'opérations d'anticipation de placement dans des titres de même nature ne peut excéder 20 % de la base de dispersion définie
+au premier alinéa de l'article R. 212-32.
 
 Dans les cas autres que prévus au premier alinéa, le montant des liquidités à recevoir faisant l'objet d'opérations
 d'anticipation de placement ne peut excéder 5 % de la base de dispersion.
@@ -12788,9 +13126,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-78
@@ -12807,9 +13149,9 @@ membres de la Communauté européenne ou parties à l'accord sur l'Espace écono
 b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ;
 
 c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
-considérées comme équivalentes par la commission bancaire ;
+considérées comme équivalentes par la Commission bancaire ;
 
-d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de la commission de contrôle mentionnée à
+d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de l'Autorité de contrôle mentionnée à
 l'article L. 510-1.
 
 **Liens relatifs à cet article**
@@ -12823,9 +13165,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R212-79
@@ -12938,8 +13280,8 @@ _Cité par_:
 
 ###### Article R212-82
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier les limites fixées à la présente section,
-prendre en compte les instruments financiers utilisés par les organismes :
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier les limites fixées à la présente section, prendre
+en compte les instruments financiers utilisés par les organismes :
 
 a) Dans lesquels, d'une part, la mutuelle ou union a investi un montant supérieur à 0,5 % de la base de dispersion définie au
 premier alinéa de l'article R. 212-32 et dans lesquels, d'autre part, le groupe auquel appartient la mutuelle ou union
@@ -12961,9 +13303,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-83
@@ -12991,7 +13337,7 @@ _Abrogé par_:
   - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
-#### Chapitre III : Surveillance complémentaire<a id=78></a>
+#### Chapitre III : Surveillance complémentaire<a id=79></a>
 
 ###### Article R213-1
 
@@ -13046,27 +13392,27 @@ dispositions de l'article L. 212-7. Toutefois, lorsque ces mutuelles et unions s
 établissement de crédit, d'une entreprise d'investissement ou d'un établissement financier, elles peuvent, alternativement,
 présenter une solvabilité ajustée positive selon les modalités précisées aux articles R. 213-9 et R. 213-10.
 
-Toutefois, la commission de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une
+Toutefois, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une
 mutuelle ou une union s'il s'agit d'une mutuelle ou d'une union apparentée à une autre mutuelle ou union participante agréée
 en France, si cette mutuelle ou union apparentée est prise en compte dans le calcul de la solvabilité ajustée de la mutuelle
 ou de l'union participante.
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut également dispenser du calcul de la solvabilité ajustée une
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut également dispenser du calcul de la solvabilité ajustée une
 mutuelle ou une union s'il s'agit d'un organisme apparenté soit à un organisme assureur, soit à une entreprise de
 réassurance, soit à une société de groupe d'assurance qui ont leur siège social dans un autre Etat partie à l'accord sur
-l'Espace économique européen lorsque ladite commission a conclu un accord avec l'autorité compétente de cet Etat pour lui
+l'Espace économique européen lorsque ladite autorité a conclu un accord avec l'autorité compétente de cet Etat pour lui
 attribuer l'exercice de la surveillance complémentaire.
 
-Dans tous les cas de dispense de calcul de la solvabilité ajustée, la commission de contrôle s'assure au préalable que les
+Dans tous les cas de dispense de calcul de la solvabilité ajustée, l'Autorité de contrôle s'assure au préalable que les
 éléments admissibles pour la marge de solvabilité des mutuelles et unions pris en compte dans le calcul sont répartis de
 manière adéquate entre ces organismes.
 
-Lorsqu'elle vérifie le calcul de la solvabilité d'une mutuelle ou d'une union, la commission de contrôle mentionnée à
-l'article L. 510-1 peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'un
-organisme assureur apparenté dont le siège social est situé dans un autre Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen.
+Lorsqu'elle vérifie le calcul de la solvabilité d'une mutuelle ou d'une union, l'Autorité de contrôle mentionnée à l'article
+L. 510-1 peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'un organisme
+assureur apparenté dont le siège social est situé dans un autre Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen.
 
-En cas de solvabilité ajustée négative, la commission de contrôle exige de la mutuelle ou union concernée qu'elle prenne les
+En cas de solvabilité ajustée négative, l'Autorité de contrôle exige de la mutuelle ou union concernée qu'elle prenne les
 mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
 
 **Liens relatifs à cet article**
@@ -13081,7 +13427,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 2° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -13128,7 +13474,7 @@ assureur agréé en France ;
 5. Pour une mutuelle ou union participante dont les participations sont détenues au travers d'une société de groupe
 d'assurance, l'exigence de solvabilité ajustée de cette dernière est égale à zéro ;
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut prendre en compte les exigences de solvabilité et les éléments
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut prendre en compte les exigences de solvabilité et les éléments
 admissibles pour satisfaire ces exigences, retenus par les autorités d'un Etat non membre de la Communauté européenne ou qui
 n'est pas partie au traité sur l'Espace économique européen dans lequel un organisme assureur apparenté ou une entreprise de
 réassurance a son siège et dont les exigences sont considérées comme équivalentes.
@@ -13155,7 +13501,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 3° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -13166,7 +13512,7 @@ _Cité par_:
 ###### Article R213-4
 
 Lorsque la méthode décrite à l'article R. 213-3 ne permet pas d'obtenir un résultat satisfaisant en raison des structures du
-groupe concerné, la commission de contrôle mentionnée à l'article L. 510-1 est autorisée à appliquer, à titre exceptionnel et
+groupe concerné, l'Autorité de contrôle mentionnée à l'article L. 510-1 est autorisée à appliquer, à titre exceptionnel et
 dérogatoire, l'une des deux méthodes suivantes :
 
 1. Méthode n° 1 : déduction et agrégation la solvabilité ajustée de la mutuelle ou de l'union participante est la différence
@@ -13190,7 +13536,7 @@ l'exigence de solvabilité de l'organisme assureur apparenté.
 Lorsque l'organisme assureur apparenté est une filiale et qu'il présente un déficit de solvabilité, ce déficit de solvabilité
 doit être pris en compte en totalité dans le calcul de la solvabilité ajustée de l'organisme référent mentionné au 1° de
 l'article L. 212-7-1. Toutefois, dans le cas où la responsabilité de l'organisme de référence détenant une part de capital
-est limitée strictement et sans ambiguïté à cette part de capital, la commission de contrôle mentionnée à l'article L. 510-1
+est limitée strictement et sans ambiguïté à cette part de capital, l'Autorité de contrôle mentionnée à l'article L. 510-1
 peut décider d'admettre que le déficit de la filiale est pris en compte sur une base proportionnelle.
 
 Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
@@ -13200,9 +13546,8 @@ instruments détenus sur des établissements de crédit, des entreprises d'inves
 mentionnés au I de l'article R. 212-11.
 
 Lorsque la mutuelle ou l'union est un organisme participant d'un établissement de crédit, d'une entreprise d'investissement
-ou d'un établissement financier, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-est également autorisée à appliquer, en alternative à ces deux méthodes, les méthodes définies aux articles R. 213-9 et R.
-213-10.
+ou d'un établissement financier, l'Autorité de contrôle des assurances et des mutuelles est également autorisée à appliquer,
+en alternative à ces deux méthodes, les méthodes définies aux articles R. 213-9 et R. 213-10.
 
 **Liens relatifs à cet article**
 
@@ -13216,40 +13561,40 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 4° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R213-5
 
 Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de l'article L. 212-7-1 est une société de groupe
-d'assurance, une compagnie financière holding mixte dont le coordonnateur est la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance, une entreprise soumise au contrôle de l'Etat en application de l'article L.
-310-1-1 du code des assurances ou une entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité
-ajustée positive selon des modalités définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de
-la solvabilité ajustée de leur organisme de référence dans les mêmes conditions que celles permettant de déterminer la marge
-de solvabilité d'une mutuelle ou union participante agréée en France et pratiquant les mêmes opérations.
+d'assurance, une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle des assurances et des
+mutuelles, une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des assurances ou une
+entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou
+partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée positive selon des modalités
+définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la solvabilité ajustée de leur
+organisme de référence dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité d'une mutuelle
+ou union participante agréée en France et pratiquant les mêmes opérations.
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une mutuelle ou
-une union s'il s'agit :
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une mutuelle ou une
+union s'il s'agit :
 
 1. D'une mutuelle ou d'une union apparentée à un autre organisme assureur et si cette mutuelle ou union est déjà prise en
 compte dans le calcul effectué pour cet autre organisme assureur ;
 
 2. D'une institution ou d'une union dont l'organisme de référence est une société de groupe d'assurance, compagnie financière
-holding mixte dont le coordonnateur est la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, entreprise d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen et est à la fois commune avec un ou plusieurs organismes
-assureurs agréés en France et déjà pris en compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
+holding mixte dont le coordonnateur est l'Autorité de contrôle des assurances et des mutuelles, entreprise d'assurance ou de
+réassurance dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen et est à la fois commune avec un ou plusieurs organismes assureurs agréés en France et déjà pris
+en compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
 
 3. D'une institution ou d'une union dont l'organisme de référence est une société de groupe d'assurance, compagnie financière
-holding mixte dont le coordonnateur est la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen dès lors que la commission de contrôle mentionnée à
-l'article L. 510-1 a conclu un accord avec une autorité compétente d'un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen pour attribuer à cette autorité l'exercice de la surveillance complémentaire.
+holding mixte dont le coordonnateur est l'Autorité de contrôle des assurances et des mutuelles, entreprise d'assurance ou de
+réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen dès lors que l'Autorité de contrôle mentionnée à l'article L. 510-1 a conclu un accord avec une autorité
+compétente d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen pour attribuer
+à cette autorité l'exercice de la surveillance complémentaire.
 
-Si la commission de contrôle mentionnée à l'article L. 510-1 estime, à partir de ce calcul de solvabilité ajustée, que la
+Si l'Autorité de contrôle mentionnée à l'article L. 510-1 estime, à partir de ce calcul de solvabilité ajustée, que la
 solvabilité de la mutuelle ou l'union concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle
 prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
 
@@ -13266,20 +13611,20 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 5° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R213-6
 
-Les opérations qu'une mutuelle ou union effectue avec ses organismes apparentés sont soumises au contrôle de la commission de
+Les opérations qu'une mutuelle ou union effectue avec ses organismes apparentés sont soumises au contrôle de l'Autorité de
 contrôle mentionnée à l'article L. 510-1, notamment celles qui portent sur les prêts, les garanties et les opérations hors
 bilan, les éléments admissibles pour la marge de solvabilité, les investissements, les opérations de réassurance et les
-accords de répartition des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette commission les opérations
+accords de répartition des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette Autorité les opérations
 importantes mentionnées ci-dessus. La mutuelle ou l'union dispose en outre de procédures de gestion des risques et de
 dispositifs de contrôle interne destinés à détecter, mesurer, encadrer et contrôler ces opérations. Un arrêté du ministre
 chargé de la mutualité précise les conditions dans lesquelles ces opérations doivent être déclarées.
 
-Si la commission de contrôle mentionnée à l'article L. 510-1 estime, à partir de l'examen de ces déclarations, que la
+Si l'Autorité de contrôle mentionnée à l'article L. 510-1 estime, à partir de l'examen de ces déclarations, que la
 solvabilité de la mutuelle ou de l'union est compromise ou susceptible de l'être, elle exige de cette mutuelle ou union
 qu'elle prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
 
@@ -13295,7 +13640,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 6° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -13306,7 +13651,7 @@ _Cité par_:
 
 Lorsqu'une union de mutuelles exerce, à titre principal, une influence dominante sur un autre organisme ayant une activité
 économique à raison de l'existence de liens de solidarité importants et durables résultant d'engagements financiers ou de
-dirigeants ou de services communs, elle est tenue de transmettre à la commission de contrôle mentionnée à l'article L. 510-1,
+dirigeants ou de services communs, elle est tenue de transmettre à l'Autorité de contrôle mentionnée à l'article L. 510-1,
 dans un délai d'un mois, l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la compétence et
 l'expérience de ses dirigeants. La liste de ces informations est fixée par arrêté du ministre chargé de la mutualité.
 
@@ -13320,13 +13665,17 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
-
-  - Décret n°2005-1266 2005-10-07 art. 2 7° JORF 11 octobre 2005
-
 _Cité par_:
 
   - Décret n°2005-1266 du 7 octobre 2005 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R213-8
@@ -13363,11 +13712,11 @@ _Cité par_:
 
 ###### Article R213-9
 
-Lorsqu'elle est coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-peut, après consultation des autres autorités compétentes concernées et du conglomérat financier considéré, faire appliquer,
-à la place de la méthode prévue à l'article R. 213-8 pour le calcul des exigences complémentaires, l'une des trois méthodes
-suivantes, si elle lui apparaît plus pertinente au regard des impératifs de la surveillance complémentaire, en raison
-notamment de la structure du conglomérat financier considéré, ou à la demande de ce dernier.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, après consultation des autres
+autorités compétentes concernées et du conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à
+l'article R. 213-8 pour le calcul des exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît
+plus pertinente au regard des impératifs de la surveillance complémentaire, en raison notamment de la structure du
+conglomérat financier considéré, ou à la demande de ce dernier.
 
 1° Méthode n° 1 : déduction et agrégation.
 
@@ -13401,9 +13750,9 @@ La différence doit être positive.
 
 3° Méthode n° 3 : combinaison des trois méthodes.
 
-Lorsqu'elle est coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-peut, sous les conditions mentionnées au premier alinéa, permettre au conglomérat financier de combiner deux ou trois des
-méthodes mentionnées à l'article R. 213-8 et au présent article.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, sous les conditions mentionnées
+au premier alinéa, permettre au conglomérat financier de combiner deux ou trois des méthodes mentionnées à l'article R. 213-8
+et au présent article.
 
 Un arrêté du ministre chargé de la mutualité détermine les modalités de calcul des fonds propres et des exigences de
 solvabilité d'une entité qui doivent être retenues dans le cadre de l'application des méthodes n°s 1 à 3.
@@ -13418,9 +13767,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 7° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -13430,11 +13779,11 @@ _Cité par_:
 
 ###### Article R213-10
 
-Sans préjudice des dispositions de l'article L. 212-7-16, la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance peut, lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en
-matière d'adéquation des fonds propres le justifie, demander que les exigences complémentaires soient couvertes par des
-éléments prudentiels admis à la fois par la réglementation applicable au secteur des assurances et par celle applicable au
-secteur bancaire et des services d'investissement dans les limites propres aux réglementations sectorielles.
+Sans préjudice des dispositions de l'article L. 212-7-16, l'Autorité de contrôle des assurances et des mutuelles peut,
+lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en matière d'adéquation des fonds
+propres le justifie, demander que les exigences complémentaires soient couvertes par des éléments prudentiels admis à la fois
+par la réglementation applicable au secteur des assurances et par celle applicable au secteur bancaire et des services
+d'investissement dans les limites propres aux réglementations sectorielles.
 
 **Liens relatifs à cet article**
 
@@ -13446,9 +13795,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1266 2005-10-07 art. 2 7° JORF 11 octobre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R213-11
@@ -13494,9 +13843,9 @@ _Cité par_:
   - Code de la mutualité - art. R211-28-1 (M)
 
 
-### Titre II : Opération des mutuelles et des unions.<a id=79></a>
+### Titre II : Opération des mutuelles et des unions.<a id=80></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=80></a>
+#### Chapitre Ier : Dispositions générales.<a id=81></a>
 
 ###### Article R221-1
 
@@ -13554,9 +13903,9 @@ _Cite_:
   - Code de la mutualité - art. L221-18 (V)
 
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=81></a>
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=82></a>
 
-##### Section 1 : Contenu du règlement.<a id=82></a>
+##### Section 1 : Contenu du règlement.<a id=83></a>
 
 ###### Article R222-1
 
@@ -13719,7 +14068,7 @@ _Cite_:
   - Code de la mutualité - art. R222-10 (V)
 
 
-##### Section 2 : Dispositions techniques et comptables.<a id=83></a>
+##### Section 2 : Dispositions techniques et comptables.<a id=84></a>
 
 ###### Article R222-7
 
@@ -14023,7 +14372,7 @@ _Abrogé par_:
   - Décret n°2017-1765 du 26 décembre 2017 - art. 3
 
 
-##### Section 3 : Conversion du règlement.<a id=84></a>
+##### Section 3 : Conversion du règlement.<a id=85></a>
 
 ###### Article R222-19
 
@@ -14121,9 +14470,9 @@ _Créé par_:
   - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
 
 
-#### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.<a id=85></a>
+#### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.<a id=86></a>
 
-##### Section 1 : Dispositions générales<a id=86></a>
+##### Section 1 : Dispositions générales<a id=87></a>
 
 ###### Article R223-1
 
@@ -14228,8 +14577,8 @@ _Cité par_:
 Pendant la durée de l'adhésion ou du contrat, la mutuelle ou l'union peut effectuer pour les bulletins d'adhésion ou contrats
 collectifs l'ayant prévu la substitution d'une unité de compte visée au 2° de l'article R. 223-1 au profit d'unités de compte
 de nature comparable si l'unité de compte initiale ne remplit plus les conditions définies au 2° de l'article R. 223-3 ou si
-la mutuelle ou l'union qui en fait la demande y est autorisée par la commission de contrôle des mutuelles et des institutions
-de prévoyance.
+la mutuelle ou l'union qui en fait la demande y est autorisée par l'Autorité de contrôle des mutuelles et des institutions de
+prévoyance.
 
 Les modalités d'application du présent article sont définies par arrêté du ministre chargé de la mutualité.
 
@@ -14243,20 +14592,20 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1345 du 6 novembre 2002 - art. 1 () JORF 14 novembre 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
   - Code de la mutualité - art. A223-4 (V)
 
 
-## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=87></a>
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=88></a>
 
-### Titre Ier : Organes administratifs de la mutualité.<a id=88></a>
+### Titre Ier : Organes administratifs de la mutualité.<a id=89></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité.<a id=89></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité.<a id=90></a>
 
 ###### Article R411-1
 
@@ -14267,7 +14616,7 @@ mutualité ;
 
 Un député et un sénateur, élus par leur assemblée respective ;
 
-Le président de la commission de contrôle des mutuelles et des institutions de prévoyance ou son représentant ;
+Le président de l'Autorité de contrôle des assurances et des mutuelles ou son représentant ;
 
 Un membre du Conseil d'Etat, désigné par le vice-président ;
 
@@ -14316,7 +14665,7 @@ Un membre des professions de santé désigné par le ministre chargé de la sant
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -14382,7 +14731,7 @@ _Cité par_:
   - Code de la mutualité - art. R421-3 (V)
 
 
-#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=90></a>
+#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=91></a>
 
 ###### Article R412-1
 
@@ -14476,9 +14825,9 @@ _Abrogé par_:
   - Décret n°2012-596 du 27 avril 2012 - art. 5
 
 
-#### Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité.<a id=91></a>
+#### Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité.<a id=92></a>
 
-##### Section 1 : Elections aux comités régionaux de coordination de la mutualité.<a id=92></a>
+##### Section 1 : Elections aux comités régionaux de coordination de la mutualité.<a id=93></a>
 
 ###### Article R413-1
 
@@ -14728,7 +15077,7 @@ _Abrogé par_:
   - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 
-##### Section 2 : Elections au Conseil supérieur de la mutualité.<a id=93></a>
+##### Section 2 : Elections au Conseil supérieur de la mutualité.<a id=94></a>
 
 ###### Article R413-11
 
@@ -14935,7 +15284,7 @@ _Abrogé par_:
   - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 
-##### Section 3 : Contentieux des opérations électorales.<a id=94></a>
+##### Section 3 : Contentieux des opérations électorales.<a id=95></a>
 
 ###### Article R413-19
 
@@ -14964,7 +15313,7 @@ _Créé par_:
   - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Registre national des mutuelles.<a id=95></a>
+#### Chapitre IV : Registre national des mutuelles.<a id=96></a>
 
 ###### Article R414-1
 
@@ -15066,7 +15415,7 @@ Outre les mentions prévues à l'article L. 510-11, sont mentionnées d'office a
 
 1° Les décisions d'agrément et de retrait d'agrément prises en application des articles L. 211-7 et L. 211-9 ;
 
-2° Les décisions de la Commission de contrôle mentionnée à l'article L. 510-1 prises en application de l'article L. 510-10 ;
+2° Les décisions de l'Autorité de contrôle mentionnée à l'article L. 510-1 prises en application de l'article L. 510-10 ;
 
 3° Les mesures mentionnées aux articles L. 212-15 et L. 212-16 du présent code ainsi que celles prises en application du
 titre II du livre VI du code de commerce et mentionnées à l'article 36-1 du décret n° 84-406 du 30 mai 1984 relatif au
@@ -15101,9 +15450,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -15294,9 +15643,9 @@ _Abrogé par_:
   - Décret n°2011-1192 du 26 septembre 2011 - art. 7
 
 
-### Titre II : Incitation à l'action mutualiste.<a id=96></a>
+### Titre II : Incitation à l'action mutualiste.<a id=97></a>
 
-#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=97></a>
+#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=98></a>
 
 ###### Article R421-1
 
@@ -15430,40 +15779,39 @@ _Cite_:
   - Code de la mutualité - art. L411-1 (Ab)
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=98></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=99></a>
 
-### Chapitre Ier : Commission de contrôle<a id=99></a>
+### Chapitre Ier : Autorité de contrôle.<a id=100></a>
 
 ###### Article R510-1
 
-L'organisation administrative de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-mentionnée à l'article L. 510-1 est fixée par les articles R. 310-11, R. 310-12 et R. 310-12-1 du code des assurances, ci-
-après reproduits :
+L'organisation administrative de l'Autorité de contrôle des assurances et des mutuelles mentionnée à l'article L. 510-1 est
+fixée par les articles R. 310-11, R. 310-12 et R. 310-12-1 du code des assurances, ci-après reproduits : 
 
-"Art. R. 310-11. - I. - La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se réunit
-sur convocation de son président ou à la demande de la moitié de ses membres.
+" Art.R. 310-11.-I.-L'Autorité de contrôle des assurances et des mutuelles se réunit sur convocation de son président ou à la
+demande de la moitié de ses membres. 
 
 Elle ne peut délibérer que si cinq au moins de ses membres sont présents, ce nombre étant porté à six en matière
-disciplinaire.
+disciplinaire. 
 
-II. - Il est établi un procès-verbal des séances de la commission de contrôle par un agent des services qui fait office de
-secrétaire de séance. Mention y est faite des noms des membres présents.
+II.-Il est établi un procès-verbal des séances de l'Autorité de contrôle par un agent des services qui fait office de
+secrétaire de séance. Mention y est faite des noms des membres présents. 
 
-Le procès-verbal est soumis à l'approbation de la commission.
+Le procès-verbal est soumis à l'approbation de l'Autorité. 
 
 Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition de chacun des membres
-de la commission et des commissaires du Gouvernement.
+de l'Autorité et des commissaires du Gouvernement. 
 
-III. - Les membres de la commission perçoivent, pour chaque séance, une indemnité dont le montant est fixé par la commission.
-Le montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent
-au cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de la commission perçoit une
-rémunération ou une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de
-l'économie. Le montant de cette dernière indemnité est publié au Journal officiel de la République française."
+III.-Les membres de l'Autorité perçoivent, pour chaque séance, une indemnité dont le montant est fixé par l'Autorité. Le
+montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent au
+cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de l'Autorité perçoit une rémunération ou
+une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de l'économie. Le montant de
+cette dernière indemnité est publié au Journal officiel de la République française. " 
 
-"Art. R. 310-12. - I. - Sur proposition de son président et à la majorité des deux tiers de ses membres, la commission de
-contrôle peut constituer une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer
-en matière d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance
-des organismes pratiquant des activités d'assurance.
+" Art.R. 310-12.-I.-Sur proposition de son président et à la majorité des deux tiers de ses membres, l'Autorité de contrôle
+peut constituer une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer en matière
+d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance des
+organismes pratiquant des activités d'assurance. 
 
 Ces commissions spécialisées ne peuvent intervenir dans les matières relevant du pouvoir de sanction mentionné à l'article L.
 310-18 du présent code, à l'article L. 951-10 du code de la sécurité sociale et à l'article L. 510-11 du code de la
@@ -15472,58 +15820,57 @@ chapitre III du titre III du livre III du présent code, à la section V du chap
 sécurité sociale et aux articles L. 510-8 et L. 510-9 du code de la mutualité lorsque le chiffre d'affaires moyen des trois
 derniers exercices de l'organisme concerné est inférieur à un seuil déterminé par arrêté conjoint des ministres chargés des
 finances, de la sécurité sociale et de la mutualité et au moins égal à celui prévu en application de l'article L. 510-2 du
-code de la mutualité.
+code de la mutualité. 
 
-Lorsqu'elle décide la création d'une commission spécialisée, la commission de contrôle précise :
+Lorsqu'elle décide la création d'une commission spécialisée, l'Autorité de contrôle précise : 
 
-1° L'étendue de la délégation qu'elle lui donne pour prendre des décisions de portée individuelle ;
+1° L'étendue de la délégation qu'elle lui donne pour prendre des décisions de portée individuelle ; 
 
-2° Sa composition, chaque commission spécialisée comprenant, outre le président de la commission de contrôle, quatre membres
-au moins de cette dernière ;
+2° Sa composition, chaque commission spécialisée comprenant, outre le président de l'Autorité de contrôle, quatre membres au
+moins de cette dernière ; 
 
-3° La durée pour laquelle elle l'habilite à prendre les décisions mentionnées au 1°.
+3° La durée pour laquelle elle l'habilite à prendre les décisions mentionnées au 1°. 
 
-La décision de création d'une commission spécialisée est publiée au Journal officiel de la République française.
+La décision de création d'une commission spécialisée est publiée au Journal officiel de la République française. 
 
-II. - 1° La commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité,
-mentionnée à l'article L. 310-12-1, comprend, outre le président de la commission de contrôle, cinq de ses membres au moins.
+II.-1° La commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité,
+mentionnée à l'article L. 310-12-1, comprend, outre le président de l'Autorité de contrôle, cinq de ses membres au moins. 
 
 Elle est saisie de toute question concernant ces organismes, notamment par l'autorité administrative chargée du contrôle au
-niveau régional agissant dans le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualité.
+niveau régional agissant dans le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualité. 
 
 Par dérogation aux dispositions du I, cette commission spécialisée est habilitée à prononcer à l'encontre des mutuelles
 régies par le livre III du code de la mutualité et selon les modalités définies aux articles R. 510-11, R. 510-12 et R.
-510-13 du même code, les sanctions prévues à l'article L. 510-11 de ce code.
+510-13 du même code, les sanctions prévues à l'article L. 510-11 de ce code. 
 
-Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant la commission de contrôle.
+Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant l'Autorité de contrôle. 
 
 2° Lorsqu'elle se réunit en formation consultative, cette commission spécialisée peut s'adjoindre des personnalités reconnues
 pour leur expérience dans les domaines de la sécurité sociale, de la prévoyance et de la gestion de structures de soins. Elle
 peut notamment donner des avis ou faire des recommandations sur les relations entre les régimes de base de sécurité sociale
 et les organismes relevant de sa compétence. Réunie en formation consultative, elle ne peut prononcer de décisions de portée
-individuelle.
+individuelle. 
 
-III. - 1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de la
-commission de contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses
-membres sont présents.
+III.-1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de l'Autorité de
+contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses membres sont
+présents. 
 
-Les commissaires du Gouvernement peuvent assister aux réunions des commissions spécialisées.
+Les commissaires du Gouvernement peuvent assister aux réunions des commissions spécialisées. 
 
 2° Il est établi un procès-verbal des délibérations de la commission spécialisée. Mention y est faite du nom des membres
-présents. Le procès-verbal est soumis à l'approbation de la commission spécialisée.
+présents. Le procès-verbal est soumis à l'approbation de la commission spécialisée. 
 
-Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de la
-commission de contrôle et des commissaires du Gouvernement.
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de
+l'Autorité de contrôle et des commissaires du Gouvernement. 
 
-Le président rend compte à la plus prochaine réunion de la commission de contrôle des décisions adoptées par chaque
-commission spécialisée.
+Le président rend compte à la plus prochaine réunion de l'Autorité de contrôle des décisions adoptées par chaque commission
+spécialisée. 
 
 3° Une décision d'une commission spécialisée est exécutoire sauf si l'un de ses membres ou un commissaire du Gouvernement
-demande, au cours de la séance, que la décision soit renvoyée à la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance."
+demande, au cours de la séance, que la décision soit renvoyée à l'Autorité de contrôle des assurances et des mutuelles. " 
 
-"Art. R. 310-12-1. - Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de la
-commission de contrôle pour demander une deuxième délibération."
+" Art.R. 310-12-1.-Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de
+l'Autorité de contrôle pour demander une deuxième délibération. "
 
 **Liens relatifs à cet article**
 
@@ -15539,253 +15886,269 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-1-2
 
-Le régime budgétaire et comptable de la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance mentionnée à l'article L. 510-1, ainsi que les dispositions relatives à son personnel sont fixés par les articles
-R. 310-12-2 à R. 310-12-10 du code des assurances, ci-après reproduits :
+Le régime budgétaire et comptable de l'Autorité de contrôle des assurances et des mutuelles mentionnée à l'article L. 510-1,
+ainsi que les dispositions relatives à son personnel sont fixés par les articles R. 310-12-2 à R. 310-12-10 du code des
+assurances, ci-après reproduits : 
 
-"Art. R. 310-12-2. - Sur proposition du secrétaire général et dans le cadre des dispositions mentionnées aux articles L.
-310-12-3 et L. 310-12-4, la commission de contrôle délibère sur :
+" Art.R. 310-12-2.-Sur proposition du secrétaire général et dans le cadre des dispositions mentionnées aux articles L.
+310-12-3 et L. 310-12-4, l'Autorité de contrôle délibère sur : 
 
-1° Le budget annuel et ses modifications en cours d'année ;
+1° Le budget annuel et ses modifications en cours d'année ; 
 
-2° Le compte financier et l'affectation des résultats ;
+2° Le compte financier et l'affectation des résultats ; 
 
 3° Le règlement comptable et financier, qui est transmis aux ministres chargés de l'économie, de la sécurité sociale et de la
-mutualité ;
+mutualité ; 
 
-4° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
+4° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ; 
 
-5° Les conditions générales de passation des contrats, conventions et marchés ;
+5° Les conditions générales de passation des contrats, conventions et marchés ; 
 
-6° Les conditions générales d'emploi des fonds disponibles, de placement des réserves ;
+6° Les conditions générales d'emploi des fonds disponibles, de placement des réserves ; 
 
-7° Les acquisitions, échanges et aliénations de biens immobiliers ;
+7° Les acquisitions, échanges et aliénations de biens immobiliers ; 
 
-8° Les emprunts ;
+8° Les emprunts ; 
 
-9° Les transactions au-delà d'un montant qu'il fixe, sur proposition du secrétaire général ;
+9° Les transactions au-delà d'un montant qu'il fixe, sur proposition du secrétaire général ; 
 
-10° Les dons et legs."
+10° Les dons et legs. " 
 
-"Art. R. 310-12-3. - Sans préjudice des compétences du président, le secrétaire général représente la commission de contrôle
-dans tous les actes de la vie civile.
+" Art.R. 310-12-3.-Sans préjudice des compétences du président, le secrétaire général représente l'Autorité de contrôle dans
+tous les actes de la vie civile. 
 
-Il est ordonnateur des recettes et des dépenses.
+Il est ordonnateur des recettes et des dépenses. 
 
-Dans le cadre des règles générales fixées par la commission en vertu de l'article R. 310-12-2, il a qualité pour :
+Dans le cadre des règles générales fixées par l'Autorité en vertu de l'article R. 310-12-2, il a qualité pour : 
 
-1° Liquider et ordonnancer les recettes et les dépenses ;
+1° Liquider et ordonnancer les recettes et les dépenses ; 
 
-2° Tenir la comptabilité des engagements de dépense, dans les conditions définies par le règlement comptable et financier ;
+2° Tenir la comptabilité des engagements de dépense, dans les conditions définies par le règlement comptable et financier ; 
 
-3° Gérer les disponibilités et décider des placements ;
+3° Gérer les disponibilités et décider des placements ; 
 
-4° Passer au nom de la commission tous contrats, conventions et marchés, et décider des prises ou cessions à bail de biens
-immobiliers ;
+4° Passer au nom de l'Autorité tous contrats, conventions et marchés, et décider des prises ou cessions à bail de biens
+immobiliers ; 
 
 5° Engager, gérer et licencier le personnel à l'égard duquel il exerce la compétence de l'employeur et en fixer les
-rémunérations et les indemnités ;
+rémunérations et les indemnités ; 
 
 6° Prendre toutes les mesures conservatoires et exercer toutes les actions en justice dans les matières relevant de sa
-compétence propre ;
+compétence propre ; 
 
 7° Fixer le régime des indemnités de mission et de déplacement des personnels à l'égard duquel il exerce la compétence de
-l'employeur.
+l'employeur. 
 
-Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de la commission dans les
-conditions fixées par les articles 2044 à 2058 du code civil.
+Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de l'Autorité dans les
+conditions fixées par les articles 2044 à 2058 du code civil. 
 
 Un secrétaire général adjoint, placé sous l'autorité du secrétaire général, est nommé parmi les membres du corps de
 l'inspection générale des affaires sociales par arrêté conjoint des ministres chargés des finances, de la sécurité sociale et
-de la mutualité pris après avis de la commission.
+de la mutualité pris après avis de l'Autorité. 
 
 Le secrétaire général peut déléguer sa signature au secrétaire général adjoint en toute matière, à l'exclusion des
 compétences qu'il détient, le cas échéant, en sa qualité de chef du corps des commissaires contrôleurs des assurances. Il
 peut également déléguer sa signature à tout autre agent du secrétariat général, dans des matières et des limites qu'il
-détermine.
+détermine. 
 
-Le secrétaire général peut nommer un second secrétaire général adjoint."
+Le secrétaire général peut nommer un second secrétaire général adjoint. " 
 
-"Art. R. 310-12-4. - L'exercice comptable débute le 1er janvier et s'achève le 31 décembre.
+" Art.R. 310-12-4.-L'exercice comptable débute le 1er janvier et s'achève le 31 décembre.
 
-La commission de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
-recettes attendues et des dépenses nécessitées par la commission pour l'exercice de ses missions. Il peut être modifié en
-cours d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif.
+L'Autorité de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
+recettes attendues et des dépenses nécessitées par l'Autorité pour l'exercice de ses missions. Il peut être modifié en cours
+d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif. 
 
-Les délibérations de la commission de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
-l'issue du délai dont disposent les commissaires du Gouvernement pour demander une seconde délibération."
+Les délibérations de l'Autorité de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
+l'issue du délai dont disposent les commissaires du Gouvernement pour demander une seconde délibération. " 
 
-"Art. R.310-12-5. - I. - La commission de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du
-budget. L'agent comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de
+" Art.R. 310-12-5.-I.-L'Autorité de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du
+budget.L'agent comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de
 finances pour 1963 (n° 63-156 du 23 février 1963) et du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à
-l'apurement des débets des comptables publics et assimilés.
+l'apurement des débets des comptables publics et assimilés. 
 
-Il est chargé :
+Il est chargé : 
 
-a) De la tenue des comptabilités de la commission de contrôle ;
+a) De la tenue des comptabilités de l'Autorité de contrôle ; 
 
 b) Du recouvrement de la contribution pour frais de contrôle instituée à l'article L. 310-12-4, sans préjudice des
-dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de la commission de
-contrôle ;
+dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de l'Autorité de
+contrôle ; 
 
-c) Du paiement des dépenses et du maniement des fonds ainsi que des mouvements de comptes de disponibilités.
+c) Du paiement des dépenses et du maniement des fonds ainsi que des mouvements de comptes de disponibilités. 
 
 Avec l'accord du secrétaire général, il peut confier sous son contrôle la comptabilité analytique et la comptabilité matière
-aux services de la commission de contrôle.
+aux services de l'Autorité de contrôle.
 
-L'agent comptable peut nommer des mandataires qui sont agréés par le secrétaire général.
+L'agent comptable peut nommer des mandataires qui sont agréés par le secrétaire général. 
 
-II. - Les comptes de la commission de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
-l'objet d'adaptations proposées par le secrétaire général et approuvées par le ministre chargé du budget.
+II.-Les comptes de l'Autorité de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
+l'objet d'adaptations proposées par le secrétaire général et approuvées par le ministre chargé du budget. 
 
 Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des inventaires sont fixés par le règlement
 comptable et financier.
 
 L'agent comptable établit un compte financier au terme de chaque exercice. Le compte financier comprend le compte de
 résultat, le bilan, l'annexe, la balance générale des comptes à la clôture de l'exercice, le tableau de rapprochement des
-prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux.
+prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux. 
 
-Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à la commission de contrôle qui
-entend l'agent comptable. Le compte financier est arrêté par la commission de contrôle. Il est transmis à la Cour des comptes
-par le secrétaire général, accompagné des délibérations de la commission relatives au budget, à ses modifications et au
-compte financier, et de tous les autres documents demandés par les ministres ou par la Cour dans les quatre mois qui suivent
-la clôture de l'exercice."
+Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à l'Autorité de contrôle qui entend
+l'agent comptable. Le compte financier est arrêté par l'Autorité de contrôle. Il est transmis à la Cour des comptes par le
+secrétaire général, accompagné des délibérations de l'Autorité relatives au budget, à ses modifications et au compte
+financier, et de tous les autres documents demandés par les ministres ou par la Cour dans les quatre mois qui suivent la
+clôture de l'exercice. " 
 
-"Art. R. 310-12-6. - I. - L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources
-de la commission de contrôle. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des
-instructions du secrétaire général. A l'exception de la contribution mentionnée à l'article L. 310-12-4, dont le recouvrement
+" Art.R. 310-12-6.-I.-L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de
+l'Autorité de contrôle. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des
+instructions du secrétaire général.A l'exception de la contribution mentionnée à l'article L. 310-12-4, dont le recouvrement
 relève de la procédure de l'état exécutoire, l'agent comptable adresse aux débiteurs les factures correspondantes et reçoit
-leurs règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
+leurs règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice. 
 
-II. - Lorsque les créances de la commission de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont
-pu être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
+II.-Lorsque les créances de l'Autorité de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont pu
+être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
 d'états rendus exécutoires par le secrétaire général. Les états exécutoires peuvent être notifiés aux débiteurs par lettre
-recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
+recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente. 
 
-III. - L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du
+III.-L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du
 secrétaire général si la créance est l'objet d'un litige. Le secrétaire général suspend également les poursuites si, en
 accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que l'octroi d'un délai par l'agent comptable
-est conforme à l'intérêt de la commission de contrôle.
+est conforme à l'intérêt de l'Autorité de contrôle. 
 
-IV. - Le secrétaire général peut décider, après l'avis conforme de l'agent comptable :
+IV.-Le secrétaire général peut décider, après l'avis conforme de l'agent comptable : 
 
-1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de la commission de contrôle, sauf pour la
-contribution mentionnée à l'article L. 310-12-4 ;
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de l'Autorité de contrôle, sauf pour la
+contribution mentionnée à l'article L. 310-12-4 ; 
 
 2° Sur demande justifiée des débiteurs, d'accorder la remise totale ou partielle des majorations de retard ou des pénalités
-appliquées à la contribution mentionnée à l'article L. 310-12-4 ;
+appliquées à la contribution mentionnée à l'article L. 310-12-4 ; 
 
-3° Une admission en non-valeur des créances de la commission de contrôle, en cas d'irrecouvrabilité avérée ou d'insolvabilité
+3° Une admission en non-valeur des créances de l'Autorité de contrôle, en cas d'irrecouvrabilité avérée ou d'insolvabilité
 des débiteurs.
 
-La commission de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou 2° est soumise à son
-approbation.
+L'Autorité de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou 2° est soumise à son
+approbation. 
 
 Lorsque la remise gracieuse totale ou partielle concerne une dette de l'agent comptable, l'avis conforme prévu par l'article
 8 du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement des débets des comptables publics et
-assimilés est rendu par la commission de contrôle."
+assimilés est rendu par l'Autorité de contrôle. " 
 
-"Art. R. 310-12-7. - I. - Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se
-rattachent. Les dépenses de la commission de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire
+" Art.R. 310-12-7.-I.-Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se
+rattachent. Les dépenses de l'Autorité de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire
 général ou après avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés de pièces justificatives
-nécessaires, et notamment des factures, mémoires, marchés, baux ou conventions. L'acceptation de la dépense revêt la forme
+nécessaires, et notamment des factures, mémoires, marchés, baux ou conventions.L'acceptation de la dépense revêt la forme
 soit d'une mention datée et signée apposée sur le mémoire, la facture ou toute autre pièce en tenant lieu, soit d'un
 certificat séparé d'exécution de service, l'une ou l'autre précisant que le règlement peut être valablement opéré pour la
-somme indiquée.
+somme indiquée. 
 
-II. - L'agent comptable peut payer sans ordonnancement préalable, ou avant service fait, certaines catégories de dépenses
-dans les conditions prévues par le règlement comptable et financier.
+II.-L'agent comptable peut payer sans ordonnancement préalable, ou avant service fait, certaines catégories de dépenses dans
+les conditions prévues par le règlement comptable et financier. 
 
-III. - La liste des pièces justificatives de recettes et de dépenses est préparée par l'agent comptable et proposée par le
+III.-La liste des pièces justificatives de recettes et de dépenses est préparée par l'agent comptable et proposée par le
 secrétaire général à l'agrément du ministre chargé du budget. En cas de perte, destruction ou vol des justifications remises
 à l'agent comptable, le ministre chargé du budget peut autoriser ce dernier à pourvoir à leur remplacement. Les pièces
 justificatives sont conservées dans les archives de l'agent comptable pendant dix ans au moins à partir de la date de clôture
-de l'exercice auquel elles se rapportent.
+de l'exercice auquel elles se rapportent. 
 
-IV. - L'agent comptable suspend le paiement des dépenses lorsqu'il constate, à l'occasion de l'exercice de ses contrôles, des
+IV.-L'agent comptable suspend le paiement des dépenses lorsqu'il constate, à l'occasion de l'exercice de ses contrôles, des
 irrégularités ou que les certifications délivrées par le secrétaire général sont inexactes. Il en informe le secrétaire
-général.
+général. 
 
 Lorsque l'agent comptable a suspendu le paiement des dépenses, le secrétaire général peut, par écrit et sous sa
-responsabilité, requérir l'agent comptable de payer. L'agent comptable défère à la réquisition et rend compte au ministre
-chargé du budget qui transmet l'ordre de réquisition à la Cour des comptes.
+responsabilité, requérir l'agent comptable de payer.L'agent comptable défère à la réquisition et rend compte au ministre
+chargé du budget qui transmet l'ordre de réquisition à la Cour des comptes. 
 
 Par dérogation aux dispositions du deuxième alinéa, l'agent comptable doit refuser de déférer à l'ordre de réquisition
-lorsque la suspension du paiement est motivée par :
+lorsque la suspension du paiement est motivée par : 
 
-1° L'absence de justification du service fait ;
+1° L'absence de justification du service fait ; 
 
-2° Le caractère non libératoire du règlement ;
+2° Le caractère non libératoire du règlement ; 
 
-3° Le manque de fonds disponibles.
+3° Le manque de fonds disponibles. 
 
-Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget."
+Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget. " 
 
-"Art. R. 310-12-8. - Des régies de recettes et de dépenses peuvent être créées auprès de la commission de contrôle par
-décision du secrétaire général sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du
-20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics et celles fixées par le
-règlement comptable et financier."
+" Art.R. 310-12-8.-Des régies de recettes et de dépenses peuvent être créées auprès de l'Autorité de contrôle par décision du
+secrétaire général sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du 20 juillet
+1992 relatif aux régies de recettes et aux régies d'avances des organismes publics et celles fixées par le règlement
+comptable et financier. " 
 
-"Art. R. 310-12-9. - La commission de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un
+" Art.R. 310-12-9.-L'Autorité de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un
 établissement du secteur bancaire mentionné au titre Ier du livre V du code monétaire et financier. Des comptes bancaires à
-l'étranger peuvent être ouverts sur autorisation de la commission. Les fonds de la commission peuvent donner lieu à
-rémunération et faire l'objet de placements selon les conditions générales définies par elle."
+l'étranger peuvent être ouverts sur autorisation de l'Autorité. Les fonds de l'Autorité peuvent donner lieu à rémunération et
+faire l'objet de placements selon les conditions générales définies par elle. " 
 
-"Art. R. 310-12-10. - Les comptes de l'agent comptable de la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est
-également assuré par le receveur général des finances."
+" Art.R. 310-12-10.-Les comptes de l'agent comptable de l'Autorité de contrôle des assurances et des mutuelles sont jugés
+directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le receveur
+général des finances. " 
 
-"Art. R. 310-12-11. - La commission de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991
+" Art.R. 310-12-11.-L'Autorité de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991
 relative à la transparence et à la régularité des procédures de marchés et soumettant la passation de certains contrats à des
-règles de publicité et de mise en concurrence".
+règles de publicité et de mise en concurrence ". 
 
-"Sous-section 3
+" Sous-section 3 
 
-"Personnel
+" Personnel 
 
-"Art. R. 310-12-12. - Les fonctionnaires mis à la disposition de la commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance en application de l'article L. 310-12-1 du code des assurances sont placés dans l'une des
-positions prévues à l'article 32 de la loi n° 84-16 du 11 janvier 1984, sans que l'effectif placé en position de mise à
-disposition ne puisse dépasser 15 % de l'effectif global de la commission. La durée de mise à disposition d'un agent auprès
-de la commission ne peut dépasser trois ans.
+" Art.R. 310-12-12.-Les fonctionnaires mis à la disposition de l'Autorité de contrôle des assurances et des mutuelles en
+application de l'article L. 310-12-1 du code des assurances sont placés dans l'une des positions prévues à l'article 32 de la
+loi n° 84-16 du 11 janvier 1984, sans que l'effectif placé en position de mise à disposition ne puisse dépasser 15 % de
+l'effectif global de l'Autorité. La durée de mise à disposition d'un agent auprès de l'Autorité ne peut dépasser trois ans. 
 
-Des militaires et magistrats peuvent être mis à la disposition de la commission dans les mêmes conditions, selon les
-modalités prévues par leurs statuts respectifs.
+Des militaires et magistrats peuvent être mis à la disposition de l'Autorité dans les mêmes conditions, selon les modalités
+prévues par leurs statuts respectifs. 
 
-Les agents contractuels de droit public recrutés par la commission peuvent être employés pour une durée déterminée ou
+Les agents contractuels de droit public recrutés par l'Autorité peuvent être employés pour une durée déterminée ou
 indéterminée.
 
-La commission peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un
-autre employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un
-autre employeur public. Ces mises à disposition font l'objet d'une convention conclue entre la commission et l'autre
-employeur."
+L'Autorité peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un autre
+employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un autre
+employeur public. Ces mises à disposition font l'objet d'une convention conclue entre l'Autorité et l'autre employeur. "
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L510-1
-  - Code des assurances R310-12-2 à R310-12-10
+  - Code des assurances
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-10
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-2
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-3
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-4
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-5
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-6
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-7
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-8
+  - PILOTE_SUIVEUR: Code des assurances - art. R310-12-9
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
-#### Section 1 : Modalités de contrôle<a id=100></a>
+#### Section 1 : Modalités de contrôle.<a id=101></a>
 
 ###### Article R510-2
 
-Les agents mis, en vertu de l'article L. 951-4 du code de la sécurité sociale, à la disposition de la commission de contrôle
+Les agents mis, en vertu de l'article L. 951-4 du code de la sécurité sociale, à la disposition de l'Autorité de contrôle
 mentionnée à l'article L. 510-1, vérifient tous les livres, registres, règlements et bulletins d'adhésion, contrats,
 bordereaux, procès-verbaux, pièces comptables ou documents quelconques relatifs à la situation de la mutuelle ou de l'union
 de mutuelles et à toutes les opérations qu'elle pratique ; ils effectuent toutes vérifications de caisse et de portefeuille.
@@ -15797,62 +16160,76 @@ demandent, dans les établissements ou bureaux de la mutuelle ou de l'union, tou
 mentionnées à l'alinéa précédent, ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jugent
 nécessaires.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L510-1
-  - Code de la sécurité sociale. - art. L951-4 (M)
+  - Code de la sécurité sociale. - art. L951-4
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
 ###### Article R510-2-1
 
 En application des dispositions de l'article L. 510-6 du présent code, de l'article L. 310-19-1 du code des assurances ou de
-l'article L. 951-6-1 du code de la sécurité sociale, tout organisme soumis au contrôle de la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance doit faire connaître à cette commission le nom des commissaires
-aux comptes qu'il se propose de désigner.
+l'article L. 951-6-1 du code de la sécurité sociale, tout organisme soumis au contrôle de l'Autorité de contrôle des
+assurances et des mutuelles doit faire connaître à cette Autorité le nom des commissaires aux comptes qu'il se propose de
+désigner.
 
-Lorsqu'il informe la commission de contrôle de son intention de désigner comme commissaires aux comptes une société de
+Lorsqu'il informe l'Autorité de contrôle de son intention de désigner comme commissaires aux comptes une société de
 commissaires aux comptes constituée et inscrite selon les modalités prévues aux articles L. 823-1, L. 823-2 et L. 823-15 du
 code de commerce, la mutuelle ou l'union précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant,
-responsable de la mission au nom de cette entreprise. Il informe la commission de contrôle de toute modification ultérieure
-de cette situation.
+responsable de la mission au nom de cette entreprise. Il informe l'Autorité de contrôle de toute modification ultérieure de
+cette situation.
 
-La commission de contrôle dispose d'un délai de deux mois pour faire connaître à la mutuelle ou l'union son avis sur la
-proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de la commission
+L'Autorité de contrôle dispose d'un délai de deux mois pour faire connaître à la mutuelle ou l'union son avis sur la
+proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de l'Autorité
 est réputé favorable.
 
-Si la commission de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
+Si l'Autorité de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
 avec demande d'avis de réception adressée soit à la mutuelle ou l'union concernée, soit au commissaire aux comptes proposé.
-Dans ce dernier cas, la commission en informe la mutuelle ou l'union concernée et fixe dans sa demande d'informations
+Dans ce dernier cas, l'Autorité en informe la mutuelle ou l'union concernée et fixe dans sa demande d'informations
 complémentaires un délai de réponse, lequel ne peut être inférieur à un mois. Le délai prévu à l'alinéa précédent est alors
 suspendu jusqu'à la réception des informations complémentaires.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut également prendre en compte
-dans son appréciation les informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne
-responsable de la mission, qui lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange
-d'information en application de l'article L. 631-1 du code monétaire et financier.
+L'Autorité de contrôle des assurances et des mutuelles peut également prendre en compte dans son appréciation les
+informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne responsable de la mission, qui
+lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange d'information en application de
+l'article L. 631-1 du code monétaire et financier.
 
-L'avis de la commission de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le
-commissaire aux comptes proposé a été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec
-demande d'avis de réception à la mutuelle ou l'union concernée et au commissaire aux comptes proposé. Une copie de cette
-notification est adressée à la compagnie régionale dont est membre le commissaire aux comptes.
+L'avis de l'Autorité de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le commissaire
+aux comptes proposé a été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec demande
+d'avis de réception à la mutuelle ou l'union concernée et au commissaire aux comptes proposé. Une copie de cette notification
+est adressée à la compagnie régionale dont est membre le commissaire aux comptes.
 
-Les dirigeants de la mutuelle ou l'union communiquent l'avis de la commission de contrôle à l'organe compétent pour désigner
-les commissaires aux comptes.
+Les dirigeants de la mutuelle ou l'union communiquent l'avis de l'Autorité de contrôle à l'organe compétent pour désigner les
+commissaires aux comptes.
 
 L'avis défavorable ou assorti de réserves est motivé. Il peut notamment être fondé sur le fait que le commissaire aux comptes
 proposé ne présente pas toutes les garanties d'expérience, de compétence ou d'indépendance nécessaires à l'exercice de ses
 fonctions compte tenu de la personne responsable de la mission ou de la nature et des caractéristiques de l'activité de la
 mutuelle ou l'union concernée.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -15862,36 +16239,40 @@ mutuelle ou l'union concernée.
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 _Cite_:
 
-  - Code de commerce. - art. L823-1 (V)
-  - Code de commerce. - art. L823-15 (V)
-  - Code de commerce. - art. L823-2 (V)
+  - Code de commerce - art. L823-1
+  - Code de commerce - art. L823-15
+  - Code de commerce - art. L823-2
   - Code de la mutualité (nouveau) L510-6
-  - Code monétaire et financier - art. L631-1 (M)
-  - Code de la sécurité sociale. - art. L951-6-1 (M)
-  - Code des assurances - art. L310-19-1 (M)
+  - Code monétaire et financier - art. L631-1
+  - Code de la sécurité sociale. - art. L951-6-1
+  - Code des assurances - art. L310-19-1
 
 
-#### Section 2 : Mesures de sauvegarde et d'assainissement<a id=101></a>
+#### Section 2 : Mesures de sauvegarde et d'assainissement.<a id=102></a>
 
 ###### Article R510-3
 
-I. - Lorsque, en application de l'article L. 510-9, la commission de contrôle instituée à l'article L. 510-1 met une mutuelle
-ou une union sous surveillance spéciale, elle désigne un des agents mentionnés au troisième alinéa de l'article L. 951-4 du
-code de la sécurité sociale chargé d'exercer cette surveillance au sein de la mutuelle ou de l'union. Cet agent doit être
+I. - Lorsque, en application de l'article L. 510-9, l'Autorité de contrôle instituée à l'article L. 510-1 met une mutuelle ou
+une union sous surveillance spéciale, elle désigne un des agents mentionnés au troisième alinéa de l'article L. 951-4 du code
+de la sécurité sociale chargé d'exercer cette surveillance au sein de la mutuelle ou de l'union. Cet agent doit être
 immédiatement avisé de toute décision prise par le conseil d'administration ou la direction de la mutuelle ou de l'union. Il
-doit être tenu informé en permanence de l'élaboration du programme de rétablissement, du plan de redressement ou du plan de
-financement à court terme éventuellement exigé par la commission, se fait rendre compte de la mise en oeuvre des décisions et
-mesures et veille à leur exécution.
+doit être tenu informé en permanence de l'élaboration du programme de rétablissement, du plan de sauvegarde ou de
+redressement ou du plan de financement à court terme éventuellement exigé par l'Autorité, se fait rendre compte de la mise en
+oeuvre des décisions et mesures et veille à leur exécution.
 
-II. - Lorsqu'elle estime que les droits des membres participants, bénéficiaires et ayants droit sont menacés, la commission
-de contrôle peut exiger que lui soit soumis pour approbation, dans le délai d'un mois, un programme de rétablissement
-prévoyant toutes mesures propres à restaurer l'équilibre de la mutuelle ou union. Ce programme de rétablissement doit
-notamment comporter, pour les trois prochains exercices sociaux, une description détaillée des éléments suivants, et les
-justificatifs s'y rapportant :
+II. - Lorsqu'elle estime que les droits des membres participants, bénéficiaires et ayants droit sont menacés, l'Autorité de
+contrôle peut exiger que lui soit soumis pour approbation, dans le délai d'un mois, un programme de rétablissement prévoyant
+toutes mesures propres à restaurer l'équilibre de la mutuelle ou union. Ce programme de rétablissement doit notamment
+comporter, pour les trois prochains exercices sociaux, une description détaillée des éléments suivants, et les justificatifs
+s'y rapportant :
 
 a) Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ;
 
@@ -15918,7 +16299,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -15932,23 +16313,23 @@ _Cité par_:
 
 ###### Article R510-3-1
 
-I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, la commission de
+I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, l'Autorité de
 contrôle peut exiger d'une mutuelle ou union une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge
 mentionnée ou bien à l'article R. 212-12, ou bien à l'article R. 212-16, ou bien à l'article R. 212-19.
 
-Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par la commission de contrôle selon les modalités
+Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par l'Autorité de contrôle selon les modalités
 suivantes :
 
 a) Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité ont connu une baisse d'au moins 33 % au
 cours du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge constatée au cours des
-quatre exercices précédant le dernier exercice, la commission peut demander à la mutuelle ou union de satisfaire, pour
+quatre exercices précédant le dernier exercice, l'Autorité peut demander à la mutuelle ou union de satisfaire, pour
 l'exercice en cours, à une exigence de marge de solvabilité renforcée.
 
 Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale de marge
 mentionnée aux articles R. 212-12, R. 212-16 ou R. 212-19.
 
 b) Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de
-solvabilité, la commission peut :
+solvabilité, l'Autorité peut :
 
 - ou bien demander à la mutuelle ou union de satisfaire, pour l'exercice en cours, à une exigence de marge de solvabilité
 renforcée. Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale
@@ -15962,7 +16343,7 @@ constatée sur les actifs mentionnés à l'article R. 212-53 et non provisionné
 
 - ou bien mettre en oeuvre de manière appropriée une combinaison des mesures précédentes.
 
-II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, la commission de
+II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, l'Autorité de
 contrôle peut limiter la réduction de marge de solvabilité prévue aux articles R. 212-12, R. 212-16 ou R. 212-19 lorsque :
 
 - le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ;
@@ -15981,15 +16362,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-4
 
 Lorsque la marge de solvabilité d'une mutuelle ou d'une union n'atteint pas le montant fixé aux articles R. 212-12 et R.
-212-16, la commission de contrôle exige un plan de redressement qui doit être soumis à son approbation dans le délai d'un
-mois, sans préjudice de la mise en oeuvre des pouvoirs dont la commission dispose aux termes des articles L. 510-8, L. 510-9
-et L. 510-11.
+212-16, l'Autorité de contrôle exige un plan de sauvegarde ou de redressement qui doit être soumis à son approbation dans le
+délai d'un mois, sans préjudice de la mise en oeuvre des pouvoirs dont l'Autorité dispose aux termes des articles L. 510-8,
+L. 510-9 et L. 510-11.
 
 **Liens relatifs à cet article**
 
@@ -16007,13 +16388,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-5
 
 Lorsque la marge de solvabilité d'une mutuelle ou d'une union n'atteint pas le montant du fonds de garantie fixé aux articles
-R. 212-13 et R. 212-17 ou si ce fonds n'est pas constitué réglementairement, la commission de contrôle, sans préjudice de la
+R. 212-13 et R. 212-17 ou si ce fonds n'est pas constitué réglementairement, l'Autorité de contrôle, sans préjudice de la
 mise en oeuvre des pouvoirs dont elle dispose aux termes des articles L. 510-8, L. 510-9 et L. 510-11, exige un plan de
 financement à court terme qui, à compter de la date à laquelle il est exigé, doit être soumis à son approbation dans un délai
 d'un mois.
@@ -16034,15 +16415,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-6
 
-Lorsqu'elle met en oeuvre les mesures mentionnées au troisième alinéa de l'article L. 510-9, la commission de contrôle en
+Lorsqu'elle met en oeuvre les mesures mentionnées au troisième alinéa de l'article L. 510-9, l'Autorité de contrôle en
 avertit immédiatement la mutuelle ou l'union concernée et dispose dès lors d'un délai de trois mois pour faire connaître sa
 décision de lever ou confirmer ces mesures. Pendant cette période de trois mois, les responsables de la mutuelle ou de
 l'union sont mis à même d'être entendus. Ils peuvent se faire assister ou représenter.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16056,12 +16442,16 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
 ###### Article R510-7
 
-Lorsque, conformément aux dispositions du troisième alinéa de l'article L. 510-9, la commission de contrôle désigne un
+Lorsque, conformément aux dispositions du troisième alinéa de l'article L. 510-9, l'Autorité de contrôle désigne un
 administrateur provisoire auprès d'une mutuelle ou d'une union, elle désigne simultanément un des agents mentionnés à
 l'article L. 951-4 du code de la sécurité sociale pour exercer auprès de la mutuelle ou de l'union les pouvoirs mentionnés au
 I de l'article R. 510-3.
@@ -16079,13 +16469,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-8
 
-I. - Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement définies à l'article L. 212-27, la commission
-de contrôle mentionnée à l'article L. 510-1 :
+I. - Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement définies à l'article L. 212-27, l'Autorité de
+contrôle mentionnée à l'article L. 510-1 :
 
 1° En informe d'urgence les autorités compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord
 sur l'Espace économique européen ;
@@ -16098,8 +16488,8 @@ Elle indique également la législation qui est applicable à ces mesures d'assa
 
 Cette publication n'est pas requise lorsque les mesures d'assainissement affectent exclusivement les droits des membres
 adhérents, des membres participants et des membres honoraires lorsqu'ils sont responsables de la gestion de la mutuelle ou de
-l'union de mutuelles, ou des employés de celles-ci considérés en tant que tels. Dans ce cas, la commission de contrôle prend
-les dispositions nécessaires à une information rapide des seuls intéressés ;
+l'union de mutuelles, ou des employés de celles-ci considérés en tant que tels. Dans ce cas, l'Autorité de contrôle prend les
+dispositions nécessaires à une information rapide des seuls intéressés ;
 
 3° Notifie sa décision aux créanciers connus dans les conditions définies à l'article R. 211-15-1. Lorsqu'un administrateur
 provisoire a été nommé, il lui appartient de procéder à cette notification.
@@ -16116,31 +16506,30 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 2005-01-05 art. 2 I, III JORF 7 janvier 2005
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R510-9
 
 Lorsqu'elle est amenée à restreindre ou interdire la libre disposition de tout ou partie des actifs d'une mutuelle ou d'une
-union, la commission de contrôle peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou
-dépositaire de refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à la mutuelle ou à
-l'union intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de
-ces opérations au visa préalable d'un des agents mentionnés à l'article L. 951-4 du code de la sécurité sociale ou de toute
+union, l'Autorité de contrôle peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou dépositaire
+de refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à la mutuelle ou à l'union
+intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de ces
+opérations au visa préalable d'un des agents mentionnés à l'article L. 951-4 du code de la sécurité sociale ou de toute
 personne qu'elle accréditera à cet effet.
 
-La commission peut, en outre, faire inscrire sur les immeubles de la mutuelle ou de l'union l'hypothèque mentionnée à
-l'article L. 212-24 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la
-transcription de tous actes, l'inscription de toute hypothèque portant sur les immeubles appartenant à la mutuelle ou à
-l'union, ainsi que la radiation d'hypothèque consentie par un tiers au profit de la mutuelle ou de l'union.
+L'Autorité peut, en outre, faire inscrire sur les immeubles de la mutuelle ou de l'union l'hypothèque mentionnée à l'article
+L. 212-24 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de
+tous actes, l'inscription de toute hypothèque portant sur les immeubles appartenant à la mutuelle ou à l'union, ainsi que la
+radiation d'hypothèque consentie par un tiers au profit de la mutuelle ou de l'union.
 
-La commission peut exiger le dépôt à la Caisse des dépôts et consignations des grosses des prêts hypothécaires consentis par
+L'Autorité peut exiger le dépôt à la Caisse des dépôts et consignations des grosses des prêts hypothécaires consentis par
 ladite mutuelle ou union.
 
-La commission peut également exiger que tous les fonds, titres et valeurs détenus ou possédés par la mutuelle ou l'union
-soient, dans les délais et conditions qu'elle fixe, transférés à la Banque de France ou à la Caisse des dépôts et
-consignations pour y être déposés sur un compte bloqué. Ce compte ne pourra être débité sur ordre de son titulaire que sur
-autorisation expresse de la commission ou de toute personne désignée par elle, et seulement pour un montant déterminé.
+L'Autorité peut également exiger que tous les fonds, titres et valeurs détenus ou possédés par la mutuelle ou l'union soient,
+dans les délais et conditions qu'elle fixe, transférés à la Banque de France ou à la Caisse des dépôts et consignations pour
+y être déposés sur un compte bloqué. Ce compte ne pourra être débité sur ordre de son titulaire que sur autorisation expresse
+de l'Autorité ou de toute personne désignée par elle, et seulement pour un montant déterminé.
 
 Les dirigeants de la mutuelle ou de l'union qui n'effectuent pas le transfert mentionné à l'alinéa précédent sont passibles
 des sanctions prévues à l'article R. 510-19.
@@ -16158,8 +16547,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 2005-01-05 art. 2 I, II JORF 7 janvier 2005
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -16168,8 +16556,13 @@ _Cité par_:
 
 ###### Article R510-10
 
-Si les circonstances l'exigent, la commission de contrôle peut ordonner à une mutuelle ou à une union de suspendre le
-paiement des valeurs de rachat ou le versement d'avances sur les bulletins d'adhésion ou contrats collectifs.
+Si les circonstances l'exigent, l'Autorité de contrôle peut ordonner à une mutuelle ou à une union de suspendre le paiement
+des valeurs de rachat ou le versement d'avances sur les bulletins d'adhésion ou contrats collectifs.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16179,7 +16572,11 @@ paiement des valeurs de rachat ou le versement d'avances sur les bulletins d'adh
 
 _Modifié par_:
 
-  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
 ###### Article R510-10-1
@@ -16198,33 +16595,38 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-244 du 14 mars 2005 - art. 3 () JORF 18 mars 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
-#### Section 3 : Procédure disciplinaire<a id=102></a>
+#### Section 3 : Procédure disciplinaire.<a id=103></a>
 
 ###### Article R510-11
 
-Lorsque la commission de contrôle saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par ses
+Lorsque l'Autorité de contrôle saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par ses
 services, décide de l'ouverture d'une procédure de sanction dans le cadre de l'article L. 510-11 du présent code, des
 articles L. 310-18 et L. 310-18-1 du code des assurances ou de l'article L. 951-10 du code de la sécurité sociale, la
 notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception, remise en main propre contre
 récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport d'enquête.
 
-La personne mise en cause transmet ses observations écrites au président de la commission dans un délai de quinze jours. La
+La personne mise en cause transmet ses observations écrites au président de l'Autorité dans un délai de quinze jours. La
 notification des griefs mentionne ce délai et précise que la personne mise en cause peut prendre connaissance et copie des
-autres pièces du dossier auprès de la commission et se faire assister ou représenter par tout conseil de son choix.
+autres pièces du dossier auprès de l'Autorité et se faire assister ou représenter par tout conseil de son choix.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L510-11
-  - Code de la sécurité sociale. - art. L951-10 (M)
-  - Code des assurances - art. L310-18 (M)
-  - Code des assurances - art. L310-18-1 (M)
+  - Code de la sécurité sociale. - art. L951-10
+  - Code des assurances - art. L310-18
+  - Code des assurances - art. L310-18-1
 
 **Liens**:
 
@@ -16232,7 +16634,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 _Cité par_:
 
@@ -16242,9 +16648,14 @@ _Cité par_:
 
 ###### Article R510-12
 
-La commission de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise
-en main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
+L'Autorité de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise en
+main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
 l'expiration du délai mentionné à l'article R. 510-12.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16258,7 +16669,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 _Cité par_:
 
@@ -16274,27 +16689,32 @@ susceptible de porter atteinte au secret des affaires ou tout autre secret prot�
 
 Le président assure la police de la séance.
 
-II. - Lors de la séance, un membre des services de la commission de contrôle, désigné par le secrétaire général, présente
-l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la commission
+II. - Lors de la séance, un membre des services de l'Autorité de contrôle, désigné par le secrétaire général, présente
+l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de l'Autorité
 participant à la séance peuvent présenter des observations. La personne mise en cause et, le cas échéant, son conseil
 présentent sa défense. Le président dirige les débats. Il peut faire entendre toute personne dont il estime l'audition utile.
 Dans tous les cas, la personne mise en cause et, le cas échéant, son conseil doit pouvoir prendre la parole en dernier.
-Lorsque la commission s'estime insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
+Lorsque l'Autorité s'estime insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
 
-III. - La commission de contrôle statue en la seule présence de ses membres et d'un membre des services faisant office de
-secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la
-commission de contrôle n'assistent pas aux délibérés.
+III. - L'Autorité de contrôle statue en la seule présence de ses membres et d'un membre des services faisant office de
+secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de
+l'Autorité de contrôle n'assistent pas aux délibérés.
 
 IV. - Il est établi un procès-verbal de la séance par le secrétaire de séance. Le procès-verbal est signé par le président
-puis transmis aux membres de la commission et aux commissaires du Gouvernement.
+puis transmis aux membres de l'Autorité et aux commissaires du Gouvernement.
 
 V. - La décision, signée par le président, est notifiée à la personne concernée par lettre recommandée avec demande d'avis de
 réception, remise en main propre contre récépissé ou exploit d'huissier. Elle est communiquée aux commissaires du
 Gouvernement.
 
-VI. - Le cas échéant, la commission peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
+VI. - Le cas échéant, l'Autorité peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
 laquelle une sanction a été prononcée. La rémunération des huissiers de justice intervenant au titre du présent décret est
-tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure pénale.
+tarifiée comme prévu par les articles R. 181 à R. 184 du code de procédure pénale.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16304,11 +16724,15 @@ tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure p�
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 _Cite_:
 
-  - Code de procédure pénale R181 à R184
+  - Code de procédure pénale
 
 _Cité par_:
 
@@ -16322,6 +16746,11 @@ Lorsque la notification est remise par huissier de justice, celui-ci doit faire 
 délivrance de l'acte à la personne même du destinataire et lui en remettre copie. L'huissier procède ainsi qu'il est spécifié
 aux articles 555 à 563 du code de procédure pénale.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 **Liens**:
@@ -16330,19 +16759,28 @@ aux articles 555 à 563 du code de procédure pénale.
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 _Cite_:
 
-  - Code de procédure pénale 555 à 563
+  - Code de procédure pénale
 
 
 ###### Article R510-15
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est dispensée du ministère d'avocat
-devant la juridiction administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires,
-lorsqu'ils ne sont pas présentés par le ministère d'un avocat, sont signés par le président de ladite commission en
-application des dispositions du dix-septième alinéa de l'article L. 510-1-1 du présent code.
+L'Autorité de contrôle des assurances et des mutuelles est dispensée du ministère d'avocat devant la juridiction
+administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires, lorsqu'ils ne sont pas
+présentés par le ministère d'un avocat, sont signés par le président de ladite Autorité en application des dispositions du
+dix-septième alinéa de l'article L. 510-1-1 du présent code.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16356,39 +16794,43 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
-#### Section 4 : Notification de l'exercice d'activités en libre prestation de services<a id=103></a>
+#### Section 4 : Notification de l'exercice d'activités en libre prestation de services.<a id=104></a>
 
 ###### Article R510-16
 
 I. - Toute mutuelle ou union dont les activités sont régies par le livre II projetant d'ouvrir une succursale ou d'exercer
 des activités en libre prestation de services, conformément aux dispositions du troisième alinéa de l'article L. 510-3,
-notifie son projet à la commission de contrôle, accompagné des documents dont la liste est fixée par arrêté du ministre
-chargé de la mutualité.
+notifie son projet à l'Autorité de contrôle, accompagné des documents dont la liste est fixée par arrêté du ministre chargé
+de la mutualité.
 
-Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
-compétentes de l'Etat membre de prestation de services, dans le délai d'un mois suivant la notification mentionnée au premier
-alinéa du présent paragraphe, un dossier dont la composition est fixée par arrêté du ministre chargé de la mutualité et avise
-la mutuelle ou l'union de cette communication. La mutuelle ou l'union peut commencer son activité en liberté d'établissement
-ou en libre prestation de services dès qu'elle en a été avisée.
+Si l'Autorité estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités compétentes
+de l'Etat membre de prestation de services, dans le délai d'un mois suivant la notification mentionnée au premier alinéa du
+présent paragraphe, un dossier dont la composition est fixée par arrêté du ministre chargé de la mutualité et avise la
+mutuelle ou l'union de cette communication. La mutuelle ou l'union peut commencer son activité en liberté d'établissement ou
+en libre prestation de services dès qu'elle en a été avisée.
 
-Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par la commission
-de contrôle, d'un dossier complet. Il est de trois mois pour l'établissement d'une succursale et de un mois pour un exercice
-en libre prestation de services.
+Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par l'Autorité de
+contrôle, d'un dossier complet. Il est de trois mois pour l'établissement d'une succursale et de un mois pour un exercice en
+libre prestation de services.
 
 II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
 libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 510-3 est notifié à
-la commission de contrôle.
+l'Autorité de contrôle.
 
-Si la commission estime que les conditions mentionnées à ce même alinéa sont toujours remplies, elle communique aux autorités
+Si l'Autorité estime que les conditions mentionnées à ce même alinéa sont toujours remplies, elle communique aux autorités
 compétentes de l'Etat membre de prestations de services, dans le délai d'un mois suivant la notification mentionnée à
 l'alinéa précédent, un dossier dont la composition est fixée par arrêté du ministre chargé de la mutualité et avise la
 mutuelle ou l'union concernée de cette communication. La modification envisagée peut intervenir dès réception de cet avis par
 la mutuelle ou l'union.
 
-III. - Lorsque la commission de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
+III. - Lorsque l'Autorité de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
 informations visées au deuxième alinéa du I et du II du présent article, elle en avise la mutuelle ou l'union concernée et
 lui fait connaître, dans les délais mentionnés au troisième alinéa du I et au deuxième alinéa du II, les raisons de ce refus.
 
@@ -16408,7 +16850,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -16416,18 +16858,23 @@ _Cité par_:
   - Code de la mutualité - art. A510-2 (Ab)
 
 
-### Chapitre II : Déconcentration du contrôle.<a id=104></a>
+### Chapitre II : Déconcentration du contrôle.<a id=105></a>
 
 ###### Article R510-18
 
 Le contrôle des mutuelles et des unions mentionnées au premier alinéa de l'article L. 510-2 est exercé par le préfet de
 région où est établi le siège de la mutuelle ou de l'union. Les attributions et pouvoirs du préfet de région à l'égard de ces
-mutuelles ou unions sont ceux qui sont conférés à la commission de contrôle par les articles L. 510-1 à L. 510-10.
+mutuelles ou unions sont ceux qui sont conférés à l'Autorité de contrôle par les articles L. 510-1 à L. 510-10.
 
-Afin de mettre la commission de contrôle en mesure d'exercer, le cas échéant, son pouvoir d'évocation, le préfet l'informe
+Afin de mettre l'Autorité de contrôle en mesure d'exercer, le cas échéant, son pouvoir d'évocation, le préfet l'informe
 régulièrement des opérations de contrôle qu'il entreprend. Il l'informe notamment de toute mise en oeuvre des dispositions
-contenues dans les articles L. 510-7 à L. 510-10. Il peut en outre proposer à ladite commission d'engager à l'encontre d'une
+contenues dans les articles L. 510-7 à L. 510-10. Il peut en outre proposer à ladite Autorité d'engager à l'encontre d'une
 mutuelle ou d'une union la procédure disciplinaire prévue à l'article L. 510-11.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -16439,12 +16886,16 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 
-### Chapitre III : Dispositions pénales.<a id=105></a>
+### Chapitre III : Dispositions pénales.<a id=106></a>
 
 ###### Article R510-19
 
@@ -16484,13 +16935,13 @@ _Cité par_:
   - Code de la mutualité - art. R510-9 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=106></a>
+# Partie réglementaire - Décrets simples<a id=107></a>
 
-## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=107></a>
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=108></a>
 
-### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=108></a>
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=109></a>
 
-#### Section 3 : Assemblée générale.<a id=109></a>
+#### Section 3 : Assemblée générale.<a id=110></a>
 
 ###### Article D114-1
 
@@ -16646,7 +17097,7 @@ _Créé par_:
   - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
 
 
-#### Section 6 : Dispositions financières et comptables.<a id=110></a>
+#### Section 6 : Dispositions financières et comptables.<a id=111></a>
 
 ###### Article D114-10
 
@@ -16675,13 +17126,13 @@ _Cite_:
   - Code de commerce. - art. L225-219 (Ab)
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=111></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=112></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=112></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=113></a>
 
-#### Chapitre II : Fonctionnement<a id=113></a>
+#### Chapitre II : Fonctionnement<a id=114></a>
 
-##### Section 1 : Régime financier et comptable<a id=114></a>
+##### Section 1 : Régime financier et comptable<a id=115></a>
 
 ###### Article D212-1
 
@@ -16781,7 +17232,7 @@ _Abrogé par_:
 ###### Article D212-3
 
 I. - Le compte financier mentionné au II de l'article D. 212-1 comprend, en produits, la part du produit net des placements
-calculée suivant les règles fixées au II du présent article et, en charges, sur autorisation de la commission de contrôle
+calculée suivant les règles fixées au II du présent article et, en charges, sur autorisation de l'Autorité de contrôle
 mentionnée à l'article L. 510-1 et après justifications, la part des résultats que la mutuelle ou l'union a dû affecter aux
 fonds propres pour satisfaire au montant minimal de la marge de solvabilité.
 
@@ -16814,10 +17265,13 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1458 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-  - Décret n°2002-1458 du 16 décembre 2002 - art. 2 () JORF 17 décembre 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
 ###### Article D212-4
@@ -16852,7 +17306,7 @@ _Abrogé par_:
   - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-##### Section 2 : Combinaison des comptes<a id=115></a>
+##### Section 2 : Combinaison des comptes<a id=116></a>
 
 ###### Article D212-5
 
@@ -16939,7 +17393,7 @@ _Abrogé par_:
 ###### Article D212-8
 
 Lorsqu'une mutuelle ou une union de mutuelles en vertu des articles L. 111-1 et L. 111-2, ou une union de groupe mutualiste
-mentionnée à l'article L. 111-4-1, participe à un accord prévu à l'article D. 212-6, celui-ci est transmis à la commission de
+mentionnée à l'article L. 111-4-1, participe à un accord prévu à l'article D. 212-6, celui-ci est transmis à l'Autorité de
 contrôle mentionnée à l'article L. 510-1 dans les quinze jours de sa signature par l'entité désignée par cet accord ou, à
 défaut, par chacune des parties à l'accord. Il est porté dans les mêmes délais et modalités à la connaissance des
 commissaires aux comptes de toutes les entités incluses dans le périmètre de la combinaison.
@@ -16954,16 +17408,20 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=116></a>
+### Titre II : Opérations des mutuelles et des unions.<a id=117></a>
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation<a id=117></a>
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation<a id=118></a>
 
-##### Section 1 : Dispositions générales<a id=118></a>
+##### Section 1 : Dispositions générales<a id=119></a>
 
 ###### Article D223-1
 
@@ -16984,11 +17442,11 @@ _Cite_:
   - Code de la mutualité - art. L223-9 (V)
 
 
-## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=119></a>
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=120></a>
 
-### Titre Ier : Organes administratifs de la mutualité.<a id=120></a>
+### Titre Ier : Organes administratifs de la mutualité.<a id=121></a>
 
-#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=121></a>
+#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=122></a>
 
 ###### Article D412-1
 
@@ -17055,19 +17513,19 @@ _Créé par_:
   - Décret n°2003-988 du 14 octobre 2003 - art. 1 () JORF 17 octobre 2003
 
 
-# Partie réglementaire - Arrêtés<a id=122></a>
+# Partie réglementaire - Arrêtés<a id=123></a>
 
-## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=123></a>
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=124></a>
 
-### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=124></a>
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=125></a>
 
-#### Section 6 : Dispositions financières et comptables<a id=125></a>
+#### Section 6 : Dispositions financières et comptables<a id=126></a>
 
 ###### Article A114-1
 
 Les opérations effectuées par les mutuelles et unions mentionnées au 1° du I de l'article L. 111-1 du présent code et
-soumises au contrôle de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance en vertu de
-l'article L. 510-1 sont réparties entre les catégories d'opérations suivantes :
+soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles en vertu de l'article L. 510-1 sont réparties
+entre les catégories d'opérations suivantes :
 
 - 1 Opérations de capitalisation à cotisation unique (ou versements libres) ;
 
@@ -17126,10 +17584,6 @@ prestations, commissions et provisions techniques par état de situation du risq
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
 _Cite_:
 
   - Code de la mutualité (nouveau) L111-1, L510-1, L222-1
@@ -17139,18 +17593,22 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 
 ###### Article A114-2
 
-I. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance en application de l'article L. 510-1
-remettent chaque année à cette dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par
-l'assemblée générale. Elles joignent à cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des
-commissaires aux comptes et, pour celles qui y sont astreintes, le bilan social.
+I. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de
+l'Autorité de contrôle des assurances et des mutuelles en application de l'article L. 510-1 remettent chaque année à cette
+dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par l'assemblée générale. Elles joignent à
+cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des commissaires aux comptes et, pour
+celles qui y sont astreintes, le bilan social.
 
 II. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
 présent code et n'ayant pas conclu de convention de substitution pour l'intégralité de leurs opérations pratiquées en vertu
-de l'article L. 211-5 remettent chaque année à la commission de contrôle précitée :
+de l'article L. 211-5 remettent chaque année à l'Autorité de contrôle précitée :
 
 1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 114-4 ;
 
@@ -17169,18 +17627,10 @@ astreintes à l'obligation de transmission des documents mentionnés aux I et II
 toutefois communiqués dans les mêmes délais par l'organisme qui s'est substitué à elles.
 
 V. - Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code remettent les documents mentionnés au I et au
-II ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à la
-commission de contrôle précitée.
+II ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à
+l'Autorité de contrôle précitée.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 _Cité par_:
 
@@ -17191,6 +17641,14 @@ _Cité par_:
 _Cite_:
 
   - Code de la mutualité (nouveau) L510-1, L211-5, A114-4, A114-6, A114-8, A114-7, L510-2
+
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A114-3
@@ -17414,27 +17872,26 @@ décaissement sont calculées à partir des engagements comptabilisés. Les enga
 sur la base de prestations majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux
 annuel moyen des rachats constatés au cours des années passées.
 
-Les mutuelles et unions transmettent les résultats du test chaque année à la commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance avant le 31 mars, dans la forme de l'état C 6 bis défini dans l'annexe à
-l'article A. 114-5.
+Les mutuelles et unions transmettent les résultats du test chaque année à l'Autorité de contrôle des assurances et des
+mutuelles avant le 31 mars, dans la forme de l'état C 6 bis défini dans l'annexe à l'article A. 114-5.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) R212-27-1, R212-31, A114-5
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cité par_:
 
   - Arrêté du 21 décembre 2009 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-27-1, R212-31, A114-5
 
 
 ###### Article A114-9
@@ -17471,24 +17928,20 @@ _Cite_:
 ###### Article A114-10
 
 Les mutuelles et unions soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 212-7-2 et
-des articles R. 213-1, R. 213-5 et R. 213-6 fournissent chaque année à la commission de contrôle mentionnée à l'article L.
-510-1, avant le 31 mai, un dossier constitué conformément aux annexes 1 et 2 du présent article.
+des articles R. 213-1, R. 213-5 et R. 213-6 fournissent chaque année à l'Autorité de contrôle mentionnée à l'article L.
+510-1, avant le 31 mai, un dossier constitué conformément aux annexes 1 et 2 du présent article. 
 
 Le dossier est certifié par le président du conseil d'administration ou le directeur général dans les mutuelles ou unions,
 par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères, sous la formule suivante :
-"Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
+" Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
 l'article L. 510-12 du code de la mutualité, conforme aux écritures de la mutuelle ou union et de ses organismes apparentés,
-et aux dispositions de la section VI du chapitre IV du livre Ier du même code."
+et aux dispositions de la section VI du chapitre IV du livre Ier du même code. " 
 
-La commission de contrôle mentionnée à l'article L. 510-1 peut dispenser une mutuelle ou union de produire les éléments du
-dossier prévus à l'annexe 1 lorsque ce dossier est fourni par un organisme apparenté ou lorsque la commission a attribué
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser une mutuelle ou union de produire les éléments du
+dossier prévus à l'annexe 1 lorsque ce dossier est fourni par un organisme apparenté ou lorsque l'Autorité a attribué
 l'exercice de la surveillance complémentaire à une autre autorité conformément à l'article R. 213-5.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
 
 _Cité par_:
 
@@ -17497,43 +17950,54 @@ _Cité par_:
 _Cite_:
 
   - Code de la mutualité (nouveau) L212-7-2, R213-1, R213-5, R213-6, L510-1, annexe 1
+  - Code de la mutualité - art. Annexe 1 à l'article A114-10 (V)
+  - Code de la mutualité - art. Annexe 2 à l'article A114-10 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A114-11
 
-Lorsque, en application de l'article L. 212-7-9, la commission de contrôle est coordonnateur de la surveillance
-complémentaire des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du
-conglomérat financier fournit chaque année à la commission de contrôle, avant le 30 avril, un dossier constitué conformément
-à l'annexe au présent article.
+Lorsque, en application de l'article L. 212-7-9, l'Autorité de contrôle est coordonnateur de la surveillance complémentaire
+des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du conglomérat
+financier fournit chaque année à l'Autorité de contrôle, avant le 30 avril, un dossier constitué conformément à l'annexe au
+présent article. 
 
 Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
-financière holding mixte ou par l'entité réglementée désignée par la commission de contrôle après consultation des autres
-autorités compétentes définies au 11° de l'article L. 212-7-1 et du conglomérat financier.
+financière holding mixte ou par l'entité réglementée désignée par l'Autorité de contrôle après consultation des autres
+autorités compétentes définies au 11° de l'article L. 212-7-1 et du conglomérat financier. 
 
-Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante :
+Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante : 
 
-"Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
+" Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
 l'article L. 510-12 du code de la mutualité, conforme aux écritures des entités appartenant au conglomérat financier, et aux
-dispositions du chapitre IV, du livre Ier du même code".
+dispositions du chapitre IV, du livre Ier du même code ".
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2005-11-03 art. 3 JORF 15 novembre 2005
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L212-7-9, L212-7-1
+  - Code de la mutualité - art. Annexe à l'article A114-11
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=126></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=127></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=127></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=128></a>
 
-#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=128></a>
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=129></a>
 
-##### Section 1 : Agrément administratif.<a id=129></a>
+##### Section 1 : Agrément administratif.<a id=130></a>
 
 ###### Article A211-1
 
@@ -17689,8 +18153,8 @@ _Cité par_:
 
 ###### Article A211-3
 
-La mutuelle ou l'union qui souhaite se substituer à un autre organisme mutualiste présente à la commission de contrôle
-instituée par l'article L. 510-1 un dossier d'information en double exemplaire qui comporte :
+La mutuelle ou l'union qui souhaite se substituer à un autre organisme mutualiste présente à l'Autorité de contrôle instituée
+par l'article L. 510-1 un dossier d'information en double exemplaire qui comporte :
 
 a) La décision d'agrément ou la copie de la demande d'agrément de la mutuelle ou de l'union ;
 
@@ -17720,10 +18184,6 @@ en annexe III.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 mars 2002
-
 _Cite_:
 
   - Code de la mutualité (nouveau) L510-1, annexe I, annexe II, annexe III
@@ -17731,6 +18191,14 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A211-4
@@ -17765,9 +18233,9 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-#### Chapitre II : Fonctionnement.<a id=130></a>
+#### Chapitre II : Fonctionnement.<a id=131></a>
 
-##### Section 1 : Marge de solvabilité.<a id=131></a>
+##### Section 1 : Marge de solvabilité.<a id=132></a>
 
 ###### Article A212-1
 
@@ -17781,7 +18249,7 @@ de celle-ci ;
 2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que
 la liquidation de la mutuelle ou de l'union débitrice, la dette devra être remboursée avant l'échéance convenue ;
 
-3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que la commission de contrôle instituée à
+3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que l'Autorité de contrôle instituée à
 l'article L. 510-1 aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au
 présent article, ne pas s'opposer à la modification envisagée ;
 
@@ -17789,52 +18257,55 @@ présent article, ne pas s'opposer à la modification envisagée ;
 lorsque aucune échéance n'est fixée, un préavis d'au moins cinq ans pour tout remboursement.
 
 II. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au I ci-dessus, la
-mutuelle ou l'union débitrice soumet à la Commission de contrôle instituée à l'article L. 510-1 un plan indiquant comment la
+mutuelle ou l'union débitrice soumet à l'Autorité de contrôle instituée à l'article L. 510-1 un plan indiquant comment la
 marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
 si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par la mutuelle
 ou l'union au cours des cinq dernières années au moins avant l'échéance de remboursement.
 
 III. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
-solvabilité peuvent être remboursés par anticipation à l'initiative de la mutuelle ou de l'union débitrice si la Commission
-de contrôle instituée par l'article L. 510-1 a préalablement autorisé un tel remboursement, après s'être assurée que la marge
-de solvabilité ne risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la
-marge requise par la réglementation.
+solvabilité peuvent être remboursés par anticipation à l'initiative de la mutuelle ou de l'union débitrice si l'Autorité de
+contrôle instituée par l'article L. 510-1 a préalablement autorisé un tel remboursement, après s'être assurée que la marge de
+solvabilité ne risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la marge
+requise par la réglementation.
 
-Dans les mêmes conditions, la Commission de contrôle instituée par l'article L. 510-1 peut autoriser le remboursement des
-fonds provenant des emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de
-solvabilité sans application du préavis prévu au 4° du paragraphe I du présent article.
+Dans les mêmes conditions, l'Autorité de contrôle instituée par l'article L. 510-1 peut autoriser le remboursement des fonds
+provenant des emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de solvabilité sans
+application du préavis prévu au 4° du paragraphe I du présent article.
 
-Dans les cas visés au présent paragraphe, la mutuelle ou l'union débitrice soumet au moins six mois à l'avance à la
-Commission de contrôle instituée par l'article L. 510-1, à l'appui de sa demande d'autorisation, un plan indiquant comment la
-marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision
-notifiée à la mutuelle ou à l'union à l'expiration d'un délai de six mois vaut autorisation.
+Dans les cas visés au présent paragraphe, la mutuelle ou l'union débitrice soumet au moins six mois à l'avance à l'Autorité
+de contrôle instituée par l'article L. 510-1, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
+solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision notifiée à
+la mutuelle ou à l'union à l'expiration d'un délai de six mois vaut autorisation.
 
 Sont notamment soumis aux dispositions du présent paragraphe l'amortissement anticipé par offre publique d'achat ou d'échange
 et le rachat en bourse de titres cotés ; toutefois, un émetteur peut racheter en bourse sans autorisation préalable jusqu'à 5
-p 100 des titres émis, à condition d'informer la commission de contrôle instituée par l'article L. 510-1 des rachats
-effectués.
+p 100 des titres émis, à condition d'informer l'Autorité de contrôle instituée par l'article L. 510-1 des rachats effectués.
 
 IV. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
-remboursement est subordonné à autorisation préalable de la commission de contrôle instituée par l'article L. 510-1 n'ont pas
-à prévoir le délai de préavis minimum visé au 4° du I du présent article.
+remboursement est subordonné à autorisation préalable de l'Autorité de contrôle instituée par l'article L. 510-1 n'ont pas à
+prévoir le délai de préavis minimum visé au 4° du I du présent article.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) R212-11, R212-15, L510-1
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R212-11, R212-15, L510-1
 
 
 ###### Article A212-2
@@ -17872,29 +18343,33 @@ durée résiduelle moyenne des bulletins d'adhésion ou contrats, corrigée comm
 article. Ce facteur ne peut excéder dix.
 
 La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
-durées résiduelles des bulletins d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de la Commission
-de contrôle mentionnée à l'article L. 510-1, à partir de la cotisation annuelle ou d'une cotisation équivalente compte tenu
-de la durée du bulletin d'adhésion ou du contrat collectif ou de la provision mathématique.
+durées résiduelles des bulletins d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de l'Autorité de
+contrôle mentionnée à l'article L. 510-1, à partir de la cotisation annuelle ou d'une cotisation équivalente compte tenu de
+la durée du bulletin d'adhésion ou du contrat collectif ou de la provision mathématique.
 
 Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
 compte de l'extinction des bulletins d'adhésion ou des contrats collectifs avant leur terme.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
 _Modifié par_:
 
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 _Cite_:
 
   - Code de la mutualité (nouveau) R212-15, L510-1
 
-**Liens**:
 
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-##### Section 2 : Provisions techniques.<a id=132></a>
+##### Section 2 : Provisions techniques.<a id=133></a>
 
 ###### Article A212-4
 
@@ -17934,17 +18409,13 @@ titre des opérations en cours à la date de l'inventaire, pendant la période d
 ainsi calculé est inscrit pour provisions pour risques en cours. Pour l'application du présent alinéa, les sinistres sont
 rattachés à l'exercice de survenance.
 
-La commission de contrôle instituée par l'article L. 510-1 peut prescrire à une mutuelle ou union de prendre des dispositions
+L'Autorité de contrôle instituée par l'article L. 510-1 peut prescrire à une mutuelle ou union de prendre des dispositions
 appropriées pour le calcul prévu au précédent alinéa. Elle peut également, si le taux calculé en application du précédent
 alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou de la tarification,
 prescrire l'utilisation d'un taux plus élevé. Elle peut également, sur la base de justifications appropriées fournies par la
 mutuelle ou l'union, autoriser l'utilisation d'un taux inférieur.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -17953,6 +18424,14 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-6
@@ -18059,21 +18538,21 @@ suivants :
 1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article.
 
 Toutefois, il est possible pour une institution d'utiliser une loi de maintien établie par ses soins et certifiée par un
-actuaire indépendant de cette institution, agréé à cet effet par l'une des associations d'actuaires reconnues par la
-commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
+actuaire indépendant de cette institution, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité
+de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
 
 2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen des emprunts de l'Etat français calculé sur base
 semestrielle, sans pouvoir dépasser 4,5 %.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -18085,7 +18564,7 @@ _Cite_:
   - Code de la mutualité - art. L510-1 (M)
 
 
-##### Section 3<a id=133></a>
+##### Section 3<a id=134></a>
 
 ###### Article A212-10
 
@@ -18101,7 +18580,7 @@ données publiées par l'Institut national de la statistique et des études éco
 génération pour les rentes viagères ;
 
 - tables établies par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par
-l'une des associations d'actuaires reconnues par la commission de contrôle instituée à l'article L. 510-1.
+l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1.
 
 Pour les opérations de rentes viagères, les tarifs et les provisions techniques déterminés en utilisant les tables visées aux
 deuxième tiret du 2° ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables de génération visées au
@@ -18111,14 +18590,6 @@ Pour l'élaboration des tarifs des opérations collectives en cas de décès ré
 peut utiliser les tables visées au premier tiret du 2° avec une méthode forfaitaire dès lors que celle-ci est justifiable.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) L111-1, L510-1
 
 **Liens**:
 
@@ -18131,6 +18602,14 @@ _Cité par_:
   - Arrêté du 8 décembre 2006 - art. 7 (M)
   - Arrêté du 8 décembre 2006 - art. 8 (M)
   - Arrêté du 8 décembre 2006 - art. 9 (M)
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L111-1, L510-1
 
 
 ###### Article A212-11
@@ -18270,7 +18749,7 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=134></a>
+##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=135></a>
 
 ###### Article A212-15
 
@@ -18288,73 +18767,72 @@ l'ensemble des dispositions législatives et réglementaires qui lui sont applic
 
 2° Le garant n'est pas une entreprise liée au réassureur ni à la mutuelle ou l'union garantie.
 
-III. - La dérogation prévue au troisième alinéa de l'article R. 212-50 ne peut être accordée par la commission de contrôle
+III. - La dérogation prévue au troisième alinéa de l'article R. 212-50 ne peut être accordée par l'Autorité de contrôle
 mentionnée à l'article L. 510-1 que dans la mesure où elle ne diminue pas la qualité de la représentation des engagements
 réglementés, et dans les limites suivantes :
 
-- la durée fixée initialement par la commission de contrôle ne peut excéder un exercice, éventuellement renouvelable dans les
+- la durée fixée initialement par l'Autorité de contrôle ne peut excéder un exercice, éventuellement renouvelable dans les
 conditions définies par celle-ci ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à aucun moment excéder :
 
-- le montant maximum autorisé par la commission de contrôle ;
+- le montant maximum autorisé par l'Autorité de contrôle ;
 
 - la moitié du montant total des engagements réglementés tels que définis à l'article R. 212-21 ;
 
 - les deux tiers du montant total de la part des réassureurs dans les provisions techniques.
 
-IV. - La dérogation peut être supprimée à tout moment par la commission de contrôle mentionnée à l'article L. 510-1 si celle-
-ci estime que les conditions l'ayant justifiée ne sont plus remplies.
+IV. - La dérogation peut être supprimée à tout moment par l'Autorité de contrôle mentionnée à l'article L. 510-1 si celle-ci
+estime que les conditions l'ayant justifiée ne sont plus remplies.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
   - Code de la mutualité (nouveau) R212-50, L510-1, R212-21
-  - Loi n°84-46 1984-01-24
+  - Loi n°84-46 du 24 janvier 1984
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
 
 ###### Article A212-16
 
-Pour l'application de l'article R. 212-56, la commission de contrôle mentionnée à l'article L. 510-1 notifie à la mutuelle ou
-à l'union, par lettre recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et le nom de l'expert
+Pour l'application de l'article R. 212-56, l'Autorité de contrôle mentionnée à l'article L. 510-1 notifie à la mutuelle ou à
+l'union, par lettre recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et le nom de l'expert
 qu'elle a choisi pour chacun d'eux.
 
-Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, la mutuelle ou l'union fait connaître à la
-commission de contrôle, par lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par
-la commission de contrôle comme expert unique, dont la conclusion liera les deux parties, ou si elle demande une expertise
-contradictoire, d'abord par deux experts, le premier désigné par la commission de contrôle, le second désigné par la mutuelle
-ou l'union, puis, en cas de désaccord entre ces deux experts, par un tiers expert, dont les conclusions lieront les deux
-parties.
+Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, la mutuelle ou l'union fait connaître à l'Autorité
+de contrôle, par lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par l'Autorité
+de contrôle comme expert unique, dont la conclusion liera les deux parties, ou si elle demande une expertise contradictoire,
+d'abord par deux experts, le premier désigné par l'Autorité de contrôle, le second désigné par la mutuelle ou l'union, puis,
+en cas de désaccord entre ces deux experts, par un tiers expert, dont les conclusions lieront les deux parties.
 
 Lorsque la mutuelle ou l'union opte pour l'expertise contradictoire, elle indique dans sa réponse le nom, l'adresse et les
 qualités de son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à
-l'effectuer dans le délai fixé à l'alinéa suivant. Dès réception de la réponse de la mutuelle ou de l'union, la commission
+l'effectuer dans le délai fixé à l'alinéa suivant. Dès réception de la réponse de la mutuelle ou de l'union, l'Autorité
 invite l'expert unique ou les deux experts à procéder à l'expertise. Elle communique cet avis à la mutuelle ou à l'union.
 
 L'expert unique ou les deux experts déposent leurs conclusions et les notifient aux deux parties dans un délai maximal de
-trois mois à dater de l'avis de la commission ci-dessus prévu.
+trois mois à dater de l'avis de l'Autorité ci-dessus prévu.
 
 S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
-soit après accord entre les parties, par la commission de contrôle, soit, à défaut d'accord entre les parties, dans les
-quinze jours du dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du
-tribunal de grande instance du siège social de la mutuelle ou de l'union.
+soit après accord entre les parties, par l'Autorité de contrôle, soit, à défaut d'accord entre les parties, dans les quinze
+jours du dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de
+grande instance du siège social de la mutuelle ou de l'union.
 
 Le tiers expert dépose ses conclusions et les notifie aux deux parties dans les deux mois de sa désignation.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -18364,6 +18842,14 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
 
 ###### Article A212-17
 
@@ -18371,17 +18857,13 @@ Si, après avoir été désigné comme il est indiqué à l'article A. 212-16, u
 dans les délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont
 dûment prorogés.
 
-Toutefois, si l'expert défaillant est celui de l'institution ou de l'union, la commission de contrôle mentionnée à l'article
-L. 510-1 peut requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront
+Toutefois, si l'expert défaillant est celui de l'institution ou de l'union, l'Autorité de contrôle mentionnée à l'article L.
+510-1 peut requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront
 les deux parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu au
 deuxième alinéa de l'article A. 212-16 ou si l'expert de la mutuelle ou de l'union n'a pas déposé son rapport dans le délai
 fixé au quatrième alinéa de cet article.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
 
 _Cite_:
 
@@ -18390,6 +18872,14 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-18
@@ -18403,23 +18893,27 @@ notamment lorsqu'il s'agit d'immeubles, pour la visite des lieux et la connaissa
 immeubles expertisés.
 
 III. - Le ou les experts adressent à la mutuelle ou à l'union, avec leur rapport, l'état de leurs vacations, frais et
-honoraires, et en remettent une copie à la commission de contrôle mentionnée à l'article L. 510-1. Lorsqu'elle envisage de
-contester le montant demandé par un des experts, la mutuelle ou l'union le notifie à la commission de contrôle dans un délai
-de quinze jours à compter de la réception de l'état des vacations.
+honoraires, et en remettent une copie à l'Autorité de contrôle mentionnée à l'article L. 510-1. Lorsqu'elle envisage de
+contester le montant demandé par un des experts, la mutuelle ou l'union le notifie à l'Autorité de contrôle dans un délai de
+quinze jours à compter de la réception de l'état des vacations.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) A212-16, A212-17, L510-1
 
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-16, A212-17, L510-1
 
 
 ###### Article A212-19
@@ -18502,7 +18996,7 @@ _Cite_:
   - Code de la mutualité (nouveau) L111-1
 
 
-##### Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=135></a>
+##### Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen<a id=136></a>
 
 ###### Article A212-21
 
@@ -18640,7 +19134,7 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=136></a>
+##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=137></a>
 
 ###### Article A213-1
 
@@ -18654,7 +19148,7 @@ sur actifs de ces organismes assureurs ne sont prises en compte qu'une fois déd
 
 2. Les titres et emprunts subordonnés détenus en dehors de l'ensemble formé par les mutuelles ou unions et les organismes
 auxquels elles sont apparentées ou subordonnées dans la mesure où ils sont admis à contribuer à la constitution de la marge
-de solvabilité de l'organisme assureur au passif duquel ils sont inscrits. Toutefois, la commission de contrôle mentionnée à
+de solvabilité de l'organisme assureur au passif duquel ils sont inscrits. Toutefois, l'Autorité de contrôle mentionnée à
 l'article L. 510-1 dispose de la capacité de considérer comme pouvant être rendue disponible une plus grande part de ces
 titres et emprunts, dès lors qu'elle considère comme adéquate la répartition à l'intérieur de l'ensemble formé par les
 mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées des éléments admissibles pour la
@@ -18673,21 +19167,21 @@ organismes dont le siège est situé dans un Etat exerçant des restrictions aux
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2005-11-03 art. 1 JORF 13 novembre 2005
-
 _Cite_:
 
   - Code de la mutualité (nouveau) R213-1, R213-5, L510-1
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A213-2
 
 La déclaration des opérations mentionnées à l'article R. 213-6 est jointe au dossier mentionné à l'article A. 114-10, annexe
 II. La mutuelle ou union soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont pas incluses dans
-les documents décrits à l'article A. 114-10, annexe II, ni décrites dans l'état G 22 transmis le cas échéant à la Commission
-de contrôle conformément à l'article A. 114-11. Les opérations, effectuées directement ou indirectement avec les organismes
+les documents décrits à l'article A. 114-10, annexe II, ni décrites dans l'état G 22 transmis le cas échéant à l'Autorité de
+contrôle conformément à l'article A. 114-11. Les opérations, effectuées directement ou indirectement avec les organismes
 auxquels elle est apparentée ou subordonnée, supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques de
 l'ensemble formé par ces organismes tels que calculés à la clôture de l'exercice précédent. Ce tableau doit isoler les
 opérations suivantes : les prêts, les transactions portant sur les éléments admissibles pour la marge de solvabilité, les
@@ -18697,8 +19191,8 @@ d'immeubles ou de titres non cotés) et les engagements d'un montant défini re�
 Chacune de ces opérations doit être déclarée en précisant l'organisme vendeur, l'organisme acheteur, la valeur comptable dans
 le premier, le prix de vente et la référence ayant permis d'établir celui-ci.
 
-Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les trente jours à la
-commission de contrôle mentionnée à l'article L. 510-1.
+Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les trente jours à l'Autorité
+de contrôle mentionnée à l'article L. 510-1.
 
 En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
 indirectement entre organismes apparentés du même ensemble formé par les mutuelles ou unions et les organismes auxquels elles
@@ -18706,16 +19200,20 @@ sont apparentées ou subordonnées sont déclarés sans délai par la mutuelle o
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
-
 _Cite_:
 
   - Code de la mutualité (nouveau) R213-6, A114-10, A114-11, L510-1
 
+_Modifié par_:
 
-##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.<a id=137></a>
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+
+##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.<a id=138></a>
 
 ###### Article A213-3
 
@@ -18853,20 +19351,24 @@ _Cite_:
 
 ###### Article A213-7
 
-Conformément au III de l'article L. 212-7-5, la commission de contrôle, en tant que coordonnateur, peut décider d'assujettir
-un sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
+Conformément au III de l'article L. 212-7-5, l'Autorité de contrôle, en tant que coordonnateur, peut décider d'assujettir un
+sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
 sous-groupe appartient ne respecte pas les exigences de la surveillance complémentaire ou que la répartition de ses fonds
 propres n'est pas adaptée aux objectifs de la surveillance complémentaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+  - Arrêté du 3 novembre 2014 - art. 18
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L212-7-5
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A213-8
@@ -18946,46 +19448,54 @@ sanctions et mesures exceptionnelles envisagées par les autorités compétentes
 En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente
 peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
 
-3° La commission de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
+3° L'Autorité de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
 sanctions ou mesures adoptées conformément aux articles L. 212-7-16 et L. 212-7-17.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L212-7-13, L212-7-16, L212-7-17
 
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
+
 
 ###### Article A213-10
 
-I. - Lorsque l'entité à la tête du conglomérat financier dont la commission de contrôle est le coordonnateur a son siège
-social dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, la commission de
-contrôle peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes
-informations utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 212-7-10, d'autre part, à lui
-communiquer lesdites informations.
+I. - Lorsque l'entité à la tête du conglomérat financier dont l'Autorité de contrôle est le coordonnateur a son siège social
+dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, l'Autorité de contrôle
+peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes informations
+utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 212-7-10, d'autre part, à lui communiquer
+lesdites informations.
 
-La commission de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
+L'Autorité de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur,
 définie à l'article L. 212-7-11.
 
-II. - Lorsque la commission de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 212-7-18, elle
+II. - Lorsque l'Autorité de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 212-7-18, elle
 consulte les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
 conglomérats financiers prévu à l'article 21 de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre
 2002, pour tenir compte des lignes directrices élaborées par ce comité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+  - Arrêté du 3 novembre 2014 - art. 18
 
 _Cite_:
 
   - Code de la mutualité (nouveau) L212-7-10, L212-7-11, L212-7-18
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A213-11
@@ -19014,8 +19524,8 @@ conglomérat financier, et
 b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur
 bancaire et des services d'investissement.
 
-Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, la commission de contrôle,
-en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
+Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, l'Autorité de contrôle, en
+tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
 entités du conglomérat financier.
 
 III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 213-9, les fonds propres et les exigences de
@@ -19023,13 +19533,13 @@ solvabilité d'une entité sont déterminés à partir de ses comptes annuels co
 l'article R. 213-8.
 
 Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités
-du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par la commission de contrôle
+du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par l'Autorité de contrôle
 mentionnée à l'article L. 510-1, après consultation des autres autorités compétentes concernées, en fonction de la
 responsabilité née de la relation existant entre l'entité et les autres entités du conglomérat financier.
 
 En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le
 cas où la responsabilité de l'organisme de référence détenant une part de capital est limitée, strictement et sans ambiguïté,
-à cette part de capital, la commission de contrôle mentionnée à l'article L. 510-1 peut décider d'admettre que le déficit de
+à cette part de capital, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut décider d'admettre que le déficit de
 l'entité est pris en compte sur une base proportionnelle.
 
 Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes
@@ -19037,13 +19547,17 @@ consolidés ou combinés mentionnés à l'article L. 212-7.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+  - Arrêté du 3 novembre 2014 - art. 18
 
 _Cite_:
 
   - Code de la mutualité (nouveau) R213-8, R212-11, R212-15, R212-18, R213-3, R213-9, L510-1, L212-7
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A213-12
@@ -19078,9 +19592,9 @@ _Créé par_:
   - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=138></a>
+### Titre II : Opérations des mutuelles et des unions.<a id=139></a>
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=139></a>
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=140></a>
 
 ###### Article A222-1
 
@@ -19149,45 +19663,46 @@ _Cite_:
 
 ###### Article A222-2
 
-I. - L'unité de rente correspondant à un rachat a la même valeur d'acquisition que l'unité de rente acquise normalement dans
-l'année du rachat.
+I. – L'unité de rente correspondant à un rachat a la même valeur d'acquisition que l'unité de rente acquise normalement dans
+l'année du rachat. 
 
-II. - Chaque année, les institutions et les unions pratiquant les opérations collectives relevant de l'article L. 222-1
-communiquent à la commission de contrôle prévue à l'article L. 510-1, pour chacun des règlements qu'elles mettent en oeuvre,
-la valeur de service et la valeur d'acquisition de l'unité de rente pour l'exercice à venir.
+II. – Chaque année, les institutions et les unions pratiquant les opérations collectives relevant de l'article L. 222-1
+communiquent à l'Autorité de contrôle prévue à l'article L. 510-1, pour chacun des règlements qu'elles mettent en oeuvre, la
+valeur de service et la valeur d'acquisition de l'unité de rente pour l'exercice à venir. 
 
-Elles communiquent également :
+Elles communiquent également : 
 
-- le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
+– le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ; 
 
-- le montant de la provision technique spéciale à cette même date ;
+– le montant de la provision technique spéciale à cette même date ; 
 
-- le montant de la fraction des excédents affectés à ladite provision ;
+– le montant de la fraction des excédents affectés à ladite provision ; 
 
-- le montant des arrérages calculés d'après la nouvelle valeur de service et susceptibles d'être servis pendant l'exercice en
-cours.
+– le montant des arrérages calculés d'après la nouvelle valeur de service et susceptibles d'être servis pendant l'exercice en
+cours. 
 
 La communication de ces renseignements intervient au plus tard le 1er juin de chaque année et, en tout état de cause, avant
 la fixation de la nouvelle valeur de service de l'unité de rente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) L222-1, L510-1
-
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=140></a>
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
-##### Section 1 : Dispositions générales.<a id=141></a>
+_Cite_:
+
+  - Code de la mutualité - art. L222-1 (V)
+  - Code de la mutualité - art. L510-1 (V)
+
+
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=141></a>
+
+##### Section 1 : Dispositions générales.<a id=142></a>
 
 ###### Article A223-1
 
@@ -19221,16 +19736,12 @@ mêmes règlements ou contrats, en fonction de l'évolution depuis la clôture d
 réévaluation des immeubles. Dans ce cas, la valeur de l'actif net fait l'objet d'une attestation du commissaire aux comptes
 de la société immobilière ou foncière ou du commissaire aux comptes de la mutuelle ou de l'union de mutuelles.
 
-La réévaluation doit être effectuée par immeuble soit par une expertise effectuée par un expert accepté par la commission de
+La réévaluation doit être effectuée par immeuble soit par une expertise effectuée par un expert accepté par l'Autorité de
 contrôle instituée à l'article L. 510-1, soit par actualisation de la dernière estimation certifiée par un expert accepté par
-la commission de contrôle précitée par application d'une règle basée sur des indices représentatifs du marché immobilier et
+l'Autorité de contrôle précitée par application d'une règle basée sur des indices représentatifs du marché immobilier et
 figurant dans le règlement ou le contrat collectif.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2002-12-26 art. 1, art. 2 JORF 8 janvier 2003
 
 _Cite_:
 
@@ -19239,6 +19750,10 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article A223-3
@@ -19267,17 +19782,13 @@ _Cite_:
 ###### Article A223-4
 
 La substitution d'une unité de compte au profit d'unités de compte de nature comparable prévue à l'article R. 223-4 est
-autorisée par la commission de contrôle instituée à l'article L. 510-1 au vu du rapport d'un expert mandaté par la mutuelle
-ou l'union de mutuelles. L'expert certifie la comparabilité des sociétés, au regard des critères de destination, tels que
+autorisée par l'Autorité de contrôle instituée à l'article L. 510-1 au vu du rapport d'un expert mandaté par la mutuelle ou
+l'union de mutuelles. L'expert certifie la comparabilité des sociétés, au regard des critères de destination, tels que
 habitation, bureaux, centres commerciaux, et de localisation des actifs de celles-ci.
 
-Toutefois, la commission peut également requérir une expertise selon les modalités fixées à l'article R. 212-56.
+Toutefois, l'Autorité peut également requérir une expertise selon les modalités fixées à l'article R. 212-56.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2002-12-26 art. 1, art. 2 JORF 8 janvier 2003
 
 _Cite_:
 
@@ -19287,12 +19798,16 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=142></a>
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
-### Chapitre unique<a id=143></a>
 
-#### Section 1 : Libre prestation de services.<a id=144></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=143></a>
+
+### Chapitre unique<a id=144></a>
+
+#### Section 1 : Libre prestation de services.<a id=145></a>
 
 ###### Article A510-1
 
@@ -19400,7 +19915,7 @@ _Modifié par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
 
 
-#### Section 2 : Contrôle déconcentré.<a id=145></a>
+#### Section 2 : Contrôle déconcentré.<a id=146></a>
 
 ###### Article A510-4
 
@@ -19434,13 +19949,13 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=146></a>
+# Partie réglementaire ancienne<a id=147></a>
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=147></a>
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=148></a>
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=148></a>
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=149></a>
 
-#### Chapitre II : Statuts<a id=149></a>
+#### Chapitre II : Statuts<a id=150></a>
 
 ###### Article R122-4
 
@@ -19466,9 +19981,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=150></a>
+#### Chapitre IV : Capacité civile et dispositions financières<a id=151></a>
 
-##### Section 1 : Dispositions générales<a id=151></a>
+##### Section 1 : Dispositions générales<a id=152></a>
 
 ###### Article R124-1
 
@@ -19534,7 +20049,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=152></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=153></a>
 
 ###### Article R125-1
 
@@ -19557,7 +20072,7 @@ _Modifié par_:
 ###### Article R125-3
 
 La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de
-la commission de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de
+l'Autorité de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de
 vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal d'instance du siège social
 de la mutuelle.
 
@@ -19572,10 +20087,6 @@ demande d'avis de réception.
 Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal d'instance. Les
 dispositions des articles 999 à 1008 du nouveau code de procédure civile sont applicables.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -19584,7 +20095,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -19594,14 +20105,6 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-32 (VT)
   - Code de la mutualité - art. R311-8 (P)
   - Code de la mutualité - art. R513-25 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la mutualité - art. R513-25 (M)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008
 
 
 ###### Article R125-4
@@ -19638,7 +20141,7 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=153></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=154></a>
 
 ###### Article R126-1
 
@@ -19756,11 +20259,11 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=154></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=155></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=155></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=156></a>
 
-#### Chapitre unique<a id=156></a>
+#### Chapitre unique<a id=157></a>
 
 ###### Article R211-1
 
@@ -19787,9 +20290,9 @@ _Cite_:
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=157></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=158></a>
 
-#### Chapitre unique<a id=158></a>
+#### Chapitre unique<a id=159></a>
 
 ###### Article R221-1
 
@@ -19816,9 +20319,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=159></a>
+### Titre III : Mutuelles des militaires<a id=160></a>
 
-#### Chapitre unique<a id=160></a>
+#### Chapitre unique<a id=161></a>
 
 ###### Article R231-1
 
@@ -19895,13 +20398,13 @@ _Cite_:
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=161></a>
+## Livre III : Réparation des risques sociaux<a id=162></a>
 
-### Titre Ier : Règles générales<a id=162></a>
+### Titre Ier : Règles générales<a id=163></a>
 
-#### Chapitre unique<a id=163></a>
+#### Chapitre unique<a id=164></a>
 
-##### Section 2 : Caisse mutualiste de garantie<a id=164></a>
+##### Section 2 : Caisse mutualiste de garantie<a id=165></a>
 
 ###### Article R311-2
 
@@ -20726,9 +21229,9 @@ _Créé par_:
   - SPEC_APPLI: Code de la mutualité - art. R311-23 (M)
 
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=165></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=166></a>
 
-#### Chapitre Ier : Dispositions générales<a id=166></a>
+#### Chapitre Ier : Dispositions générales<a id=167></a>
 
 ###### Article R321-1
 
@@ -20929,7 +21432,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=167></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=168></a>
 
 ###### Article R323-1
 
@@ -21024,7 +21527,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=168></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=169></a>
 
 ###### Article R325-1
 
@@ -21157,11 +21660,11 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-## Livre IV : Action sociale<a id=169></a>
+## Livre IV : Action sociale<a id=170></a>
 
-### Titre unique<a id=170></a>
+### Titre unique<a id=171></a>
 
-#### Chapitre unique<a id=171></a>
+#### Chapitre unique<a id=172></a>
 
 ###### Article R411-1
 
@@ -21194,11 +21697,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=172></a>
+## Livre V : Relations avec les collectivités publiques<a id=173></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=173></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=174></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=174></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=175></a>
 
 ###### Article R511-1
 
@@ -21317,7 +21820,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=175></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=176></a>
 
 ###### Article R512-1
 
@@ -21444,9 +21947,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=176></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=177></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=177></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=178></a>
 
 ###### Article R513-1
 
@@ -21962,7 +22465,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=178></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=179></a>
 
 ###### Article R513-18
 
@@ -22105,7 +22608,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=179></a>
+##### Section 3 : Contentieux des opérations électorales<a id=180></a>
 
 ###### Article R513-25
 
@@ -22134,9 +22637,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=180></a>
+### Titre II : Incitation à l'action mutualiste<a id=181></a>
 
-#### Chapitre III : Subventions<a id=181></a>
+#### Chapitre III : Subventions<a id=182></a>
 
 ###### Article R523-1
 
@@ -22188,9 +22691,9 @@ _Cité par_:
   - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre IV : Dispositions pénales<a id=182></a>
+### Titre IV : Dispositions pénales<a id=183></a>
 
-#### Chapitre unique<a id=183></a>
+#### Chapitre unique<a id=184></a>
 
 ###### Article R541-1
 
@@ -22232,9 +22735,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=184></a>
+# Annexes<a id=185></a>
 
-## Annexe à l'article A114-4<a id=185></a>
+## Annexe à l'article A114-4<a id=186></a>
 
 ###### Article Annexe à l'article A114-4
 
@@ -22308,7 +22811,7 @@ _Cite_:
   - Code de la mutualité - art. L211-7
 
 
-## Annexes à l'article A114-5<a id=186></a>
+## Annexes à l'article A114-5<a id=187></a>
 
 ###### Article Annexe C1 à l'article A114-5
 
@@ -30507,7 +31010,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-7<a id=187></a>
+## Annexes à l'article A114-7<a id=188></a>
 
 ###### Article Annexe T1 à l'article A114-7
 
@@ -31956,7 +32459,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-9<a id=188></a>
+## Annexes à l'article A114-9<a id=189></a>
 
 ###### Article Annexe E1 à l'article A114-9
 
@@ -33764,7 +34267,7 @@ Total
 
 
 
-## Annexes à l'article A114-10<a id=189></a>
+## Annexes à l'article A114-10<a id=190></a>
 
 ###### Article Annexe 1 à l'article A114-10
 
@@ -33970,7 +34473,7 @@ _Cité par_:
   - Code de la mutualité - art. A114-10 (Ab)
 
 
-## Annexe à l'article A114-11<a id=190></a>
+## Annexe à l'article A114-11<a id=191></a>
 
 ###### Article Annexe à l'article A114-11
 
@@ -33982,19 +34485,21 @@ l'article R. 213-2, de calculer la marge ajustée de la même façon que les exi
 conglomérat financier, l'état G 2 n'est pas fourni et les informations prévues à cet état sont portées dans l'état G 20
 défini ci-après.
 
-b) Etat G 20. - Exigences complémentaires en matière d'adéquation des fonds propres :
+b) 
+  **Etat G 20**. - Exigences complémentaires en matière d'adéquation des fonds propres :
 
-Un premier tableau (non reproduit) indique les exigences de solvabilité du secteur financier définies au II de l'article A.
-213-11, en distinguant au minimum les exigences relatives au secteur des assurances de celles relatives au secteur bancaire
-et des services d'investissement.
+Un premier tableau indique les exigences de solvabilité du secteur financier définies au II de l'article A. 213-11, en
+distinguant au minimum les exigences relatives au secteur des assurances de celles relatives au secteur bancaire et des
+services d'investissement.
 
-Un second tableau (non reproduit) indique les fonds propres du conglomérat définis au I de l'article A. 213-11 avec leur
-décomposition par catégorie d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les éléments du
-secteur des assurances et ceux du secteur bancaire et des services d'investissement.
+Un second tableau indique les fonds propres du conglomérat définis au I de l'article A. 213-11 avec leur décomposition par
+catégorie d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les éléments du secteur des assurances
+et ceux du secteur bancaire et des services d'investissement.
 
-c) Etat G 21. - Concentrations de risques :
+c) 
+  **Etat G 21**. - Concentrations de risques :
 
-Tableau A : risque de contrepartie
+**Tableau A** : risque de contrepartie
 
 Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dessous, le montant agrégé des risques sur cette
 contrepartie, provenant notamment d'instruments financiers, de prêts, de garanties et cautions, de contrats d'assurance ou de
@@ -34007,6 +34512,63 @@ contrepartie est soit un organisme isolé, soit plusieurs organismes appartenant
 pour le secteur bancaire et des entreprises d'investissement d'autre part. A cette fin, il est considéré que la compagnie
 financière holding mixte appartient au secteur financier le plus important.
 
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓
+┃ NOM de la contrepartie               │ MONTANTS   │ DÉPRÉ-   │ MONTANTS NETS de │ DÉDUC-   │ RISQUES après   │ RISQUES    ┃
+┃                                      │ bruts      │ CIATION  │ provisions       │ TIONS    │ déduction       │ NETS       ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━┫
+┃ Contrepartie X                       │            │          │                  │          │                 │            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total du secteur des assurances      │            │          │                  │          │                 │            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total du secteur bancaire et des     │            │          │                  │          │                 │            ┃
+┃ services d'investissement            │            │          │                  │          │                 │            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ TOTAL                                │            │          │                  │          │                 │            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Contrepartie Y                       │            │          │                  │          │                 │            ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛
+</pre>
+
+
+**Tableau B** : risque de placement en actions et en immobilier
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                          │ VALEUR NETTE COMPTABLE des placements │ VALEUR NETTE COMPTABLE des placements  ┃
+┃                                          │ en actions                            │ immobiliers                            ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ Secteur des assurances                   │                                       │                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Secteur bancaire et des services d'in-   │                                       │                                        ┃
+┃ vestissement                             │                                       │                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total                                    │                                       │                                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+d) 
+  **Etat G 22.** - Transactions intragroupes importantes :
+
+Doit être déclarée toute transaction intragroupe dont le montant excède 5 % des exigences de solvabilité relatives au secteur
+financier du conglomérat financier. Pour chaque transaction intragroupe soumise à l'obligation de déclaration, sont indiquées
+les caractéristiques de la transaction, selon le modèle ci-après :
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Type de transaction │ Date │ Montant │ Description de l'opération (contreparties, sens, objectifs poursuivis...) ┃
+┗━━━━━━━━━━━━━━━━━━━━━┷━━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
+dans cet états comptables
+
+Doit également être déclaré tout ensemble de transactions intragroupes d'un même type lorsque leur montant total de ces
+transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
+indiqué le montant total des transactions.
+
 Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
 dans ces états comptables
 
@@ -34014,7 +34576,7 @@ Doit également être déclaré tout ensemble de transactions intragroupes d'un 
 transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
 indiqué le montant total des transactions.
 
-II. - La commission de contrôle définit, après consultation des autres autorités compétentes concernées et du conglomérat
+II. - L'Autorité de contrôle définit, après consultation des autres autorités compétentes concernées et du conglomérat
 financier, les seuils de déclaration appropriés.
 
 Après consultation des autres autorités compétentes concernées définies au 11° de l'article L. 212-7-1 et du conglomérat
@@ -34023,20 +34585,24 @@ conglomérat financier et de sa gestion des risques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2005-11-03 art. 3 JORF 15 novembre 2005
-
 _Cite_:
 
   - Code de la mutualité (nouveau) A114-10, R213-2, A213-11, R212-45, L212-7-1
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2014 - art. 18
 
 _Cité par_:
 
   - Code de la mutualité - art. A114-11 (Ab)
 
 
-## Annexes à l'article A211-3<a id=191></a>
+## Annexes à l'article A211-3<a id=192></a>
 
 ###### Article Annexe I
 
