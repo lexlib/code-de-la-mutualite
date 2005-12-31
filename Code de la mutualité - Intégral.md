@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -1582,7 +1582,7 @@ livre IX du code de la sécurité sociale, aux entreprises régies par le code d
 fédérations régies par le présent code ;
 
 3° Si une mesure définitive de faillite personnelle ou une autre mesure définitive d'interdiction prévue aux articles L.
-625-1 à L. 625-10 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967
+625-1 à L. 653-11 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967
 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes a été prononcée à son
 égard ou s'il a été déclaré pour une décision définitive de moins de dix ans en état de faillite par une juridiction
 étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ;
@@ -1618,7 +1618,7 @@ _Cite_:
   - Loi n°83-628 1983-07-12
   - Loi n°84-46 1984-01-24 art. 75, art. 77
   - Loi n°84-46 du 24 janvier 1984 - art. 77 (M)
-  - Code de commerce L625-1 à L625-10
+  - Code de commerce L625-1 à L653-11
   - Code de la consommation - art. L313-5 (M)
   - Code pénal - art. 432-11 (M)
   - Code pénal - art. 433-1 (M)
@@ -1643,7 +1643,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2004-1201 2004-11-12 art. 14 3° JORF 16 novembre 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 _Cité par_:
 
@@ -4519,14 +4519,14 @@ _Cité par_:
 
 ###### Article L212-15
 
-Le redressement ou la liquidation judiciaire institués par le livre VI du code de commerce ne peuvent être ouverts à l'égard
-des mutuelles et unions, régies par le présent livre qu'à la requête de la commission mentionnée à l'article L. 510-1 ; le
-tribunal peut également se saisir d'office ou, après avis conforme de la commission, être saisi d'une demande d'ouverture de
-cette procédure par le procureur de la République.
+Par dérogation aux articles L. 631-4, L. 631-5, L. 640-4 et L. 640-5 du code de commerce, une procédure de redressement ou de
+liquidation judiciaire ne peut être ouverte à l'égard des mutuelles et unions, régies par le présent livre qu'à la requête de
+la commission mentionnée à l'article L. 510-1 ; le tribunal peut également se saisir d'office ou, après avis conforme de la
+commission, être saisi d'une demande d'ouverture de cette procédure par le procureur de la République.
 
-Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par l'article L. 611-3 du
-code de commerce, à l'égard d'une mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de la commission
-mentionnée à l'article L. 510-1.
+Le président du tribunal ne peut être saisi d'une demande d'ouverture d'une procédure de conciliation instituée par l'article
+L. 611-4 du code de commerce ou d'une procédure de sauvegarde visée à l'article L. 620-1 du même code, à l'égard d'une
+mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de la commission mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
@@ -4534,9 +4534,18 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
+_Modifié par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 _Cite_:
 
-  - Code de commerce. - art. L611-3 (M)
+  - Code de commerce. - art. L611-4 (M)
+  - Code de commerce. - art. L620-1 (M)
+  - Code de commerce. - art. L631-4 (V)
+  - Code de commerce. - art. L631-5 (V)
+  - Code de commerce. - art. L640-4 (V)
+  - Code de commerce. - art. L640-5 (V)
   - Code de la mutualité - art. L510-1 (M)
 
 _Cité par_:
@@ -4560,8 +4569,8 @@ directement liés aux passifs, tels que les créances à l'égard des membres pa
 coassureurs.
 
 Le tribunal désigne parallèlement en tant que liquidateur, lors du jugement d'ouverture, un ou plusieurs mandataires de
-justice, qui peuvent être choisis en dehors de la liste des mandataires judiciaires au redressement et à la liquidation des
-entreprises. Ce liquidateur est chargé de l'inventaire des autres actifs et des opérations de liquidation.
+justice, qui peuvent être choisis en dehors de la liste des mandataires judiciaires. Ce liquidateur est chargé de
+l'inventaire des autres actifs et des opérations de liquidation.
 
 Le tribunal désigne par la même décision un juge-commissaire chargé de contrôler les opérations de liquidation ; ce juge est
 assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par la commission.
@@ -4574,7 +4583,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -4899,9 +4908,9 @@ l'exception de la nomination d'un administrateur provisoire ;
 2° La sanction prévue au 3° de l'article L. 510-11, le retrait partiel d'agrément prévu au 6° ou le transfert partiel de
 portefeuille prévu au 7° du même article ;
 
-3° Les procédures de règlement amiable visées au titre Ier du livre VI du code de commerce ;
+3° (abrogé)
 
-4° Les procédures de redressement judiciaire visées au titre II du livre VI du code de commerce.
+4° Les procédures de redressement judiciaire visées au livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -4909,15 +4918,16 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-504 du 7 juin 2004 - art. 3 () JORF 10 juin 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 174 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 _Cite_:
 
   - Code de la mutualité - art. L510-11 (M)
   - Code de la mutualité - art. L510-8 (M)
   - Code de la mutualité - art. L510-9 (M)
+  - Directive 2001-17 2001-03-19
 
 _Cité par_:
 
@@ -6681,7 +6691,7 @@ prévoir une possibilité de rachat intervenant lorsque se produisent l'un ou pl
 licenciement ;
 
 2° Cessation d'activité non salariée du membre participant à la suite d'un jugement de liquidation judiciaire en application
-des articles L. 622-1 à L. 623-9 du code de commerce ;
+en application du titre IV du livre VI du code de commerce ;
 
 3° Invalidité du membre participant correspondant au classement dans les deuxième ou troisième catégories prévues à l'article
 L. 341-4 du code de la sécurité sociale.
@@ -6716,9 +6726,12 @@ _Cité par_:
   - Code monétaire et financier - art. R561-16 (VD)
   - Code rural et de la pêche maritime - art. D741-39 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 _Cite_:
 
-  - Code de commerce L622-1 à L623-9
   - Code de la sécurité sociale. - art. L341-4 (V)
 
 
@@ -16924,9 +16937,9 @@ opérations, conservation des pièces comptables et présentation des comptes an
 2° De méconnaître les obligations ou interdictions résultant des articles R. 212-21, R. 212-27 et R. 212-49 et R. 510-9
 (dernier alinéa) ;
 
-3° De ne pas produire un programme de rétablissement, un plan de redressement ou un plan de financement à court terme
-prescrit conformément aux dispositions des articles R. 510-3, R. 510-4 et R. 510-5, ou de ne pas exécuter dans les conditions
-et délais prévus le plan qui a été approuvé ;
+3° De ne pas produire un programme de rétablissement, un plan de sauvegarde ou de redressement ou un plan de financement à
+court terme prescrit conformément aux dispositions des articles R. 510-3, R. 510-4 et R. 510-5, ou de ne pas exécuter dans
+les conditions et délais prévus le plan qui a été approuvé ;
 
 Pour l'application des pénalités édictées au présent chapitre, sont considérés comme dirigeants de mutuelles ou d'unions :
 les membres du conseil d'administration, les directeurs généraux, les directeurs et tout dirigeant de fait d'une mutuelle ou
@@ -16942,9 +16955,9 @@ _Cite_:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
