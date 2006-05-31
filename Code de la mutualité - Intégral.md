@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -128,7 +128,7 @@ Version Consolidée au 2006-03-24
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-1 à A114-11)](#125)
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-1 à A114-11)](#126)
         - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#127)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-4)](#128)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-6)](#128)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#129)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#130)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#131)
@@ -139,10 +139,10 @@ Version Consolidée au 2006-03-24
           - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#136)
           - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#137)
           - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#138)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-4)](#139)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-6)](#139)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#140)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-4)](#141)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-4)](#142)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-6)](#141)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-6)](#142)
     - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#143)
       - [Chapitre unique (art. A510-1 à A510-4)](#144)
         - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#145)
@@ -20078,6 +20078,77 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+
+###### Article A223-6
+
+L'encadré mentionné à l'article L. 223-8 est placé en tête de note d'information. Sa taille ne dépasse pas une page et il
+contient, de façon limitative et dans l'ordre précisé, les mentions suivantes :
+
+1° Il est indiqué s'il s'agit d'une opération individuelle ou d'une opération collective à adhésion facultative. Est
+également indiquée la référence à la mention prévue au troisième alinéa de l'article L. 223-8.
+
+2° Les garanties offertes, y compris les garanties complémentaires non optionnelles, sont indiquées, avec référence aux
+clauses les définissant ; il est précisé en particulier si le contrat prévoit le paiement d'un capital ou d'une rente.
+
+a) Pour les contrats dont les droits sont exprimés en euros ou en devises, il est indiqué si le contrat comporte une garantie
+en capital au moins égale aux sommes versées, nettes de frais.
+
+b) Pour les contrats dont les droits sont exprimés en unités de compte, il est indiqué en caractères très apparents que les
+montants investis sur les supports en unités de compte ne sont pas garantis mais sont sujets à des fluctuations à la hausse
+ou à la baisse dépendant en particulier de l'évolution des marchés financiers.
+
+c) Pour les contrats dont une part des droits sont exprimés en unités de compte, l'information sur les garanties offertes,
+effectuée conformément aux dispositions des présents a et b, distingue clairement les droits exprimés en unités de compte et
+ceux qui ne le sont pas.
+
+3° Sont indiqués l'existence ou non d'une participation aux excédents contractuelle ainsi que, le cas échéant, les
+pourcentages de celle-ci ; est également indiquée, le cas échéant, la référence à la clause de participation aux excédents.
+
+4° Il est indiqué que le contrat comporte une faculté de rachat ou de transfert. Cette indication est complétée par la
+mention : "les sommes sont versées par la mutuelle ou l'union dans un délai de... (délai de versement)"; sont également
+indiquées les références à la clause relative aux modalités de rachat et de transfert et au tableau mentionné à l'article L.
+223-8.
+
+5° Sont indiqués dans une même rubrique les frais et indemnités de toute nature ainsi que, le cas échéant, l'existence de
+frais pouvant être supportés par l'unité de compte. Il est renvoyé à une clause du bulletin d'adhésion, du contrat ou du
+prospectus simplifié pour le détail de ces derniers frais, et l'encadré le précise. Pour les frais et indemnités, la rubrique
+distingue :
+
+- "frais à l'entrée et sur versements" : montant ou pourcentage maximum des frais prélevés lors de la souscription et des
+frais prélevés lors du versement des cotisations ;
+
+- "frais en cours de vie du contrat": montant ou pourcentage maximum, sur base annuelle, des frais prélevés postérieurement à
+la souscription et non liés au versement des garanties ou des cotisations ;
+
+- "frais de sortie" : montant ou pourcentage maximum des frais sur quittances d'arrérages, indemnités de rachat ou de
+transfert ;
+
+- "autres frais": montant ou pourcentage maximum des frais et indemnités non mentionnés aux trois alinéas précédents.
+
+6° Est insérée la mention suivante : "La durée du contrat recommandée dépend notamment de la situation patrimoniale du membre
+participant, de son attitude vis-à-vis du risque, du régime fiscal en vigueur et des caractéristiques du contrat choisi. La
+personne morale souscriptrice "ou le membre participant" est invité à demander conseil auprès de sa mutuelle ou union."
+
+7° Sont indiquées les modalités de désignation des bénéficiaires. Est également indiquée la référence à la clause contenant
+les informations mentionnées à l'article L. 223-10-1.
+
+8° La mention suivante est insérée immédiatement après l'encadré :
+
+"Cet encadré a pour objet d'attirer l'attention de la personne morale souscriptrice [ou du membre participant] sur certaines
+dispositions essentielles de la note d'information. Il est important que la personne morale souscriptrice [ou le membre
+participant] lise intégralement la note et pose toutes les questions qu'il estime nécessaires avant de signer le contrat [ou
+le bulletin d'adhésion].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2006-05-15 art. 1 JORF 27 mai 2006 en vigueur le 1er juin 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) L223-8
 
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=143></a>
