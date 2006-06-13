@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-06-01
+Version Consolidée au 2006-06-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -181,18 +181,16 @@ Version Consolidée au 2006-06-01
           - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#178)
           - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#179)
           - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#180)
-      - [Titre II : Incitation à l'action mutualiste (art. R523-1 à R523-2)](#181)
-        - [Chapitre III : Subventions (art. R523-1 à R523-2)](#182)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#183)
-        - [Chapitre unique (art. R541-1)](#184)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#185)
-    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#186)
-    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#187)
-    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#188)
-    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#189)
-    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#190)
-    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#191)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#192)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#181)
+        - [Chapitre unique (art. R541-1)](#182)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#183)
+    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#184)
+    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#185)
+    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#186)
+    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E3 à l'article A114-9)](#187)
+    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#188)
+    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#189)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#190)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -23065,63 +23063,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre II : Incitation à l'action mutualiste<a id=181></a>
+### Titre IV : Dispositions pénales<a id=181></a>
 
-#### Chapitre III : Subventions<a id=182></a>
-
-###### Article R523-1
-
-Le ministre chargé de la mutualité et le ministre chargé des finances déterminent le programme d'expériences et de
-réalisations mutualistes pouvant donner lieu à subventions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Modifié par_:
-
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
-
-_Cité par_:
-
-  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
-
-
-###### Article R523-2
-
-L'Etat peut accorder aux mutuelles constituées entre les fonctionnaires, agents et employés de l'Etat et des établissements
-publics nationaux des subventions destinées notamment à développer leur action sociale et, dans les conditions fixées par
-arrêté du ministre chargé de la mutualité et du ministre chargé des finances, à participer à la couverture des risques
-sociaux assurée par ces mutuelles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-_Modifié par_:
-
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-_Abrogé par_:
-
-  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
-
-_Cité par_:
-
-  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
-
-
-### Titre IV : Dispositions pénales<a id=183></a>
-
-#### Chapitre unique<a id=184></a>
+#### Chapitre unique<a id=182></a>
 
 ###### Article R541-1
 
@@ -23163,9 +23107,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=185></a>
+# Annexes<a id=183></a>
 
-## Annexe à l'article A114-4<a id=186></a>
+## Annexe à l'article A114-4<a id=184></a>
 
 ###### Article Annexe à l'article A114-4
 
@@ -23239,7 +23183,7 @@ _Cite_:
   - Code de la mutualité - art. L211-7
 
 
-## Annexes à l'article A114-5<a id=187></a>
+## Annexes à l'article A114-5<a id=185></a>
 
 ###### Article Annexe C1 à l'article A114-5
 
@@ -31438,7 +31382,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-7<a id=188></a>
+## Annexes à l'article A114-7<a id=186></a>
 
 ###### Article Annexe T1 à l'article A114-7
 
@@ -32887,7 +32831,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-9<a id=189></a>
+## Annexes à l'article A114-9<a id=187></a>
 
 ###### Article Annexe E1 à l'article A114-9
 
@@ -34695,7 +34639,7 @@ Total
 
 
 
-## Annexes à l'article A114-10<a id=190></a>
+## Annexes à l'article A114-10<a id=188></a>
 
 ###### Article Annexe 1 à l'article A114-10
 
@@ -34901,7 +34845,7 @@ _Cité par_:
   - Code de la mutualité - art. A114-10 (Ab)
 
 
-## Annexe à l'article A114-11<a id=191></a>
+## Annexe à l'article A114-11<a id=189></a>
 
 ###### Article Annexe à l'article A114-11
 
@@ -35030,7 +34974,7 @@ _Cité par_:
   - Code de la mutualité - art. A114-11 (Ab)
 
 
-## Annexes à l'article A211-3<a id=192></a>
+## Annexes à l'article A211-3<a id=190></a>
 
 ###### Article Annexe I
 
