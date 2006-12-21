@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-12-13
+Version Consolidée au 2006-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -5485,11 +5485,18 @@ La prescription est portée à dix ans lorsque, pour les opérations mentionnée
 bénéficiaire n'est pas le membre participant et, dans les opérations relatives aux accidents atteignant les personnes,
 lorsque les bénéficiaires sont les ayants droit du membre participant décédé.
 
+Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2° , les actions du bénéficiaire sont prescrites au
+plus tard trente ans à compter du décès du membre participant.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
 
 _Cite_:
 
