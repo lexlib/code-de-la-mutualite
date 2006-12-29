@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-12-22
+Version Consolidée au 2006-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -12809,10 +12809,12 @@ correspondants évaluée conformément à l'article R. 212-54, ne font pas l'obj
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
 paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire.
 
-II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
-remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
-l'article R. 212-31, ou dont le débiteur est un établissement public national de l'un des Etats membres de la Communauté
-européenne ou parties à l'accord sur l'Espace économique européen.
+II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix d'un pays ou d'un
+ensemble de pays dont la devise est celle dans laquelle sont libellées ces obligations, avec garantie de remboursement au
+pair. Ces obligations sont soit émises par une personne morale de droit privé ayant son siège social sur le territoire d'un
+Etat membre de l'OCDE et négociées sur un marché reconnu, soit émises ou garanties par un Etat, un organisme ou une
+collectivité publics mentionnés au 1° du A de l'article R. 212-31, soit celles dont le débiteur est un établissement public
+national de l'un des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
 
 Pour le calcul de la différence à amortir entre le prix d'achat d'une obligation indexée sur le niveau général des prix et
 son prix de remboursement, celui-ci est le prix de remboursement initial du titre multiplié par le rapport entre l'indice des
@@ -12853,7 +12855,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1577 2006-12-11 art. 1 7° JORF 13 décembre 2006
+  - Décret n°2006-1724 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
 
 
 ###### Article R212-53
@@ -19695,22 +19697,22 @@ suivants :
 
 1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article.
 
-Toutefois, il est possible pour une institution d'utiliser une loi de maintien établie par ses soins et certifiée par un
-actuaire indépendant de cette institution, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité
-de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
+Toutefois, il est possible pour une mutuelle et union d'utiliser une loi de maintien établie par ses soins et certifiée par
+un actuaire indépendant de cette mutuelle et union, agréé à cet effet par l'une des associations d'actuaires reconnues par
+l'Autorité de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
 
 2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen des emprunts de l'Etat français calculé sur base
 semestrielle, sans pouvoir dépasser 4,5 %.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 2006-12-08 art. 1 JORF 30 décembre 2006
+
 **Liens**:
 
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Modifié par_:
-
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -19733,21 +19735,38 @@ comprennent la rémunération de celles-ci et sont établis d'après les éléme
 
 2° Une des tables suivantes :
 
-- table TD 88-90 pour les assurances en cas de décès et TV 88-90 pour les assurances en cas de vie établies sur la base des
-données publiées par l'Institut national de la statistique et des études économiques annexées au présent article et tables de
-génération pour les rentes viagères ;
+a) Tables homologuées par arrêté du ministre chargé de la mutualité, établies par sexe, sur la base de populations de membres
+participants et bénéficiaires pour les contrats de rente viagère, et sur la base de données publiées par l'Institut national
+de la statistique et des études économiques pour les autres contrats ;
 
-- tables établies par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par
-l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1.
+b) tables établies ou non par sexe par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à
+cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1.
 
-Pour les opérations de rentes viagères, les tarifs et les provisions techniques déterminés en utilisant les tables visées aux
-deuxième tiret du 2° ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables de génération visées au
-premier tiret du 2°.
+Les tables mentionnées au b sont établies d'après des données d'expérience de la mutuelle ou de l'union, ou des données
+d'expérience démographiquement équivalentes.
+
+Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous
+les membres participants, celle-ci correspond à la table appropriée conduisant au tarif le plus prudent.
+
+Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
+corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés.
+
+Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de
+mortalité annuel à l'âge ayant subi le décalage dans la table appropriée.
+
+Pour les opérations de rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats
+relevant du chapitre II bis du titre II du livre II, les tarifs et les provisions techniques déterminés en utilisant les
+tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables appropriées
+mentionnées au a.
 
 Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, la mutuelle ou l'union
-peut utiliser les tables visées au premier tiret du 2° avec une méthode forfaitaire dès lors que celle-ci est justifiable.
+peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est justifiable.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 2006-12-08 art. 2 JORF 30 décembre 2006
 
 **Liens**:
 
@@ -19760,10 +19779,6 @@ _Cité par_:
   - Arrêté du 8 décembre 2006 - art. 7 (M)
   - Arrêté du 8 décembre 2006 - art. 8 (M)
   - Arrêté du 8 décembre 2006 - art. 9 (M)
-
-_Modifié par_:
-
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -19797,29 +19812,70 @@ _Abrogé par_:
 ###### Article A212-12
 
 1° Les provisions mathématiques des opérations de capitalisation, d'assurance nuptialité-natalité, d'acquisition d'immeubles
-au moyen de la constitution de rentes viagères, d'assurance sur la vie dont les tarifs ont pris effet à partir du 1er janvier
-1997 sont calculées d'après des taux d'intérêt au plus égaux à ceux retenus pour l'établissement du tarif et, s'ils
-comportent un élément viager, d'après les tables de mortalité mentionnées à l'article A 212-10 ;
+au moyen de la constitution de rentes viagères, d'assurance sur la vie sont calculées d'après des taux d'intérêt au plus
+égaux à ceux retenus pour l'établissement du tarif et, s'ils comportent un élément viager et sous réserve du premier alinéa
+de l'article A. 212-13, d'après les tables de mortalité appropriées mentionnées à l'article A. 212-l0 en vigueur à l'époque
+de l'application du tarif ;
 
 2° La provision de gestion mentionnée au 4° de l'article R. 212-26 est dotée, à due concurrence de l'ensemble des charges de
 gestion future des contrats ou des règlements non couverts par des prélèvements sur cotisations ou par des prélèvements sur
 produits financiers prévus par ceux-ci ;
 
+Elle est déterminée dans les conditions suivantes :
+
+Pour chaque ensemble homogène de contrats, il est établi, au titre de chacun des exercices clos pendant la durée de ceux-ci,
+un compte prévisionnel des charges et des produits futurs de gestion. Pour l'établissement de ces comptes prévisionnels, sont
+pris en compte :
+
+a) Les produits correspondant aux chargements sur cotisation pour les cotisations périodiques, aux commissions de réassurance
+perçues pour couvrir les frais de gestion, et aux produits financiers disponibles après prise en compte des charges
+techniques et financières découlant de la réglementation et des clauses contractuelles. Les produits financiers sont calculés
+en appliquant le taux de rendement, ci-après défini, au montant moyen des provisions mathématiques de l'exercice.
+
+Ce taux de rendement est calculé au titre de chaque exercice, sur la base :
+
+- d'une part, du rendement hors plus-values des obligations et titres assimilés en portefeuille et présumés détenus jusqu'à
+leur échéance et, pour le réemploi des coupons et des obligations à échoir pendant les cinq premières années suivant
+l'exercice considéré, de 75 % du taux moyen semestriel des emprunts d'Etat, et, au-delà, de 60 % du taux moyen semestriel des
+emprunts d'Etat ;
+
+- d'autre part, pour les autres actifs, de 70 % du rendement hors plus-values du portefeuille obligataire constaté en moyenne
+sur l'exercice considéré et les deux exercices précédents ;
+
+b) Les charges correspondant aux frais d'administration, aux frais de gestion des sinistres et aux frais internes et externes
+de gestion des placements retenus pour l'évaluation de produits dans la limite des charges moyennes unitaires observées au
+titre de l'exercice considéré et des deux exercices précédents.
+
+Pour chaque ensemble homogène de contrats le taux estimé des rachats totaux ou partiels et des réductions ne pourra excéder
+80 % de la moyenne des sorties anticipées de contrats constatées sur les deux derniers exercices clos et sur l'exercice en
+cours.
+
+Pour chaque ensemble homogène de contrats, le montant de la provision est égal à la valeur actuelle des charges de gestion
+futures diminuée de la valeur actuelle des ressources futures issues des contrats, telles que définies ci-dessus. Le taux
+d'actualisation est, pour chaque exercice, le même que celui retenu pour le taux de rendement précédemment défini.
+
+La provision de gestion prévue à l'article R. 212-26 est la somme des provisions ainsi calculées.
+
 3° Les mutuelles et unions peuvent calculer les provisions mathématiques de leurs opérations en cours en appliquant lors de
-tous les inventaires annuels ultérieurs les bases techniques définies au présent article.
+tous les inventaires annuels ultérieurs les taux mentionnés au premier alinéa et les tables de mortalité appropriées en
+vigueur à la date de l'inventaire.
 
-Cette possibilité ne concerne pas les opérations conclues avant le 1er janvier 1997, pour lesquelles l'actif représentatif
-des engagements correspondants est isolé dans la comptabilité de la mutuelle ou de l'union et a été déterminé de manière à
-pouvoir procurer un taux de rendement supérieur d'au moins un tiers au taux d'intérêt du tarif.
+Cette possibilité ne concerne pas les opérations pour lesquelles l'actif représentatif des engagements correspondants est
+isolé dans la comptabilité de la mutuelle ou de l'union et a été déterminé de manière à pouvoir procurer un taux de rendement
+supérieur d'au moins un tiers au taux d'intérêt du tarif.
 
-Les mutuelles et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2003 inclus les effets de la
-modification des bases de calcul des provisions mathématiques.
+Pour l'application du présent 3°, les mutuelles et les unions peuvent répartir sur une période de huit ans au plus les effets
+de la modification des bases de calcul des provisions mathématiques.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+  - Arrêté 2006-12-08 art. 3 JORF 30 décembre 2006
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) A212-13, A212, R212-26
 
 **Liens**:
 
@@ -19829,28 +19885,40 @@ _Cité par_:
 
   - Arrêté du 22 avril 2004 - art. 15 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la mutualité (nouveau) A212-10, R212-26
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-13
 
 Les provisions mathématiques des opérations individuelles et collectives des rentes viagères en cours de service au 1er
-janvier 1997 ou liquidées à compter de cette date sont calculées en appliquant à ces opérations, lors de leurs inventaires
-annuels postérieurs à cette date, les bases techniques définies au 1° de l'article A. 212-12.
+janvier 2007 ou liquidées à compter de cette date sont calculées en appliquant à ces opérations, lors de leurs inventaires
+annuels postérieurs à cette date, les tables de mortalité appropriées mentionnées à l'article A. 212-10 applicables aux
+contrats de rente viagère souscrits a compter de cette même date.
 
 Pour la détermination des provisions mathématiques, les mutuelles et unions peuvent répartir sur une période allant jusqu'à
-l'exercice 2010 inclus les effets de l'utilisation des tables de génération mentionnées à l'article A. 212-10.
+l'exercice 2021 inclus les effets de l'utilisation des tables de génération homologuées par arrêté du ministre chargé de la
+mutualité.
 
-Les mutuelles et les unions devront néanmoins avoir atteint, à compter de l'exercice 2003, un niveau de provisionnement des
-rentes viagères supérieur ou égal à celui obtenu avec la table TV 88-90 mentionnée au 2° de l'article A. 212-10.
+Les mutuelles ou unions devront néanmoins avoir, d'ici au 31 décembre 2010, un niveau de provisionnement des contrats de
+rentes viagères, quelle que soit leur date de souscription, supérieur ou égal à celui obtenu avec la table de génération
+homologuée par arrêté du ministre de l'économie du 28 juillet 1993, lorsque ce niveau est inférieur à celui prévu au premier
+alinéa.
+
+Les dispositions des alinéas précédents ne font pas obstacle au pouvoir de l'autorité mentionnée à l'article L. 510-1
+d'exiger conformément à l'article R. 212-21 qu'une mutuelle ou union majore les provisions mathématiques mentionnées au
+premier alinéa, après examen des données d'expérience relatives à la population des membres participants et bénéficiaires.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Arrêté 1993-07-28
+
 _Modifié par_:
 
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+  - Arrêté 2006-12-08 art. 4 JORF 30 décembre 2006
 
 **Liens**:
 
@@ -19860,9 +19928,9 @@ _Cité par_:
 
   - Arrêté du 22 avril 2004 - art. 16 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la mutualité (nouveau) A212-12, A212-10
+  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A212-14
@@ -20166,6 +20234,8 @@ unions participantes visées à l'article R. 213-1 et des mutuelles ou unions vi
 de marge de solvabilité de l'organisme assureur à l'actif duquel ces actifs sont inscrits. Au-delà, les plus-values latentes
 sur actifs de ces organismes assureurs ne sont prises en compte qu'une fois déduits les droits à participations des assurés ;
 
+Pour les mutuelles ou unions relevant de l'article L. 111-1 ces droits sont calculés conformément à l'article R. 212-90 ;
+
 2. Les titres et emprunts subordonnés détenus en dehors de l'ensemble formé par les mutuelles ou unions et les organismes
 auxquels elles sont apparentées ou subordonnées dans la mesure où ils sont admis à contribuer à la constitution de la marge
 de solvabilité de l'organisme assureur au passif duquel ils sont inscrits. Toutefois, l'Autorité de contrôle mentionnée à
@@ -20187,13 +20257,17 @@ organismes dont le siège est situé dans un Etat exerçant des restrictions aux
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code de la mutualité (nouveau) R213-1, R213-5, L510-1
-
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+  - Arrêté 2006-12-08 art. 10 JORF 30 décembre 2006
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité (nouveau) R213-1, R213-5, L111-1, R212-90, L510-1
 
 
 ###### Article A213-2
@@ -20651,21 +20725,20 @@ paragraphe IV ci-après.
 IV. - Les calculs de la provision mathématique théorique mentionnée à l'article R. 222-16, des équivalences actuarielles
 prévues à l'article R. 222-15 et de la répartition des droits prévue au second alinéa de l'article R. 222-21 sont effectués à
 l'aide d'un taux d'intérêt au plus égal à 60 % du taux moyen des emprunts de l'Etat français, calculé sur une base
-semestrielle, sans pouvoir excéder 3,5 % et en utilisant une des tables de mortalité prévues au 2° du premier alinéa de
-l'article A. 212-10.
+semestrielle, sans pouvoir excéder 3,5 % et en utilisant les tables de mortalité appropriées mentionnées à l'article A.
+212-10 applicables aux contrats de rente viagère souscrits à compter du 1er janvier 2007.
 
-La provision mathématique théorique ne peut être inférieure à celle qui résulterait de l'utilisation des tables prévues au
-premier tiret du 2° du premier alinéa de l'article A. 212-10.
+Les mutuelles et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2015 inclus les effets sur le calcul
+de la provision mathématique théorique du changement de taux d'intérêt utilisé pour ce calcul.
 
-Les mutuelles et les unions peuvent répartir sur une période allant jusqu'en 2015 les effets sur le calcul de la provision
-mathématique théorique des dispositions du premier alinéa, sans que le taux d'actualisation utilisé puisse excéder le taux de
-rendement de l'actif affecté à la couverture de la provision technique spéciale prévue à l'article R. 222-8.
+Les mutuelles ou unions peuvent répartir sur une période de quinze ans au plus les effets sur le niveau de la provision
+mathématique théorique résultant de l'utilisation des tables mentionnées au premier alinéa du IV.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-05-02 art. 1, art. 2 JORF 5 mai 2002
+  - Arrêté 2006-12-08 art. 6 JORF 30 décembre 2006
 
 **Liens**:
 
