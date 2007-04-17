@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-03-08
+Version Consolidée au 2007-04-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 2007-03-08
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. R114-1 à R114-8)](#61)
         - [Section 3 : Assemblée générale. (art. R114-1 à R114-2)](#62)
         - [Section 5 : Dispositions relatives aux fonctions d'administrateur. (art. R114-4 à R114-8)](#63)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-4)](#64)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-5)](#64)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R213-11)](#65)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. R211-1 à R211-31)](#66)
           - [Section 1 : Dispositions générales. (art. R211-1)](#67)
@@ -82,7 +82,7 @@ Version Consolidée au 2007-03-08
           - [Section 7 : Instruments financiers à terme. (art. R212-70 à R212-83)](#79)
           - [Section 8 : Comptes et états statistiques. (art. R212-90)](#80)
         - [Chapitre III : Surveillance complémentaire (art. R213-1 à R213-11)](#81)
-      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-4)](#82)
+      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-5)](#82)
         - [Chapitre Ier : Dispositions générales. (art. R221-1 à R221-2)](#83)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. R222-1 à R222-22)](#84)
           - [Section 1 : Contenu du règlement. (art. R222-1 à R222-6)](#85)
@@ -90,8 +90,8 @@ Version Consolidée au 2007-03-08
           - [Section 3 : Conversion du règlement. (art. R222-19 à R222-22)](#87)
         - [Chapitre II bis : Retraite professionnelle supplémentaire. (art. R222-23 à R222-34)](#88)
         - [Chapitre II ter : Dispositions relatives aux comptabilités auxiliaires d'affectation. (art. R222-35 à R222-43)](#89)
-        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-4)](#90)
-          - [Section 1 : Dispositions générales (art. R223-1 à R223-4)](#91)
+        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-5)](#90)
+          - [Section 1 : Dispositions générales (art. R223-1 à R223-5)](#91)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R421-4)](#92)
       - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#93)
         - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#94)
@@ -15890,6 +15890,35 @@ _Modifié par_:
 _Cité par_:
 
   - Code de la mutualité - art. A223-4 (V)
+
+
+###### Article R223-5
+
+I. – Les organismes professionnels représentatifs mentionnés au deuxième alinéa de l'article L. 223-10-1 avisent les autres
+organismes professionnels habilités, en vertu du premier alinéa de l'article L. 132-9-2 du code des assurances, des lettres
+qu'ils reçoivent en application du deuxième alinéa de l'article L. 223-10-1. 
+
+II. – Les mutuelles et unions agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine
+susceptibles d'être concernées par la demande mentionnée au troisième alinéa de l'article L. 223-10-1 invitent dès réception
+de cette demande l'auteur de celle-ci à leur fournir les éléments nécessaires à son identification et à celle de l'assuré. 
+
+Le délai d'un mois mentionné au troisième alinéa de l'article L. 223-10-1 court à compter de la réception de ces éléments par
+ces mutuelles et unions agréées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Décret n°2007-564 du 16 avril 2007 - art. 1 () JORF 18 avril 2007
+
+_Cite_:
+
+  - Code des assurances - art. L132-9-2 (V)
+  - Code de la mutualité - art. L223-10-1 (V)
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=92></a>
