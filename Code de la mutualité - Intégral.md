@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -21165,6 +21165,22 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+
+###### Article A223-5
+
+La Fédération nationale de la mutualité française est habilitée à exercer les compétences d'organisme professionnel
+représentatif prévues aux deuxième et troisième alinéas de l'article L. 223-10-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2007-05-23 art. 1 JORF 19 mai 2007
+
+_Cite_:
+
+  - Code de la mutualité - art. L223-10-1 (V)
 
 
 ###### Article A223-6
