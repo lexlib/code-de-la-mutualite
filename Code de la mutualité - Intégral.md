@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-09-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -36,7 +36,7 @@ Version Consolidée au 2007-09-01
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. L222-1 à L222-2)](#33)
         - [Chapitre II bis : Retraite professionnelle supplémentaire. (art. L222-3 à L222-11)](#34)
         - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. L223-1 à L223-27)](#35)
-          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25)](#36)
+          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25-1)](#36)
           - [Section 2 : Dispositions particulières à certaines opérations collectives vie. (art. L223-26)](#37)
           - [Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat. (art. L223-27)](#38)
         - [Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé. (art. L224-1 à L224-9)](#39)
@@ -6268,8 +6268,8 @@ auxiliaire d'affectation unique pour l'ensemble des opérations relevant de la p
 
 Toutefois, les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à
 l'article L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts,
-celles mentionnées au VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, sont établies
-séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa précédent.
+celles mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité
+auxiliaire d'affectation mentionnée à l'alinéa précédent.
 
 L'autorité de contrôle instituée à l'article L. 510-1 peut également exiger que la mutuelle ou union établisse séparément de
 la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à
@@ -6284,8 +6284,8 @@ autre Etat membre ou dans autre Etat partie à l'accord sur l'Espace économique
 _Cite_:
 
   - CGI 163 quatervicies
-  - Loi n°2003-775 2003-08-21 art. 108
   - Code monétaire et financier - art. L321-2 (M)
+  - Code des assurances - art. L144-2 (V)
   - Code des assurances - art. L310-12-7 (V)
   - Code de la mutualité - art. L222-3 (V)
   - Code de la mutualité - art. L510-1 (M)
@@ -6294,9 +6294,9 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
 
 _Cité par_:
 
@@ -6684,13 +6684,13 @@ jours calendaires révolus à compter du moment où il est informé que l'adhés
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les bulletins
 d'adhésion ou les contrats en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle et
-notamment, pour les plans d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant
-réforme des retraites, les valeurs de transfert ainsi que, dans le même tableau, la somme des cotisations versées au terme de
-chacune des huit premières années au moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et explique le
-mécanisme de calcul des valeurs de rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union
-doit, en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles des règlements incluant,
-lorsque le contrat comporte des garanties exprimées en unités de compte, les caractéristiques principales de ces unités de
-compte, sur les conditions d'exercice de la faculté de renonciation.
+notamment, pour les plans d'épargne retraite populaire créés à l'article L. 144-2 du code des assurances, les valeurs de
+transfert ainsi que, dans le même tableau, la somme des cotisations versées au terme de chacune des huit premières années au
+moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et explique le mécanisme de calcul des valeurs de
+rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union doit, en outre, remettre, contre
+récépissé, une note d'information sur les dispositions essentielles des règlements incluant, lorsque le contrat comporte des
+garanties exprimées en unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions
+d'exercice de la faculté de renonciation.
 
 Pour les opérations collectives facultatives, la note précise que les droits et obligations du membre participant peuvent
 être modifiés par des avenants aux bulletins d'adhésion ou contrats. Les modalités d'adoption de ces avenants par l'employeur
@@ -6718,8 +6718,8 @@ Un arrêté du ministre chargé de la mutualité précise les modalités d'appli
 
 **Nota:**
 
-NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots
-"plans d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots "
+plans d'épargne retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -6727,14 +6727,13 @@ _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Cite_:
-
-  - Loi n°2003-775 2003-08-21 art. 108
-
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+
+_Cite_:
+
+  - Code des assurances - art. L144-2 (V)
 
 _Cité par_:
 
@@ -7100,7 +7099,7 @@ La mutuelle ou l'union communique chaque année au membre adhérent dont les cap
 montant fixé par arrêté du ministre chargé de la mutualité :
 
 - le montant de la valeur de rachat ou la valeur de transfert de son plan d'épargne retraite populaire tel que défini à
-l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée (1) ;
+l'article L. 144-2 du code des assurances ;
 
 - le cas échéant, le montant de la valeur de réduction ;
 
@@ -7117,7 +7116,7 @@ compte. Ces modifications sont précisées par arrêté du ministre chargé de l
 Ces montants ne peuvent tenir compte de participations aux excédents qui ne seraient pas attribuées à titre définitif.
 
 La mutuelle ou l'union indique en termes précis et clairs dans cette communication ce que signifient les opérations de
-rachat, de transfert (1) et de réduction et quelles sont leurs conséquences légales et contractuelles.
+rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
 
 Lorsque les capitaux garantis sont inférieurs au montant défini au premier alinéa, les informations définies au présent
 article sont communiquées pour une année donnée au membre adhérent qui en fait la demande.
@@ -7126,26 +7125,14 @@ La garantie fait référence à l'obligation d'information prévue aux alinéas 
 
 **Nota:**
 
-NOTA (1) : Loi 2003-775 du 21 août 2003 article 108 XVI : ces dispositions entrent en vigueur le 1er janvier 2004.
-
-NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-21 du présent code, les
-mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-21 du présent code, les mots "
+plan d'épargne retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
-
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
-  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
-  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
-
-_Cite_:
-
-  - Loi n°2003-775 2003-08-21 art. 108
 
 _Cité par_:
 
@@ -7156,6 +7143,14 @@ _Cité par_:
   - Code de la mutualité - art. A223-7 (VD)
   - Code de la mutualité - art. L223-21 (V)
   - Code de la mutualité - art. R223-10 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+
+_Cite_:
+
+  - Code des assurances - art. L144-2 (V)
 
 
 ###### Article L223-22
@@ -7270,6 +7265,35 @@ _Codifié par_:
 _Cite_:
 
   - Code de la mutualité - art. L221-14 (V)
+
+
+###### Article L223-25-1
+
+Les mutuelles ou unions peuvent proposer les opérations mentionnées au chapitre IV du titre IV du livre Ier du code des
+assurances, dans les conditions fixées par ledit chapitre.
+
+**Nota:**
+
+Loi 2006-1770 du 30 décembre 2006 art. 65 VI : le présent article entre en vigueur 9 mois après la publication de la présente
+loi au Journal officiel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
+
+_Créé par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+
+_Cite_:
+
+  - Code des assurances -  Chapitre IV : Contrats de prévoyance et de retr... (V)
+
+_Cité par_:
+
+  - Code de la mutualité - art. L222-3 (VT)
 
 
 ##### Section 2 : Dispositions particulières à certaines opérations collectives vie.<a id=37></a>
@@ -15502,8 +15526,8 @@ _Créé par_:
 ###### Article R222-35
 
 Le présent chapitre s'applique aux contrats pour lesquels il est tenu une comptabilité auxiliaire d'affectation ne relevant
-pas de l'article L. 222-1 ou de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Il est
-établi, pour chaque comptabilité auxiliaire :
+pas de l'article L. 222-1 ou de l'article L. 144-2 du code des assurances. Il est établi, pour chaque comptabilité
+auxiliaire :
 
 a) Un compte de résultat d'affectation ;
 
@@ -15526,15 +15550,19 @@ l'article R. 212-37.
 _Cite_:
 
   - Code de la mutualité (nouveau) L222-1, annexe, R222-37, R222-38, R212-37
-  - Loi n°2003-775 2003-08-21 art. 108
+  - Code des assurances - art. L144-2 (V)
 
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R222-36
