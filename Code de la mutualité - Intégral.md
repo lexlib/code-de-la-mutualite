@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -2779,26 +2779,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de la mutualité - art. L114-18 (V)
-
-
-###### Article L115-7
-
-Un décret en Conseil d'Etat établit des statuts types propres aux mutuelles constituées dans les armées et détermine les
-dispositions de ces statuts types qui ont un caractère obligatoire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
-
-_Cité par_:
-
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
-
-_Abrogé par_:
-
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
 
 
 ###### Article L115-8
