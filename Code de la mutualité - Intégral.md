@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-06-19
+Version Consolidée au 2008-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -549,6 +549,83 @@ _Cité par_:
 _Cite_:
 
   - Code rural L727-2
+
+
+###### Article L111-4-2
+
+Les unions mutualistes de groupe désignent les entreprises qui ne sont pas des compagnies financières holding mixtes, au sens
+de l'article L. 212-7-1, et dont l'activité principale consiste à prendre et à gérer des participations, au sens du 2° du
+même article L. 212-7-1, dans des entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de
+l'article L. 310-1-1 du code des assurances, ou dans des entreprises d'assurance ou de réassurance dont le siège social est
+situé hors de France, ou à nouer et à gérer des liens de solidarité financière importants et durables avec des mutuelles ou
+unions régies par le livre II du présent code, des institutions de prévoyance ou unions régies par le titre III du livre IX
+du code de la sécurité sociale, des sociétés d'assurance mutuelle régies par le code des assurances, ou des entreprises
+d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège social dans un Etat
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.L'union
+mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est une mutuelle ou union relevant du
+livre II du présent code. 
+
+Les mutuelles et unions relevant du présent code disposent d'au moins la moitié des sièges à l'assemblée générale et au
+conseil d'administration. Toute clause contraire des statuts entraîne la nullité de la constitution de l'union mutualiste de
+groupe. 
+
+Lorsque l'union mutualiste de groupe a, avec un organisme affilié au sens du 4° de l'article L. 212-7-1, des liens de
+solidarité financière importants et durables qui ne résultent pas de participations au sens du 2° du même article L. 212-7-1,
+ces liens sont définis par une convention d'affiliation. 
+
+Une mutuelle ou union ne peut s'affilier à une union mutualiste de groupe que si ses statuts en prévoient expressément la
+possibilité. 
+
+Les conditions de fonctionnement de l'union mutualiste de groupe sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 168
+
+_Cité par_:
+
+  - Arrêté du 3 novembre 2014 - art. 5 (VD)
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+  - Code de commerce - art. L820-1 (V)
+  - Code de la mutualité - art. L114-1 (V)
+  - Code de la mutualité - art. L114-21 (V)
+  - Code de la mutualité - art. L211-14 (V)
+  - Code de la mutualité - art. L212-7 (V)
+  - Code de la mutualité - art. L221-19 (VD)
+  - Code de la mutualité - art. R115-1 (V)
+  - Code de la mutualité - art. R115-3 (V)
+  - Code de la mutualité - art. R115-6 (V)
+  - Code de la sécurité sociale. - art. L931-15-1 (VD)
+  - Code de la sécurité sociale. - art. L931-2-1 (V)
+  - Code de la sécurité sociale. - art. L931-2-2 (V)
+  - Code des assurances - art. L311-1 (V)
+  - Code des assurances - art. L322-1-2 (V)
+  - Code des assurances - art. L322-1-3 (V)
+  - Code des assurances - art. L322-1-5 (M)
+  - Code des assurances - art. L322-26-8 (V)
+  - Code des assurances - art. L345-2 (V)
+  - Code des assurances - art. R345-1-1 (V)
+  - Code des assurances - art. R345-1-3 (V)
+  - Code des assurances - art. R345-1-4 (V)
+  - Code des assurances - art. R356-30-1 (VD)
+  - Code monétaire et financier - art. D533-11 (VD)
+  - Code monétaire et financier - art. D533-13 (VD)
+  - Code monétaire et financier - art. L420-16 (VD)
+  - Code monétaire et financier - art. L511-34 (VD)
+  - Code monétaire et financier - art. L517-2 (VD)
+  - Code monétaire et financier - art. L561-20 (V)
+  - Code monétaire et financier - art. L561-33 (V)
+  - Code monétaire et financier - art. L561-4-1 (V)
+  - Code monétaire et financier - art. L612-2 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
+  - Code de la mutualité - art. L212-7-1
 
 
 ###### Article L111-5
@@ -1403,35 +1480,31 @@ _Cité par_:
 
 ###### Article L114-12
 
-I. - Lorsqu'elle se prononce sur la modification des statuts, les activités exercées, les montants ou taux de cotisation, la
+I.-Lorsqu'elle se prononce sur la modification des statuts, les activités exercées, les montants ou taux de cotisation, la
 délégation de pouvoir prévue à l'article L. 114-11, les prestations offertes, le transfert de portefeuille, les principes
 directeurs en matière de réassurance, la fusion, la scission, la dissolution ou la création d'une mutuelle ou d'une union,
 l'assemblée générale des mutuelles, unions et fédérations ne délibère valablement que si le nombre de ses membres présents,
-représentés ou ayant fait usage de la faculté de vote par correspondance lorsque celle-ci est prévue par les statuts, est au
-moins égal à la moitié du total des membres.
+représentés ou ayant fait usage de la faculté de vote par correspondance dans les conditions prévues par l'article L. 114-13,
+est au moins égal à la moitié du total des membres. 
 
 Si, lors de la première convocation, l'assemblée générale n'a pas réuni le quorum fixé à l'alinéa précédent, une seconde
 assemblée générale peut être convoquée qui délibère valablement si le nombre de ses membres présents, représentés ou ayant
-fait usage de la faculté de vote par correspondance lorsque celle-ci est prévue par les statuts, représente au moins le quart
-du total des membres. Les décisions sont adoptées à la majorité des deux tiers des membres présents et représentés ou des
-suffrages exprimés, selon les modalités fixées par les statuts.
+fait usage de la faculté de vote par correspondance dans les conditions prévues par l'article L. 114-13, représente au moins
+le quart du total des membres. Les décisions sont adoptées à la majorité des deux tiers des membres présents et représentés
+ou des suffrages exprimés, selon les modalités fixées par les statuts. 
 
-II. - Pour l'exercice des attributions autres que celles mentionnées au I du présent article, l'assemblée générale ne
-délibère valablement que si le nombre de ses membres présents, représentés ou ayant fait usage de la faculté de vote par
-correspondance lorsque celle-ci est prévue par les statuts, est au moins égal au quart du total des membres.
+II.-Pour l'exercice des attributions autres que celles mentionnées au I du présent article, l'assemblée générale ne délibère
+valablement que si le nombre de ses membres présents, représentés ou ayant fait usage de la faculté de vote par
+correspondance dans les conditions prévues par l'article L. 114-13, est au moins égal au quart du total des membres. 
 
 Si, lors de la première convocation, l'assemblée générale n'a pas réuni le quorum fixé à l'alinéa précédent, une seconde
 assemblée générale peut être convoquée qui délibère valablement quel que soit le nombre de ses membres présents, représentés
-ou ayant fait usage de la faculté de vote par correspondance lorsque celle-ci est prévue par les statuts.
+ou ayant fait usage de la faculté de vote par correspondance dans les conditions prévues par l'article L. 114-13. 
 
 Exception faite des modifications statutaires qui sont adoptées à la majorité des deux tiers des membres, les décisions sont
 adoptées à la majorité simple des membres, ou des suffrages exprimés, selon les modalités fixées par les statuts.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
 
 _Cité par_:
 
@@ -1444,17 +1517,28 @@ _Cité par_:
   - Code de la mutualité - art. L310-2 (V)
   - Code de la mutualité - art. R114-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 169
+
+_Cite_:
+
+  - Code de la mutualité - art. L114-11
+  - Code de la mutualité - art. L114-13
+
 
 ###### Article L114-13
 
 Tout membre de l'assemblée générale autre que les délégués peut voter par procuration ou par correspondance selon des
 modalités définies par décret en Conseil d'Etat.
 
+Les statuts peuvent, dans les conditions qu'ils définissent, autoriser les délégués à voter par procuration.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Loi n°2008-776 du 4 août 2008 - art. 169
 
 _Cité par_:
 
@@ -1834,31 +1918,45 @@ _Cite_:
 
 ###### Article L114-23
 
-I. - Une même personne ne peut appartenir simultanément à plus de cinq conseils d'administration de mutuelles, unions et
-fédérations.
+I.-Une même personne ne peut appartenir simultanément à plus de cinq conseils d'administration de mutuelles, unions et
+fédérations. 
 
-II. - Le président du conseil d'administration ne peut exercer simultanément, en plus de son mandat de président, que quatre
+II.-Le président du conseil d'administration ne peut exercer simultanément, en plus de son mandat de président, que quatre
 mandats d'administrateur, dont au plus deux mandats de président du conseil d'administration d'une fédération ou d'une union
 ou d'une mutuelle. Dans le décompte des mandats de président, ne sont pas pris en compte ceux détenus dans les mutuelles ou
-unions créées en application des articles L. 111-3 et L. 111-4.
+unions créées en application des articles L. 111-3 et L. 111-4. 
 
-III. - Dans le décompte des mandats mentionnés aux I et II ne sont pas pris en compte ceux détenus dans les mutuelles ou
-unions créées en application des articles L. 111-3 et L. 111-4.
+III.-Dans le décompte des mandats mentionnés aux I et II ne sont pas pris en compte ceux détenus dans les mutuelles ou unions
+créées en application des articles L. 111-3 et L. 111-4. 
 
-IV. - Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions des I et II
-doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est réputée
+III bis.-Dans le décompte des mandats mentionnés aux I et II, sont pris en compte pour un seul mandat ceux détenus dans des
+organismes mutualistes faisant partie d'un ensemble soumis à l'obligation d'établir des comptes consolidés ou combinés dans
+les conditions prévues à l'article L. 212-7. 
+
+III ter.-Dans le décompte des mandats mentionnés aux I et II, ne sont pas pris en compte ceux détenus dans les fédérations
+définies à l'article L. 111-5 et les unions qui ne relèvent ni du livre II ni du livre III, investies d'une mission
+spécifique d'animation ou de représentation. 
+
+IV.-Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions des I et II
+doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats.A l'expiration de ce délai, elle est réputée
 s'être démise de son mandat le plus récent, sans que soit, de ce fait, remise en cause la validité des délibérations
 auxquelles elle a pris part.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
-
 _Cité par_:
 
   - Rapport - art. 5 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 170
+
+_Cite_:
+
+  - Code de la mutualité - art. L111-3
+  - Code de la mutualité - art. L111-5
+  - Code de la mutualité - art. L212-7
 
 
 ###### Article L114-24
