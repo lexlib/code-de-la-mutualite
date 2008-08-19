@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-08-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -116,14 +116,14 @@ Version Consolidée au 2008-08-06
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-10)](#113)
         - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#114)
         - [Section 6 : Dispositions financières et comptables. (art. D114-10)](#115)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D223-1)](#116)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D223-2)](#116)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. D212-1 à D212-8)](#117)
         - [Chapitre II : Fonctionnement (art. D212-1 à D212-8)](#118)
           - [Section 1 : Régime financier et comptable (art. D212-1 à D212-4)](#119)
           - [Section 2 : Combinaison des comptes (art. D212-5 à D212-8)](#120)
-      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1)](#121)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1)](#122)
-          - [Section 1 : Dispositions générales (art. D223-1)](#123)
+      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1 à D223-2)](#121)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1 à D223-2)](#122)
+          - [Section 1 : Dispositions générales (art. D223-1 à D223-2)](#123)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#124)
       - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#125)
         - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#126)
@@ -19303,6 +19303,19 @@ _Créé par_:
 _Cite_:
 
   - Code de la mutualité - art. L223-9 (V)
+
+
+###### Article D223-2
+
+La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la valeur de rachat du contrat est inférieure à
+la moitié du montant brut mensuel du salaire minimum de croissance applicable en métropole, calculé sur la base de la durée
+légale hebdomadaire du travail, en vigueur au 1er juillet précédant la date à laquelle la réduction est demandée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-785 du 18 août 2008 - art. 1
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=124></a>
