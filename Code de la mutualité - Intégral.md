@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-12-31
+Version Consolidée au 2009-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-4)](#2)
@@ -190,7 +190,7 @@ Version Consolidée au 2008-12-31
           - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#187)
       - [Titre IV : Dispositions pénales (art. R541-1)](#188)
         - [Chapitre unique (art. R541-1)](#189)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe III)](#190)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe à l'article A212-14)](#190)
     - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#191)
     - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#192)
     - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#193)
@@ -198,6 +198,7 @@ Version Consolidée au 2008-12-31
     - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#195)
     - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#196)
     - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#197)
+    - [Annexe à l'article A212-14 (art. Annexe à l'article A212-14)](#198)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -7284,15 +7285,15 @@ bénéficiaire.
 Tant que l'acceptation n'a pas eu lieu, le droit de révoquer cette stipulation n'appartient qu'au stipulant et ne peut être
 exercé de son vivant ni par ses créanciers ni par ses représentants légaux. Lorsqu'une curatelle ou une tutelle a été ouverte
 à l'égard du stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de famille
-s'il a été constitué. 
+s'il a été constitué.
 
 Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses héritiers qu'après l'exigibilité de la somme
 assurée et au plus tôt trois mois après que le bénéficiaire de la garantie a été mis en demeure, par acte extrajudiciaire,
-d'avoir à déclarer s'il accepte. 
+d'avoir à déclarer s'il accepte.
 
 L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
 condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
-contraire ne résulte des termes de la stipulation. 
+contraire ne résulte des termes de la stipulation.
 
 II. Tant que le membre participant et le stipulant sont en vie, l'acceptation est faite par un avenant signé de la mutuelle
 ou de l'union, du stipulant et du bénéficiaire. Elle peut également être faite par un acte authentique ou sous seing privé,
@@ -7304,24 +7305,19 @@ Lorsque la désignation du bénéficiaire est faite à titre gratuit, l'acceptat
 
 Après le décès du membre participant ou du stipulant, l'acceptation est libre.
 
-**Nota:**
-
-Loi 2007-1775 du 17 décembre 2007 art. 8 : Les dispositions du présent article s'appliquent aux contrats en cours n'ayant pas
-encore, à la date de publication de la présente loi, donné lieu à acceptation du bénéficiaire.
-
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2001-350 2001-04-19
 
 _Modifié par_:
 
-  - Loi n°2007-1775 du 17 décembre 2007 - art. 8
+  - Loi n°2007-308 du 5 mars 2007 - art. 30 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-
-_Cite_:
-
-  - Code de la mutualité - art. L223-7-1 (V)
 
 
 ###### Article L223-12
@@ -21452,19 +21448,32 @@ _Abrogé par_:
 Si, lors de l'inventaire, le taux de rendement réel des actifs d'une mutuelle ou d'une union, diminué d'un cinquième, est
 inférieur au quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participation aux
 excédents dans des conditions définies par arrêté des opérations de la mutuelle ou de l'union, par le montant moyen des
-provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants :
+provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants : 
 
-1° Les provisions mathématiques recalculées avec le taux de rendement réel de la mutuelle ou de l'union diminué du
-cinquième ;
+1° Les provisions mathématiques recalculées en actualisant les paiements futurs à un taux déterminé suivant l'une des trois
+méthodes suivantes : 
 
-2° Les provisions mathématiques à l'inventaire.
+a) Un taux unique égal à 60 % du taux moyen des emprunts de l'Etat français calculé sur base semestrielle ; 
+
+b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenne pondérée, par le montant au bilan de chacune
+des catégories d'actifs auxquels ils se rapportent, des taux suivants :
+
+- pour les obligations non arrivées à terme à la date d'échéance considérée, le taux moyen visé au a ;
+
+- pour les autres actifs, coupons et amortissements d'obligation, 75 % du taux moyen visé au a si la date d'échéance
+considérée est inférieure à cinq ans, 60 % de ce taux moyen sinon ; 
+
+c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle, un taux égal au taux de rendement futur prudemment
+estimé des actifs affectés à la représentation des engagements réglementés. 
+
+2° Les provisions mathématiques à l'inventaire. 
 
 Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
 financiers mentionnée au 5° de l'article R. 212-26. Cette provision est reprise dans les comptes de la mutuelle ou de l'union
-à l'inventaire suivant.
+à l'inventaire suivant. 
 
 Les opérations en unité de compte ainsi que les opérations collectives relevant de l'article L. 222-1 ne sont pas concernées
-par ces dispositions.
+par ces dispositions. 
 
 Le taux de rendement réel des actifs est égal au rapport :
 
@@ -21478,15 +21487,16 @@ admis en représentation des provisions techniques, à l'exception des valeurs r
 
 _Modifié par_:
 
-  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+  - Arrêté du 22 décembre 2008 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) R212-26, L222-1
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+  - Code de la mutualité - art. L222-1
+  - Code de la mutualité - art. R212-26
 
 
 ##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=145></a>
@@ -37268,5 +37278,49 @@ engagements d'autres organismes mutualistes (en euros)
 _Créé par_:
 
   - Arrêté du 6 février 2002 - art. 1
+
+
+## Annexe à l'article A212-14<a id=198></a>
+
+###### Article Annexe à l'article A212-14
+
+Pour le calcul du b du 1° de l'article A. 212-14, le tableau suivant pourra être utilisé pour le calcul des taux de rendement
+par échéance :
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                         ┃               ┃ EXER-  ┃ N +1           ┃ k = N + i pour i = 2, 3, 4 ┃ k = N + i pour i ¹ 5     ┃
+┃                         ┃               ┃ CICE N ┃                ┃ et 5                       ┃                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Obligations             ┃ (A)           ┃ A(N)   ┃ A(N + 1)       ┃ A(k)                       ┃ A(k)                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Obligations amorties et ┃ (B)           ┃        ┃ A(N + 1) -     ┃ B(k) = A(k) - A(k - 1)     ┃ B(k) = A(k) - A(k - 1)   ┃
+┃ arrivées à terme dans   ┃               ┃        ┃ A(N)           ┃                            ┃                          ┃
+┃ l'année                 ┃               ┃        ┃                ┃                            ┃                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Coupons de l'année      ┃ (C) = TME *   ┃        ┃ A(N + 1) * TME ┃ C(k) = A(k) * TME          ┃ C(k) = A(k) * TME        ┃
+┃                         ┃ (A)           ┃        ┃                ┃                            ┃                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Coupons et réinvestis-  ┃ (D)           ┃        ┃ B(N + 1) * (1  ┃ D(k) = (B(k) + C(k - 1) +  ┃ D(k) = (B(k) + C(k - 1)  ┃
+┃ sements d'obligations   ┃               ┃        ┃ + 75 % * TME)  ┃ D(k - 1) * (1 + 75 % *     ┃ + D(k - 1) * (1 + 60 % * ┃
+┃ capitalisés             ┃               ┃        ┃                ┃ TME)                       ┃ TME)                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Autres actifs           ┃ (E)           ┃ E(N)   ┃ E(N) * (1 + 75 ┃ E(k) = E(k - 1) * (1 + 75  ┃ E(k) = E(k - 1) * (1 +   ┃
+┃                         ┃               ┃        ┃ % * TME)       ┃ % * TME)                   ┃ 60 % * TME)              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total actif             ┃ (F)=(A) + (C) ┃ F(N)   ┃ F(N + 1)       ┃ F(k)                       ┃ F(k)                     ┃
+┃                         ┃ + (D) + (E)   ┃        ┃                ┃                            ┃                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rendement               ┃ (G)           ┃        ┃ F(N + 1)/F(N)  ┃ F(k)/F(k - 1) - 1          ┃ F(k)/F(k - 1) - 1        ┃
+┃                         ┃               ┃        ┃ - 1            ┃                            ┃                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┻━━━━━━━━┻━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 22 décembre 2008 - art. 2
 
 
