@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-03-19
+Version Consolidée au 2009-03-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -145,7 +145,7 @@ Version Consolidée au 2009-03-19
           - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#142)
           - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#143)
           - [Section 3 (art. A212-10 à A212-14)](#144)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-20)](#145)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-24-1)](#145)
           - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#146)
           - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#147)
       - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-6)](#148)
@@ -21756,6 +21756,64 @@ _Abrogé par_:
 _Cite_:
 
   - Code de la mutualité (nouveau) L111-1
+
+
+###### Article A212-24
+
+Au sens du présent article, est appelée duration du passif d'une mutuelle ou d'une union de mutuelles une estimation prudente
+de l'échéance moyenne pondérée des paiements futurs relatifs aux engagements réglementés. Cette estimation doit être un
+nombre entier et ne peut être supérieure à 8. 
+
+Cette duration est calculée annuellement pour l'application de l'article A. 212-24-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 11 mars 2009 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de la mutualité - art. A212-24-1 (Ab)
+
+
+###### Article A212-24-1
+
+Lorsque la mutuelle ou l'union de mutuelles décide d'appliquer les dispositions de l'article R. 212-24, elle mouvemente un
+compte dont le solde ne peut à aucun moment être créditeur de la manière suivante : 
+
+a) Ce compte est débité d'une somme égale au montant de la dotation à la provision pour risque d'exigibilité de l'exercice. 
+
+b) Les reprises de provisions pour risque d'exigibilité font l'objet, pour un même montant, d'un crédit de ce compte ; 
+
+c) A la fin de chaque exercice, ce compte est également crédité d'une fraction de la moins-value latente globale mentionnée à
+l'article R. 212-24. Cette fraction est égale à : 
+
+1 / d, 
+
+où d est la duration des passifs mentionnée à l'article A. 212-24. 
+
+Lorsque la mutuelle ou l'union de mutuelles décide de ne plus appliquer les dispositions de l'article R. 212-24-1, ce compte
+est intégralement soldé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 11 mars 2009 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la mutualité - art. A212-24 (Ab)
+  - Code de la mutualité - art. R212-24-1
 
 
 ##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=146></a>
