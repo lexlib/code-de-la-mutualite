@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -205,12 +205,12 @@ Version Consolidée au 2010-04-01
 ###### Article L111-1
 
 I.-Les mutuelles sont des personnes morales de droit privé à but non lucratif. Elles acquièrent la qualité de mutuelle et
-sont soumises aux dispositions du présent code à dater de leur immatriculation              dans les conditions fixées par
-décret en Conseil d'Etat. Elles mènent, notamment au moyen des cotisations versées par leurs membres, et dans l'intérêt de
-ces derniers et de leurs ayants droit, une action de prévoyance, de solidarité et d'entraide, dans les conditions prévues par
-leurs statuts, afin de contribuer au développement culturel, moral, intellectuel et physique de leurs membres et à
-l'amélioration de leurs conditions de vie. Ces statuts définissent leur objet social, leur champ d'activité et leurs
-modalités de fonctionnement, conformément aux dispositions du présent code. 
+sont soumises aux dispositions du présent code à dater de leur immatriculation dans les conditions fixées par décret en
+Conseil d'Etat. Elles mènent, notamment au moyen des cotisations versées par leurs membres, et dans l'intérêt de ces derniers
+et de leurs ayants droit, une action de prévoyance, de solidarité et d'entraide, dans les conditions prévues par leurs
+statuts, afin de contribuer au développement culturel, moral, intellectuel et physique de leurs membres et à l'amélioration
+de leurs conditions de vie. Ces statuts définissent leur objet social, leur champ d'activité et leurs modalités de
+fonctionnement, conformément aux dispositions du présent code. 
 
 Les mutuelles peuvent avoir pour objet : 
 
@@ -235,8 +235,8 @@ l'enfance, de la famille, des personnes âgées, dépendantes ou handicapées ;
 
 4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 211-3 à L.
 211-7, L. 381-8, L. 381-9, L. 611-3, L. 712-6 à L. 712-8 du code de la sécurité sociale et des articles L. 723-2, L. 731-30 à
-L. 731-34, L. 741-23 et L. 742-3 du code rural et d'assurer la gestion d'activités et de prestations sociales pour le compte
-de l'Etat ou d'autres collectivités publiques. 
+L. 731-34, L. 741-23 et L. 742-3 du code rural et de la pêche maritime et d'assurer la gestion d'activités et de prestations
+sociales pour le compte de l'Etat ou d'autres collectivités publiques. 
 
 Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en réassurance. 
 
@@ -329,17 +329,19 @@ _Cité par_:
   - Code monétaire et financier - art. L612-3 (VD)
   - Code monétaire et financier - art. L745-1-1 (VT)
 
-_Modifié par_:
-
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
 _Cite_:
 
-  - Code de la sécurité sociale.
-  - Code de la sécurité sociale. - art. L381-8
-  - Code de la sécurité sociale. - art. L381-9
-  - Code de la sécurité sociale. - art. L611-3
-  - Code rural L723-2, L731-30 à L731-34, L741-23, L742-3
+  - Arrêté du 18 janvier 2008 (V)
+  - Code rural - art. L723-2 (V)
+  - Code rural - art. L731-30 (V)
+  - Code de la sécurité sociale. - art. L211-3 (V)
+  - Code de la sécurité sociale. - art. L381-8 (V)
+  - Code de la sécurité sociale. - art. L611-3 (V)
+  - Code de la sécurité sociale. - art. L712-6 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article L111-1-1
@@ -509,7 +511,7 @@ _Cite_:
 Les statuts d'une union peuvent prévoir l'ouverture de cette union à des organismes relevant des catégories suivantes :
 
 1° Institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du
-code rural ;
+code rural et de la pêche maritime ;
 
 2° Sociétés d'assurances mutuelles relevant du code des assurances ;
 
@@ -535,13 +537,9 @@ Les conditions de fonctionnement de l'union de groupe mutualiste sont fixées pa
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -835,14 +833,22 @@ _Cité par_:
 ###### Article L112-3
 
 Les mutuelles qui gèrent des régimes obligatoires de sécurité sociale en application du code de la sécurité sociale et du
-code rural sont régies par le code de la mutualité, sous réserve des dispositions législatives, réglementaires et statutaires
-qui sont propres à la gestion de ces régimes.
+code rural et de pêche maritime sont régies par le code de la mutualité, sous réserve des dispositions législatives,
+réglementaires et statutaires qui sont propres à la gestion de ces régimes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2017-734 du 4 mai 2017 - art. 1
+
+_Nouveaux textes_:
+
+  - Code de la mutualité - art. L110-5 (V)
 
 
 ###### Article L112-4
@@ -3837,8 +3843,8 @@ _Cite_:
 ###### Article L212-7
 
 I.-Constituent un groupe les mutuelles ou unions qui forment entre elles ou avec des institutions de prévoyance régies par le
-livre IX du code de la sécurité sociale ou l'article L. 727-2 du code rural ou avec des entreprises d'assurance relevant du
-code des assurances ou de réassurance, un ensemble correspondant à l'un des cas suivants : 
+livre IX du code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche maritime ou avec des entreprises
+d'assurance relevant du code des assurances ou de réassurance, un ensemble correspondant à l'un des cas suivants : 
 
 1° Ces organismes ont soit une direction commune, soit des services communs assez étendus pour engendrer une politique
 commerciale, technique ou financière commune ; 
@@ -3897,7 +3903,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -3933,9 +3939,9 @@ participation est détenue, soit un organisme lié à un autre organisme par une
 d'un organisme ; 
 
 6° L'expression : " organisme assureur " désigne toute mutuelle ou union relevant du présent livre, institution de prévoyance
-régie par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural, ou entreprise
-d'assurance ou de réassurance régie par le code des assurances, ainsi que les entreprises d'assurance et de réassurance dont
-le siège est situé hors de France ; 
+régie par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural et de la pêche
+maritime, ou entreprise d'assurance ou de réassurance régie par le code des assurances, ainsi que les entreprises d'assurance
+et de réassurance dont le siège est situé hors de France ; 
 
 7° L'expression " groupe financier " désigne un ensemble d'organismes composé d'un organisme de référence, de ses organismes
 subordonnés et des entités dans lesquelles l'organisme de référence ou ses organismes subordonnés détiennent des
@@ -4000,7 +4006,7 @@ et les règles concernant la surveillance complémentaire instituée à l'articl
 
 _Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -4306,14 +4312,14 @@ Les mutuelles et unions ainsi que leurs succursales peuvent être autorisées, d
 à transférer tout ou partie de leur portefeuille d'opérations, avec ses droits et obligations et couvrant des risques ou des
 engagements situés sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
 économique européen, à une ou plusieurs des mutuelles ou unions régies par le présent code, à une ou plusieurs des
-institutions de prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du code rural, et à une ou
-plusieurs des entreprises d'assurance régies par le code des assurances ou dont l'Etat d'origine est membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent également être autorisées à effectuer ces
-transferts auprès des succursales des organismes visés ci-dessus et établies sur le territoire d'un Etat membre de la
-Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent également être
-autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi dans un Etat qui n'est pas
-partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée dans l'Etat du risque ou de
-l'engagement, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
+institutions de prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche
+maritime, et à une ou plusieurs des entreprises d'assurance régies par le code des assurances ou dont l'Etat d'origine est
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent également être
+autorisées à effectuer ces transferts auprès des succursales des organismes visés ci-dessus et établies sur le territoire
+d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent
+également être autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi dans un Etat
+qui n'est pas partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée dans l'Etat du
+risque ou de l'engagement, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
 Dans tous les cas, le nouvel assureur doit respecter les garanties concernant les activités transférées, telles que la
 mutuelle ou l'union les avaient établies.
@@ -4372,7 +4378,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -4386,10 +4392,10 @@ _Cite_:
 Les mutuelles et unions ainsi que leurs succursales exerçant une activité de réassurance peuvent être autorisées, dans les
 conditions définies au présent article, à transférer tout ou partie de leur portefeuille de contrats ou de sinistres à payer
 à une ou plusieurs mutuelles ou unions régies par le présent code, à une ou plusieurs institutions de prévoyance régies par
-le code de la sécurité sociale ou l'article L. 727-2 du code rural et à une ou plusieurs entreprises de réassurance ou
-d'assurance ayant leur siège social en France, dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen ou à leurs succursales établies sur le territoire de l'Espace économique
-européen.
+le code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche maritime et à une ou plusieurs entreprises
+de réassurance ou d'assurance ayant leur siège social en France, dans un autre Etat membre de la Communauté européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen ou à leurs succursales établies sur le territoire de
+l'Espace économique européen.
 
 L'autorité administrative n'approuve le transfert sollicité que si les autorités compétentes de l'Etat où le cessionnaire a
 son siège social attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire. 
@@ -4398,9 +4404,9 @@ La mutuelle, l'union ou la succursale qui transfère son portefeuille en informe
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -8325,8 +8331,8 @@ articles L. 111-3 et L. 111-4 ;
 b) Tiers agissant pour le compte des personnes citées au a ci-dessus ;
 
 c) Mutuelles ou unions relevant du présent code, entreprises régies par le code des assurances, institutions de prévoyance
-régies par le code de la sécurité sociale ou le code rural, sauf lorsqu'il s'agit de contrats souscrits au profit de leurs
-salariés ou de leurs membres participants ou de leurs clients ;
+régies par le code de la sécurité sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de contrats
+souscrits au profit de leurs salariés ou de leurs membres participants ou de leurs clients ;
 
 d) Organismes entrant dans le périmètre de consolidation ou de combinaison des comptes défini à l'article L. 212-7, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs membres participants, et administrateurs et dirigeants
@@ -8341,10 +8347,6 @@ g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le c
 adhérents.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
 
 _Cité par_:
 
@@ -8370,6 +8372,11 @@ _Cité par_:
   - Code des assurances - art. R385-1 (V)
   - Code monétaire et financier - art. L612-46 (V)
   - Code monétaire et financier - art. L631-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 _Cite_:
 
@@ -18416,15 +18423,16 @@ Les indemnités correspondant à la perte de leurs gains versées en application
 ayant la qualité de travailleurs indépendants auxquels des attributions permanentes ont été confiées peuvent être attribuées,
 au titre d'une année donnée, dans les organismes mutualistes qui, en moyenne annuelle au cours des trois derniers exercices,
 comptent au moins cinq mille membres participants recensés, ont encaissé au moins un million d'euros de cotisations ou ont
-employé au moins dix salariés en équivalent temps plein.
+employé au moins dix salariés en équivalent temps plein. 
 
 Les indemnités visées au premier alinéa versées au titre d'une année sont calculées sur la base du temps consacré par ces
 administrateurs à l'exercice de ces fonctions et du montant de leurs revenus professionnels de l'avant-dernière année
-déterminés en application des dispositions de l'article L. 131-6 du code de la sécurité sociale ou L. 731-14 du code rural,
-justifiés par la communication à l'organisme mutualiste d'une copie de déclaration de revenus professionnels correspondante.
+déterminés en application des dispositions de l'article L. 131-6 du code de la sécurité sociale ou L. 731-14 du code rural et
+de la pêche maritime, justifiés par la communication à l'organisme mutualiste d'une copie de déclaration de revenus
+professionnels correspondante. 
 
 Le montant annuel de l'indemnité ne peut excéder une limite égale au montant du plafond prévu au premier alinéa de l'article
-L. 241-3 du code de la sécurité sociale pour l'année considérée.
+L. 241-3 du code de la sécurité sociale pour l'année considérée. 
 
 Cette limite est toutefois portée à deux fois le montant du plafond mentionné au premier alinéa de l'article L. 241-3 du code
 de la sécurité sociale, pour les organismes qui, en moyenne annuelle au cours des trois derniers exercices, comptent au moins
@@ -18433,15 +18441,16 @@ cinquante salariés en équivalent temps plein.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2006-06-02 art. 1 JORF 17 juin 2006
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
-  - Code de la mutualité (nouveau) L114-26
-  - Code de la sécurité sociale. - art. L131-6 (M)
-  - Code de la sécurité sociale. - art. L241-3 (M)
+  - Code rural - art. L731-14 (V)
+  - Code de la sécurité sociale. - art. L131-6 (V)
+  - Code de la sécurité sociale. - art. L241-3 (VT)
+  - Code de la mutualité - art. L114-26 (V)
 
 
 #### Section 6 : Dispositions financières et comptables<a id=133></a>
