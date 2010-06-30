@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -35,10 +35,10 @@ Version Consolidée au 2010-05-08
           - [Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur. (art. L221-18)](#32)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. L222-1 à L222-2)](#33)
         - [Chapitre II bis : Retraite professionnelle supplémentaire. (art. L222-3 à L222-11)](#34)
-        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. L223-1 à L223-27)](#35)
-          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25-1)](#36)
+        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. L223-1 à L223-28)](#35)
+          - [Section 1 : Dispositions générales. (art. L223-1 à L223-25-3)](#36)
           - [Section 2 : Dispositions particulières à certaines opérations collectives vie. (art. L223-26)](#37)
-          - [Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat. (art. L223-27)](#38)
+          - [Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat. (art. L223-27 à L223-28)](#38)
         - [Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé. (art. L224-1 à L224-9)](#39)
           - [Section 1 : Protection juridique. (art. L224-1 à L224-7-1)](#40)
           - [Section 2 : Principe indemnitaire. (art. L224-8 à L224-9)](#41)
@@ -7288,6 +7288,68 @@ _Cité par_:
   - Code de la mutualité - art. L222-3 (VT)
 
 
+###### Article L223-25-2
+
+Toutes les informations, y compris les communications à caractère promotionnel, relatives à une opération individuelle
+comportant des valeurs de rachat, à une opération de capitalisation ou à une opération collective mentionnée à l'article L.
+222-1 ou à l'article L. 223-1, présentent un contenu exact, clair et non trompeur. Les communications à caractère
+promotionnel sont clairement identifiées comme telles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 7
+
+_Cite_:
+
+  - Code de la mutualité - art. L222-1
+  - Code de la mutualité - art. L223-1
+
+
+###### Article L223-25-3
+
+I. – Avant la conclusion d'une opération individuelle comportant des valeurs de rachat, d'une opération de capitalisation, ou
+avant l'adhésion à une opération collective mentionnée à l'article L. 223-1 ou à l'article L. 222-1, la mutuelle ou l'union
+régie par les dispositions du livre II ou tout intermédiaire au sens des articles L. 116-1 et suivants, précise les exigences
+et les besoins exprimés par le souscripteur ou l'adhérent ainsi que les raisons qui motivent le conseil fourni quant à une
+garantie déterminée. Ces précisions, qui reposent en particulier sur les éléments d'information communiqués par le
+souscripteur ou l'adhérent concernant sa situation financière et ses objectifs de souscription, sont adaptées à la complexité
+de l'opération d'assurance ou de capitalisation proposée.
+
+Pour l'application de l'alinéa précédent, la mutuelle ou l'union régie par les dispositions du livre II s'enquiert auprès du
+souscripteur ou de l'adhérent de ses connaissances et de son expérience en matière financière et tient compte de tous autres
+éléments que celui-ci a porté à sa connaissance.
+
+Lorsque le souscripteur ou l'adhérent ne donne pas les informations mentionnées aux deux premiers alinéas, la mutuelle ou
+l'union, régie par les dispositions du livre II, les met en garde préalablement à la souscription de la garantie.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du I.
+
+II. – Les dispositions du I ne sont pas applicables à la mutuelle ou l'union lorsque la conclusion du contrat ou l'adhésion à
+celui-ci est faite sur présentation, proposition ou avec l'aide d'un intermédiaire mentionné à l'article L. 116-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 7
+
+_Abrogé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L116-1
+  - Code de la mutualité - art. L222-1
+  - Code de la mutualité - art. L223-1
+
+_Cité par_:
+
+  - Code de la mutualité - art. R223-6 (V)
+
+
 ##### Section 2 : Dispositions particulières à certaines opérations collectives vie.<a id=37></a>
 
 ###### Article L223-26
@@ -7349,6 +7411,63 @@ _Cite_:
   - Code de la mutualité - art. L221-17 (V)
   - Code de la mutualité - art. L221-7 (V)
   - Code de la mutualité - art. L221-8 (V)
+
+
+###### Article L223-28
+
+I. – Pour les opérations à adhésion facultative, la notice remise par le souscripteur à l'adhérent lors de l'adhésion inclut,
+outre les informations mentionnées à l'article L. 221-6 :
+
+a) La dénomination sociale et les coordonnées du souscripteur ;
+
+b) Les stipulations essentielles de la convention ;
+
+c) La mention que les droits et obligations de l'adhérent peuvent être modifiés par des avenants à ladite convention ainsi
+que les modalités d'adoption de ces avenants par le souscripteur ;
+
+d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de lettre destiné à faciliter l'exercice de
+cette faculté de renonciation ;
+
+e) Les modalités de la conversion de la convention en rentes viagères selon les conditions fixées par arrêté du ministre
+chargé de la mutualité ;
+
+Un arrêté du même ministre précise les informations qui doivent figurer dans cette notice, notamment au regard des
+stipulations essentielles de la convention.
+
+II. – Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de
+plein droit la prorogation du délai de renonciation prévu à l'article L. 223-8.
+
+III. – Pour les opérations à adhésion facultative, lorsque les droits acquis par l'adhérent sont représentés par une
+provision mathématique théorique égale ou supérieure à un montant fixé par arrêté du ministre chargé de la mutualité, le
+souscripteur est tenu de communiquer, chaque année, à l'adhérent les informations suivantes :
+
+a) Le montant de la cotisation de l'adhésion ;
+
+b) Les valeurs d'acquisition de l'unité de rente ;
+
+c) Le montant total des droits acquis exprimés en nombre d'unité de rente ;
+
+d) La valeur de service de l'unité de rente à un âge déterminé et son évolution depuis l'année précédente, ainsi que les
+coefficients de surcote et de décote correspondant à une liquidation différée ou anticipée par rapport à l'âge de référence ;
+
+e) Lorsque la convention prévoit une réduction du nombre d'unités de rente en cas de cessation du paiement des primes ou
+cotisations, les conditions de cette réduction et le nombre d'unités de rente qui en résulte ;
+
+f) Pour les opérations dont les prestations sont liées à la cessation d'activité professionnelle, le montant de la valeur de
+transfert.
+
+Il est également indiqué que les comptes de la convention sont tenus à la disposition de l'adhérent sur simple demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 6
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-6
+  - Code de la mutualité - art. L223-8
 
 
 #### Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé.<a id=39></a>
