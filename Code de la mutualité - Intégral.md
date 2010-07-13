@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-07-03
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -1656,7 +1656,10 @@ e) De la liste des mandats et fonctions exercés par chacun des administrateurs 
 f) Des transferts financiers entre mutuelles et unions ;
 
 g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les modalités de répartition pour l'année écoulée
-de la participation aux excédents.
+de la participation aux excédents ;
+
+h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du code de commerce lorsque les conditions
+prévues au sixième alinéa du même article sont remplies.  
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés, lorsque la
 mutuelle, l'union ou la fédération fait partie d'un groupe au sens de l'article L. 212-7, ainsi qu'un rapport sur la gestion
@@ -1665,15 +1668,16 @@ du groupe qu'il communique à l'assemblée générale.
 Il établit également, lorsque la mutuelle ou l'union relève du livre II, le rapport de solvabilité visé à l'article L. 212-3
 et un état annuel annexé aux comptes et relatif aux plus-values latentes, visé à l'article L. 212-6.
 
+**Nota:**
+
+Loi n° 2010-788 du 13 juillet 2010 article 225  VII : Ces présentes dispositions sont applicables aux exercices clos à
+compter du 1er janvier 2011.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+  - Loi n°2010-788 du 12 juillet 2010 - art. 225
 
 _Cité par_:
 
@@ -1689,9 +1693,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L114-26 (M)
-  - Code de la mutualité - art. L212-6 (V)
-  - Code de la mutualité - art. L212-7 (M)
+  - Code de la mutualité - art. L114-26
+  - Code de la mutualité - art. L212-6
+  - Code de la mutualité - art. L212-7
 
 
 ###### Article L114-17-1
