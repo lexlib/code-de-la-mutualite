@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-10-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -1635,38 +1635,37 @@ _Cite_:
 
 ###### Article L114-17
 
-Le conseil d'administration détermine les orientations de l'organisme et veille à leur application.
+Le conseil d'administration détermine les orientations de l'organisme et veille à leur application. 
 
 Le conseil d'administration opère les vérifications et contrôles qu'il juge opportuns et se saisit de toute question
 intéressant la bonne marche de l'organisme. Chaque administrateur reçoit toutes les informations nécessaires à
 l'accomplissement de sa mission et se fait communiquer les documents qu'il estime utiles.
 
 A la clôture de chaque exercice, le conseil d'administration arrête les comptes annuels et établit un rapport de gestion
-qu'il présente à l'assemblée générale et dans lequel il rend compte :
+qu'il présente à l'assemblée générale et dans lequel il rend compte : 
 
-a) Des prises de participation dans des sociétés soumises aux dispositions du livre II du code de commerce ;
+a) Des prises de participation dans des sociétés soumises aux dispositions du livre II du code de commerce ; 
 
-b) De la liste des organismes avec lesquels la mutuelle ou l'union constitue un groupe au sens de l'article L. 212-7 ;
+b) De la liste des organismes avec lesquels la mutuelle ou l'union constitue un groupe au sens de l'article L. 212-7 ; 
 
 c) De l'ensemble des sommes versées en application de l'article L. 114-26 ; un rapport distinct, certifié par le commissaire
 aux comptes et également présenté à l'assemblée générale, détaille les sommes et avantages de toute nature versées à chaque
-administrateur ;
+administrateur ; 
 
-d) De l'ensemble des rémunérations versées aux dirigeants salariés ;
+d) De l'ensemble des rémunérations versées aux dirigeants salariés ; 
 
-e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ;
+e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ; 
 
-f) Des transferts financiers entre mutuelles et unions ;
+f) Des transferts financiers entre mutuelles et unions ; 
 
 g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les modalités de répartition pour l'année écoulée
-de la participation aux excédents ;
+de la participation aux excédents ; 
 
-h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du code de commerce lorsque les conditions
-prévues au sixième alinéa du même article sont remplies.  
+h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du code de commerce. 
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés, lorsque la
 mutuelle, l'union ou la fédération fait partie d'un groupe au sens de l'article L. 212-7, ainsi qu'un rapport sur la gestion
-du groupe qu'il communique à l'assemblée générale.
+du groupe qu'il communique à l'assemblée générale. 
 
 Il établit également, lorsque la mutuelle ou l'union relève du livre II, le rapport de solvabilité visé à l'article L. 212-3
 et un état annuel annexé aux comptes et relatif aux plus-values latentes, visé à l'article L. 212-6.
@@ -1677,10 +1676,6 @@ Loi n° 2010-788 du 13 juillet 2010 article 225  VII : Ces présentes dispositio
 compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-788 du 12 juillet 2010 - art. 225
 
 _Cité par_:
 
@@ -1693,6 +1688,11 @@ _Cité par_:
   - Code de la mutualité - art. L211-5 (V)
   - Code de la mutualité - art. L212-3 (VT)
   - Code de la mutualité - art. R114-6 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 225 (V)
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 32
 
 _Cite_:
 
@@ -3347,8 +3347,8 @@ _Cité par_:
 ###### Article L211-7
 
 Les mutuelles et unions soumises aux dispositions du présent livre ne peuvent commencer leurs opérations qu'après avoir
-obtenu un agrément délivré par   l'Autorité de contrôle prudentiel compétente, après avis du Conseil supérieur de la
-mutualité mentionné à l'article L. 411-1.
+obtenu un agrément délivré par l'Autorité de contrôle prudentiel , après avis du Conseil supérieur de la mutualité mentionné
+à l'article L. 411-1.
 
 L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les opérations d'une ou plusieurs branches ou sous-
 branches d'activité. La mutuelle ou l'union ne peut pratiquer que les opérations pour lesquelles elle est agréée. 
@@ -3411,7 +3411,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
 
 
 ###### Article L211-7-1
@@ -3444,7 +3444,7 @@ _Cité par_:
 
 I.-Les mutuelles et unions mentionnées au II de l'article L. 111-1-1, qui ont pour activité exclusive la réassurance et dont
 le siège social est situé en France, ne peuvent commencer leurs opérations qu'après avoir obtenu un agrément délivré par
-l'autorité administrative compétente, après avis du Conseil supérieur de la mutualité. 
+l'autorité administrative , après avis du Conseil supérieur de la mutualité. 
 
 Elles ne peuvent pratiquer que les opérations pour lesquelles elles sont agréées.
 
@@ -3493,9 +3493,13 @@ _Cité par_:
   - Code monétaire et financier - art. L517-2 (V)
   - Code monétaire et financier - art. L612-43 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
 
 _Cite_:
 
@@ -4432,13 +4436,21 @@ _Cite_:
 ###### Article L212-12
 
 Lorsque les opérations de fusion ou de scission comportent des transferts de portefeuille dans les conditions prévues à
-l'article précédent, elles sont menées conformément à la procédure définie au même article.
+l'article L. 212-11, elles sont menées conformément à la procédure définie au même article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L212-11
 
 
 ###### Article L212-13
@@ -4903,9 +4915,9 @@ d'assurance.
 Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles affectent les droits préexistants des parties
 autres que l'organisme d'assurance lui-même : 
 
-1° Les mesures mentionnées aux 2°, 3° et 4° de l'article L. 612-37 du code monétaire et financier ; 
+1° Les mesures mentionnées aux 2°, 3° et 4° de l'article L. 612-33 du code monétaire et financier ; 
 
-2° La sanction prévue au 3° de l'article L. 612-43 du code monétaire et financier ou le retrait partiel d'agrément mentionné
+2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et financier ou le retrait partiel d'agrément mentionné
 au 6° du même article ; 
 
 3° (abrogé) 
@@ -4914,15 +4926,15 @@ au 6° du même article ;
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
 _Cite_:
 
-  - Code monétaire et financier - art. L612-37
-  - Code monétaire et financier - art. L612-43
-  - Directive 2001-17 2001-03-19
+  - Directive 2001/17/CE du Parlement européen et du Conseil du 19 mars 2001
+  - Code monétaire et financier - art. L612-33
+  - Code monétaire et financier - art. L612-39
+
+_Modifié par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
 
 _Cité par_:
 
@@ -8810,9 +8822,9 @@ _Cite_:
 
 ###### Article L510-1
 
-Pour l'exercice du contrôle des mutuelles, unions et fédérations, mentionnées à l'article L. 612-2 du code monétaire et
-financier, l'Autorité de contrôle prudentiel exerce sa mission dans les conditions prévues au chapitre II du titre Ier du
-livre VI du code monétaire et financier. 
+Pour l'exercice du contrôle des mutuelles et unions, mentionnées à l'article L. 612-2 du code monétaire et financier,
+l'Autorité de contrôle prudentiel exerce sa mission dans les conditions prévues au chapitre II du titre Ier du livre VI du
+code monétaire et financier.
 
 Le ministre chargé de la mutualité exerce le contrôle des mutuelles et les unions régies par les dispositions du livre III.
 
@@ -8902,23 +8914,45 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
 
 _Cite_:
 
   - Code monétaire et financier - art. L612-2
 
 
+###### Article L510-1-1
+
+L'Autorité de contrôle prudentiel peut exiger de la mutuelle ou de l'union une marge de solvabilité plus importante que celle
+prescrite par la réglementation afin que la mutuelle ou l'union soit rapidement en mesure de satisfaire à l'ensemble des
+exigences de solvabilité. Le niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des
+modalités définies par décret en Conseil d'Etat.
+
+L'autorité de contrôle peut revoir à la baisse les éléments admis à constituer la marge de solvabilité d'une mutuelle ou
+d'une union, dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L612-39 (VT)
+
+
 ###### Article L510-12
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour tout président administrateur ou dirigeant ayant
-reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code : 
+reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code :
 
 1° Après mise en demeure, de ne pas répondre aux demandes d'information de l'Autorité de contrôle prudentiel ou de mettre
 obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment
-des renseignements inexacts ; 
+des renseignements inexacts ;
 
-2° De faire entrave à l'action de l'Autorité de contrôle prudentiel exercée en application de l'article L. 510-1 ; 
+2° De faire entrave à l'action de l'Autorité de contrôle prudentiel ou à l'exécution d'une décision prise en application des
+articles L. 612-33 et L. 612-34 du code monétaire et financier ; 
 
 3° De faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses dans tout document produit au
 ministre chargé de la mutualité ou porté à la connaissance du public et des membres adhérents ou participants.
@@ -8927,13 +8961,11 @@ ministre chargé de la mutualité ou porté à la connaissance du public et des 
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
 
 _Cite_:
 
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-38
-  - Code de la mutualité
+  - Code monétaire et financier - art. L612-33
 
 _Cité par_:
 
