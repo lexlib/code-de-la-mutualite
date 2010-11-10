@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-10-24
+Version Consolidée au 2010-11-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -7109,15 +7109,21 @@ chargé de la mutualité ;
 
 - et, pour les règlements dont les garanties sont exprimées en unités de compte, les valeurs de ces unités de compte, leur
 évolution annuelle à compter de la souscription du contrat et les modifications significatives affectant chaque unité de
-compte. Ces modifications sont précisées par arrêté du ministre chargé de la mutualité.
+compte. Ces modifications sont précisées par arrêté du ministre chargé de la mutualité. 
 
-Ces montants ne peuvent tenir compte de participations aux excédents qui ne seraient pas attribuées à titre définitif.
+Ces montants ne peuvent tenir compte de participations aux excédents qui ne seraient pas attribuées à titre définitif. 
 
 La mutuelle ou l'union indique en termes précis et clairs dans cette communication ce que signifient les opérations de
-rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
+rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles. 
 
 Lorsque les capitaux garantis sont inférieurs au montant défini au premier alinéa, les informations définies au présent
-article sont communiquées pour une année donnée au membre adhérent qui en fait la demande.
+article sont communiquées pour une année donnée au membre adhérent qui en fait la demande. 
+
+Pour les garanties liées à la cessation d'activité professionnelle, la mutuelle ou l'union fournit, dans cette communication,
+une estimation du montant de la rente viagère qui serait versée au membre adhérent à partir de ses droits personnels. Elle
+précise, le cas échéant, les conditions dans lesquelles le membre adhérent peut demander le transfert de sa garantie auprès
+d'une autre mutuelle, d'une entreprise d'assurance ou d'une institution de prévoyance. Un arrêté précise les conditions
+d'application du présent alinéa. 
 
 La garantie fait référence à l'obligation d'information prévue aux alinéas précédents.
 
@@ -7130,7 +7136,7 @@ plan d'épargne retraite populaire " sont déclassés et ont dorénavant un cara
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
 
 _Cité par_:
 
@@ -7141,11 +7147,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+  - Loi n°2010-1330 du 9 novembre 2010 - art. 112
 
 _Cite_:
 
-  - Code des assurances - art. L144-2 (V)
+  - Code des assurances - art. L144-2
 
 
 ###### Article L223-22
@@ -7162,10 +7168,18 @@ prévoir une possibilité de rachat intervenant lorsque se produisent l'un ou pl
 licenciement ; 
 
 2° Cessation d'activité non salariée du membre participant à la suite d'un jugement de liquidation judiciaire en application
-en application du titre IV du livre VI du code de commerce ; 
+en application du titre IV du livre VI du code de commerce ou toute situation justifiant ce rachat selon le président du
+tribunal de commerce auprès duquel est instituée une procédure de conciliation telle que visée à l'article L. 611-4 du code
+de commerce, qui en effectue la demande avec l'accord du membre adhérent ; 
 
 3° Invalidité du membre participant correspondant au classement dans les deuxième ou troisième catégories prévues à l'article
-L. 341-4 du code de la sécurité sociale. 
+L. 341-4 du code de la sécurité sociale ;
+
+4° Décès du conjoint ou du partenaire lié par un pacte civil de solidarité ; 
+
+5° Situation de surendettement de l'adhérent définie à l'article L. 330-1 du code de la consommation, sur demande adressée à
+l'assureur, soit par le président de la commission de surendettement des particuliers, soit par le juge lorsque le déblocage
+des droits individuels résultant de ces contrats paraît nécessaire à l'apurement du passif de l'intéressé.
 
 Les contrats collectifs souscrits à l'occasion d'opérations collectives à adhésion obligatoire ou facultative en cas de vie
 dont les prestations sont liées à la cessation d'activité professionnelle doivent comporter une clause de transférabilité. 
@@ -7189,11 +7203,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
+  - Loi n°2010-1330 du 9 novembre 2010 - art. 114
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L341-4 (V)
+  - Code de commerce - art. L611-4
+  - Code de la consommation - art. L330-1
+  - Code de la sécurité sociale. - art. L341-4
 
 
 ###### Article L223-22-1
