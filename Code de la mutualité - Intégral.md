@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-12-31
+Version Consolidée au 2011-03-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -8961,6 +8961,17 @@ déroger aux dispositions du présent code. Cette nullité n'est pas opposable a
 _Codifié par_:
 
   - Ordonnance 2001-350 2001-04-19
+
+
+###### Article L610-1-1
+
+Le présent code est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 16
 
 
 ###### Article L610-2
