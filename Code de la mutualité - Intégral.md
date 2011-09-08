@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-08-04
+Version Consolidée au 2011-09-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -67,7 +67,7 @@ Version Consolidée au 2011-08-04
         - [Section 3 : Assemblée générale. (art. R114-1 à R114-2)](#64)
         - [Section 5 : Dispositions relatives aux fonctions d'administrateur. (art. R114-4 à R114-8)](#65)
       - [Chapitre V : Unions mutualistes de groupe. (art. R115-1 à R115-6)](#66)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-5)](#67)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-6)](#67)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R213-11)](#68)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. R211-1 à R211-31)](#69)
           - [Section 1 : Dispositions générales. (art. R211-1)](#70)
@@ -90,7 +90,7 @@ Version Consolidée au 2011-08-04
           - [Section 7 : Instruments financiers à terme. (art. R212-70 à R212-83)](#87)
           - [Section 8 : Comptes et états statistiques. (art. R212-90)](#88)
         - [Chapitre III : Surveillance complémentaire (art. R213-1 à R213-11)](#89)
-      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-5)](#90)
+      - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-6)](#90)
         - [Chapitre Ier : Dispositions générales. (art. R221-1 à R221-2)](#91)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. R222-1 à R222-22)](#92)
           - [Section 1 : Contenu du règlement. (art. R222-1 à R222-6)](#93)
@@ -98,8 +98,8 @@ Version Consolidée au 2011-08-04
           - [Section 3 : Conversion du règlement. (art. R222-19 à R222-22)](#95)
         - [Chapitre II bis : Retraite professionnelle supplémentaire. (art. R222-23 à R222-34)](#96)
         - [Chapitre II ter : Dispositions relatives aux comptabilités auxiliaires d'affectation. (art. R222-35 à R222-43)](#97)
-        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-5)](#98)
-          - [Section 1 : Dispositions générales (art. R223-1 à R223-5)](#99)
+        - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-6)](#98)
+          - [Section 1 : Dispositions générales (art. R223-1 à R223-6)](#99)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R432-18)](#100)
       - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#101)
         - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#102)
@@ -16460,6 +16460,34 @@ _Cite_:
 
   - Code des assurances - art. L132-9-2 (V)
   - Code de la mutualité - art. L223-10-1 (V)
+
+
+###### Article R223-6
+
+I. – Les précisions ainsi que, le cas échéant, la mise en garde prévues à l'article L. 223-25-3 sont communiquées à
+l'adhérent par écrit, avec clarté et exactitude, sur support papier ou tout autre support durable à sa disposition et auquel
+il a facilement accès.
+
+II. – Lorsque l'adhérent le demande ou lorsqu'une couverture immédiate est nécessaire, les informations peuvent être fournies
+oralement. Dans ce cas, sitôt le contrat conclu, les informations sont communiquées à l'adhérent sur support papier ou tout
+autre support durable à sa disposition et auquel il a facilement accès.
+
+En cas de commercialisation d'un contrat à distance, les informations précontractuelles fournies à l'adhérent sont conformes
+aux dispositions de l'article L. 221-18. En outre, lorsque le contrat a été conclu à la demande de l'adhérent en utilisant
+une technique de commercialisation à distance ne permettant pas la transmission des informations sur support papier ou sur un
+autre support durable, ces informations sont, sitôt le contrat conclu, communiquées à l'adhérent sur support papier ou tout
+autre support durable à sa disposition et auquel il a facilement accès.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1064 du 6 septembre 2011 - art. 1
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-18
+  - Code de la mutualité - art. L223-25-3
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=100></a>
