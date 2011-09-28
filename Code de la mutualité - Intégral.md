@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-09-09
+Version Consolidée au 2011-09-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -101,105 +101,106 @@ Version Consolidée au 2011-09-09
         - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation. (art. R223-1 à R223-6)](#98)
           - [Section 1 : Dispositions générales (art. R223-1 à R223-6)](#99)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. R411-1 à R432-18)](#100)
-      - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-10)](#101)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. R411-1 à R414-9)](#101)
         - [Chapitre Ier : Conseil supérieur de la mutualité. (art. R411-1 à R411-3)](#102)
         - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. R412-1 à R412-3)](#103)
         - [Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-19)](#104)
           - [Section 1 : Elections aux comités régionaux de coordination de la mutualité. (art. R413-1 à R413-10-1)](#105)
           - [Section 2 : Elections au Conseil supérieur de la mutualité. (art. R413-11 à R413-18-1)](#106)
           - [Section 3 : Contentieux des opérations électorales. (art. R413-19)](#107)
-        - [Chapitre IV : Registre national des mutuelles. (art. R414-1 à R414-10)](#108)
-      - [Titre II : Incitation à l'action mutualiste. (art. R421-1 à R421-4)](#109)
-        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. R421-1 à R421-4)](#110)
-      - [Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance (art. R432-1 à R432-18)](#111)
-        - [Chapitre unique : Le fonds de garantie (art. R432-1 à R432-18)](#112)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. R510-1 à R510-19)](#113)
-      - [Chapitre Ier : Autorité de contrôle prudentiel (art. R510-1 à R510-10-1)](#114)
-        - [Section 2 : Mesures de sauvegarde et d'assainissement. (art. R510-3 à R510-10-1)](#115)
-      - [Chapitre III : Dispositions pénales. (art. R510-19)](#116)
-  - [Partie réglementaire - Décrets simples (art. D114-1 à D412-3)](#117)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. D114-1 à D114-11)](#118)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-11)](#119)
-        - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#120)
-        - [Section 6 : Dispositions financières et comptables et états statistiques (art. Annexe à l'article D114-11 à D114-11)](#121)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D212-1 à D223-2)](#122)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D212-1 à D212-8)](#123)
-        - [Chapitre II : Fonctionnement (art. D212-1 à D212-8)](#124)
-          - [Section 1 : Régime financier et comptable (art. D212-1 à D212-4)](#125)
-          - [Section 2 : Combinaison des comptes (art. D212-5 à D212-8)](#126)
-      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1 à D223-2)](#127)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1 à D223-2)](#128)
-          - [Section 1 : Dispositions générales (art. D223-1 à D223-2)](#129)
-    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#130)
-      - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#131)
-        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#132)
-  - [Partie réglementaire - Arrêtés (art. A114-0-26 à A510-4)](#133)
-    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-0-26 à A114-11)](#134)
-      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-0-26 à A114-11)](#135)
-        - [Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié. (art. A114-0-26)](#136)
-        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#137)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-6)](#138)
-      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#139)
-        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#140)
-          - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#141)
-        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-12)](#142)
-          - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#143)
-          - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#144)
-          - [Section 3 (art. A212-10 à A212-14)](#145)
-          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-24-1)](#146)
-          - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#147)
-          - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#148)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-6)](#149)
-        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#150)
-        - [Chapitre II bis : Opérations de retraite professionnelle supplémentaire. (art. A222-3 à A222-4)](#151)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-6)](#152)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-6)](#153)
-    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#154)
-      - [Chapitre unique (art. A510-1 à A510-4)](#155)
-        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#156)
-        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#157)
-  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#158)
-    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#159)
-      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#160)
-        - [Chapitre II : Statuts (art. R122-4)](#161)
-        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#162)
-          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#163)
-        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#164)
-        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#165)
-    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#166)
-      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#167)
-        - [Chapitre unique (art. R211-1)](#168)
-      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#169)
-        - [Chapitre unique (art. R221-1)](#170)
-      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#171)
-        - [Chapitre unique (art. R231-1 à R231-2)](#172)
-    - [Livre III : Réparation des risques sociaux (art. R321-1 à R325-6)](#173)
-      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#174)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#175)
-        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#176)
-        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#177)
-    - [Livre IV : Action sociale (art. R411-1)](#178)
-      - [Titre unique (art. R411-1)](#179)
-        - [Chapitre unique (art. R411-1)](#180)
-    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#181)
-      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#182)
-        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#183)
-        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#184)
-        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#185)
-          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#186)
-          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#187)
-          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#188)
-      - [Titre IV : Dispositions pénales (art. R541-1)](#189)
-        - [Chapitre unique (art. R541-1)](#190)
-  - [Annexes (art. Annexe à l'article A114-4 à Annexe à l'article A212-14)](#191)
-    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#192)
-    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#193)
-    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#194)
-    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E5 à l'article A114-9)](#195)
-    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#196)
-    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#197)
-    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#198)
-    - [Annexe à l'article A212-14 (art. Annexe à l'article A212-14)](#199)
+        - [Chapitre IV : Registre national des mutuelles. (art.  à R413-19)](#108)
+        - [Chapitre IV : Immatriculation et obligations déclaratives des mutuelles, des unions et des fédérations (art. R414-1 à R414-9)](#109)
+      - [Titre II : Incitation à l'action mutualiste. (art. R421-1 à R421-4)](#110)
+        - [Chapitre unique : Fonds national de solidarité et d'action mutualistes. (art. R421-1 à R421-4)](#111)
+      - [Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance (art. R432-1 à R432-18)](#112)
+        - [Chapitre unique : Le fonds de garantie (art. R432-1 à R432-18)](#113)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. R510-1 à R510-19)](#114)
+      - [Chapitre Ier : Autorité de contrôle prudentiel (art. R510-1 à R510-10-1)](#115)
+        - [Section 2 : Mesures de sauvegarde et d'assainissement. (art. R510-3 à R510-10-1)](#116)
+      - [Chapitre III : Dispositions pénales. (art. R510-19)](#117)
+  - [Partie réglementaire - Décrets simples (art. D114-1 à D412-3)](#118)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. D114-1 à D114-11)](#119)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-11)](#120)
+        - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#121)
+        - [Section 6 : Dispositions financières et comptables et états statistiques (art. Annexe à l'article D114-11 à D114-11)](#122)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D212-1 à D223-2)](#123)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D212-1 à D212-8)](#124)
+        - [Chapitre II : Fonctionnement (art. D212-1 à D212-8)](#125)
+          - [Section 1 : Régime financier et comptable (art. D212-1 à D212-4)](#126)
+          - [Section 2 : Combinaison des comptes (art. D212-5 à D212-8)](#127)
+      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1 à D223-2)](#128)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1 à D223-2)](#129)
+          - [Section 1 : Dispositions générales (art. D223-1 à D223-2)](#130)
+    - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#131)
+      - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#132)
+        - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#133)
+  - [Partie réglementaire - Arrêtés (art. A114-0-26 à A510-4)](#134)
+    - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. A114-0-26 à A114-11)](#135)
+      - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-0-26 à A114-11)](#136)
+        - [Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié. (art. A114-0-26)](#137)
+        - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#138)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-6)](#139)
+      - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#140)
+        - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#141)
+          - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#142)
+        - [Chapitre II : Fonctionnement. (art. A212-1 à A213-12)](#143)
+          - [Section 1 : Marge de solvabilité. (art. A212-1 à A212-3)](#144)
+          - [Section 2 : Provisions techniques. (art. A212-4 à A212-9)](#145)
+          - [Section 3 (art. A212-10 à A212-14)](#146)
+          - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-24-1)](#147)
+          - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#148)
+          - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#149)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-6)](#150)
+        - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#151)
+        - [Chapitre II bis : Opérations de retraite professionnelle supplémentaire. (art. A222-3 à A222-4)](#152)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-6)](#153)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-6)](#154)
+    - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#155)
+      - [Chapitre unique (art. A510-1 à A510-4)](#156)
+        - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#157)
+        - [Section 2 : Contrôle déconcentré. (art. A510-4)](#158)
+  - [Partie réglementaire ancienne (art. R122-4 à R541-1)](#159)
+    - [Livre Ier : Objet et règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#160)
+      - [Titre II : Règles générales de fonctionnement des mutuelles (art. R122-4 à R126-4)](#161)
+        - [Chapitre II : Statuts (art. R122-4)](#162)
+        - [Chapitre IV : Capacité civile et dispositions financières (art. R124-1 à R124-2)](#163)
+          - [Section 1 : Dispositions générales (art. R124-1 à R124-2)](#164)
+        - [Chapitre V : Assemblée générale et administration des mutuelles (art. R125-1 à R125-4)](#165)
+        - [Chapitre VI : Fusion, scission, dissolution et liquidation (art. R126-1 à R126-4)](#166)
+    - [Livre II : Règles particulières à certains groupements à caractère professionnel (art. R211-1 à R231-2)](#167)
+      - [Titre Ier : Mutuelles et sections de mutuelles d'entreprises (art. R211-1)](#168)
+        - [Chapitre unique (art. R211-1)](#169)
+      - [Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel (art. R221-1)](#170)
+        - [Chapitre unique (art. R221-1)](#171)
+      - [Titre III : Mutuelles des militaires (art. R231-1 à R231-2)](#172)
+        - [Chapitre unique (art. R231-1 à R231-2)](#173)
+    - [Livre III : Réparation des risques sociaux (art. R321-1 à R325-6)](#174)
+      - [Titre II : Règles particulières aux caisses autonomes mutualistes (art. R321-1 à R325-6)](#175)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-7)](#176)
+        - [Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition (art. R323-1 à R323-5)](#177)
+        - [Chapitre V : Obligations réciproques de la caisse autonome et des adhérents (art. R325-1 à R325-6)](#178)
+    - [Livre IV : Action sociale (art. R411-1)](#179)
+      - [Titre unique (art. R411-1)](#180)
+        - [Chapitre unique (art. R411-1)](#181)
+    - [Livre V : Relations avec les collectivités publiques (art. R511-1 à R541-1)](#182)
+      - [Titre Ier : Organes administratifs de la mutualité (art. R511-1 à R513-25)](#183)
+        - [Chapitre Ier : Conseil supérieur de la mutualité (art. R511-1 à R511-4)](#184)
+        - [Chapitre II : Comités départementaux et régionaux de coordination de la mutualité (art. R512-1 à R512-4)](#185)
+        - [Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité (art. R513-1 à R513-25)](#186)
+          - [Section 1 : Elections au conseil supérieur de la mutualité (art. R513-1 à R513-17)](#187)
+          - [Section 2 : Elections aux comités départementaux de coordination de la mutualité (art. R513-18 à R513-24)](#188)
+          - [Section 3 : Contentieux des opérations électorales (art. R513-25)](#189)
+      - [Titre IV : Dispositions pénales (art. R541-1)](#190)
+        - [Chapitre unique (art. R541-1)](#191)
+  - [Annexes (art. Annexe à l'article A114-4 à Annexe à l'article A212-14)](#192)
+    - [Annexe à l'article A114-4 (art. Annexe à l'article A114-4)](#193)
+    - [Annexes à l'article A114-5 (art. Annexe C1 à l'article A114-5 à Annexe C21 à l'article A114-5)](#194)
+    - [Annexes à l'article A114-7 (art. Annexe T1 à l'article A114-7 à Annexe T3 à l'article A114-7)](#195)
+    - [Annexes à l'article A114-9 (art. Annexe E1 à l'article A114-9 à Annexe E5 à l'article A114-9)](#196)
+    - [Annexes à l'article A114-10 (art. Annexe 1 à l'article A114-10 à Annexe 2 à l'article A114-10)](#197)
+    - [Annexe à l'article A114-11 (art. Annexe à l'article A114-11)](#198)
+    - [Annexes à l'article A211-3 (art. Annexe I à Annexe III)](#199)
+    - [Annexe à l'article A212-14 (art. Annexe à l'article A212-14)](#200)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=2></a>
@@ -9369,13 +9370,14 @@ mutualiste. Elles sont régies par les dispositions du présent code qui s'appli
 des règles particulières du présent chapitre. Elles se forment dans les conditions propres aux unions énoncées à l'article L.
 113-1. 
 
-Elles sont tenues de s'immatriculer au registre national des mutuelles dans les conditions prévues à l'article R. 414-2. 
+Elles sont tenues de s'immatriculer auprès du secrétaire général du Conseil supérieur de la mutualité dans les conditions
+prévues à l'article R. 414-2. 
 
 Préalablement à la tenue de l'assemblée générale constitutive de l'union mutualiste de groupe, les membres fondateurs
-procèdent au dépôt des éléments constitutifs du fonds d'établissement dans les conditions prévues à l'article R. 212-2.
+procèdent au dépôt des éléments constitutifs du fonds d'établissement dans les conditions prévues à l'article R. 212-2. 
 
-II.-Dans le mois de la constitution de toute union mutualiste de groupe, sont déposés auprès du préfet de région dans
-laquelle est situé le siège de l'organisme les éléments suivants : 
+II.-Dans le mois de la constitution de toute union mutualiste de groupe, sont déposés auprès du secrétaire général du Conseil
+supérieur de la mutualité les éléments suivants : 
 
 a) La liste dûment certifiée des membres fondateurs mentionnant, pour chacun d'eux, leur dénomination, leur siège social, le
 montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
@@ -9393,38 +9395,31 @@ Ces mêmes documents doivent être déposés, dans le même délai, auprès de l
 
 III.-Dans le même délai d'un mois, un extrait des documents mentionnés ci-dessus est publié dans l'un des journaux habilités
 à recevoir les annonces légales dans le département du siège social. Il est justifié de l'insertion par un exemplaire du
-journal certifié par l'imprimeur.
+journal certifié par l'imprimeur. 
 
 L'extrait doit contenir la dénomination adoptée par l'union mutualiste de groupe et l'indication de son siège, la désignation
 des personnes autorisées à gérer, administrer et signer pour l'union et, en outre, la date à laquelle l'union a été
-constituée, celle où elle doit finir et la date du dépôt auprès du préfet de région. 
+constituée, celle où elle doit finir et la date du dépôt auprès du secrétaire général du Conseil supérieur de la mutualité. 
 
 Il indique également le montant et le mode de constitution du fonds d'établissement et, s'il y a lieu, le montant du droit
-d'entrée.
+d'entrée. 
 
 L'extrait des actes et pièces déposés est signé par le président de l'union. 
 
 Sont soumis aux formalités ci-dessus prescrites tous actes et délibérations ayant pour objet la modification des statuts ou
 la continuation de l'union au-delà du terme fixé pour sa durée, ou la dissolution de l'union avant ce terme. 
 
-Toute personne a le droit de prendre communication des pièces déposées auprès du préfet de région ou même de s'en faire
-délivrer à ses frais un extrait par le préfet. 
+Toute personne a le droit de prendre communication des pièces déposées auprès du secrétaire général du Conseil supérieur de
+la mutualité ou même de s'en faire délivrer à ses frais un extrait par le secrétaire général du Conseil supérieur de la
+mutualité. 
 
-Toute personne peut obtenir, au siège de l'union, une copie certifiée des statuts. 
-
-IV.-Dans la collectivité territoriale de Corse, les formalités prévues au présent chapitre sont accomplies auprès du préfet
-de Corse.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+Toute personne peut obtenir, au siège de l'union, une copie certifiée des statuts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-217 du 3 mars 2010 - art. 4
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 1
 
 _Cite_:
 
@@ -9444,10 +9439,10 @@ I.-1° Les statuts des unions mutualistes de groupe doivent fixer les conditions
 organismes affiliés à l'union mutualiste de groupe. 
 
 Ils doivent prévoir que l'admission ou l'exclusion d'un organisme affilié fait l'objet d'une déclaration préalable auprès de
-l'Autorité de contrôle prudentiel, accompagnée d'un dossier dont la composition est fixée par arrêté de ce ministre.
-L'Autorité de contrôle prudentiel peut, dans un délai de trois mois à compter de la réception du dossier, s'opposer à
-l'opération, si celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés, par une décision motivée
-adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition de
+l'Autorité de contrôle prudentiel, accompagnée d'un dossier dont la composition est     fixée par l'Autorité de contrôle
+prudentiel. L'Autorité de contrôle prudentiel peut, dans un délai de trois mois à compter de la réception du dossier,
+s'opposer à l'opération, si celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés, par une décision
+motivée adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition de
 l'Autorité de contrôle prudentiel, l'opération peut être réalisée à l'expiration de ce délai. 
 
 2° Les statuts des unions mutualistes de groupe doivent également : 
@@ -9474,19 +9469,14 @@ préalable ses propres statuts afin de reconnaître à l'union mutualiste de gro
 l'assemblée générale dudit organisme et de proposer lors de celle-ci l'élection de nouveaux candidats au poste
 d'administrateur. 
 
-III.-Les projets de statuts doivent indiquer le mode de rémunération de la direction.S'il y a lieu, ils peuvent également
+III.-Les projets de statuts doivent indiquer le mode de rémunération de la direction. S'il y a lieu, ils peuvent également
 prévoir le mode d'indemnisation des administrateurs dans les conditions prévues à l'article L. 114-26.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-217 du 3 mars 2010 - art. 4
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 2
 
 _Cité par_:
 
@@ -17271,20 +17261,18 @@ _Cite_:
 
 #### Chapitre IV : Registre national des mutuelles.<a id=108></a>
 
+#### Chapitre IV : Immatriculation et obligations déclaratives des mutuelles, des unions et des fédérations<a id=109></a>
+
 ###### Article R414-1
 
 Les organismes qui envisagent d'acquérir la qualité de mutuelle et les unions ou fédérations demandent leur immatriculation
-au registre national des mutuelles prévu à l'article L. 411-1.
+auprès du secrétaire général du Conseil supérieur de la mutualité prévu à l'article L. 411-1.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 4
 
 _Cité par_:
 
@@ -17293,58 +17281,60 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L411-1 (V)
+  - Code de la mutualité - art. L411-1
 
 
 ###### Article R414-2
 
 La demande d'immatriculation conforme à un modèle fixé par arrêté du ministre chargé de la mutualité est signée par le
-président de l'organisme et déposée auprès du préfet de la région dans laquelle est situé le siège de l'organisme.
+président de l'organisme et déposée auprès du secrétaire général du Conseil supérieur de la mutualité. 
 
-La demande comporte les renseignements suivants :
+La demande comporte les renseignements suivants : 
 
-1° La dénomination de l'organisme suivie, le cas échéant, du sigle représentatif de ce dernier ;
+1° La dénomination de l'organisme suivie, le cas échéant, du sigle représentatif de ce dernier ; 
 
 2° La nature des activités envisagées par les mutuelles et unions selon la nomenclature fixée par arrêté du ministre chargé
-de la mutualité qui précise notamment la liste des activités figurant à l'article L. 111-1 du présent code ;
+de la mutualité qui précise notamment la liste des activités figurant à l'article L. 111-1 du présent code ; 
 
-3° L'adresse du siège ;
+3° L'adresse du siège ; 
 
-4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ;
+4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ; 
 
 5° Les noms, noms d'usage, prénoms, domiciles personnels du président, des administrateurs et des dirigeants salariés
-mentionnés à l'article L. 114-19 ;
+mentionnés à l'article L. 114-19 ; 
 
 6° Lorsque les organismes envisagent d'acquérir la qualité de mutuelles, les noms et adresses des personnes physiques ayant
-participé à leur création ;
+participé à leur création ; 
 
 7° Lorsque les organismes sont des unions ou des fédérations, la dénomination et l'adresse du siège des mutuelles et unions
-ainsi que, pour les unions, celles des membres honoraires ayant participé à leur création ;
+ainsi que, pour les unions, celles des membres honoraires ayant participé à leur création ; 
 
 8° Pour les organismes résultant d'une fusion ou d'une scission, la dénomination de tous les organismes mutualistes qui y ont
-participé ;
+participé ; 
 
 9° Pour ceux créés suivant les modalités définies aux articles L. 111-3 et L. 111-4, la dénomination des organismes ayant
-participé à leur création.
+participé à leur création. 
 
-La demande est accompagnée des statuts et du procès-verbal de l'assemblée générale constitutive.
+La demande est accompagnée des statuts et du procès-verbal de l'assemblée générale constitutive. 
 
-Le préfet de région la transmet immédiatement au secrétaire général du Conseil supérieur de la mutualité qui procède, sans
-délai, à l'immatriculation de la mutuelle, de l'union ou de la fédération.
+Le secrétaire général du Conseil supérieur de la mutualité accuse sans délai réception de la demande. Il s'assure que le
+dossier est complet et que cette demande satisfait aux dispositions du présent code. Lorsque le dossier est incomplet, il
+demande dans le délai de cinq jours ouvrables les renseignements ou pièces manquants qui sont fournis dans un délai de quinze
+jours à compter de cette réclamation. 
 
-Le préfet de région délivre aux organismes régis par le présent chapitre un récépissé de la demande d'immatriculation dans
-les cinq jours ouvrables suivant le dépôt d'un dossier complet. Ce récépissé comporte le numéro d'immatriculation au registre
-national des mutuelles.
+Dans un délai de quinze jours francs suivant le dépôt du dossier complet, il délivre un certificat d'immatriculation portant
+mention du numéro d'identité visé par les dispositions de l'article R. 123-220 du code de commerce ou notifie le refus
+d'immatriculation. 
+
+Le délai prévu à l'alinéa précédent peut être prolongé d'un même délai lorsque la complexité de cette demande exige un examen
+approfondi. 
+
+Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de contrôle prudentiel de l'immatriculation ou
+du refus d'immatriculation des organismes ayant demandé leur immatriculation, lorsque ceux-ci envisagent d'effectuer des
+opérations entrant dans le champ de compétence de cette autorité, tel que défini au A du III de l'article L. 612-1 du code
+monétaire et financier.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 _Cité par_:
 
@@ -17355,14 +17345,38 @@ _Cité par_:
   - Code de la mutualité - art. R414-2-1 (V)
   - Code de la mutualité - art. R414-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 5
+
 _Cite_:
 
-  - Code de la mutualité - art. L111-1 (Ab)
-  - Code de la mutualité - art. L111-3 (M)
-  - Code de la mutualité - art. L111-4 (V)
-  - Code de la mutualité - art. L114-19 (V)
-  - Code de la mutualité - art. L115-1 (V)
-  - Code de la mutualité - art. L115-4 (V)
+  - Code de commerce - art. R123-220
+  - Code monétaire et financier - art. L612-1
+  - Code de la mutualité - art. L111-1
+  - Code de la mutualité - art. L111-3
+  - Code de la mutualité - art. L114-19
+  - Code de la mutualité - art. L115-1
+  - Code de la mutualité - art. L115-4
+
+
+###### Article R414-2-1
+
+Le secrétaire général du Conseil supérieur de la mutualité procède également, selon les modalités prévues à l'article R.
+414-2, aux radiations des organismes qui le demandent.
+
+En cas de fusion d'organismes, le secrétaire général du Conseil supérieur de la mutualité procède, selon les modalités
+prévues à l'article R. 414-2, aux demandes de radiations et changements de nom qui lui sont adressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1192 du 26 septembre 2011 - art. 6
+
+_Cite_:
+
+  - Code de la mutualité - art. R414-2
 
 
 ###### Article R414-3
@@ -17509,44 +17523,6 @@ _Abrogé par_:
   - Décret n°2012-596 du 27 avril 2012 - art. 9
 
 
-###### Article R414-7
-
-Le secrétaire général du Conseil supérieur de la mutualité et les préfets de région sont seuls habilités à délivrer à toute
-personne qui en fait la demande des copies ou extraits des mentions portées au registre mentionné à l'article L. 411-1 et des
-pièces déposées auprès des préfets de région.
-
-Toutefois, pour les documents comptables antérieurs à ceux établis au titre des trois derniers exercices, ces renseignements
-ne sont délivrés que sous forme d'extraits.
-
-La copie de l'extrait ou les renseignements demandés peuvent être délivrés par voie électronique.
-
-La copie, l'extrait ou le certificat est établi aux frais du demandeur, sans que, lorsqu'une reproduction est délivrée et
-envoyée, ces frais puissent excéder le coût de la reproduction et de l'envoi, et dans des conditions fixées par arrêté du
-ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-_Cité par_:
-
-  - Arrêté du 18 avril 2005 - art. 2 (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
-
-_Cite_:
-
-  - Code de la mutualité - art. L411-1
-
-
 ###### Article R414-8
 
 Toute mutuelle, union ou fédération indique le numéro d'immatriculation mentionné à l'article R. 414-2 dans ses statuts,
@@ -17583,29 +17559,9 @@ _Créé par_:
   - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-###### Article R414-10
+### Titre II : Incitation à l'action mutualiste.<a id=110></a>
 
-Le préfet rend compte au comité régional de coordination de la mutualité des immatriculations et des radiations des
-mutuelles, unions et fédérations ayant leur siège dans la région.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-_Abrogé par_:
-
-  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
-
-
-### Titre II : Incitation à l'action mutualiste.<a id=109></a>
-
-#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=110></a>
+#### Chapitre unique : Fonds national de solidarité et d'action mutualistes.<a id=111></a>
 
 ###### Article R421-1
 
@@ -17734,9 +17690,9 @@ _Cite_:
   - Code de la mutualité - art. L411-1 (Ab)
 
 
-### Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance<a id=111></a>
+### Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance<a id=112></a>
 
-#### Chapitre unique : Le fonds de garantie<a id=112></a>
+#### Chapitre unique : Le fonds de garantie<a id=113></a>
 
 ###### Article R432-1
 
@@ -18244,9 +18200,9 @@ _Créé par_:
   - Décret n°2011-733 du 27 juin 2011 - art. 2
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=113></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=114></a>
 
-### Chapitre Ier : Autorité de contrôle prudentiel<a id=114></a>
+### Chapitre Ier : Autorité de contrôle prudentiel<a id=115></a>
 
 ###### Article R510-1
 
@@ -18270,7 +18226,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-2 (M)
 
 
-#### Section 2 : Mesures de sauvegarde et d'assainissement.<a id=115></a>
+#### Section 2 : Mesures de sauvegarde et d'assainissement.<a id=116></a>
 
 ###### Article R510-3
 
@@ -18649,7 +18605,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-33 (V)
 
 
-### Chapitre III : Dispositions pénales.<a id=116></a>
+### Chapitre III : Dispositions pénales.<a id=117></a>
 
 ###### Article R510-19
 
@@ -18695,13 +18651,13 @@ _Cité par_:
   - Code de la mutualité - art. R510-9 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=117></a>
+# Partie réglementaire - Décrets simples<a id=118></a>
 
-## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=118></a>
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=119></a>
 
-### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=119></a>
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=120></a>
 
-#### Section 3 : Assemblée générale.<a id=120></a>
+#### Section 3 : Assemblée générale.<a id=121></a>
 
 ###### Article D114-1
 
@@ -18857,7 +18813,7 @@ _Créé par_:
   - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
 
 
-#### Section 6 : Dispositions financières et comptables et états statistiques<a id=121></a>
+#### Section 6 : Dispositions financières et comptables et états statistiques<a id=122></a>
 
 ###### Article Annexe à l'article D114-11
 
@@ -19323,13 +19279,13 @@ _Cité par_:
   - Code de la mutualité - art. A114-4 (Ab)
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.<a id=122></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.<a id=123></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.<a id=123></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.<a id=124></a>
 
-#### Chapitre II : Fonctionnement<a id=124></a>
+#### Chapitre II : Fonctionnement<a id=125></a>
 
-##### Section 1 : Régime financier et comptable<a id=125></a>
+##### Section 1 : Régime financier et comptable<a id=126></a>
 
 ###### Article D212-1
 
@@ -19503,7 +19459,7 @@ _Abrogé par_:
   - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-##### Section 2 : Combinaison des comptes<a id=126></a>
+##### Section 2 : Combinaison des comptes<a id=127></a>
 
 ###### Article D212-5
 
@@ -19614,11 +19570,11 @@ _Abrogé par_:
   - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=127></a>
+### Titre II : Opérations des mutuelles et des unions.<a id=128></a>
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation<a id=128></a>
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation<a id=129></a>
 
-##### Section 1 : Dispositions générales<a id=129></a>
+##### Section 1 : Dispositions générales<a id=130></a>
 
 ###### Article D223-1
 
@@ -19652,11 +19608,11 @@ _Créé par_:
   - Décret n°2008-785 du 18 août 2008 - art. 1
 
 
-## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=130></a>
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=131></a>
 
-### Titre Ier : Organes administratifs de la mutualité.<a id=131></a>
+### Titre Ier : Organes administratifs de la mutualité.<a id=132></a>
 
-#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=132></a>
+#### Chapitre II : Comités régionaux de coordination de la mutualité.<a id=133></a>
 
 ###### Article D412-1
 
@@ -19723,13 +19679,13 @@ _Créé par_:
   - Décret n°2003-988 du 14 octobre 2003 - art. 1 () JORF 17 octobre 2003
 
 
-# Partie réglementaire - Arrêtés<a id=133></a>
+# Partie réglementaire - Arrêtés<a id=134></a>
 
-## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=134></a>
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.<a id=135></a>
 
-### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=135></a>
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.<a id=136></a>
 
-#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié.<a id=136></a>
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié.<a id=137></a>
 
 ###### Article A114-0-26
 
@@ -19767,7 +19723,7 @@ _Cite_:
   - Code de la mutualité - art. L114-26 (V)
 
 
-#### Section 6 : Dispositions financières et comptables<a id=137></a>
+#### Section 6 : Dispositions financières et comptables<a id=138></a>
 
 ###### Article A114-1
 
@@ -20215,13 +20171,13 @@ _Abrogé par_:
   - Arrêté du 3 novembre 2014 - art. 18
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=138></a>
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=139></a>
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=139></a>
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.<a id=140></a>
 
-#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=140></a>
+#### Chapitre Ier : Champ d'application et conditions d'activité.<a id=141></a>
 
-##### Section 1 : Agrément administratif.<a id=141></a>
+##### Section 1 : Agrément administratif.<a id=142></a>
 
 ###### Article A211-1
 
@@ -20457,9 +20413,9 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-#### Chapitre II : Fonctionnement.<a id=142></a>
+#### Chapitre II : Fonctionnement.<a id=143></a>
 
-##### Section 1 : Marge de solvabilité.<a id=143></a>
+##### Section 1 : Marge de solvabilité.<a id=144></a>
 
 ###### Article A212-1
 
@@ -20593,7 +20549,7 @@ _Cite_:
   - Code de la mutualité (nouveau) R212-15, L510-1
 
 
-##### Section 2 : Provisions techniques.<a id=144></a>
+##### Section 2 : Provisions techniques.<a id=145></a>
 
 ###### Article A212-4
 
@@ -20788,7 +20744,7 @@ _Cite_:
   - Code de la mutualité - art. L510-1
 
 
-##### Section 3<a id=145></a>
+##### Section 3<a id=146></a>
 
 ###### Article A212-10
 
@@ -21053,7 +21009,7 @@ _Cite_:
   - Code de la mutualité - art. R212-26
 
 
-##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=146></a>
+##### Section 5 : Réglementation des placements et autres éléments d'actifs.<a id=147></a>
 
 ###### Article A212-15
 
@@ -21370,7 +21326,7 @@ _Cite_:
   - Code de la mutualité - art. R212-24-1
 
 
-##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=147></a>
+##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.<a id=148></a>
 
 ###### Article A213-1
 
@@ -21455,7 +21411,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.<a id=148></a>
+##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.<a id=149></a>
 
 ###### Article A213-3
 
@@ -21834,9 +21790,9 @@ _Créé par_:
   - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
 
 
-### Titre II : Opérations des mutuelles et des unions.<a id=149></a>
+### Titre II : Opérations des mutuelles et des unions.<a id=150></a>
 
-#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=150></a>
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.<a id=151></a>
 
 ###### Article A222-1
 
@@ -21941,7 +21897,7 @@ _Cite_:
   - Code de la mutualité - art. L510-1 (V)
 
 
-#### Chapitre II bis : Opérations de retraite professionnelle supplémentaire.<a id=151></a>
+#### Chapitre II bis : Opérations de retraite professionnelle supplémentaire.<a id=152></a>
 
 ###### Article A222-3
 
@@ -21997,9 +21953,9 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=152></a>
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=153></a>
 
-##### Section 1 : Dispositions générales.<a id=153></a>
+##### Section 1 : Dispositions générales.<a id=154></a>
 
 ###### Article A223-1
 
@@ -22187,11 +22143,11 @@ _Cite_:
   - Code de la mutualité (nouveau) L223-8
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=154></a>
+## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=155></a>
 
-### Chapitre unique<a id=155></a>
+### Chapitre unique<a id=156></a>
 
-#### Section 1 : Libre prestation de services.<a id=156></a>
+#### Section 1 : Libre prestation de services.<a id=157></a>
 
 ###### Article A510-1
 
@@ -22324,7 +22280,7 @@ _Cite_:
   - Code de la mutualité - art. R211-2
 
 
-#### Section 2 : Contrôle déconcentré.<a id=157></a>
+#### Section 2 : Contrôle déconcentré.<a id=158></a>
 
 ###### Article A510-4
 
@@ -22358,13 +22314,13 @@ _Cite_:
   - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
-# Partie réglementaire ancienne<a id=158></a>
+# Partie réglementaire ancienne<a id=159></a>
 
-## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=159></a>
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles<a id=160></a>
 
-### Titre II : Règles générales de fonctionnement des mutuelles<a id=160></a>
+### Titre II : Règles générales de fonctionnement des mutuelles<a id=161></a>
 
-#### Chapitre II : Statuts<a id=161></a>
+#### Chapitre II : Statuts<a id=162></a>
 
 ###### Article R122-4
 
@@ -22390,9 +22346,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre IV : Capacité civile et dispositions financières<a id=162></a>
+#### Chapitre IV : Capacité civile et dispositions financières<a id=163></a>
 
-##### Section 1 : Dispositions générales<a id=163></a>
+##### Section 1 : Dispositions générales<a id=164></a>
 
 ###### Article R124-1
 
@@ -22458,7 +22414,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Assemblée générale et administration des mutuelles<a id=164></a>
+#### Chapitre V : Assemblée générale et administration des mutuelles<a id=165></a>
 
 ###### Article R125-1
 
@@ -22548,7 +22504,7 @@ _Cité par_:
   - Code de la mutualité - art. R231-2 (V)
 
 
-#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=165></a>
+#### Chapitre VI : Fusion, scission, dissolution et liquidation<a id=166></a>
 
 ###### Article R126-1
 
@@ -22666,11 +22622,11 @@ _Cité par_:
   - Code de la mutualité - art. R231-1 (V)
 
 
-## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=166></a>
+## Livre II : Règles particulières à certains groupements à caractère professionnel<a id=167></a>
 
-### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=167></a>
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises<a id=168></a>
 
-#### Chapitre unique<a id=168></a>
+#### Chapitre unique<a id=169></a>
 
 ###### Article R211-1
 
@@ -22697,9 +22653,9 @@ _Cite_:
   - Code de la mutualité - art. L211-2 (Ab)
 
 
-### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=169></a>
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel<a id=170></a>
 
-#### Chapitre unique<a id=170></a>
+#### Chapitre unique<a id=171></a>
 
 ###### Article R221-1
 
@@ -22726,9 +22682,9 @@ _Cite_:
   - Code de la mutualité - art. R122-2 (Ab)
 
 
-### Titre III : Mutuelles des militaires<a id=171></a>
+### Titre III : Mutuelles des militaires<a id=172></a>
 
-#### Chapitre unique<a id=172></a>
+#### Chapitre unique<a id=173></a>
 
 ###### Article R231-1
 
@@ -22805,11 +22761,11 @@ _Cite_:
   - Code de la mutualité - art. R125-4 (M)
 
 
-## Livre III : Réparation des risques sociaux<a id=173></a>
+## Livre III : Réparation des risques sociaux<a id=174></a>
 
-### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=174></a>
+### Titre II : Règles particulières aux caisses autonomes mutualistes<a id=175></a>
 
-#### Chapitre Ier : Dispositions générales<a id=175></a>
+#### Chapitre Ier : Dispositions générales<a id=176></a>
 
 ###### Article R321-1
 
@@ -23010,7 +22966,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=176></a>
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition<a id=177></a>
 
 ###### Article R323-1
 
@@ -23105,7 +23061,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=177></a>
+#### Chapitre V : Obligations réciproques de la caisse autonome et des adhérents<a id=178></a>
 
 ###### Article R325-1
 
@@ -23238,11 +23194,11 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-## Livre IV : Action sociale<a id=178></a>
+## Livre IV : Action sociale<a id=179></a>
 
-### Titre unique<a id=179></a>
+### Titre unique<a id=180></a>
 
-#### Chapitre unique<a id=180></a>
+#### Chapitre unique<a id=181></a>
 
 ###### Article R411-1
 
@@ -23275,11 +23231,11 @@ _Cite_:
   - Code de la mutualité - art. L411-6 (Ab)
 
 
-## Livre V : Relations avec les collectivités publiques<a id=181></a>
+## Livre V : Relations avec les collectivités publiques<a id=182></a>
 
-### Titre Ier : Organes administratifs de la mutualité<a id=182></a>
+### Titre Ier : Organes administratifs de la mutualité<a id=183></a>
 
-#### Chapitre Ier : Conseil supérieur de la mutualité<a id=183></a>
+#### Chapitre Ier : Conseil supérieur de la mutualité<a id=184></a>
 
 ###### Article R511-1
 
@@ -23398,7 +23354,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=184></a>
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité<a id=185></a>
 
 ###### Article R512-1
 
@@ -23525,9 +23481,9 @@ _Cite_:
   - Code de la mutualité - art. R512-2 (M)
 
 
-#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=185></a>
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité<a id=186></a>
 
-##### Section 1 : Elections au conseil supérieur de la mutualité<a id=186></a>
+##### Section 1 : Elections au conseil supérieur de la mutualité<a id=187></a>
 
 ###### Article R513-1
 
@@ -24043,7 +23999,7 @@ _Cite_:
   - Code de la mutualité - art. R513-12 (M)
 
 
-##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=187></a>
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité<a id=188></a>
 
 ###### Article R513-18
 
@@ -24186,7 +24142,7 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-##### Section 3 : Contentieux des opérations électorales<a id=188></a>
+##### Section 3 : Contentieux des opérations électorales<a id=189></a>
 
 ###### Article R513-25
 
@@ -24215,9 +24171,9 @@ _Cite_:
   - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
 
 
-### Titre IV : Dispositions pénales<a id=189></a>
+### Titre IV : Dispositions pénales<a id=190></a>
 
-#### Chapitre unique<a id=190></a>
+#### Chapitre unique<a id=191></a>
 
 ###### Article R541-1
 
@@ -24259,9 +24215,9 @@ _Modifié par_:
   - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 
-# Annexes<a id=191></a>
+# Annexes<a id=192></a>
 
-## Annexe à l'article A114-4<a id=192></a>
+## Annexe à l'article A114-4<a id=193></a>
 
 ###### Article Annexe à l'article A114-4
 
@@ -24335,7 +24291,7 @@ _Cite_:
   - Code de la mutualité - art. L211-7
 
 
-## Annexes à l'article A114-5<a id=193></a>
+## Annexes à l'article A114-5<a id=194></a>
 
 ###### Article Annexe C1 à l'article A114-5
 
@@ -32534,7 +32490,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-7<a id=194></a>
+## Annexes à l'article A114-7<a id=195></a>
 
 ###### Article Annexe T1 à l'article A114-7
 
@@ -33983,7 +33939,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-9<a id=195></a>
+## Annexes à l'article A114-9<a id=196></a>
 
 ###### Article Annexe E1 à l'article A114-9
 
@@ -34874,7 +34830,7 @@ _Abrogé par_:
   - Arrêté du 30 décembre 2015 - art. 2
 
 
-## Annexes à l'article A114-10<a id=196></a>
+## Annexes à l'article A114-10<a id=197></a>
 
 ###### Article Annexe 1 à l'article A114-10
 
@@ -35080,7 +35036,7 @@ _Cité par_:
   - Code de la mutualité - art. A114-10 (Ab)
 
 
-## Annexe à l'article A114-11<a id=197></a>
+## Annexe à l'article A114-11<a id=198></a>
 
 ###### Article Annexe à l'article A114-11
 
@@ -35209,7 +35165,7 @@ _Cité par_:
   - Code de la mutualité - art. A114-11 (Ab)
 
 
-## Annexes à l'article A211-3<a id=198></a>
+## Annexes à l'article A211-3<a id=199></a>
 
 ###### Article Annexe I
 
@@ -35976,7 +35932,7 @@ _Créé par_:
   - Arrêté du 6 février 2002 - art. 1
 
 
-## Annexe à l'article A212-14<a id=199></a>
+## Annexe à l'article A212-14<a id=200></a>
 
 ###### Article Annexe à l'article A212-14
 
