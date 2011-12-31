@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-11-04
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -138,7 +138,7 @@ Version Consolidée au 2011-11-04
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. A114-0-26 à A114-11)](#135)
         - [Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié. (art. A114-0-26)](#136)
         - [Section 6 : Dispositions financières et comptables (art. A114-1 à A114-11)](#137)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-6)](#138)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A223-7)](#138)
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. A211-1 à A213-12)](#139)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. A211-1 à A211-4)](#140)
           - [Section 1 : Agrément administratif. (art. A211-1 à A211-4)](#141)
@@ -149,11 +149,11 @@ Version Consolidée au 2011-11-04
           - [Section 5 : Réglementation des placements et autres éléments d'actifs. (art. A212-15 à A212-24-1)](#146)
           - [Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe. (art. A213-1 à A213-2)](#147)
           - [Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier. (art. A213-3 à A213-12)](#148)
-      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-6)](#149)
+      - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-7)](#149)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#150)
         - [Chapitre II bis : Opérations de retraite professionnelle supplémentaire. (art. A222-3 à A222-4)](#151)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-6)](#152)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-6)](#153)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-7)](#152)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-7)](#153)
     - [Livre V : Contrôle des mutuelles, unions et fédérations. (art. A510-1 à A510-4)](#154)
       - [Chapitre unique (art. A510-1 à A510-4)](#155)
         - [Section 1 : Libre prestation de services. (art. A510-1 à A510-3)](#156)
@@ -22165,6 +22165,47 @@ _Créé par_:
 _Cite_:
 
   - Code de la mutualité (nouveau) L223-8
+
+
+###### Article A223-7
+
+1° Pour l'application du dixième alinéa de l'article L. 223-21, l'estimation du montant de la rente viagère qui serait versée
+au participant au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à partir des
+droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir des droits
+exprimés en parts de provision de diversification. 
+
+2° Chaque estimation mentionnée au 1° est établie en fonction de la provision mathématique constituée à la fin de l'exercice
+considéré et des tables de mortalité et du taux d'intérêt technique applicables au contrat. Chaque estimation est communiquée
+nette des frais de sorties mentionnés au quatrième alinéa du 5° de l'article A. 223-6. 
+
+Pour les membres participants qui n'ont pas atteint l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la
+sécurité sociale à la fin de l'exercice considéré, au moins deux estimations sont mentionnées, la première en retenant
+l'hypothèse d'âge de départ à la retraite mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale
+et la deuxième, en retenant cet âge majoré de cinq ans. 
+
+Pour les membres participants qui ont dépassé l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la
+sécurité sociale à la fin de l'exercice considéré, au moins une estimation est établie, en retenant une hypothèse d'âge de
+départ à la retraite égale à l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale majoré
+de cinq ans et en retenant une hypothèse d'âge de départ à la retraite supérieur pour les membres participants qui ont
+dépassé cet âge à la fin de l'exercice considéré. 
+
+3° La présentation des estimations mentionnées au 1° est complétée par la mention : " Ces estimations sont fournies à titre
+indicatif et n'ont pas de caractère contractuel car elles sont réalisées sur la base de paramètres qui peuvent varier ou être
+modifiés en cours de contrat, notamment la table de mortalité et le taux technique. Des frais ou indemnités sont prélevés par
+la mutuelle ou l'union, ils sont détaillés dans votre contrat. Ces estimations retiennent des hypothèses d'âge de liquidation
+de la rente qui peuvent être différents de l'âge exact d'ouverture de vos droits à retraite ainsi que de celui à compter
+duquel vous pouvez liquider votre retraite obligatoire à taux plein. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 octobre 2011 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L161-17-2
+  - Code de la mutualité - art. L223-21
 
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=154></a>
