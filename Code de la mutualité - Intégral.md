@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2012-12-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -20024,48 +20024,40 @@ _Cite_:
 ###### Article A212-10
 
 Les tarifs pratiqués par les mutuelles et unions effectuant des opérations mentionnées au b du 1° du I de l'article L. 111-1
-comprennent la rémunération de celles-ci et sont établis d'après les éléments suivants :
+comprennent la rémunération de celles-ci et sont établis d'après les éléments suivants : 
 
-1° Un taux d'intérêt technique fixé dans les conditions prévues par arrêté ;
+1° Un taux d'intérêt technique fixé dans les conditions prévues par arrêté ; 
 
-2° Une des tables suivantes :
+2° Une des tables suivantes : 
 
 a) Tables homologuées par arrêté du ministre chargé de la mutualité, établies par sexe, sur la base de populations de membres
 participants et bénéficiaires pour les contrats de rente viagère, et sur la base de données publiées par l'Institut national
-de la statistique et des études économiques pour les autres contrats ;
+de la statistique et des études économiques pour les autres contrats ; 
 
 b) tables établies ou non par sexe par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à
-cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1.
+cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1. 
 
 Les tables mentionnées au b sont établies d'après des données d'expérience de la mutuelle ou de l'union, ou des données
-d'expérience démographiquement équivalentes.
+d'expérience démographiquement équivalentes. 
 
 Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous
-les membres participants, celle-ci correspond à la table appropriée conduisant au tarif le plus prudent.
+les membres participants, celle-ci correspond à la table par sexe appropriée conduisant au tarif le plus prudent. 
 
 Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
-corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés.
+corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés. 
 
 Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de
-mortalité annuel à l'âge ayant subi le décalage dans la table appropriée.
+mortalité annuel à l'âge ayant subi le décalage dans la table par sexe appropriée. 
 
 Pour les opérations de rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats
 relevant du chapitre II bis du titre II du livre II, les tarifs et les provisions techniques déterminés en utilisant les
-tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables appropriées
-mentionnées au a.
+tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables par sexe appropriées
+mentionnées au a. 
 
 Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, la mutuelle ou l'union
 peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est justifiable.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2006-12-08 art. 2 JORF 30 décembre 2006
-
-**Liens**:
-
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 _Cité par_:
 
@@ -20075,9 +20067,13 @@ _Cité par_:
   - Arrêté du 8 décembre 2006 - art. 8 (M)
   - Arrêté du 8 décembre 2006 - art. 9 (M)
 
+_Modifié par_:
+
+  - Arrêté du 18 décembre 2012 - art. 3
+
 _Cite_:
 
-  - Code de la mutualité (nouveau) L111-1, L510-1
+  - Code des assurances - art. L111-1
 
 
 ###### Article A212-11
