@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2013-05-12
+Version Consolidée au 2013-05-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -63,7 +63,7 @@ Version Consolidée au 2013-05-12
       - [Chapitre Ier : Objet des mutuelles, unions et fédérations (art. R111-1 à R111-5)](#60)
         - [Section 1 : Système fédéral de garantie (art. R111-1 à R111-5)](#61)
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. R114-1 à R114-8)](#62)
-        - [Section 3 : Assemblée générale. (art. R114-1 à R114-2)](#63)
+        - [Section 3 : Assemblée générale. (art. R114-1 à R114-3)](#63)
         - [Section 5 : Dispositions relatives aux fonctions d'administrateur. (art. R114-4 à R114-8)](#64)
       - [Chapitre V : Unions mutualistes de groupe. (art. R115-1 à R115-6)](#65)
     - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. R211-1 à R223-6)](#66)
@@ -9197,6 +9197,24 @@ _Créé par_:
 _Cite_:
 
   - Code de la mutualité - art. L114-12 (V)
+
+
+###### Article R114-3
+
+L'assemblée générale des mutuelles et des unions soumises au contrôle de l'Autorité de contrôle prudentiel, en application du
+3° du B du I de l'article L. 612-2 du code monétaire et financier, est réunie dans un délai de sept mois suivant la clôture
+de l'exercice afin de procéder à l'examen des comptes, sauf prolongation de ce délai, à la demande motivée du conseil
+d'administration, par ordonnance du tribunal de grande instance statuant sur requête.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-434 du 27 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L612-2
 
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur.<a id=64></a>
