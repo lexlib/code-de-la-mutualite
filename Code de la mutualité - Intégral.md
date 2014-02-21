@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-01-29
+Version Consolidée au 2014-02-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -23,7 +23,7 @@ Version Consolidée au 2014-01-29
       - [Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. (art. L211-1 à L213-5)](#20)
         - [Chapitre Ier : Champ d'application et conditions d'activité. (art. L211-1 à L211-10)](#21)
         - [Chapitre II : Fonctionnement. (art. L212-1 à L212-27)](#22)
-          - [Section 1 : Régime financier et comptable. (art. L212-1 à L212-7-8)](#23)
+          - [Section 1 : Régime financier et comptable. (art. L212-1 à L212-7-4-1)](#23)
           - [Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation. (art. L212-11 à L212-22)](#24)
           - [Section 4 : Privilèges. (art. L212-23 à L212-26)](#25)
           - [Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires. (art. L212-27)](#26)
@@ -559,16 +559,16 @@ _Cite_:
 ###### Article L111-4-2
 
 Les unions mutualistes de groupe désignent les entreprises qui ne sont pas des compagnies financières holding mixtes, au sens
-de l'article L. 212-7-1, et dont l'activité principale consiste à prendre et à gérer des participations, au sens du 2° du
-même article L. 212-7-1, dans des entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de
-l'article L. 310-1-1 du code des assurances, ou dans des entreprises d'assurance ou de réassurance dont le siège social est
-situé hors de France, ou à nouer et à gérer des liens de solidarité financière importants et durables avec des mutuelles ou
-unions régies par le livre II du présent code, des institutions de prévoyance ou unions régies par le titre III du livre IX
-du code de la sécurité sociale, des sociétés d'assurance mutuelle régies par le code des assurances, ou des entreprises
-d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège social dans un Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.L'union
-mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est une mutuelle ou union relevant du
-livre II du présent code. 
+de l'article L. 517-4 du code monétaire et financier, et dont l'activité principale consiste à prendre et à gérer des
+participations, au sens du 2° du même article L. 212-7-1, dans des entreprises soumises au contrôle de l'Etat en application
+de l'article L. 310-1 ou de l'article L. 310-1-1 du code des assurances, ou dans des entreprises d'assurance ou de
+réassurance dont le siège social est situé hors de France, ou à nouer et à gérer des liens de solidarité financière
+importants et durables avec des mutuelles ou unions régies par le livre II du présent code, des institutions de prévoyance ou
+unions régies par le titre III du livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle régies par le
+code des assurances, ou des entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire
+ayant leur siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen. L'union mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est une
+mutuelle ou union relevant du livre II du présent code. 
 
 Les mutuelles et unions relevant du présent code disposent d'au moins la moitié des sièges à l'assemblée générale et au
 conseil d'administration. Toute clause contraire des statuts entraîne la nullité de la constitution de l'union mutualiste de
@@ -585,9 +585,9 @@ Les conditions de fonctionnement de l'union mutualiste de groupe sont fixées pa
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 168
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
 
 _Cité par_:
 
@@ -629,9 +629,9 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier - art. L517-4
   - Code des assurances - art. L310-1
   - Code des assurances - art. L310-1-1
-  - Code de la mutualité - art. L212-7-1
 
 
 ###### Article L111-5
@@ -3812,6 +3812,26 @@ _Cité par_:
   - Code monétaire et financier - art. L511-46 (Ab)
 
 
+###### Article L212-3-2
+
+Au sein des mutuelles régies par le présent livre, à l'exception de celles mentionnées à l'article L. 212-3-1, le comité
+mentionné à l'article L. 823-19 du code de commerce assure également le suivi de la politique, des procédures et des systèmes
+de gestion des risques. 
+
+Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
+comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+
+_Cite_:
+
+  - Code de commerce - art. L823-19
+
+
 ###### Article L212-4
 
 Lorsque les concours financiers, subventions, prêts et aides de toute nature accordés par une mutuelle ou une union régie par
@@ -3997,27 +4017,11 @@ du code monétaire et financier sont considérés comme faisant partie d'un mêm
 Il en est de même pour les entités appartenant à des groupes coopératifs régis par les dispositions similaires dans la
 législation qui leur est applicable ; 
 
-8° L'expression " entité réglementée " désigne une mutuelle ou une union régie par le livre II du présent code, un
-établissement de crédit ou une entreprise d'investissement ayant son siège social dans un Etat membre ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen ; 
+8° Abrogé 
 
-9° L'expression " compagnie financière holding mixte " désigne un organisme de référence autre qu'une entité réglementée qui,
-avec ses organismes subordonnés, dont l'un au moins est une entité réglementée ayant son siège dans un Etat membre ou dans un
-autre Etat partie à l'accord sur l'Espace économique européen, constitue un conglomérat financier ; 
+9° Abrogé 
 
-10° L'expression " secteur financier " désigne un secteur composé d'une ou plusieurs entités appartenant aux secteurs
-suivants : 
-
-a) Le secteur bancaire et des services d'investissement, qui comprend les établissements de crédit, les entreprises
-d'investissement, les établissements financiers ou les entreprises à caractère financier dont le siège social est situé dans
-un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
-
-b) Le secteur des assurances, qui comprend les entreprises d'assurance, les sociétés de groupe d'assurance, les mutuelles,
-les unions de mutuelles, les institutions de prévoyance, les unions d'institutions de prévoyance, les groupements paritaires
-de prévoyance ou les sociétés de réassurance dont le siège social est situé dans un Etat membre ou dans un autre Etat partie
-à l'accord sur l'Espace économique européen ; 
-
-Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ; 
+10° Abrogé 
 
 11° L'expression " autorité compétente " désigne toute autorité nationale d'un Etat membre ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller,
@@ -4035,23 +4039,12 @@ e) Les établissements de crédit ;
 
 f) Les entreprises d'investissement ; 
 
-12° L'expression " autorité compétente concernée " désigne : 
-
-1° Toute autorité compétente des Etats responsable de la surveillance sectorielle consolidée ou combinée des entités
-réglementées appartenant à un conglomérat financier ; 
-
-2° Le coordonnateur désigné conformément à l'article L. 212-7-9, s'il est différent des autorités mentionnées au point a ; 
-
-3° Les autres autorités compétentes, lorsque les autorités mentionnées aux 1° et 2° le jugent opportun ; 
+12° Abrogé 
 
 13° L'expression " règles sectorielles " désigne les règles concernant la surveillance prudentielle des entités réglementées
-et les règles concernant la surveillance complémentaire instituée à l'article L. 212-7-2.
+et les règles concernant la surveillance complémentaire instituée à l'article L. 212-7-2du présent code.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -4077,6 +4070,10 @@ _Cité par_:
   - Code monétaire et financier - art. R612-37 (V)
   - Code monétaire et financier - art. R612-38 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+
 _Cite_:
 
   - Code de commerce - art. L233-16
@@ -4089,8 +4086,9 @@ _Cite_:
 ###### Article L212-7-2
 
 Les mutuelles ou unions régies par les dispositions du présent livre et apparentées à au moins un autre organisme assureur ou
-subordonnées à un organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation
-financière par l'Autorité de contrôle prudentiel et de résolution. 
+à une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier ousubordonnées à un
+organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation financière par
+l'Autorité de contrôle prudentiel et de résolution. 
 
 La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union. L'Autorité peut
 toutefois décider d'exclure un organisme apparenté de la surveillance complémentaire si elle estime que sa prise en compte
@@ -4109,6 +4107,7 @@ _Cité par_:
   - Ordonnance n°2001-767 du 29 août 2001 - art. 3 (V)
   - Code de la mutualité - art. L212-7-1 (V)
   - Code de la mutualité - art. L212-7-2-1 (VT)
+  - Code de la mutualité - art. L212-7-3 (VT)
   - Code de la mutualité - art. L510-7 (Ab)
   - Code de la mutualité - art. R212-11 (V)
   - Code de la mutualité - art. R212-15 (VT)
@@ -4119,11 +4118,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 _Cite_:
 
-  - Code de la mutualité - art. L510-1
+  - Code monétaire et financier - art. L517-4
 
 
 ###### Article L212-7-2-1
@@ -4197,19 +4200,24 @@ _Cite_:
 
 ###### Article L212-7-4
 
-Les entités réglementées appartenant à un conglomérat financier font l'objet d'une surveillance complémentaire dans les
-conditions prévues au chapitre III du titre III du livre VI du code monétaire et financier, sans préjudice des règles
-sectorielles qui leur sont applicables.
+Les mutuelles et unions relevant du présent livre appartenant à un conglomérat financier au sens de l'article L. 517-3 du
+code monétaire et financier font l'objet d'une surveillance complémentaire dans les conditions prévues par le chapitre VII du
+titre Ier du livre V du code monétaire et financier et par le chapitre III du titre III du livre VI du même code, sans
+préjudice des règles sectorielles qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 _Cite_:
 
-  - Code monétaire et financier
+  - Code monétaire et financier - art. L517-3
 
 _Cité par_:
 
@@ -4219,138 +4227,43 @@ _Cité par_:
   - Code de la mutualité - art. R213-8 (V)
 
 
-###### Article L212-7-5
+###### Article L212-7-4-1
 
-I.-Un groupe financier constitue un conglomérat financier lorsque les conditions suivantes sont remplies : 
+I.-Lorsqu'une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier relève de
+dispositions équivalentes au titre de la surveillance complémentaire de groupe au sens de l'article L. 212-7-2 et au titre de
+la surveillance complémentaire de conglomérat financier mentionnée à l'article L. 212-7-4 du même code, notamment en ce qui
+concerne la surveillance fondée sur le risque, l'Autorité de contrôle prudentiel et de résolution peut, après consultation
+des autres autorités compétentes concernées au sens de l'article L. 517-2 du code monétaire et financier, n'appliquer que les
+articles L. 517-6 et L. 517-8 du même code. 
 
-1° Une entité réglementée est à la tête du groupe ou l'un des organismes subordonnés du groupe au moins est une entité
-réglementée et : 
+II.-Lorsqu'une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier relève de
+dispositions équivalentes au titre de la surveillance consolidée au sens de l'article L. 613-20-1 du code monétaire et
+financier et au titre de la surveillance complémentaire de groupe au sens de l'article L. 212-7-2, notamment en ce qui
+concerne la surveillance fondée sur le risque, l'Autorité de contrôle prudentiel et de résolution peut, en accord avec
+l'autorité compétente en charge de la surveillance consolidée du groupe bancaire, n'appliquer à une compagnie financière
+holding mixte que les dispositions applicables au secteur le plus important déterminé conformément à l'article L. 517-3 du
+code monétaire et financier. 
 
-a) Dans le cas où une entité réglementée est à la tête du groupe, il s'agit soit de l'organisme de référence d'une entité du
-secteur financier, soit d'une entité qui détient une participation dans une entité du secteur financier, soit d'une entité
-liée à une entité du secteur financier au sens de l'article L. 212-7-1 (7°) ; 
-
-b) Dans le cas où il n'y a pas d'entité réglementée à la tête du groupe, les activités de ce dernier s'exercent
-principalement dans le secteur financier ; 
-
-2° L'une au moins des entités du groupe appartient au secteur des assurances et l'une au moins appartient au secteur bancaire
-et des services d'investissement ; 
-
-3° Les activités consolidées ou agrégées des entités du groupe dans le secteur des assurances et les activités consolidées ou
-agrégées des entités dans le secteur bancaire et dans celui des services d'investissement sont importantes. 
-
-II.-Sont fixés par voie réglementaire : 
-
-1° Les seuils à partir desquels les activités d'un groupe sont considérées comme s'exerçant principalement dans le secteur
-financier ; 
-
-2° Les seuils à partir desquels l'activité dans chaque secteur est considérée comme importante ; 
-
-3° Les seuils, critères ou conditions en fonction desquels les autorités compétentes concernées peuvent décider d'un commun
-accord de ne pas considérer le groupe comme un conglomérat financier ou de ne pas lui appliquer les dispositions relatives à
-la surveillance complémentaire. 
-
-III.-Tout sous-groupe d'un groupe financier qui remplit les critères figurant au I du présent article est exempté du régime
-de la surveillance complémentaire lorsqu'il appartient à un groupe identifié comme conglomérat financier soumis, à ce titre,
-à une surveillance complémentaire. Néanmoins, le coordonnateur du conglomérat ou, le cas échéant, le coordonnateur désigné
-conformément à l'article L. 212-7-9 pour la surveillance complémentaire du sous-groupe peut soumettre par une décision
-motivée le sous-groupe au régime de surveillance complémentaire dans les conditions fixées par voie réglementaire.
+III.-Les décisions prises en application du I et du II sont portées à la connaissance de l'Autorité bancaire européenne et de
+l'Autorité européenne des assurances et des pensions professionnelles par l'Autorité de contrôle prudentiel et de résolution.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance n°2001-350 du 19 avril 2001
-
 _Créé par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
 
 _Abrogé par_:
 
-  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 _Cite_:
 
-  - Code de la mutualité - art. L212-7-1
-  - Code de la mutualité - art. L212-7-9
-
-_Cité par_:
-
-  - Code de la mutualité - art. L212-7-7 (Ab)
-  - Code de la mutualité - art. L510-3 (Ab)
-  - Code de la mutualité - art. R211-28-1 (M)
-
-
-###### Article L212-7-7
-
-I. - La surveillance complémentaire exercée au niveau d'un conglomérat s'applique à toute entité réglementée remplissant l'un
-des critères suivants :
-
-1° Elle constitue la tête du conglomérat ;
-
-2° Elle a pour organisme de référence une compagnie financière holding mixte ayant son siège social dans un Etat membre ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen ;
-
-3° Elle est liée à une autre entité du secteur financier au sens du 8° de l'article L. 212-7-1.
-
-II. - Dans des cas autres que ceux mentionnés au I et à l'article L. 212-7-18, lorsque des personnes détiennent une
-participation dans une ou plusieurs entités réglementées, ou ont un lien de participation avec ces entités ou exercent sur
-elles une influence notable qui ne résulte ni d'une participation ni d'un lien de participation, les autorités compétentes
-concernées déterminent, d'un commun accord, au regard des objectifs de la surveillance complémentaire, si, et dans quelle
-mesure, une surveillance complémentaire des entités réglementées comprises dans cet ensemble doit être effectuée comme s'il
-constituait un conglomérat financier.
-
-Pour appliquer cette surveillance complémentaire, les conditions énoncées aux 2° et 3° du I de l'article L. 212-7-5 doivent
-être remplies.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2001-350 du 19 avril 2001
-
-_Créé par_:
-
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-_Cite_:
-
-  - Code de la mutualité - art. L212-7-1
-  - Code de la mutualité - art. L212-7-18
-  - Code de la mutualité - art. L212-7-5
-
-
-###### Article L212-7-8
-
-Les entités réglementées appartenant à un conglomérat financier sont soumises, dans des conditions précisées par voie
-réglementaire à des exigences complémentaires en matière d'adéquation des fonds propres, de transactions entre les
-différentes entités du conglomérat, de concentration et de gestion des risques et de contrôle interne. Celle des autorités
-compétentes d'un des Etats membres ou autres Etats partie à l'Espace économique européen qui remplit les critères définis par
-voie réglementaire est le coordonnateur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-_Cité par_:
-
-  - Code de la mutualité - art. L212-7-10 (V)
-  - Code de la mutualité - art. L212-7-16 (V)
+  - Code monétaire et financier - art. L517-2
+  - Code monétaire et financier - art. L517-3
+  - Code monétaire et financier - art. L517-4
+  - Code monétaire et financier - art. L517-8
+  - Code monétaire et financier - art. L613-20-1
 
 
 ##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.<a id=24></a>
@@ -4954,14 +4867,14 @@ _Cité par_:
 
 Les mesures d'assainissement et les procédures de liquidation prises par l'autorité publique française compétente à l'égard
 d'une mutuelle ou d'une union produisent tous leurs effets sur le territoire des autres Etats membres de la Communauté
-européenne, sous réserve de dispositions contraires prévues par les lois de ces Etats, conformément à la directive 2001/17/CE
-du Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises
+européenne, sous réserve de dispositions contraires prévues par les lois de ces Etats, conformément à la directive 2001/17/
+CE du Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises
 d'assurance. 
 
 Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles affectent les droits préexistants des parties
 autres que l'organisme d'assurance lui-même : 
 
-1° Les mesures mentionnées aux 2°, 3° et 4° du I de l'article L. 612-33 du code monétaire et financier ; 
+1° Les mesures mentionnées aux 3°, 4° et 7° du I de l'article L. 612-33 du code monétaire et financier ; 
 
 2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et financier ou le retrait partiel d'agrément mentionné
 au 6° du même article ; 
@@ -4980,7 +4893,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 43
+  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 _Cité par_:
 
