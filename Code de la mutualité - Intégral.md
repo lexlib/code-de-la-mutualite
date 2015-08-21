@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -33,7 +33,7 @@ Version Consolidée au 2015-08-08
         - [Chapitre III : Peines. (art. L213-1 à L213-5)](#30)
       - [Titre II : Opérations des mutuelles et des unions. (art. L221-1 à L227-1)](#31)
         - [Chapitre Ier : Dispositions générales. (art. L221-1 à L221-20)](#32)
-          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6-1)](#33)
+          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6-2)](#33)
           - [Section 2 : Exécution du contrat. (art. L221-7 à L221-17)](#34)
           - [Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur. (art. L221-18)](#35)
           - [Section 4 : Certificats mutualistes (art. L221-19 à L221-20)](#36)
@@ -5543,6 +5543,19 @@ _Cite_:
   - Code de la mutualité - art. L223-10-1
 
 
+###### Article L221-6-2
+
+Le règlement mutualiste ou le contrat et la notice d'information précisent les modalités d'examen des réclamations relatives
+aux bulletin d'adhésion, règlement et contrat et de recours à un processus de médiation dans les conditions prévues au titre
+V du livre Ier du code de la consommation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 5
+
+
 ##### Section 2 : Exécution du contrat.<a id=34></a>
 
 ###### Article L221-7
@@ -6043,10 +6056,9 @@ d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de 
 participant ainsi que la loi applicable au bulletin d'adhésion au règlement et la langue que la mutuelle ou l'union s'engage
 à utiliser, avec l'accord du membre participant, pendant la durée du bulletin d'adhésion au règlement ; 
 
-7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du bulletin d'adhésion au
-règlement y compris, le cas échéant, l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui
-d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes
-d'indemnisation. 
+7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du règlement mutualiste ou du
+contrat et de recours à un processus de médiation dans les conditions prévues au titre V du livre Ier du code de la
+consommation.
 
 Les informations sur les conditions d'adhésion communiquées en phase précontractuelle doivent être conformes à la loi
 applicable au bulletin d'adhésion au règlement. 
@@ -6082,7 +6094,7 @@ juin 2014.
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
+  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 5
 
 _Cite_:
 
