@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L111-1 à L116-5)](#2)
@@ -11946,7 +11946,7 @@ _Créé par_:
 
 Les unités de compte visées à l'article L. 223-2 sont :
 
-1° Les actifs énumérés aux 1°, 2°, 3°, 4°, 5°, 6°, 7° et 12° de l'article R. 332-2 du  code des assurances ;
+1° Les actifs énumérés aux 1°, 2°, 3°, 4°, 5°, 6°, 7° et 12° de l'article R. 332-2 du code des assurances ;
 
 2° Dans les conditions fixées à l'article R. 223-3, les parts ou actions visées au 14° de l'article R. 332-2 ;
 
@@ -11956,7 +11956,9 @@ au 9° de l'article R. 332-2 du code des assurances ;
 Le règlement ou le contrat collectif peut se référer soit à une seule unité de compte, soit à la combinaison de plusieurs
 unités de compte. Dans ce dernier cas, la cotisation doit être ventilée entre les différentes unités de compte conformément
 aux dispositions du règlement ou du contrat collectif. La part de la cotisation représentée par les unités de compte relevant
-du 3° ne doit pas dépasser 10 %.
+du 3° ne doit pas dépasser 10 %. Pour les contrats relevant du 
+I bis de l'article 990 I du code général des impôts
+, ce seuil est porté à 33 %.
 
 Le règlement ou le contrat collectif doit prévoir les modalités selon lesquelles, en cas de disparition d'une unité de
 compte, une autre unité de compte de même nature lui est substituée, par modification du règlement ou avenant au contrat
@@ -11974,7 +11976,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 13
+  - Décret n°2016-918 du 4 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 990 I
+  - Code des assurances - art. R332-2
 
 
 ###### Article R223-2
