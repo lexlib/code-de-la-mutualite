@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2017-11-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-5)](#2)
@@ -4979,7 +4979,9 @@ _Cité par_:
 ###### Article L212-16
 
 Les chapitres III et VI du titre II du livre III du code des assurances sont applicables aux mutuelles et unions régies par
-le présent livre.
+le présent livre. Le chapitre II du titre Ier du livre III du code des assurances est applicable aux mutuelles, unions régies
+par le présent livre, aux groupes définis à l'article L. 356-1 du code des assurances et aux mutuelles ou unions de retraite
+professionnelle supplémentaire. 
 
 Pour l'application des dispositions de ces chapitres, il faut entendre : " membres participants " là où est mentionné : "
 assuré ", " cotisations " là où est mentionné : " primes ", " règlement " ou " contrat " là où est mentionné : " police " et
@@ -4990,7 +4992,13 @@ garantie mentionné à l'article L. 423-1 ".
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
+  - Ordonnance n°2017-1608 du 27 novembre 2017 - art. 4
+
+_Cite_:
+
+  - Code des assurances - art. L356-1 (V)
+  - Code des assurances - art. L423-1 (V)
+  - Code de la mutualité - art. L431-1 (V)
 
 _Cité par_:
 
@@ -4998,11 +5006,6 @@ _Cité par_:
   - Code de la mutualité - art. R211-15-1 (VT)
   - Code de la mutualité - art. R414-3 (V)
   - Code des assurances - art. L311-11 (V)
-
-_Cite_:
-
-  - Code de la mutualité - art. L431-1
-  - chapitres III et VI du titre II du livre III du code des assurances
 
 
 ##### Section 4 : Privilèges.<a id=31></a>
@@ -5055,11 +5058,14 @@ sont susceptibles d'être compromis à bref délai, les immeubles faisant partie
 hypothèque inscrite à la requête de l'Autorité de contrôle prudentiel et de résolution. Lorsque la mutuelle ou l'union fait
 l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit à la date du retrait d'agrément.
 
+Cet article n'est pas applicable à une mutuelle ou union soumise à une procédure de résolution prévue au chapitre II du titre
+Ier du livre III du code des assurances.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2017-1608 du 27 novembre 2017 - art. 4
 
 _Cité par_:
 
@@ -9876,41 +9882,46 @@ _Cite_:
 I. – Lorsque l'Autorité de contrôle prudentiel et de résolution prend, à l'égard d'un organisme mentionné au premier alinéa
 de l'article L. 431-1, la mesure conservatoire prévue au 14° du I de l'article L. 612-33 du code monétaire et financier, elle
 recourt au fonds de garantie régi par le présent chapitre, après avoir consulté par écrit le président du directoire de ce
-fonds.
+fonds. Lorsque le collège de résolution de l'Autorité prend à l'égard d'une mutuelle ou union régie par le présent code la
+mesure de résolution prévue au 4° du I de l'article L. 311-30 du code des assurances, il recourt au fonds de garantie régi
+par le présent chapitre dans les mêmes conditions. 
 
 S'il conteste la décision de l'Autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
 ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnés au premier alinéa
 de l'article L. 431-1 et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération après avoir reçu
-l'avis écrit d'un collège arbitral dont la composition est fixée par un décret en Conseil d'Etat.
+l'avis écrit d'un collège arbitral dont la composition est fixée par un décret en Conseil d'Etat. 
 
 La décision de l'Autorité de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou l'union concernée. En
 cas de mise en œuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de l'Autorité est notifiée
-à l'organisme.
+à l'organisme. 
 
 II. – Dès cette notification, l'autorité communique au fonds de garantie l'appel d'offres qu'elle lance pour mettre en œuvre
-la mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier.
+la mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier. 
 
-III. – Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie.
+III. – Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
 
 IV. – Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels dus à une
 sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert reviennent aux personnes
-mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés.
+mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés. 
 
-V. – Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait,
-par l'Autorité, de tous les agréments administratifs de la mutuelle ou de l'union défaillante en application du II de
-l'article L. 612-33-2 du code monétaire et financier. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur,
-les actes nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur
-provisoire nommé, le cas échéant, l'Autorité peut accomplir ces actes de gestion pour le compte du fonds de garantie.
+V. – Dans le cadre de la procédure prévue au 14° du I de l'article L. 612-33 du code monétaire et financier, le transfert de
+tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait, par l'Autorité, de tous
+les agréments administratifs de la mutuelle ou de l'union défaillante en application du II de l'article L. 612-33-2 du code
+monétaire et financier. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la
+gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire nommé, le cas
+échéant, l'Autorité peut accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 47 (V)
+  - Ordonnance n°2017-1608 du 27 novembre 2017 - art. 4
 
 _Cite_:
 
-  - Code monétaire et financier - art. L612-33 (V)
+  - Code monétaire et financier - art. L612-33
+  - Code des assurances - art. L311-30 (V)
+  - Code de la mutualité - art. L431-1 (V)
 
 _Cité par_:
 
@@ -9926,9 +9937,10 @@ En cas de transfert de portefeuille, la partie des droits des personnes mentionn
 non couverte, le cas échéant, par le cessionnaire est garantie, dans les limites prévues par décret en Conseil d'Etat, par un
 versement du fonds de garantie au cessionnaire. 
 
-Lorsque la procédure de transfert de portefeuille n'a pas abouti, les droits des membres participants, de leurs ayants droit
-et des bénéficiaires de prestations sont garantis par un versement à leur profit du fonds de garantie, dans des limites
-prévues par décret en Conseil d'Etat. 
+Lorsque la procédure de transfert de portefeuille n'a pas abouti ou que le collège de résolution de l'Autorité a pris une
+décision entraînant la liquidation de l'entreprise en vertu de l'article L. 311-19 du code des assurances, les droits des
+membres participants, de leurs ayants droit et des bénéficiaires de prestations sont garantis par un versement à leur profit
+du fonds de garantie, dans des limites prévues par décret en Conseil d'Etat. 
 
 Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est
 arrêté par l'Autorité de contrôle.
@@ -9937,15 +9949,16 @@ arrêté par l'Autorité de contrôle.
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
 
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+  - Ordonnance n°2017-1608 du 27 novembre 2017 - art. 4
 
 _Cite_:
 
-  - Code de la mutualité - art. L431-1 (V)
+  - Code des assurances - art. L311-19 (V)
+  - Code de la mutualité - art. L431-1
 
 _Cité par_:
 
