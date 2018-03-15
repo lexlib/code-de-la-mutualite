@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2018-02-03
+Version Consolidée au 2018-03-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-5)](#2)
@@ -12216,21 +12216,25 @@ _Cite_:
 
 ###### Article R212-22-2
 
-Le chapitre V du titre II du livre III du code des assurances est applicable aux mutuelles et unions mentionnées aux articles
-L. 211-8 et L. 211-8-1. 
+I.-Le chapitre V du titre II du livre III du code des assurances est applicable aux mutuelles et unions mentionnées aux
+articles L. 211-8 et L. 211-8-1. 
 
 Pour l'application de l'alinéa précédent, il y a lieu d'entendre : " mutuelle ou union " là où est mentionné dans le code des
-assurances : " entreprise ".
+assurances : " entreprise ". 
+
+II.-Le chapitre III du titre Ier du livre III du code des assurances est applicable aux mutuelles et unions régies par le
+présent livre, aux groupes définis à l'article L. 356-1 du code des assurances et aux mutuelles ou unions de retraite
+professionnelle supplémentaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 13
+  - Décret n°2018-179 du 13 mars 2018 - art. 4
 
 _Cite_:
 
-  - Code des assurances -  Chapitre V : Retrait de l'agrément administratif (V)
+  - Code des assurances
 
 
 #### Chapitre IV : Mutuelles et unions de retraite professionnelle supplémentaire<a id=99></a>
