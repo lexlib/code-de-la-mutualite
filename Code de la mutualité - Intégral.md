@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2018-03-16
+Version Consolidée au 2018-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-5)](#2)
@@ -41,7 +41,7 @@ Version Consolidée au 2018-03-16
           - [Section 5 :  Règles financières et prudentielles (art. L214-12)](#38)
       - [Titre II : Opérations des mutuelles et des unions. (art. L221-1 à L227-1)](#39)
         - [Chapitre Ier : Dispositions générales. (art. L221-1 à L221-20)](#40)
-          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6-3)](#41)
+          - [Section 1 : Modalités d'affiliation. (art. L221-1 à L221-6-7)](#41)
           - [Section 2 : Exécution du contrat. (art. L221-7 à L221-17-1)](#42)
           - [Section 3 : Fourniture à distance d'opérations d'assurance à un consommateur. (art. L221-18 à L221-18-1)](#43)
           - [Section 4 : Certificats mutualistes (art. L221-19 à L221-20)](#44)
@@ -5865,6 +5865,91 @@ _Cite_:
   - Code de la mutualité - art. L225-8 (V)
 
 
+###### Article L221-6-4
+
+Constitue un support durable, au sens du présent livre, tout instrument offrant la possibilité au membre participant, à
+l'employeur, à la personne morale souscriptrice, ou à la mutuelle ou union, de stocker des informations qui lui sont
+adressées personnellement afin de pouvoir s'y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les
+informations sont destinées, et qui permet la reproduction à l'identique des informations conservées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
+
+
+###### Article L221-6-5
+
+I. - Lorsque la mutuelle ou union, l'employeur ou la personne morale souscriptrice, souhaite, fournir ou mettre à disposition
+des informations ou des documents à un membre participant, un employeur ou une personne morale souscriptrice, sur un support
+durable autre que le papier, la mutuelle ou union, l'employeur ou la personne morale souscriptrice vérifie au préalable que
+ce mode de communication est adapté à la situation de ce membre participant, de cet employeur ou de cette personne morale
+souscriptrice. La mutuelle ou union, l'employeur ou la personne morale souscriptrice s'assure qu'il est en mesure de prendre
+connaissance de ces informations et documents sur le support durable envisagé. Lorsque le membre participant, l'employeur ou
+la personne morale souscriptrice fournit à cette fin une adresse électronique, cette adresse est vérifiée par la mutuelle ou
+union, l'employeur ou la personne morale souscriptrice.
+
+Après ces vérifications, la mutuelle ou union, l'employeur ou la personne morale souscriptrice doit informer le membre
+participant, l'employeur ou la personne morale souscriptrice de façon claire, précise et compréhensible de la poursuite de
+leurs relations sur un support durable autre que le papier. La mutuelle ou union, l'employeur ou la personne morale
+souscriptrice renouvelle ces vérifications annuellement.
+
+Sauf lorsqu'il est indiqué dans le règlement ou le contrat fourni par la mutuelle ou l'union que le service fourni est de
+nature exclusivement électronique, la mutuelle ou l'union, l'employeur ou la personne morale souscriptrice doit informer le
+membre participant, l'employeur ou la personne morale souscriptrice, du droit de celui-ci ou celle-ci de s'opposer à
+l'utilisation de ce support dès l'entrée en relation ou à n'importe quel moment. La mutuelle ou l'union, l'employeur ou la
+personne morale souscriptrice justifie alors à tout moment de la relation que cette information a bien été portée à la
+connaissance du membre participant, de l'employeur ou de la personne morale souscriptrice.
+
+II. - Sauf lorsqu'il est indiqué dans le règlement ou le contrat fourni par la mutuelle ou l'union que le service fourni est
+de nature exclusivement électronique, le membre participant, l'employeur ou la personne morale souscriptrice peut, à tout
+moment et par tout moyen, demander à ce qu'un support papier soit utilisé sans frais pour la poursuite de leurs relations. Le
+membre participant, l'employeur ou la personne morale souscriptrice peut par ailleurs effectuer, dans les mêmes conditions,
+l'ensemble des formalités et obligations qui lui incombent sur tout autre support durable convenu avec la mutuelle ou union,
+l'employeur ou la personne morale souscriptrice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
+
+
+###### Article L221-6-6
+
+Lorsque la mutuelle ou union, l'employeur ou la personne morale souscriptrice met à disposition du membre participant, de
+l'employeur ou de la personne morale souscriptrice un espace personnel sécurisé sur internet, il ou elle garantit
+l'accessibilité des informations et documents conservés dans cet espace pendant une durée adaptée à leur finalité. Pour les
+documents précontractuels et contractuels cette durée ne peut être inférieure à cinq ans après la fin de l'adhésion.
+
+Lorsque la mutuelle ou union, l'employeur ou la personne morale souscriptrice envisage de ne plus rendre accessibles ces
+informations et documents, elle en informe préalablement, dans un délai qui ne peut être inférieur à deux mois, le membre
+participant, l'employeur ou la personne morale souscriptrice par tout moyen adapté à la situation de ce dernier ou de cette
+dernière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
+
+
+###### Article L221-6-7
+
+Lorsqu'une signature est exigée, celle-ci peut être apposée par écrit ou par tout autre moyen prévu à l'article 1367 du code
+civil.
+
+L'envoi recommandé électronique est équivalent à l'envoi par lettre recommandée, dès lors qu'il satisfait aux exigences de
+l'article L. 100 du code des postes et télécommunications électroniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
+
+
 ##### Section 2 : Exécution du contrat.<a id=42></a>
 
 ###### Article L221-7
@@ -5993,26 +6078,26 @@ _Codifié par_:
 
 Le membre participant, pour les opérations individuelles, le membre participant ou l'employeur ou la personne morale, pour
 les opérations collectives à adhésion facultative, la personne morale souscriptrice, pour les opérations collectives à
-adhésion obligatoire, peut mettre fin à son adhésion ou résilier le contrat collectif tous les ans en envoyant une lettre
-recommandée à la mutuelle ou à l'union au moins deux mois avant la date d'échéance. La mutuelle ou l'union peut, dans des
-conditions identiques, résilier le contrat collectif, à l'exception des opérations mentionnées au deuxième alinéa de
-l'article L. 110-2. 
+adhésion obligatoire, peut mettre fin à son adhésion ou résilier le contrat collectif tous les ans en adressant une lettre
+recommandée ou un envoi recommandé électronique à la mutuelle ou à l'union au moins deux mois avant la date d'échéance. La
+mutuelle ou l'union peut également résilier le contrat collectif tous les ans, en envoyant une lettre recommandée au moins
+deux mois avant la date d'échéance, à l'exception des opérations mentionnées au deuxième alinéa de l'article L. 110-2.
 
 Sans préjudice du premier alinéa du présent article, lorsque le contrat a pour objet de garantir, en cas de survenance d'un
 des risques que ce contrat définit, soit le remboursement total ou partiel du montant restant dû au titre d'un contrat de
 crédit mentionné au 1° de l'article L. 313-1 du code de la consommation, soit le paiement de tout ou partie des échéances
 dudit prêt, le membre participant peut résilier son contrat dans un délai de douze mois à compter de la signature de l'offre
 de prêt définie à l'article L. 313-24 du même code. Le membre participant notifie à la mutuelle ou à l'union, ou à son
-représentant, sa demande en envoyant une lettre recommandée au plus tard quinze jours avant le terme de la période de douze
-mois susmentionnée. Si le membre participant fait usage du droit de résiliation mentionné au présent alinéa ou au premier
-alinéa du présent article, il notifie à la mutuelle ou à l'union par lettre recommandée la décision du prêteur prévue au
-deuxième alinéa de l'article L. 313-31 dudit code ainsi que la date de prise d'effet du contrat d'assurance accepté en
-substitution par le prêteur. En cas d'acceptation par le prêteur, la résiliation du contrat d'assurance prend effet dix jours
-après la réception par la mutuelle ou l'union de la décision du prêteur ou à la date de prise d'effet du contrat accepté en
-substitution par le prêteur si celle-ci est postérieure. En cas de refus par le prêteur, le contrat d'assurance n'est pas
-résilié. 
+représentant, sa demande en adressant une lettre recommandée ou un envoi recommandé électronique au plus tard quinze jours
+avant le terme de la période de douze mois susmentionnée. Si le membre participant fait usage du droit de résiliation
+mentionné au présent alinéa ou au premier alinéa du présent article, il notifie à la mutuelle ou à l'union par lettre
+recommandée ou par envoi recommandé électronique la décision du prêteur prévue au deuxième alinéa de l'article L. 313-31
+dudit code ainsi que la date de prise d'effet du contrat d'assurance accepté en substitution par le prêteur. En cas
+d'acceptation par le prêteur, la résiliation du contrat d'assurance prend effet dix jours après la réception par la mutuelle
+ou l'union de la décision du prêteur ou à la date de prise d'effet du contrat accepté en substitution par le prêteur si
+celle-ci est postérieure. En cas de refus par le prêteur, le contrat d'assurance n'est pas résilié.
 
-Ce droit de résiliation appartient exclusivement au membre participant. 
+Ce droit de résiliation appartient exclusivement au membre participant.
 
 Pendant toute la durée du contrat d'assurance, la mutuelle ou l'union ne peut pas résilier ce contrat d'assurance pour cause
 d'aggravation du risque, sauf dans certaines conditions définies par décret en Conseil d'Etat, résultant d'un changement de
@@ -6032,7 +6117,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 6
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 _Cité par_:
 
@@ -6047,7 +6132,7 @@ _Cite_:
 
   - Code de la consommation - art. L313-1
   - Code de la consommation - art. L313-24
-  - Code de la mutualité - art. L110-2 (V)
+  - Code de la mutualité - art. L110-2
 
 
 ###### Article L221-10-1
@@ -6057,11 +6142,13 @@ limite d'exercice par le membre participant du droit à dénonciation de l'adhé
 avis d'échéance annuelle de cotisation. Lorsque cet avis lui est adressé moins de quinze jours avant cette date, ou lorsqu'il
 lui est adressé après cette date, le membre participant est informé avec cet avis qu'il dispose d'un délai de vingt jours
 suivant la date d'envoi de l'avis pour dénoncer la reconduction. Dans ce cas, le délai de dénonciation court à partir de la
-date figurant sur le cachet de la poste.
+date figurant sur le cachet de la poste ou certifiée par un horodatage qualifié satisfaisant à des exigences définies par
+décret.
 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le membre participant
-peut, par lettre recommandée, mettre un terme à l'adhésion au règlement, sans pénalités, à tout moment à compter de la date
-de reconduction. La résiliation prend effet le lendemain de la date figurant sur le cachet de la poste.
+peut, par lettre recommandée ou envoi recommandé électronique, mettre un terme à l'adhésion au règlement, sans pénalités, à
+tout moment à compter de la date de reconduction. La résiliation prend effet le lendemain de la date figurant sur le cachet
+de la poste ou de la date d'expédition de l'envoi recommandé électronique.
 
 Le membre participant est tenu au paiement de la partie de cotisation correspondant à la période pendant laquelle le risque a
 couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, doit être remboursée au membre
@@ -6073,17 +6160,17 @@ défaut de remboursement dans ces conditions, les sommes dues sont productives d
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Loi n°2005-67 du 28 janvier 2005 - art. 3 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+  - Ordonnance n°2001-350 du 19 avril 2001
 
 _Cité par_:
 
   - Loi n°2015-1702 du 21 décembre 2015 - art. 61 (V)
   - Décret n°2018-225 du 30 mars 2018 - art. 3 (V)
   - Code de la mutualité - art. L223-27 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 
 ###### Article L221-11
@@ -6133,15 +6220,19 @@ _Cite_:
 
 La prescription est interrompue par une des causes ordinaires d'interruption de la prescription et par la désignation
 d'experts à la suite de la réalisation d'un risque. L'interruption de la prescription de l'action peut, en outre, résulter de
-l'envoi d'une lettre recommandée avec accusé de réception adressée par la mutuelle ou l'union au membre participant, en ce
-qui concerne l'action en paiement de la cotisation, et par le membre participant, le bénéficiaire ou l'ayant droit à la
-mutuelle ou à l'union, en ce qui concerne le règlement de l'indemnité.
+l'envoi d'une lettre recommandée ou d'un envoi recommandé électronique, avec accusé de réception, adressé par la mutuelle ou
+l'union au membre participant, en ce qui concerne l'action en paiement de la cotisation, et par le membre participant, le
+bénéficiaire ou l'ayant droit à la mutuelle ou à l'union, en ce qui concerne le règlement de l'indemnité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 
 ###### Article L221-12-1
@@ -6326,96 +6417,96 @@ _Créé par_:
 
 I. – 1° L'adhésion à distance d'un consommateur à un règlement ou à un contrat collectif à adhésion facultative est régie par
 le présent livre et par les articles L. 222-1, L. 222-3, L. 222-4, L. 222-6, L. 222-8, L. 222-13 à L. 222-16, L. 222-17, L.
-222-18, L. 232-4 et L. 242-5 du code de la consommation ; 
+222-18, L. 232-4 et L. 242-5 du code de la consommation ;
 
-2° Pour l'application du 1°, il y a lieu d'entendre : 
+2° Pour l'application du 1°, il y a lieu d'entendre :
 
 a) " le membre participant qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou professionnelle
-" là où est mentionné " le consommateur " ; 
+" là où est mentionné " le consommateur " ;
 
-b) " la mutuelle, l'union ou son intermédiaire en assurance " là où est mentionné " le fournisseur " ; 
+b) " la mutuelle, l'union ou son intermédiaire en assurance " là où est mentionné " le fournisseur " ;
 
-c) " le montant total de la cotisation " là où est mentionné " le prix total " ; 
+c) " le montant total de la cotisation " là où est mentionné " le prix total " ;
 
-d) " le droit de renonciation " là où est mentionné " le droit de rétractation " ; 
+d) " le droit de renonciation " là où est mentionné " le droit de rétractation " ;
 
-e) " le II de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 222-7 " ; 
+e) " le II de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 222-7 " ;
 
-f) " le III de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 222-5 " ; 
+f) " le III de l'article L. 221-18 du code de la mutualité " là où est mentionné " l'article L. 222-5 " ;
 
 3° Pour l'application de l'article L. 222-6 du code de la consommation, le bulletin d'adhésion doit comprendre, outre les
-informations prévues à l'article L. 223-8 du présent code, un modèle de lettre destiné à faciliter l'exercice du droit de
-renonciation lorsque ce droit existe. 
+informations prévues à l'article L. 223-8 du présent code, un modèle de rédaction destiné à faciliter l'exercice du droit de
+renonciation lorsque ce droit existe.
 
 II. – 1° Toute personne physique ayant adhéré à distance, à des fins qui n'entrent pas dans le cadre de son activité
 commerciale ou professionnelle, à un règlement ou à un contrat collectif à adhésion facultative, dispose d'un délai de
 quatorze jours calendaires révolus pour y renoncer, sans avoir à justifier de motif ni à supporter de pénalités. Ce délai
-commence à courir : 
+commence à courir :
 
-a) Soit à compter du jour où l'adhésion a pris effet ; 
+a) Soit à compter du jour où l'adhésion a pris effet ;
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions d'adhésion et les informations, conformément à l'article L.
-222-6 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ; 
+222-6 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ;
 
 2° Toutefois, en ce qui concerne les opérations mentionnées au b du 1° du I de l'article L. 111-1, le délai précité est porté
-à 30 jours calendaires révolus. Ce délai commence à courir : 
+à 30 jours calendaires révolus. Ce délai commence à courir :
 
-a) Soit à compter du jour où l'intéressé est informé que l'adhésion a pris effet ; 
+a) Soit à compter du jour où l'intéressé est informé que l'adhésion a pris effet ;
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions d'adhésion et les informations, conformément à l'article L.
-222-6 du code de la consommation si cette dernière date est postérieure à celle mentionnée au a. 
+222-6 du code de la consommation si cette dernière date est postérieure à celle mentionnée au a.
 
 III. – En temps utile avant l'adhésion à distance à un règlement ou à un contrat collectif à adhésion facultative, le membre
-participant reçoit les informations suivantes : 
+participant reçoit les informations suivantes :
 
 1° La dénomination de la mutuelle ou de l'union, l'adresse de son siège social, son numéro SIREN, les coordonnées de
-l'autorité chargée de son contrôle ainsi que, le cas échéant, l'adresse de la section mutualiste qui propose la couverture ; 
+l'autorité chargée de son contrôle ainsi que, le cas échéant, l'adresse de la section mutualiste qui propose la couverture ;
 
 2° Le montant total de la cotisation ou, lorsque ce montant ne peut être indiqué, la base de calcul de cette cotisation
-permettant au membre participant de vérifier celle-ci ; 
+permettant au membre participant de vérifier celle-ci ;
 
 3° La durée minimale de l'adhésion ainsi que les garanties et exclusions prévues par le règlement ou le contrat collectif à
-adhésion facultative ; 
+adhésion facultative ;
 
 4° La durée pendant laquelle les informations fournies sont valables, les modalités de l'adhésion au règlement et de paiement
 de la cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation d'une technique de
-commercialisation à distance ; 
+commercialisation à distance ;
 
 5° L'existence ou l'absence d'un droit de renonciation et, si ce droit existe, sa durée, les modalités pratiques de son
 exercice notamment l'adresse à laquelle la notification de la renonciation doit être envoyée. Le membre participant doit
 également être informé du montant de cotisation que la mutuelle ou l'union peut lui réclamer en contrepartie de la prise
-d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de renonciation ; 
+d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de renonciation ;
 
 6° La loi sur laquelle la mutuelle ou l'union se fonde pour établir les relations précontractuelles avec le membre
 participant ainsi que la loi applicable au règlement ou au contrat collectif à adhésion facultative et la langue que la
-mutuelle ou l'union s'engage à utiliser, avec l'accord du membre participant, pendant la durée de l'adhésion ; 
+mutuelle ou l'union s'engage à utiliser, avec l'accord du membre participant, pendant la durée de l'adhésion ;
 
 7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du règlement mutualiste ou du
 contrat collectif à adhésion facultative et de recours à un processus de médiation dans les conditions prévues au titre Ier
-du livre VI du code de la consommation. 
+du livre VI du code de la consommation.
 
 Les informations sur les conditions d'adhésion communiquées en phase précontractuelle doivent être conformes à la loi
-applicable au règlement ou au contrat collectif à adhésion facultative. 
+applicable au règlement ou au contrat collectif à adhésion facultative.
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée. 
+compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée.
 
 IV. – La mutuelle ou l'union doit également indiquer, pour les opérations mentionnées au b du 1° du I de l'article L. 111-1
 les informations mentionnées à l'article L. 223-8, notamment le montant maximal des frais qu'elle peut prélever et, lorsque
 les garanties de ces règlements ou de ces contrats collectifs à adhésion facultative sont exprimées en unités de compte, les
 caractéristiques principales de celles-ci. Dans ce dernier cas, elle doit en outre préciser qu'elle ne s'engage que sur le
-nombre des unités de compte et non sur leur valeur qui peut être sujette à des fluctuations à la hausse comme à la baisse. 
+nombre des unités de compte et non sur leur valeur qui peut être sujette à des fluctuations à la hausse comme à la baisse.
 
 V. – Un décret en Conseil d'Etat fixe les informations communiquées au membre participant en cas de communication par
-téléphonie vocale. 
+téléphonie vocale.
 
 VI. – Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle
-prudentiel et de résolution dans les conditions prévues au livre V. 
+prudentiel et de résolution dans les conditions prévues au livre V.
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de la mutuelle ou de l'union de rembourser le membre participant dans les conditions fixées à l'article L. 222-13 du
 code de la consommation peuvent également être recherchées et constatées par les agents mentionnés aux articles L. 511-3 et
-L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-6 du même code. 
+L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-6 du même code.
 
 Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
 
@@ -6423,23 +6514,23 @@ Les conditions d'application du présent article sont définies en tant que de b
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 6
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 _Cite_:
 
-  - Code de la consommation - art. L222-1 (V)
-  - Code de la consommation - art. L222-13 (V)
-  - Code de la consommation - art. L222-17 (V)
-  - Code de la consommation - art. L222-3 (V)
-  - Code de la consommation - art. L222-6 (V)
-  - Code de la consommation - art. L222-8 (V)
-  - Code de la consommation - art. L223-4 (V)
-  - Code de la consommation - art. L242-5 (V)
-  - Code de la consommation - art. L511-21 (V)
-  - Code de la consommation - art. L511-3 (V)
-  - Code de la consommation - art. L511-6 (V)
-  - Code de la mutualité - art. L111-1 (V)
-  - Code de la mutualité - art. L223-8 (V)
+  - Code de la consommation - art. L222-1
+  - Code de la consommation - art. L222-13
+  - Code de la consommation - art. L222-17
+  - Code de la consommation - art. L222-3
+  - Code de la consommation - art. L222-6
+  - Code de la consommation - art. L222-8
+  - Code de la consommation - art. L223-4
+  - Code de la consommation - art. L242-5
+  - Code de la consommation - art. L511-21
+  - Code de la consommation - art. L511-3
+  - Code de la consommation - art. L511-6
+  - Code de la mutualité - art. L111-1
+  - Code de la mutualité - art. L223-8 (VD)
 
 _Cité par_:
 
@@ -6454,52 +6545,53 @@ _Cité par_:
 I. – Toute personne physique qui fait l'objet d'un démarchage à son domicile, à sa résidence ou à son lieu de travail, même à
 sa demande, et qui adhère dans ce cadre à un règlement ou à un contrat collectif à adhésion facultative à des fins qui
 n'entrent pas dans le cadre de son activité commerciale ou professionnelle, a la faculté d'y renoncer par lettre recommandée
-avec demande d'avis de réception pendant le délai de quatorze jours calendaires révolus à compter du jour de la signature du
-bulletin d'adhésion sans avoir à justifier de motifs ni à supporter de pénalités. 
+ou par envoi recommandé électronique avec demande d'avis de réception pendant le délai de quatorze jours calendaires révolus
+à compter du jour de la signature du bulletin d'adhésion sans avoir à justifier de motifs ni à supporter de pénalités.
 
 Le bulletin d'adhésion au règlement ou au contrat collectif à adhésion facultative et, le cas échéant, la notice comportent,
-à peine de nullité, la mention du texte du premier alinéa et comprennent un modèle de lettre destiné à faciliter l'exercice
-de la faculté de renonciation. 
+à peine de nullité, la mention du texte du premier alinéa et comprennent un modèle de rédaction destiné à faciliter
+l'exercice de la faculté de renonciation.
 
 L'exercice du droit de renonciation dans le délai prévu au premier alinéa met fin à l'adhésion à compter de la date de
-réception de la lettre recommandée mentionnée au même alinéa. Dès lors qu'il a connaissance de la réalisation d'un risque
-mettant en jeu la garantie du contrat, le membre participant ne peut plus exercer ce droit de renonciation. 
+réception de la lettre recommandée ou de l'envoi recommandé électronique mentionnés au même alinéa. Dès lors qu'il a
+connaissance de la réalisation d'un risque mettant en jeu la garantie du contrat, le membre participant ne peut plus exercer
+ce droit de renonciation.
 
 En cas de renonciation, le membre participant ne peut être tenu qu'au paiement de la partie de cotisation correspondant à la
 période pendant laquelle le risque a couru, cette période étant calculée jusqu'à la date de fin d'adhésion. La mutuelle ou
 l'union est tenue de rembourser au membre participant le solde au plus tard dans les trente jours suivant la date de fin
-d'adhésion. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal. 
+d'adhésion. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal.
 
 Toutefois, l'intégralité de la cotisation reste due à la mutuelle ou à l'union si le membre participant exerce son droit de
 renonciation alors que la réalisation d'un risque mettant en jeu la garantie du règlement ou du contrat et dont il n'a pas eu
-connaissance est intervenu pendant le délai de renonciation. 
+connaissance est intervenu pendant le délai de renonciation.
 
 Le présent article n'est pas applicable aux opérations des mutuelles et des unions mentionnées au b du 1° de l'article L.
-111-1. 
+111-1.
 
 Les infractions aux dispositions du présent I sont constatées et sanctionnées par l'autorité instituée à l'article L. 612-1
-du code monétaire et financier. 
+du code monétaire et financier.
 
 II. – Les infractions constituées par la violation des dispositions du deuxième alinéa et de la deuxième phrase du quatrième
 alinéa du I sont recherchées et constatées par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la
-consommation, dans les conditions prévues à l'article L. 511-5 du même code. 
+consommation, dans les conditions prévues à l'article L. 511-5 du même code.
 
 Est puni de 15 000 euros d'amende le fait de ne pas rembourser le membre participant dans les conditions prévues à la
 deuxième phrase du quatrième alinéa du I du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 6
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 _Cite_:
 
-  - Code de la consommation - art. L511-21 (V)
-  - Code de la consommation - art. L511-3 (V)
-  - Code de la consommation - art. L511-5 (V)
-  - Code monétaire et financier - art. L612-1 (V)
-  - Code de la mutualité - art. L111-1 (V)
+  - Code de la consommation - art. L511-21
+  - Code de la consommation - art. L511-3
+  - Code de la consommation - art. L511-5
+  - Code monétaire et financier - art. L612-1
+  - Code de la mutualité - art. L111-1
 
 
 ##### Section 4 : Certificats mutualistes<a id=44></a>
@@ -7626,11 +7718,12 @@ _Cité par_:
 ###### Article L223-8
 
 Tout membre participant qui a signé un bulletin d'adhésion auprès d'une mutuelle ou par l'intermédiaire de celle-ci auprès
-d'une union a la faculté d'y renoncer par lettre recommandée avec demande d'avis de réception pendant un délai de trente
-jours calendaires révolus à compter du moment où il est informé que l'adhésion a pris effet. Ce délai expire le dernier jour
-à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé. 
+d'une union a la faculté d'y renoncer par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de
+réception pendant un délai de trente jours calendaires révolus à compter du moment où il est informé que l'adhésion a pris
+effet. Ce délai expire le dernier jour à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé,
+il n'est pas prorogé.
 
-Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
+Le bulletin d'adhésion ou le contrat doit comporter un projet de rédaction destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les bulletins
 d'adhésion ou les contrats en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle et
 notamment, pour les plans d'épargne retraite populaire créés à l'article L. 144-2 du code des assurances, les valeurs de
@@ -7639,29 +7732,29 @@ moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et ex
 rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union doit, en outre, remettre, contre
 récépissé, une note d'information sur les dispositions essentielles des règlements incluant, lorsque le contrat comporte des
 garanties exprimées en unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions
-d'exercice de la faculté de renonciation. 
+d'exercice de la faculté de renonciation.
 
 Pour les opérations collectives facultatives, la note précise que les droits et obligations du membre participant peuvent
 être modifiés par des avenants aux bulletins d'adhésion ou contrats. Les modalités d'adoption de ces avenants par l'employeur
-ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants. 
+ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants.
 
 De plus, il est inséré en début de note un encadré indiquant en caractères très apparents la nature du contrat. L'encadré
 comporte en particulier le regroupement des frais dans une même rubrique, les garanties offertes, la disponibilité des sommes
 en cas de rachat, la participation aux bénéfices, ainsi que les modalités de désignation du bénéficiaire. Un arrêté du
 ministre chargé de la mutualité, pris après avis de l'Autorité de contrôle prudentiel et de résolution, fixe le format de cet
-encadré ainsi que, de façon limitative, son contenu. 
+encadré ainsi que, de façon limitative, son contenu.
 
 Le défaut de remise des documents et informations énumérés au deuxième alinéa entraîne de plein droit la prorogation du délai
 prévu au premier alinéa jusqu'au trentième jour calendaire révolu suivant la date de remise effective de ces documents, dans
-la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet. 
+la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet.
 
 La renonciation entraîne la restitution, par la mutuelle ou l'union, de l'intégralité des sommes versées par le cotisant,
-dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre recommandée. Au-delà de ce
-délai, les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis à
-l'expiration de ce délai de deux mois, au double du taux légal. 
+dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre recommandée ou de l'envoi
+recommandé électronique. Au-delà de ce délai, les sommes non restituées produisent de plein droit intérêt au taux légal
+majoré de moitié durant deux mois, puis à l'expiration de ce délai de deux mois, au double du taux légal.
 
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
-deux mois. 
+deux mois.
 
 Un arrêté du ministre chargé de la mutualité précise les modalités d'application de ces dispositions.
 
@@ -7669,18 +7762,18 @@ Un arrêté du ministre chargé de la mutualité précise les modalités d'appli
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 24
 
 _Cite_:
 
-  - Code des assurances - art. L144-2 (V)
+  - Code des assurances - art. L144-2
 
 _Cité par_:
 
   - Code de la mutualité - art. A223-6-1 (V)
   - Code de la mutualité - art. L212-19 (VT)
   - Code de la mutualité - art. L212-23 (V)
-  - Code de la mutualité - art. L221-18 (V)
+  - Code de la mutualité - art. L221-18 (VD)
   - Code de la mutualité - art. L222-1-2 (V)
   - Code de la mutualité - art. L223-28 (VD)
   - Code de la mutualité - art. L223-8 (M)
@@ -7772,26 +7865,26 @@ Le bulletin d'adhésion comporte une information sur les conséquences de la dé
 modalités de cette désignation. Il précise que la clause bénéficiaire peut faire l'objet d'un acte sous seing privé ou d'un
 acte authentique.
 
-Toute personne physique ou morale peut demander par lettre à un ou plusieurs organismes professionnels représentatifs,
-habilités à cet effet par arrêté du ministre chargé de la mutualité, à être informée de l'existence d'une stipulation
-effectuée à son bénéfice dans une police souscrite par une personne physique dont elle apporte, par tout moyen, la preuve du
-décès.
+Toute personne physique ou morale peut demander par lettre ou tout autre support durable à un ou plusieurs organismes
+professionnels représentatifs, habilités à cet effet par arrêté du ministre chargé de la mutualité, à être informée de
+l'existence d'une stipulation effectuée à son bénéfice dans une police souscrite par une personne physique dont elle apporte,
+par tout moyen, la preuve du décès.
 
-Dans les quinze jours suivant la réception de la lettre mentionnée à l'alinéa précédent, l'organisme transmet cette demande
-aux mutuelles ou unions agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine. Lorsque la
-personne morale ou physique mentionnée au deuxième alinéa est désignée dans une police comme bénéficiaire, ces mutuelles ou
-unions disposent d'un délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente garantis payables à son
-bénéfice.
+Dans les quinze jours suivant la réception du support durable mentionné à l'alinéa précédent, l'organisme transmet cette
+demande aux mutuelles ou unions agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine.
+Lorsque la personne morale ou physique mentionnée au deuxième alinéa est désignée dans une police comme bénéficiaire, ces
+mutuelles ou unions disposent d'un délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente garantis
+payables à son bénéfice.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 24
 
 _Cité par_:
 
@@ -8741,7 +8834,7 @@ b) Les stipulations essentielles de la convention ;
 c) La mention que les droits et obligations de l'adhérent peuvent être modifiés par des avenants à ladite convention ainsi
 que les modalités d'adoption de ces avenants par le souscripteur ;
 
-d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de lettre destiné à faciliter l'exercice de
+d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de rédaction destiné à faciliter l'exercice de
 cette faculté de renonciation ;
 
 e) Les modalités de la conversion de la convention en rentes viagères selon les conditions fixées par arrêté du ministre
@@ -8776,9 +8869,9 @@ Il est également indiqué que les comptes de la convention sont tenus à la dis
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 6
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 24
 
 _Cite_:
 
@@ -10896,9 +10989,9 @@ _Cite_:
 I. – Il est tenu chaque année au moins une assemblée générale dans les conditions prévues par les statuts. A cette assemblée
 sont présentés par le conseil d'administration le bilan, le compte de résultat et l'annexe de l'exercice écoulé.
 
-II. – 1° La convocation à l'assemblée générale doit être faite par lettre recommandée adressée aux organismes affiliés,
-quinze jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant l'ordre du jour ; l'assemblée ne
-peut délibérer que sur les questions figurant à cet ordre du jour.
+II. – 1° La convocation à l'assemblée générale doit être faite par lettre recommandée ou par envoi recommandé électronique
+adressé aux organismes affiliés, quinze jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant
+l'ordre du jour ; l'assemblée ne peut délibérer que sur les questions figurant à cet ordre du jour.
 
 2° L'ordre du jour comporte les propositions du conseil d'administration et celles qui lui auront été communiquées par tout
 organisme affilié vingt jours au moins avant la réunion de l'assemblée générale.
@@ -10937,16 +11030,11 @@ description précise des cas de remboursement anticipé.
 
 La décision de l'Autorité est communiquée à l'assemblée générale.
 
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 13
+  - Décret n°2018-229 du 30 mars 2018 - art. 27
 
 
 ###### Article R115-5
@@ -11058,8 +11146,9 @@ convoquée.
 II. – Il est tenu chaque année au moins une assemblée générale au cours de laquelle le bilan, le compte de résultat et
 l'annexe de l'exercice écoulé sont présentés.
 
-III. – La convocation à l'assemblée générale doit être faite par lettre recommandée adressée aux organismes adhérents, quinze
-jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant l'ordre du jour.
+III. – La convocation à l'assemblée générale doit être faite par lettre recommandée ou par envoi recommandé électronique
+adressé aux organismes adhérents, quinze jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant
+l'ordre du jour.
 
 L'ordre du jour comporte les propositions du conseil d'administration et celles qui lui auront été communiquées par tout
 organisme adhérent vingt jours au moins avant la réunion de l'assemblée générale.
@@ -11069,9 +11158,9 @@ révoquer un ou plusieurs membres du conseil d'administration et procéder à le
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 28
 
 
 ###### Article R116-3
@@ -12180,16 +12269,16 @@ _Cite_:
 ###### Article R212-22-1
 
 Lorsqu'une procédure de liquidation est ouverte en application de l'article L. 212-15, le liquidateur informe sans délai et
-individuellement par une note écrite chaque créancier connu qui a sa résidence habituelle, son domicile ou son siège social
-dans un Etat membre autre que la France. 
+individuellement, sur support papier ou tout autre support durable, chaque créancier connu qui a sa résidence habituelle, son
+domicile ou son siège social dans un Etat membre autre que la France.
 
-Le contenu et le format de la note sont fixés par arrêté du ministre chargé de la mutualité.
+Le contenu et le format de l'information précitée sont fixés par arrêté du ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 13
+  - Décret n°2018-229 du 30 mars 2018 - art. 29
 
 _Cité par_:
 
@@ -12197,7 +12286,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L212-15 (V)
+  - Code de la mutualité - art. L212-15
 
 
 ###### Article R212-22-2
@@ -13737,12 +13826,12 @@ _Cité par_:
 ###### Article R223-5
 
 I. – Les organismes professionnels représentatifs mentionnés au deuxième alinéa de l'article L. 223-10-1 avisent les autres
-organismes professionnels habilités, en vertu du premier alinéa de l'article L. 132-9-2 du code des assurances, des lettres
-qu'ils reçoivent en application du deuxième alinéa de l'article L. 223-10-1. 
+organismes professionnels habilités, en vertu du premier alinéa de l'article L. 132-9-2 du code des assurances, des demandes
+qu'ils reçoivent en application du deuxième alinéa de l'article L. 223-10-1.
 
 II. – Les mutuelles et unions agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine
 susceptibles d'être concernées par la demande mentionnée au troisième alinéa de l'article L. 223-10-1 invitent dès réception
-de cette demande l'auteur de celle-ci à leur fournir les éléments nécessaires à son identification et à celle de l'assuré. 
+de cette demande l'auteur de celle-ci à leur fournir les éléments nécessaires à son identification et à celle de l'assuré.
 
 Le délai d'un mois mentionné au troisième alinéa de l'article L. 223-10-1 court à compter de la réception de ces éléments par
 ces mutuelles et unions agréées.
@@ -13751,16 +13840,16 @@ ces mutuelles et unions agréées.
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-564 du 16 avril 2007 - art. 1 () JORF 18 avril 2007
+  - Décret n°2018-229 du 30 mars 2018 - art. 30
 
 _Cite_:
 
-  - Code des assurances - art. L132-9-2 (V)
-  - Code de la mutualité - art. L223-10-1 (V)
+  - Code des assurances - art. L132-9-2
+  - Code de la mutualité - art. L223-10-1
 
 
 ###### Article R223-6
@@ -13869,26 +13958,26 @@ _Cite_:
 
 ###### Article R223-10
 
-Le relevé d'information spécifique mentionné au neuvième alinéa de l'article L. 223-21 est adressé au contractant dans
-l'année qui précède la date du terme du contrat et au plus tard un mois avant cette date. Les informations visées à l'article
-L. 223-21 peuvent faire l'objet d'un même document. 
+Le relevé d'information spécifique mentionné au neuvième alinéa de l'article L. 223-21 est fourni au contractant dans l'année
+qui précède la date du terme du contrat et au plus tard un mois avant cette date. Les informations visées à l'article L.
+223-21 peuvent faire l'objet d'un même document.
 
-Pour les contrats à tacite reconduction, le relevé d'information spécifique est adressé dans les conditions prévues au
-premier alinéa avant chaque date de reconduction tacite. 
+Pour les contrats à tacite reconduction, le relevé d'information spécifique est fourni dans les conditions prévues au premier
+alinéa avant chaque date de reconduction tacite.
 
 Pour les contrats non reconduits, si le membre participant ou le bénéficiaire de l'opération d'assurance sur la vie ne s'est
-pas manifesté dans l'année qui suit la date du terme du contrat, le relevé d'information spécifique est à nouveau adressé
-dans le mois qui suit le premier anniversaire du terme du contrat.
+pas manifesté dans l'année qui suit la date du terme du contrat, le relevé d'information spécifique est à nouveau fourni dans
+le mois qui suit le premier anniversaire du terme du contrat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1092 du 28 août 2015 - art. 3
+  - Décret n°2018-229 du 30 mars 2018 - art. 30
 
 _Cite_:
 
-  - Code de la mutualité - art. L223-21 (V)
+  - Code de la mutualité - art. L223-21
 
 
 ###### Article R223-11
@@ -15490,20 +15579,15 @@ résolution. Cette proportion ne peut excéder le quart des membres de l'assembl
 imposer une condition de durée minimum d'adhésion qui ne peut excéder un an.
 
 Les demandes d'inscription à l'ordre du jour d'une assemblée générale de projets de résolution doivent être adressées par
-lettre recommandée avec demande d'avis de réception au président du conseil d'administration de la mutuelle, de l'union ou de
-la fédération cinq jours au moins avant la date de réunion de l'assemblée générale. Ces projets de résolution sont inscrits à
-l'ordre du jour et soumis au vote de l'assemblée.
+lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception, au président du conseil
+d'administration de la mutuelle, de l'union ou de la fédération cinq jours au moins avant la date de réunion de l'assemblée
+générale. Ces projets de résolution sont inscrits à l'ordre du jour et soumis au vote de l'assemblée.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-_Créé par_:
-
-  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
-  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+  - Décret n°2018-229 du 30 mars 2018 - art. 26
 
 
 ###### Article D114-7
@@ -17865,29 +17949,30 @@ _Modifié par_:
 ###### Article R325-5
 
 Tout adhérent à titre individuel à une garantie annuelle couvrant les risques mentionnés aux 2° et 3° de l'article R. 321-1 a
-la faculté d'y renoncer par lettre recommandée, avec demande d'avis de réception dans les trente jours suivant le paiement de
-la première cotisation.
+la faculté d'y renoncer par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception dans
+les trente jours suivant le paiement de la première cotisation.
 
 Le règlement de la caisse, le contrat ou la note d'information explicative doivent comporter des indications précises sur les
 conditions d'exercice de cette renonciation. Le défaut de communication de ces documents proroge le délai prévu au premier
 alinéa ci-dessus, jusqu'au trentième jour suivant la date de leur remise effective à l'adhérent.
 
 La renonciation entraîne la restitution de l'intégralité des cotisations versées, dans les trente jours à compter de la
-réception de la lettre recommandée. Les intérêts de retard au taux légal courent de plein droit à l'expiration de ce délai.
+réception de la lettre recommandée ou de l'envoi recommandé électronique. Les intérêts de retard au taux légal courent de
+plein droit à l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - Décret n°86-384 du 13 mars 1986
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2018-229 du 30 mars 2018 - art. 31
 
 _Cite_:
 
-  - Code de la mutualité - art. R321-1 (M)
+  - Code de la mutualité - art. R321-1
 
 
 ###### Article R325-6
