@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2018-04-01
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-5)](#2)
@@ -9747,7 +9747,7 @@ Le Conseil supérieur de la mutualité est présidé par le ministre chargé de 
 représentant qui en est membre de droit.
 
 Le Conseil supérieur de la mutualité est composé en majorité de représentants des mutuelles, unions et fédérations désignés
-par les fédérations les plus représentatives du secteur.
+par les fédérations les plus représentatives du secteur. Il comprend également parmi ses membres un député et un sénateur.
 
 **Liens relatifs à cet article**
 
@@ -9761,7 +9761,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
+  - Loi n°2018-699 du 3 août 2018 - art. 64
 
 
 ###### Article L411-3
