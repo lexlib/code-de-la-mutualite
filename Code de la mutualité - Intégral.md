@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2018-04-01
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-5)](#2)
@@ -384,10 +384,10 @@ l'enfance, de la famille, des personnes âgées, dépendantes ou handicapées ;
 3° De mettre en œuvre une action sociale, de créer et exploiter des établissements ou services et de gérer des activités à
 caractère social, sanitaire, médico-social, sportif, culturel ou funéraire, et de réaliser des opérations de prévention ;
 
-4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 160-17, L.
-381-8 et L. 611-3 du code de la sécurité sociale et des articles L. 723-2, L. 731-30 à L. 731-34, L. 741-23 et L. 742-3 du
-code rural et de la pêche maritime et d'assurer la gestion d'activités et de prestations sociales pour le compte de l'Etat ou
-d'autres collectivités publiques.
+4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 160-17 et L.
+611-3 du code de la sécurité sociale et des articles L. 723-2, L. 731-30, L. 741-23 et L. 742-3 du code rural et de la pêche
+maritime et d'assurer la gestion d'activités et de prestations sociales pour le compte de l'Etat ou d'autres collectivités
+publiques.
 
 Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en réassurance.
 
@@ -409,6 +409,34 @@ directement du contrat qu'ils ont souscrit ;
 – aux souscripteurs d'un contrat proposé par une entreprise relevant du code des assurances, par une institution de
 prévoyance relevant du code de la sécurité sociale ou par une autre mutuelle d'assurance, et ayant passé une convention avec
 elle, dès lors que les prestations délivrées dans ce cadre découlent directement du contrat passé avec ces souscripteurs.
+
+**Nota:**
+
+Conformément à l'article 11 VI de la loi n° 2018-166 du 8 mars 2018, les dispositions entrent en vigueur le 1er septembre
+2018.
+
+Toutefois :
+
+1° Tant qu'elles ne remplissent pas à d'autres titres les conditions les conduisant à être rattachées à d'autres organismes
+pour la prise en charge de leurs frais de santé en cas de maladie ou de maternité, les personnes rattachées au 31 août 2018
+en tant qu'étudiants pour une telle prise en charge aux organismes délégataires mentionnés aux deuxième et troisième alinéas
+de l'article L. 160-17 du code de la sécurité sociale, dans sa rédaction antérieure à la présente loi, le demeurent au plus
+tard jusqu'aux dates mentionnées au 2° du présent VI. A compter de ces dates, la prise en charge de leurs frais de santé en
+cas de maladie ou de maternité est assurée par les organismes du régime général ;
+
+2° Sauf accord des parties sur des dates antérieures, il est mis fin au 31 août 2019 aux conventions et contrats conclus,
+pour le service des prestations dues aux étudiants, en application du troisième alinéa de l'article L. 160-17 du code de la
+sécurité sociale, dans sa rédaction antérieure à la présente loi.
+
+Les droits et obligations des organismes délégataires pour le service des prestations dues aux étudiants, mentionnés aux
+deuxième et troisième alinéas du même article L. 160-17, dans sa rédaction antérieure à la présente loi, y compris les
+contrats de travail, qui sont afférents à la gestion leur ayant été confiée sont transférés de plein droit aux mêmes dates
+aux organismes d'assurance maladie du régime général. Ces transferts ne donnent pas lieu à la perception de droits, impôts ou
+taxes de quelque nature que ce soit.
+
+Le préjudice susceptible de résulter, pour les organismes délégataires, de l'application du présent 2° fait l'objet d'une
+indemnité s'il présente un caractère anormal et spécial. Cette indemnité est fixée dans le cadre d'un constat établi à la
+suite d'une procédure contradictoire. Les conditions et le montant de l'indemnité sont fixés par décret.
 
 **Liens relatifs à cet article**
 
@@ -481,7 +509,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 1
+  - Ordonnance n°2018-470 du 12 juin 2018 - art. 9
 
 _Cite_:
 
@@ -490,7 +518,6 @@ _Cite_:
   - Code rural - art. L741-23
   - Code rural - art. L742-3
   - Code de la sécurité sociale. - art. L160-17
-  - Code de la sécurité sociale. - art. L381-8
   - Code de la sécurité sociale. - art. L611-3
 
 
