@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -7699,7 +7699,9 @@ _Cité par_:
 ###### Article L223-5
 
 L'assurance en cas de décès ne peut être contractée sur la tête d'un mineur âgé de moins de douze ans, d'un majeur en
-tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation.
+tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation. Toutefois, cette prohibition n'est pas
+applicable aux formules de financement d'obsèques mentionnées à l'article L. 2223-33-1 du code général des collectivités
+territoriales souscrites sur la tête d'un majeur en tutelle.
 
 Toute adhésion réalisée en violation de cette prohibition est nulle.
 
@@ -7718,7 +7720,15 @@ en exécution d'une garantie en cas de vie souscrite sur la tête d'une des pers
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2223-33-1
 
 _Cité par_:
 
