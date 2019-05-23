@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -211,20 +211,94 @@ Version Consolidée au 2019-03-25
 Les mutuelles, unions et fédérations sont des personnes morales de droit privé à but non lucratif.
 
 Elles sont régies par leurs statuts qui définissent leur objet social, leur champ d'activité, et leurs modalités de
-fonctionnement conformément aux dispositions du présent code.
+fonctionnement conformément aux dispositions du présent code. Les statuts peuvent préciser une raison d'être, constituée des
+principes dont la société se dote et pour le respect desquels elle entend affecter des moyens dans la réalisation de son
+activité.
 
 Elles exercent leur activité dans le respect du principe de solidarité et mettent en place une gouvernance démocratique,
 fixée par les statuts, prévoyant la participation des membres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cité par_:
 
   - Code de la mutualité - art. L110-1-1 (V)
+
+
+###### Article L110-1-1
+
+Une mutuelle ou une union peut faire publiquement état de la qualité de mutuelle à mission ou d'union à mission lorsque les
+conditions suivantes sont respectées : 
+
+1° Ses statuts précisent une raison d'être, au sens de l'article L. 110-1 ; 
+
+2° Ses statuts précisent un ou plusieurs objectifs sociaux et environnementaux que la mutuelle ou l'union se donne pour
+mission de poursuivre dans le cadre de son activité ; 
+
+3° Ses statuts précisent les modalités du suivi de l'exécution de la mission mentionnée au 2°. Ces modalités prévoient qu'un
+comité de mission, distinct des organes sociaux prévus par le présent livre, est chargé exclusivement de ce suivi et présente
+annuellement un rapport joint au rapport de gestion, mentionné à l'article L. 114-17, à l'assemblée chargée de l'approbation
+des comptes de la mutuelle ou de l'union. Ce comité procède à toute vérification qu'il juge opportune et se fait communiquer
+tout document nécessaire au suivi de l'exécution de la mission ; 
+
+4° L'exécution des objectifs sociaux et environnementaux mentionnés au 2° fait l'objet d'une vérification par un organisme
+tiers indépendant, selon des modalités et une publicité définies par décret en Conseil d'Etat. Cette vérification donne lieu
+à un avis joint au rapport mentionné au 3°.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 176
+
+_Cité par_:
+
+  - Décret n°2020-1 du 2 janvier 2020 (V)
+  - Décret n°2020-1 du 2 janvier 2020 - art. 5 (V)
+  - Code de la mutualité - art. R110-1 (V)
+
+_Cite_:
+
+  - Code de la mutualité - art. L110-1 (V)
+  - Code de la mutualité - art. L114-17 (V)
+
+
+###### Article L110-1-2
+
+Lorsque l'une des conditions mentionnées à l'article L. 110-1-1 n'est pas respectée, ou lorsque l'avis de l'organisme tiers
+indépendant conclut qu'un ou plusieurs des objectifs sociaux et environnementaux que la mutuelle ou l'union s'est assignée en
+application du 2° du même article L. 110-1-1 ne sont pas respectés, le ministère public ou toute personne intéressée peut
+saisir le président du tribunal statuant en référé aux fins d'enjoindre, le cas échéant sous astreinte, au représentant légal
+de la mutuelle ou de l'union de supprimer la mention mutuelle à mission ou union à mission de tous les actes, documents ou
+supports électroniques émanant de la mutuelle ou de l'union.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 176
+
+
+###### Article L110-1-3
+
+Une mutuelle ou une union qui emploie au cours de l'exercice moins de cinquante salariés permanents et dont les statuts
+remplissent les conditions définies au 1° et 2° de l'article L. 110-1-1 peut prévoir dans ses statuts qu'un référent de
+mission se substitue au comité de mission mentionné au 3° du même article L. 110-1-1. Le référent de mission peut être un
+salarié de la mutuelle ou de l'union, à condition que son contrat de travail corresponde à un emploi effectif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 176
+
+_Cité par_:
+
+  - Code de la mutualité - art. R110-1 (V)
 
 
 ###### Article L110-2
@@ -365,7 +439,8 @@ I. – Les mutuelles acquièrent la qualité de mutuelle et sont soumises aux di
 immatriculation dans les conditions fixées par décret en Conseil d'Etat. Elles mènent, notamment au moyen des cotisations
 versées par leurs membres, et dans l'intérêt de ces derniers et de leurs ayants droit, une action de prévoyance, de
 solidarité et d'entraide, dans les conditions prévues par leurs statuts, afin de contribuer au développement culturel, moral,
-intellectuel et physique de leurs membres et à l'amélioration de leurs conditions de vie.
+intellectuel et physique de leurs membres et à l'amélioration de leurs conditions de vie. Elles sont gérées en prenant en
+considération les enjeux sociaux et environnementaux de leur activité.
 
 Les mutuelles peuvent avoir pour objet :
 
@@ -515,8 +590,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-166 du 8 mars 2018 - art. 11 (V)
-  - Ordonnance n°2018-470 du 12 juin 2018 - art. 9 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cite_:
 
@@ -1796,39 +1870,36 @@ _Codifié par_:
 Les mutuelles sont administrées par un conseil d'administration composé d'administrateurs élus à bulletin secret par les
 membres de l'assemblée générale dans les conditions fixées par les statuts, parmi les membres participants âgés de dix-huit
 ans révolus et les membres honoraires. Les membres participants représentent au moins les deux tiers du conseil
-d'administration. 
+d'administration.
 
 Les administrateurs des unions sont élus parmi les délégués et les membres honoraires siégeant à l'assemblée générale. Les
-délégués des organismes adhérents représentent au moins les deux tiers du conseil d'administration. 
+délégués des organismes adhérents représentent au moins les deux tiers du conseil d'administration.
 
-Les administrateurs des fédérations sont élus parmi les délégués siégeant à l'assemblée générale. 
+Les administrateurs des fédérations sont élus parmi les délégués siégeant à l'assemblée générale.
 
 Le conseil d'administration d'une mutuelle, union ou fédération ne peut être composé pour plus de la moitié d'administrateurs
 exerçant des fonctions d'administrateurs, de dirigeants ou d'associés dans une personne morale de droit privé à but lucratif
 appartenant au même groupe au sens de l'article L. 212-7. Toute élection ou nomination intervenant en méconnaissance de ces
-dispositions est nulle. 
+dispositions est nulle.
 
 Le nombre de membres du conseil d'administration est fixé par les statuts. Il ne peut toutefois être inférieur à dix. Dans le
 cas où le nombre d'administrateurs est inférieur au minimum légal du fait d'une ou plusieurs vacances, une assemblée générale
-est convoquée par le président. A défaut de convocation, les dispositions prévues au I de l'article L. 114-8 s'appliquent. 
+est convoquée par le président. A défaut de convocation, les dispositions prévues au I de l'article L. 114-8 s'appliquent.
 
 Toutefois, les statuts peuvent prévoir qu'en cas de vacance en cours de mandat liée à un décès, à une démission, à la perte
 de qualité de membre participant ou de membre honoraire ou à la cessation de mandat à la suite d'une décision d'opposition à
 la poursuite du mandat prise par l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 612-23-1
 du code monétaire et financier il peut être procédé à la cooptation d'un administrateur par le conseil d'administration avant
-la prochaine réunion de l'assemblée générale. 
+la prochaine réunion de l'assemblée générale.
 
 Cette cooptation est soumise à ratification de la plus proche assemblée générale. La non-ratification par celle-ci de la
 nomination faite par le conseil d'administration entraîne la cessation du mandat de l'administrateur mais n'entraîne pas, par
-elle-même, la nullité des délibérations auxquelles il a pris part. 
+elle-même, la nullité des délibérations auxquelles il a pris part.
 
-L'administrateur dont la cooptation a été ratifiée par l'assemblée générale achève le mandat de celui qu'il a remplacé. 
+L'administrateur dont la cooptation a été ratifiée par l'assemblée générale achève le mandat de celui qu'il a remplacé.
 
 La durée des fonctions d'administrateur fixée par les statuts ne peut être supérieure à six ans. Cette fonction est
-renouvelable sauf stipulation statutaire contraire. 
-
-Dans les mutuelles, unions et fédérations employant au moins cinquante salariés, deux représentants de ceux-ci, élus dans les
-conditions fixées par les statuts, assistent avec voix consultative aux séances du conseil d'administration.
+renouvelable sauf stipulation statutaire contraire.
 
 **Liens relatifs à cet article**
 
@@ -1851,18 +1922,118 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 3
+  - Loi n°2019-486 du 22 mai 2019 - art. 184 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L612-23-1 (V)
+  - Code monétaire et financier - art. L612-23-1
   - Code de la mutualité - art. L114-8
   - Code de la mutualité - art. L212-7
 
 
+###### Article L114-16-2
+
+I.-Dans les mutuelles, unions et fédérations employant entre cinquante et neuf cent quatre-vingt-dix-neuf salariés, deux
+représentants de ceux-ci, élus dans les conditions fixées par les statuts, assistent avec voix consultative aux séances du
+conseil d'administration. 
+
+Toutefois, leurs statuts peuvent prévoir que ces deux représentants assistent avec voix délibérative aux séances du conseil
+d'administration. (1) 
+
+II.-Dans les mutuelles, unions et fédérations employant, à la clôture de deux exercices consécutifs, au moins mille salariés
+permanents, les statuts prévoient que le conseil d'administration comprend, outre les administrateurs prévus à l'article L.
+114-16, des représentants des salariés, qui assistent avec voix délibérative aux séances du conseil d'administration. Le
+nombre de ces représentants est au moins égal à deux. 
+
+Les statuts sont modifiés dans les douze mois suivant la clôture du second des deux exercices mentionnés au premier alinéa du
+présent II. L'élection des représentants des salariés intervient dans les neuf mois suivant la modification des statuts. 
+
+Par dérogation au deuxième alinéa du présent II, dans les mutuelles, unions ou fédérations ayant mis en œuvre le second
+alinéa du I, l'entrée en fonction des représentants des salariés mentionnés au premier alinéa du présent II intervient au
+plus tard à la date du terme des mandats exercés par les représentants mentionnés au même premier alinéa. 
+
+III.-Pour l'application des I et II, tous les salariés de la mutuelle, de l'union ou de la fédération dont le contrat de
+travail est antérieur de trois mois à la date de l'élection sont électeurs. Le vote est secret. 
+
+L'élection a lieu au scrutin de liste à la représentation proportionnelle au plus fort reste et sans panachage. Chaque liste
+comporte un nombre de candidats double de celui des sièges à pourvoir et est composée alternativement d'un candidat de chaque
+sexe. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. 
+
+En cas d'égalité des voix, les candidats dont le contrat de travail est le plus ancien sont déclarés élus. 
+
+Les autres modalités de l'élection, notamment les modalités selon lesquelles les sièges peuvent être pourvus, en dehors d'une
+assemblée générale, en cas de vacance d'un poste par décès, démission, révocation, rupture du contrat de travail ou pour
+toute autre cause que ce soit, ainsi que la durée de leur mandat qui ne peut être supérieure à six ans, sont fixées par les
+statuts. 
+
+Les représentants élus par les salariés doivent être titulaires d'un contrat de travail avec la mutuelle, l'union ou la
+fédération antérieur d'une année au moins à leur nomination et correspondant à un emploi effectif. Toutefois, la condition
+d'ancienneté n'est pas requise lorsqu'au jour de la nomination, la mutuelle, l'union ou la fédération est constituée depuis
+moins d'un an. 
+
+Les représentants élus par les salariés ne sont pas pris en compte pour la détermination du nombre minimal d'administrateurs
+prévus à l'article L. 114-16 ni pour l'application des dispositions prévues à l'article L. 114-22. 
+
+Le mandat de représentant élu par les salariés est incompatible avec tout mandat de délégué syndical ou de membre du comité
+social et économique de la mutuelle, union ou fédération. Il est également incompatible avec l'exercice de fonctions clés ou
+de dirigeant opérationnel. 
+
+Le représentant élu par les salariés qui, lors de son élection, est titulaire d'un ou de plusieurs de ces mandats doit s'en
+démettre dans les huit jours. A défaut, il est réputé démissionnaire de son mandat de représentant élu par les salariés. 
+
+Les représentants élus par les salariés disposent du temps nécessaire pour exercer utilement leur mandat, dans les mêmes
+conditions que celles définies à l'article L. 225-30-1 du code de commerce pour les administrateurs salariés. 
+
+Ils bénéficient à leur demande, lors de leur première année d'exercice, d'une formation à la gestion adaptée à l'exercice de
+leur mandat, à la charge de la mutuelle, de l'union ou de la fédération. Ce temps de formation, dont la durée ne peut être
+inférieure à vingt heures par an, n'est pas imputable sur le crédit d'heures prévu au neuvième alinéa du présent III. 
+
+Les représentants élus par les salariés ne perdent pas le bénéfice de leur contrat de travail. Leur rémunération en tant que
+salariés ne peut être réduite du fait de l'exercice de leur mandat. 
+
+La rupture du contrat de travail met fin au mandat de représentant élu par les salariés. 
+
+Les représentants élus par les salariés ne peuvent être révoqués que pour faute dans l'exercice de leur mandat, par décision
+du président du tribunal de grande instance, rendue en la forme des référés, à la demande de la majorité des membres du
+conseil d'administration. La décision est exécutoire par provision. 
+
+Toute élection ou nomination intervenue en violation du présent article est nulle. Cette nullité n'entraîne pas celle des
+délibérations auxquelles a pris part le représentant élu irrégulièrement nommé.
+
+**Nota:**
+
+Conformément au IV de l’article 184 de la loi n° 2019-486 du 22 mai 2019, le I de l'article L. 114-16-2 entre en vigueur le
+1er janvier 2022.
+
+La modification des statuts mentionnée au II du même article L. 114-16-2 a lieu au plus tard dans les douze mois suivant la
+clôture de l'exercice 2022 pour les sociétés d'assurance mutuelle, mutuelles, unions et fédérations qui emploient, à la
+clôture des deux exercices consécutifs précédents, plus de mille salariés permanents. Jusqu'à cette modification des statuts,
+les mutuelles, unions et fédérations concernées restent régies par le dernier alinéa de l'article L. 114-16 du code de la
+mutualité et les sociétés d'assurance mutuelle par l'article L. 322-26-2 du code des assurances, dans leur rédaction
+antérieure à la présente loi.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 184 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 184 (V)
+
+_Cite_:
+
+  - Code de commerce - art. L225-30-1 (V)
+  - Code de la mutualité - art. L114-16 (V)
+  - Code de la mutualité - art. L114-22 (V)
+
+
 ###### Article L114-17
 
-Le conseil d'administration détermine les orientations de l'organisme et veille à leur application. 
+Le conseil d'administration détermine les orientations de l'organisme et veille à leur application, en prenant en
+considération les enjeux sociaux et environnementaux de son activité ainsi que sa raison d'être lorsque celle-ci est précisée
+dans les statuts. 
 
 Le conseil d'administration opère les vérifications et contrôles qu'il juge opportuns et se saisit de toute question
 intéressant la bonne marche de l'organisme. Chaque administrateur reçoit toutes les informations nécessaires à
@@ -1908,11 +2079,6 @@ Lorsque les statuts le prévoient, le conseil d'administration adopte les règle
 au II de l'article L. 221-2, dans le respect des règles générales fixées par l'assemblée générale. Il rend compte devant
 l'assemblée générale des décisions qu'il prend en la matière.
 
-**Nota:**
-
-Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
-afférents aux exercices ouverts à compter du 1er août 2017.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -1929,7 +2095,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 10
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cite_:
 
@@ -2046,101 +2212,99 @@ _Cite_:
 
 I. – Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste, et pour les mutuelles et unions
 mentionnées à l'article L. 211-10 et les unions mutualistes de groupe définies à l'article L. 111-4-2 ni être responsable
-d'une des fonctions clés mentionnées à l'article L. 211-12 : 
+d'une des fonctions clés mentionnées à l'article L. 211-12 :
 
-1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ; 
+1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ;
 
 2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à une peine d'emprisonnement ferme ou d'au moins
-six mois avec sursis pour : 
+six mois avec sursis pour :
 
 a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
 b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
-II du livre III du code pénal ; 
+II du livre III du code pénal ;
 
-c) Blanchiment ; 
+c) Blanchiment ;
 
-d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
 e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ; 
+l'autorité ;
 
-f) Participation à une association de malfaiteurs ; 
+f) Participation à une association de malfaiteurs ;
 
-g) Trafic de stupéfiants ; 
+g) Trafic de stupéfiants ;
 
 h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ; 
+pénal ;
 
-i) L'une des infractions prévues à la section 3 du même chapitre ; 
+i) L'une des infractions prévues à la section 3 du même chapitre et à la section 6 bis du chapitre III du même titre II ;
 
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
-commerce ; 
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-k) Banqueroute ; 
+k) Banqueroute ;
 
-l) Pratique de prêt usuraire ; 
+l) Pratique de prêt usuraire ;
 
 m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
-articles L. 324-1 à L. 324-10 du code de sécurité intérieure ; 
+articles L. 324-1 à L. 324-10 du code de sécurité intérieure ;
 
-n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ; 
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
-o) Fraude fiscale ; 
+o) Fraude fiscale ;
 
-p) L'une des infractions prévues aux articles L. 121-2 à L. 121-4, L. 121-8 à L. 121-10, L. 413-1, L. 413-2, L. 413-4, L.
-413-5 à L. 413-8, L. 422-2, L. 441-1, L. 441-2, L. 452-1, L. 455-2 et L. 512-4 du code de la consommation ; 
+p) L'une des infractions prévues aux articles L. 121-2 à L. 121-4, L. 121-8 à L. 121-10, L. 411-2, L. 413-1, L. 413-2, L.
+413-4 à L. 413-9, L. 422-2, L. 441-1, L. 441-2, L. 452-1, L. 455-2, L. 512-4 et L. 531-1 du code de la consommation ;
 
-q) L'une des infractions prévues au code monétaire et financier ; 
+q) L'une des infractions prévues au code monétaire et financier ;
 
-r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ; 
+r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ;
 
-s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
 
 t) L'une des infractions à la législation ou à la réglementation applicable aux institutions de prévoyance, unions et
 sociétés de groupe assurantiel de protection sociale régies par le titre 3 du livre 9 du code de la sécurité sociale, aux
-entreprises régies par le code des assurances et aux mutuelles, unions et fédérations régies par le présent code ; 
+entreprises régies par le code des assurances et aux mutuelles, unions et fédérations régies par le présent code ;
 
 3° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à la destitution des fonctions d'officier public
-ou ministériel. 
+ou ministériel.
 
 II. – L'incapacité prévue au premier alinéa du I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
 définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
-du code de commerce. 
+du code de commerce.
 
 III. – Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
-décision qui entraîne cette incapacité peut en réduire la durée. 
+décision qui entraîne cette incapacité peut en réduire la durée.
 
 IV. – Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet
 de l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
 laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
-cette décision. 
+cette décision.
 
 V. – En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
 constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
 condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
 et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
-premier alinéa du I. 
+premier alinéa du I.
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
 d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné. 
+domicile du condamné.
 
 VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
-l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation
-d'exercice. 
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
 VII. – Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
-d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation. 
+d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
 
 VIII. – Les personnes appelées à diriger une mutuelle ou union mentionnée à l'article L. 211-1 ou une union mutualiste de
 groupe, ou à y exercer une des fonctions clés mentionnées à l'article L. 211-12 doivent posséder l'honorabilité, la
-compétence ainsi que l'expérience nécessaires à leurs fonctions. 
+compétence ainsi que l'expérience nécessaires à leurs fonctions.
 
 Les membres du conseil d'administration des mutuelles et unions mentionnées aux 3° et 10° du B du I de l'article L. 612-2 du
-code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises. 
+code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises.
 
 Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur
 formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que
@@ -2148,13 +2312,13 @@ président d'un conseil ou d'un comité. L'autorité tient compte également, da
 la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats
 ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres,
 l'Autorité de contrôle prudentiel et de résolution tient compte des formations dont ils pourront bénéficier tout au long de
-leur mandat. 
+leur mandat.
 
 IX. – Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur l'honorabilité, la compétence
 et l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont responsables de fonctions clés au sens de
 l'article L. 211-13 et, lorsque ces personnes exercent de telles fonctions auprès d'une autre entité du même groupe au sens
 défini à l'article L. 356-1 du code des assurances, elle consulte les autorités compétentes de cette autre entité. Elle
-communique à ces autorités les informations utiles à l'exercice de leurs missions. 
+communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
 X. – Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -2172,7 +2336,7 @@ _Cité par_:
   - Code de la mutualité - art. L211-13 (V)
   - Code de la mutualité - art. L211-8 (V)
   - Code de la mutualité - art. L211-8-1 (VD)
-  - Code de la mutualité - art. L431-4 (M)
+  - Code de la mutualité - art. L431-4 (V)
   - Code de la mutualité - art. R114-9 (VD)
   - Code de la mutualité - art. R211-13 (V)
   - Code de la mutualité - art. R222-28 (V)
@@ -2180,7 +2344,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-361 du 16 mai 2018 - art. 13 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
@@ -2720,8 +2884,9 @@ _Cite_:
 
 Les mutuelles et unions régies par le livre II, les unions mutualistes de groupe, ou, lorsqu'elles dépassent un volume
 d'activité fixé par décret, les mutuelles et unions régies par le livre III, ainsi que les fédérations, sont tenues de nommer
-au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée au I de l'article L. 822-1 du code de
-commerce. Le président convoque les commissaires aux comptes à toute assemblée générale. 
+au moins un commissaire aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code
+de commerce sont réunies, un suppléant choisis sur la liste mentionnée au I de l'article L. 822-1 du code de commerce. Le
+président convoque les commissaires aux comptes à toute assemblée générale. 
 
 Les dispositions du titre II du livre VIII du code de commerce sont applicables aux commissaires aux comptes contrôlant les
 mutuelles, unions et fédérations sous réserve des dispositions du présent code et dans les conditions d'exercice définies par
@@ -2746,12 +2911,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-315 du 17 mars 2016 - art. 50
+  - Loi n°2019-486 du 22 mai 2019 - art. 27
 
 _Cite_:
 
   - Code de commerce - art. L822-1
-  - Code de commerce - art. L822-9
+  - Code de commerce - art. L823-1
 
 _Cité par_:
 
@@ -7486,36 +7651,28 @@ Sans préjudice des droits des titulaires de créances nées de la gestion de ce
 union autre que les participants ou bénéficiaires au titre des opérations relevant du présent chapitre ne peut se prévaloir
 d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier alinéa de
 l'article L. 222-6, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du code civil, des
-articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
-sociale ou de l'article L. 212-23 du présent code. 
+articles L. 310-25, L. 326-1 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
+sociale ou de l'article L. 212-23 du présent code.
 
 Sous réserve de l'article L. 222-7, les participants ou bénéficiaires au titre des opérations relevant du présent chapitre et
 de l'article L. 310-14 du code des assurances ne peuvent se prévaloir d'un quelconque droit sur les biens et droits résultant
 des autres opérations de la mutuelle ou union, même sur le fondement du livre VI du code de commerce, des articles 2331 et
-2375 du code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du
+2375 du code civil, des articles L. 310-25, L. 326-1 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du
 code de la sécurité sociale ou de l'article L. 212-23 du présent code.
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
-
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
-
 _Cite_:
 
-  - Code civil - art. 2331 (V)
-  - Code civil - art. 2375 (V)
-  - Code de la sécurité sociale. - art. L932-24 (V)
-  - Code des assurances - art. L310-14 (VT)
-  - Code des assurances - art. L310-25 (V)
-  - Code des assurances - art. L326-2 (V)
-  - Code des assurances - art. L327-6 (Ab)
-  - Code des assurances - art. L441-8 (V)
-  - Code de la mutualité - art. L212-23 (V)
+  - Code civil - art. 2331
+  - Code civil - art. 2375
+  - Code de la sécurité sociale. - art. L932-24
+  - Code des assurances - art. L310-14
+  - Code des assurances - art. L310-25
+  - Code des assurances - art. L326-2
+  - Code des assurances - art. L327-6
+  - Code des assurances - art. L441-8
+  - Code de la mutualité - art. L212-23
 
 
 ###### Article L222-10
@@ -7631,17 +7788,45 @@ financiers sont fixées par le bulletin d'adhésion ou le contrat collectif.
 En matière d'assurance sur la vie ou d'opérations de capitalisation, le capital ou la rente garantis peuvent être exprimés en
 unités de compte constituées de valeurs mobilières ou d'actifs offrant une protection suffisante de l'épargne investie et
 figurant sur une liste dressée par décret en Conseil d'Etat. Le membre participant ou le bénéficiaire obtient le règlement en
-espèces ; il peut cependant opter pour la remise de titres ou de parts lorsque ceux-ci sont négociables et ne confèrent pas
-directement le droit de vote à l'assemblée générale des actionnaires d'une société inscrite à la cote officielle d'un marché
-réglementé de valeurs mobilières. 
+espèces cependant, la remise de titres ou de parts, dans le respect des actifs éligibles en représentation des engagements en
+unités de compte, est possible dans le respect des conditions suivantes : 
+
+1° Le membre participant ou le bénéficiaire peut opter pour la remise de titres ou de parts lorsque ceux-ci sont négociés sur
+un marché réglementé, à l'exception des titres ou des parts qui confèrent directement le droit de vote à l'assemblée générale
+des actionnaires d'une société inscrite à la cote officielle d'une bourse de valeurs. Dans le cas où un organisme de
+placement collectif en valeurs mobilières ou un placement collectif relevant des paragraphes 1 et 2, du sous-paragraphe 2 du
+paragraphe 5 et du paragraphe 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-
+section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier a été scindé en application
+des articles L. 214-7-4, L. 214-8-7, L. 214-24-33 ou L. 214-24-41 du même code, la mutuelle ou l'union propose au membre
+participant ou au bénéficiaire le règlement correspondant aux actions ou parts de l'organisme issu de la scission et qui a
+reçu les actifs dont la cession n'aurait pas été conforme à l'intérêt des actionnaires ou des porteurs de parts, sous forme
+de remise des actions ou parts de cet organisme ; 
+
+2° Le membre participant peut opter irrévocablement à tout moment, avec l'accord de la mutuelle ou de l'union, pour la remise
+de titres ou de parts non négociés sur un marché réglementé, notamment de parts de fonds communs de placement à risques ou
+non négociables, au moment du rachat des engagements exprimés en unité de compte d'un contrat. Dans ce cas, cette option est
+réputée s'appliquer aussi au bénéficiaire, sauf mention expresse contraire. 
+
+Un bénéficiaire désigné par le contrat peut également, dans des conditions définies par décret en Conseil d'Etat, opter
+irrévocablement pour la remise de tels titres ou parts en cas d'exercice de la clause bénéficiaire. L'exercice de cette
+option par le bénéficiaire n'entraîne pas acceptation du bénéfice du contrat, au sens de l'article L. 132-9 du code des
+assurances. 
+
+Ce paiement en titres ou en parts non négociables ou non négociés sur un marché réglementé ne peut s'opérer qu'avec des
+titres ou des parts qui ne confèrent pas de droit de vote et qu'à la condition que le membre participant, son conjoint ou
+partenaire lié par un pacte civil de solidarité, leurs ascendants, leurs descendants ou ses frères et sœurs n'aient pas
+détenu, ensemble ou séparément, directement ou indirectement, au cours des cinq années précédant le paiement, plus de 10 %
+des titres ou des parts de la même entité que ceux remis par la mutuelle ou l'union ; 
+
+3° Le membre participant ou un bénéficiaire désigné par le contrat peut également opter irrévocablement pour la remise des
+parts ou actions de fonds d'investissement alternatifs mentionnées au 1° du présent article dans les conditions prévues au
+2°. 
 
 L'article L. 131-4 du code des assurances s'applique aux opérations d'assurance vie des mutuelles et unions dont les
-garanties sont exprimées en unités de compte.
+garanties sont exprimées en unités de compte. 
 
-**Nota:**
-
-Conformément au V de l'article 118 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions sont immédiatement applicables
-aux contrats d'assurance sur la vie et aux contrats de capitalisation en cours à la date d'entrée en vigueur de ladite loi.
+L'article L. 134-1 du même code s'applique aux opérations d'assurance vie des mutuelles et unions dont les engagements sont
+exprimés en parts de provisions de diversification.
 
 **Liens relatifs à cet article**
 
@@ -7651,16 +7836,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 118
+  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
 
 _Cite_:
 
-  - Code des assurances - art. L131-4 (V)
+  - Code monétaire et financier - art. L214-24-33 (V)
+  - Code monétaire et financier - art. L214-24-41 (V)
+  - Code monétaire et financier - art. L214-7-4 (V)
+  - Code monétaire et financier - art. L214-8-7 (V)
+  - Code des assurances - art. L131-4
+  - Code des assurances - art. L132-9
+  - Code des assurances - art. L134-1
 
 _Cité par_:
 
-  - Code de la mutualité - art. L223-25-4 (VD)
+  - Code de la mutualité - art. L223-25-4 (V)
   - Code de la mutualité - art. R223-1 (VD)
+
+
+###### Article L223-2-1
+
+Les unités de compte définies à l'article L. 223-2 peuvent être constituées de parts de fonds d'investissement alternatifs
+ouverts à des investisseurs professionnels, relevant de la sous-section 3 de la section 2 du chapitre IV du titre Ier du
+livre II du code monétaire et financier, dans le respect de conditions tenant notamment à la situation financière, aux
+connaissances ou à l'expérience en matière financière du membre participant. Un décret en Conseil d'Etat fixe ces conditions
+et précise les fonds concernés.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
 
 
 ###### Article L223-3
@@ -8581,16 +8791,21 @@ garantis au bénéficiaire de l'opération d'assurance sur la vie.
 
 Plusieurs demandes de pièces formulées par la mutuelle ou l'union ne peuvent concerner des pièces identiques ou redondantes.
 
+Au delà du délai de quinze jours mentionné au premier alinéa, le capital produit de plein droit intérêt au double du taux
+légal durant un mois puis, à l'expiration de ce délai d'un mois, au triple du taux légal.
+
 Au-delà du délai prévu au deuxième alinéa, le capital non versé produit de plein droit intérêt au double du taux légal durant
-deux mois puis, à l'expiration de ce délai de deux mois, au triple du taux légal. Si, au-delà du délai de quinze jours
-mentionné au premier alinéa, la mutuelle ou l'union a omis de demander au bénéficiaire l'une des pièces nécessaires au
-paiement, cette omission n'est pas suspensive du délai de versement mentionné au présent article.
+deux mois puis, à l'expiration de ce délai de deux mois, au triple du taux légal. La période au cours de laquelle le capital
+a, le cas échéant, produit intérêt en application de l'avant-dernier alinéa s'impute sur le calcul de ce délai de deux mois.
+Si, au-delà du délai de quinze jours mentionné au premier alinéa, la mutuelle ou l'union a omis de demander au bénéficiaire
+l'une des pièces nécessaires au paiement, cette omission n'est pas suspensive du délai de versement mentionné au présent
+article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-617 du 13 juin 2014 - art. 4
+  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
 
 _Cité par_:
 
@@ -8696,112 +8911,75 @@ _Modifié par_:
   - Loi n°2010-737 du 1er juillet 2010 - art. 35 (V)
 
 
-###### Article L223-25-3
-
-I. – Avant la conclusion d'une opération individuelle comportant des valeurs de rachat, d'une opération de capitalisation, ou
-avant l'adhésion à une opération collective mentionnée à l'article L. 223-1 ou à l'article L. 222-1, la mutuelle ou l'union
-régie par les dispositions du livre II ou tout intermédiaire au sens des articles L. 116-1 et suivants, précise les exigences
-et les besoins exprimés par le souscripteur ou l'adhérent ainsi que les raisons qui motivent le conseil fourni quant à une
-garantie déterminée. Ces précisions, qui reposent en particulier sur les éléments d'information communiqués par le
-souscripteur ou l'adhérent concernant sa situation financière et ses objectifs de souscription, sont adaptées à la complexité
-de l'opération d'assurance ou de capitalisation proposée.
-
-Pour l'application de l'alinéa précédent, la mutuelle ou l'union régie par les dispositions du livre II s'enquiert auprès du
-souscripteur ou de l'adhérent de ses connaissances et de son expérience en matière financière et tient compte de tous autres
-éléments que celui-ci a porté à sa connaissance.
-
-Lorsque le souscripteur ou l'adhérent ne donne pas les informations mentionnées aux deux premiers alinéas, la mutuelle ou
-l'union, régie par les dispositions du livre II, les met en garde préalablement à la souscription de la garantie.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du I.
-
-II. – Les dispositions du I ne sont pas applicables à la mutuelle ou l'union lorsque la conclusion du contrat ou l'adhésion à
-celui-ci est faite sur présentation, proposition ou avec l'aide d'un intermédiaire mentionné à l'article L. 116-1.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 7
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
-
-_Cite_:
-
-  - Code de la mutualité - art. L116-1
-  - Code de la mutualité - art. L222-1
-  - Code de la mutualité - art. L223-1
-
-_Cité par_:
-
-  - Code de la mutualité - art. R223-6 (V)
-
-
 ###### Article L223-25-4
 
 I. – Les sommes dues au titre des contrats d'assurance sur la vie et des bons ou contrats de capitalisation qui ne font pas
 l'objet d'une demande de versement des prestations ou du capital sont déposées à la Caisse des dépôts et consignations à
 l'issue d'un délai de dix ans à compter de la date de la prise de connaissance par l'assureur du décès de l'assuré ou de
-l'échéance du contrat. Le dépôt intervient dans le mois suivant l'expiration de ce délai. Les sommes dues au titre d'un
-contrat d'assurance temporaire en cas de décès ne font pas l'objet de ce dépôt lorsque le décès de l'assuré est intervenu
-antérieurement au 1er janvier 2015.
+l'échéance du contrat. Le dépôt intervient dans le mois suivant l'expiration de ce délai. A défaut d'échéance du contrat ou
+de prise de connaissance par l'assureur du décès de l'assuré, lorsque la date de naissance de l'assuré remonte à plus de cent
+vingt années et qu'aucune opération n'a été effectuée à l'initiative de l'assuré au cours des deux dernières années,
+l'assureur est tenu de rechercher le bénéficiaire et, si cette recherche aboutit, de l'aviser de la stipulation effectuée à
+son profit. Si cette recherche n'aboutit pas, les sommes dues au titre de ces contrats sont transférées à la Caisse des
+dépôts et consignations au terme d'un délai de dix ans à compter de la date du cent vingtième anniversaire de l'assuré, après
+vérification de sa date de naissance par l'assureur. Les sommes dues au titre d'un contrat d'assurance temporaire en cas de
+décès ne font pas l'objet de ce dépôt lorsque le décès de l'assuré est intervenu antérieurement au 1er janvier 2015. 
 
 Le dépôt à la Caisse des dépôts et consignations des sommes dues au titre des contrats mentionnés au premier alinéa du
-présent I et comportant, en tout ou partie, des engagements exprimés en unités de compte mentionnés au second alinéa de
-l'article L. 223-2 ou affectés à l'acquisition de droits donnant lieu à la constitution d'une provision de diversification
-s'effectue en numéraire. La valeur de ces engagements ou de ces droits est celle atteinte à l'expiration du délai de dix ans
-mentionné au premier alinéa du présent I, sauf si les stipulations contractuelles prévoient une date antérieure.
+présent I et comportant, en tout ou partie, des engagements exprimés en unités de compte mentionnés au deuxième alinéa de
+l'article L. 223-2 du présent code ou affectés à l'acquisition de droits mentionnés à l'article L. 134-1 du code des
+assurances s'effectue en numéraire. La valeur de ces engagements ou de ces droits est celle atteinte à l'expiration du délai
+de dix ans mentionné au premier alinéa du présent I, sauf si les stipulations contractuelles prévoient une date antérieure. 
 
 Le membre participant ou les bénéficiaires des sommes déposées à la Caisse des dépôts et consignations ne peuvent en obtenir
-le versement qu'en numéraire, nonobstant toute stipulation contraire.
+le versement qu'en numéraire, nonobstant toute stipulation contraire. La Caisse des dépôts et consignations procède à la
+restitution des sommes sous la forme d'un capital. 
 
 Les mutuelles et les unions transmettent à la Caisse des dépôts et consignations les informations nécessaires, le cas
-échéant, au versement des sommes mentionnées au troisième alinéa du présent I au membre participant ou à ses bénéficiaires.
+échéant, au versement des sommes mentionnées au troisième alinéa du présent I au membre participant ou à ses bénéficiaires. 
 
 Jusqu'à l'expiration du délai mentionné au III, elles conservent les informations et documents relatifs à l'encours des
 contrats à la date du dépôt prévu au deuxième alinéa du présent I, à la computation du délai mentionné au premier alinéa et
 au régime d'imposition applicable, ainsi que les informations et documents permettant d'identifier les membres participants
 et les bénéficiaires de ces contrats. Ces informations et documents sont transmis à la Caisse des dépôts et consignations à
 sa demande. Elles conservent également les informations et documents permettant d'apprécier qu'elles ont satisfait à leurs
-obligations en matière de contrats non réglés.
+obligations en matière de contrats non réglés. 
 
 Le dépôt des sommes à la Caisse des dépôts et consignations en application du présent I est libératoire de toute obligation
 pour les mutuelles et les unions et les membres participants, à l'exception des obligations en matière de conservation
 d'informations et de documents prévues à l'avant-dernier alinéa. Ce caractère libératoire n'emporte cependant pas exonération
-de responsabilité pour les manquements commis antérieurement à ce dépôt.
+de responsabilité pour les manquements commis antérieurement à ce dépôt. 
 
 II. – Six mois avant l'expiration du délai mentionné au premier alinéa du I du présent article, les mutuelles et les unions
 informent le membre participant ou les bénéficiaires du contrat, par tout moyen à leur disposition, de la mise en œuvre du
-présent article.
+présent article. 
 
 La Caisse des dépôts et consignations organise, dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, la publicité appropriée de l'identité des membres participants des contrats
 dont les sommes garanties ont fait l'objet du dépôt mentionné au I du présent article, afin de permettre aux membres
 participants ou aux bénéficiaires des contrats de percevoir les sommes qui leur sont dues. Ces derniers communiquent à la
 Caisse des dépôts et consignations les informations permettant de vérifier leur identité et de déterminer le montant des
-sommes qui leur sont dues.
+sommes qui leur sont dues. 
 
 Le notaire chargé d'établir l'actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient
 sur sa demande auprès de la Caisse des dépôts et consignations le versement des sommes déposées en application du I et dues
 aux ayants droit du défunt, lorsque ces sommes entrent dans l'actif successoral. Le notaire restitue ces sommes aux ayants
-droit.
+droit. 
 
-Le notaire joint à sa demande le mandat l'autorisant à agir au nom des ayants droit.
+Le notaire joint à sa demande le mandat l'autorisant à agir au nom des ayants droit. 
 
 III. – Par dérogation au premier alinéa de l'article L. 518-24 du code monétaire et financier, les sommes déposées à la
 Caisse des dépôts et consignations en application du présent article et qui n'ont pas été réclamées par le membre participant
 ou leurs bénéficiaires sont acquises à l'Etat à l'issue d'un délai de vingt ans à compter de la date de leur dépôt à la
-Caisse des dépôts et consignations.
+Caisse des dépôts et consignations. 
 
 Jusqu'à l'expiration de ce délai, la Caisse des dépôts et consignations détient, pour le compte des membres participants ou
-de leurs bénéficiaires, les sommes qui lui ont été déposées.
+de leurs bénéficiaires, les sommes qui lui ont été déposées. 
 
 Pour chaque dépôt correspondant à un contrat d'assurance sur la vie ou à un bon ou contrat de capitalisation, le montant des
 sommes versées par la Caisse des dépôts et consignations à son membre participant ou à ses bénéficiaires ou acquises à l'Etat
 ne peut être inférieur au montant des sommes déposées à la Caisse des dépôts et consignations, diminué, le cas échéant, des
-versements partiels réalisés par la Caisse des dépôts et consignations en application du présent article.
+versements partiels réalisés par la Caisse des dépôts et consignations en application du présent article. 
 
 IV. – Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
@@ -8809,7 +8987,8 @@ IV. – Un décret en Conseil d'Etat précise les modalités d'application du pr
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code des assurances - art. L134-1 (V)
   - Code de la mutualité - art. L223-2 (V)
 
 _Cité par_:
@@ -8831,9 +9010,10 @@ _Cité par_:
   - Code monétaire et financier - art. L518-24 (VD)
   - Livre des procédures fiscales - art. L181-0 B (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-617 du 13 juin 2014 - art. 4
+  - Loi n°2019-486 du 22 mai 2019 - art. 71 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
 
 
 ###### Article L223-25-5
@@ -9999,31 +10179,33 @@ _Codifié par_:
 
 Les mutuelles et les unions relevant du livre II ainsi que les mutuelles ou unions de retraite professionnelle supplémentaire
 adhèrent à un fonds de garantie destiné à préserver les droits de leurs membres participants et honoraires, de leurs ayants
-droit et des bénéficiaires des prestations.
+droit et des bénéficiaires des prestations. 
 
 Le fonds de garantie intervient après, le cas échéant, les systèmes fédéraux de garantie mentionnés à l'article L. 111-6. 
 
-Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes :
+Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes : 
 
-a) Administrateurs et dirigeants de la mutuelle ou de l'union, commissaire aux comptes et membres participants et ayants
-droit de la mutuelle ou de l'union ayant les mêmes qualités dans une autre mutuelle ou union relevant des dispositions des
-articles L. 111-3 et L. 111-4 ;
+a) Administrateurs et dirigeants de la mutuelle, de l'union ou de la mutuelle, ou union de retraite professionnelle
+supplémentaire, commissaire aux comptes et membres participants et ayants droit de la mutuelle, de l'union ou de la mutuelle,
+ou union de retraite professionnelle supplémentaire ayant les mêmes qualités dans une autre mutuelle, union ou mutuelle ou
+union de retraite professionnelle supplémentaire relevant des dispositions des articles L. 111-3 et L. 111-4 ; 
 
-b) Tiers agissant pour le compte des personnes citées au a ci-dessus ;
+b) Tiers agissant pour le compte des personnes citées au a ci-dessus ; 
 
-c) Mutuelles ou unions, entreprises d'assurance et fonds de retraite professionnelle supplémentaire régis par le code des
-assurances, institutions de prévoyance et institutions de retraite professionnelle supplémentaire régies par le code de la
-sécurité sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de contrats souscrits au profit de leurs
-salariés ou de leurs membres participants ou de leurs clients ;
+c) Mutuelles ou unions, mutuelles ou unions de retraite professionnelle supplémentaire, entreprises d'assurance et fonds de
+retraite professionnelle supplémentaire régis par le code des assurances, institutions de prévoyance et institutions de
+retraite professionnelle supplémentaire régies par le code de la sécurité sociale ou le code rural et de la pêche maritime,
+sauf lorsqu'il s'agit de contrats souscrits au profit de leurs salariés ou de leurs membres participants ou de leurs
+clients ; 
 
 d) Organismes entrant dans le périmètre de consolidation ou de combinaison des comptes défini à l'article L. 212-7, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs membres participants, et administrateurs et dirigeants
-de ces organismes ;
+de ces organismes ; 
 
 e) Etablissements de crédit, sociétés de financement et personnes mentionnées à l'article L. 518-1 du code monétaire et
-financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
+financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ; 
 
-f) Organismes de placements collectifs ;
+f) Organismes de placements collectifs ; 
 
 g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le compte des salariés ou retraités de leurs
 adhérents.
@@ -10040,7 +10222,7 @@ _Cité par_:
   - Code de la mutualité - art. L212-18 (VT)
   - Code de la mutualité - art. L431-2 (V)
   - Code de la mutualité - art. L431-3 (V)
-  - Code de la mutualité - art. L431-5 (M)
+  - Code de la mutualité - art. L431-5 (V)
   - Code de la mutualité - art. L431-8 (V)
   - Code de la mutualité - art. R212-11 (V)
   - Code de la mutualité - art. R212-15 (VT)
@@ -10057,7 +10239,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
@@ -10073,44 +10255,45 @@ de l'article L. 431-1, la mesure conservatoire prévue au 14° du I de l'article
 recourt au fonds de garantie régi par le présent chapitre, après avoir consulté par écrit le président du directoire de ce
 fonds. Lorsque le collège de résolution de l'Autorité prend à l'égard d'une mutuelle ou union régie par le présent code la
 mesure de résolution prévue au 4° du I de l'article L. 311-30 du code des assurances, il recourt au fonds de garantie régi
-par le présent chapitre dans les mêmes conditions. 
+par le présent chapitre dans les mêmes conditions.
 
 S'il conteste la décision de l'Autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
 ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnés au premier alinéa
 de l'article L. 431-1 et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération après avoir reçu
-l'avis écrit d'un collège arbitral dont la composition est fixée par un décret en Conseil d'Etat. 
+l'avis écrit d'un collège arbitral dont la composition est fixée par un décret en Conseil d'Etat.
 
-La décision de l'Autorité de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou l'union concernée. En
-cas de mise en œuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de l'Autorité est notifiée
-à l'organisme. 
+La décision de l'Autorité de recourir au fonds de garantie est immédiatement notifiée à la mutuelle, l'union ou la mutuelle
+ou union de retraite professionnelle supplémentaire concernée. En cas de mise en œuvre de la procédure décrite à l'alinéa
+précédent, seule la nouvelle délibération de l'Autorité est notifiée à l'organisme.
 
 II. – Dès cette notification, l'autorité communique au fonds de garantie l'appel d'offres qu'elle lance pour mettre en œuvre
-la mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier. 
+la mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier.
 
-III. – Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
+III. – Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie.
 
 IV. – Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels dus à une
 sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert reviennent aux personnes
-mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés. 
+mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés.
 
 V. – Dans le cadre de la procédure prévue au 14° du I de l'article L. 612-33 du code monétaire et financier, le transfert de
 tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait, par l'Autorité, de tous
-les agréments administratifs de la mutuelle ou de l'union défaillante en application du II de l'article L. 612-33-2 du code
-monétaire et financier. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la
-gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire nommé, le cas
-échéant, l'Autorité peut accomplir ces actes de gestion pour le compte du fonds de garantie.
+les agréments administratifs de la mutuelle, de l'union ou de la mutuelle ou union de retraite professionnelle supplémentaire
+défaillante en application du II de l'article L. 612-33-2 du code monétaire et financier. Le fonds de garantie accomplit,
+jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas
+été transférée. L'administrateur provisoire nommé, le cas échéant, l'Autorité peut accomplir ces actes de gestion pour le
+compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1608 du 27 novembre 2017 - art. 4
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
   - Code monétaire et financier - art. L612-33
   - Code des assurances - art. L311-30 (V)
-  - Code de la mutualité - art. L431-1 (V)
+  - Code de la mutualité - art. L431-1
 
 _Cité par_:
 
@@ -10162,33 +10345,35 @@ _Cité par_:
 
 Le fonds de garantie est une personne morale de droit privé. Il est géré par un directoire agissant sous le contrôle d'un
 conseil de surveillance. Les membres du directoire et du conseil de surveillance doivent remplir les conditions énoncées à
-l'article L. 114-21. 
+l'article L. 114-21.
 
 Le conseil de surveillance exerce le contrôle permanent de la gestion du fonds de garantie. Il élabore les statuts et le
 règlement intérieur du fonds de garantie, qui sont homologués par un arrêté du ministre chargé de la mutualité. Il élit en
-son sein son président. 
+son sein son président.
 
-Le conseil de surveillance approuve les comptes et nomme le commissaire aux comptes et son suppléant. A la fin de chaque
-exercice, il est remis au ministre chargé de la mutualité un exemplaire des comptes approuvés. Le fonds de garantie est
-soumis au contrôle de l'inspection générale des affaires sociales et de l'inspection générale des finances. 
+Le conseil de surveillance approuve les comptes et nomme le commissaire aux comptes et, lorsque les conditions définies au
+deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, son suppléant. A la fin de chaque exercice, il
+est remis au ministre chargé de la mutualité un exemplaire des comptes approuvés. Le fonds de garantie est soumis au contrôle
+de l'inspection générale des affaires sociales et de l'inspection générale des finances.
 
 Le conseil de surveillance comprend douze membres désignés par les organismes adhérents suivant des modalités qui tiennent
-compte de la part des cotisations versées par chacun de ces organismes. 
+compte de la part des cotisations versées par chacun de ces organismes.
 
 Les décisions du conseil de surveillance sont prises à la majorité simple. Chaque membre siégeant au conseil de surveillance
 dispose d'un nombre de voix dépendant de sa contribution financière totale au fonds de garantie et de celles des organismes
-qui l'ont désigné comme leur représentant. En cas de partage égal des voix, le vote du président est prépondérant. 
+qui l'ont désigné comme leur représentant. En cas de partage égal des voix, le vote du président est prépondérant.
 
 Le directoire est composé de trois membres nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité de
-président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein de mutuelles ou d'unions
-adhérentes au fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions
-qu'après agrément du ministre chargé de la mutualité. 
+président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein de mutuelles, d'unions ou de
+mutuelles ou unions de retraite professionnelle supplémentaire adhérentes au fonds de garantie, ni recevoir de rétribution de
+l'une d'elles. Son président ne peut exercer ses fonctions qu'après agrément du ministre chargé de la mutualité.
 
 Le ministre chargé de la mutualité ou son représentant ainsi que le président de l'Autorité de contrôle prudentiel et de
-résolution ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire. 
+résolution ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
 
 L'Autorité de contrôle prudentiel et de résolution entend le président du directoire du fonds de garantie sur toute question
-concernant une mutuelle ou une union pour laquelle elle envisage de mettre en oeuvre les dispositions du présent chapitre. 
+concernant une mutuelle, une union ou une mutuelle ou union de retraite professionnelle supplémentaire pour laquelle elle
+envisage de mettre en œuvre les dispositions du présent chapitre.
 
 Le président du directoire est également entendu, à sa demande, par l'Autorité de contrôle prudentiel et de résolution.
 
@@ -10196,10 +10381,12 @@ Le président du directoire est également entendu, à sa demande, par l'Autorit
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 27
 
 _Cite_:
 
+  - Code de commerce - art. L823-1
   - Code de la mutualité - art. L114-21 (V)
 
 _Cité par_:
@@ -10210,24 +10397,25 @@ _Cité par_:
 ###### Article L431-5
 
 Le fonds de garantie est subrogé dans les droits des personnes mentionnées au premier alinéa de l'article L. 431-1, à
-concurrence du montant des sommes qu'il a versées. 
+concurrence du montant des sommes qu'il a versées.
 
 Le fonds de garantie est également subrogé dans les mêmes limites dans les droits de l'organisme défaillant à concurrence des
-sommes exigibles en vertu de l'exécution des traités de réassurance en cours. 
+sommes exigibles en vertu de l'exécution des traités de réassurance en cours.
 
 Le fonds de garantie peut engager toute action en responsabilité à l'encontre des dirigeants de droit ou de fait de la
-mutuelle ou de l'union dont la défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de tout ou partie
-des sommes versées par lui. Il en informe l'Autorité de contrôle prudentiel et de résolution.
+mutuelle, de l'union ou de la mutuelle ou union de retraite professionnelle supplémentaire dont la défaillance a entraîné son
+intervention, aux fins d'obtenir le remboursement de tout ou partie des sommes versées par lui. Il en informe l'Autorité de
+contrôle prudentiel et de résolution.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
-  - Code de la mutualité - art. L431-1 (VT)
+  - Code de la mutualité - art. L431-1 (V)
 
 
 ###### Article L431-6
@@ -10256,19 +10444,19 @@ _Cité par_:
 
 ###### Article L431-7
 
-Pour l'accomplissement des missions du fonds de garantie, les mutuelles et unions y adhérant sont redevables de cotisations
-dans des conditions fixées par décret en Conseil d'Etat. 
+Pour l'accomplissement des missions du fonds de garantie, les organismes y adhérant sont redevables de cotisations dans des
+conditions fixées par décret en Conseil d'Etat.
 
 Le fonds de garantie peut, en outre, émettre des certificats d'association nominatifs non négociables que souscrivent les
-organismes adhérents lors de leur adhésion. 
+organismes adhérents lors de leur adhésion.
 
 Lorsque les pertes subies par le fonds de garantie ne peuvent être couvertes par les cotisations déjà appelées, les
 certificats d'association mentionnés au précédent alinéa ne peuvent plus faire l'objet d'une rémunération. Le nominal de
 chacun de ces certificats est alors réduit dans la proportion nécessaire pour absorber les pertes. Ces certificats
-d'association ne sont pas remboursables. 
+d'association ne sont pas remboursables.
 
 Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut, à cette fin, constituer pour son compte les garanties
-requises conventionnellement. 
+requises conventionnellement.
 
 Le défaut d'adhésion ou l'absence de versement au fonds de garantie de la cotisation appelée sont passibles des sanctions
 prévues à l'article L. 612-39 du code monétaire et financier et de pénalités de retard versées directement au fonds de
@@ -10278,7 +10466,7 @@ garantie selon des modalités définies par le règlement intérieur de celui-ci
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
@@ -10292,26 +10480,26 @@ _Cité par_:
 
 ###### Article L431-8
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent titre et notamment : 
+Un décret en Conseil d'Etat détermine les modalités d'application du présent titre et notamment :
 
 1° Les conditions, les plafonds et délais d'indemnisation pour les personnes mentionnées au premier alinéa de l'article L.
-431-1 ainsi que les règles relatives à l'information des personnes précitées ; 
+431-1 ainsi que les règles relatives à l'information des personnes précitées ;
 
-2° Les modalités de définition des taux de réduction en cas de transfert d'opérations de l'organisme défaillant ; 
+2° Les modalités de définition des taux de réduction en cas de transfert d'opérations de l'organisme défaillant ;
 
-3° Les caractéristiques des certificats d'association ainsi que les conditions de leur rémunération ; 
+3° Les caractéristiques des certificats d'association ainsi que les conditions de leur rémunération ;
 
-4° Le montant global des cotisations annuelles dues par les mutuelles et unions qui adhèrent au fonds ; 
+4° Le montant global des cotisations annuelles dues par les organismes qui adhèrent au fonds ;
 
 5° Les modalités d'intervention successives des systèmes fédéraux de garantie mentionnés à l'article L. 111-6 et du fonds de
-garantie prévue par le présent titre ; 
+garantie prévue par le présent titre ;
 
 6° Les conditions dans lesquelles les mutuelles et unions adhérentes à un système fédéral de garantie mentionné à l'article
-L. 111-6 peuvent ne pas verser une partie des cotisations moyennant la constitution de garanties appropriées ; 
+L. 111-6 peuvent ne pas verser une partie des cotisations moyennant la constitution de garanties appropriées ;
 
 7° La formule de répartition de ces cotisations annuelles dont l'assiette est constituée du montant des provisions
 techniques, pondérée par les cotisations déjà versées ainsi que les indicateurs de la situation financière de chacun des
-adhérents, et notamment leur solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fonds ; 
+adhérents, et notamment leur solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fonds ;
 
 8° Les conditions et les modalités de nomination des membres du conseil de surveillance ainsi que la durée de leur mandat.
 
@@ -10323,12 +10511,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 14
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Cite_:
 
   - Code de la mutualité - art. L111-6
-  - Code de la mutualité - art. L431-1 (V)
+  - Code de la mutualité - art. L431-1
 
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.<a id=70></a>
