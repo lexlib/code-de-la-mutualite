@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 2019-05-24
           - [Section 1 : Dispositions générales (art. L214-1 à L214-6)](#34)
           - [Section 2 :  Agrément (art. L214-7)](#35)
           - [Section 3 :  Retrait d'agrément (art. L214-8)](#36)
-          - [Section 4 :  Transfert de portefeuille (art. L214-9 à L214-11)](#37)
+          - [Section 4 :  Transfert de portefeuille (art. L214-9 à L214-11-1)](#37)
           - [Section 5 :  Règles financières et prudentielles (art. L214-12)](#38)
       - [Titre II : Opérations des mutuelles et des unions. (art. L221-1 à L227-1)](#39)
         - [Chapitre Ier : Dispositions générales. (art. L221-1 à L221-20)](#40)
@@ -100,10 +100,10 @@ Version Consolidée au 2019-05-24
           - [Section 2 : Régime comptable (art. R212-10 à R212-11)](#97)
           - [Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation, mesures d'assainissement (art. R212-21 à R212-22-2)](#98)
         - [Chapitre IV : Mutuelles et unions de retraite professionnelle supplémentaire (art. R214-1 à R214-5)](#99)
-          - [Section 1 : Dispositions générales (art. R214-1)](#100)
+          - [Section 1 : Dispositions générales (art. R214-1 à R214-1-1)](#100)
           - [Section 2 : Agrément (art. R214-2)](#101)
           - [Section 3 : Retrait d'agrément (art. R214-3)](#102)
-          - [Section 4 : Transfert de portefeuille (art. R214-4)](#103)
+          - [Section 4 : Transfert de portefeuille (art. R214-4 à R214-4-1)](#103)
           - [Section 5 : Règles financières et prudentielles (art. R214-5)](#104)
       - [Titre II : Opération des mutuelles et des unions. (art. R221-1 à R223-13)](#105)
         - [Chapitre Ier : Dispositions générales. (art. R221-1 à R221-4)](#106)
@@ -5473,11 +5473,13 @@ _Anciens textes_:
 ###### Article L214-1
 
 Les mutuelles et unions de retraite professionnelle supplémentaire sont des personnes morales de droit privé ayant pour objet
-la couverture d'engagements de retraite professionnelle supplémentaire, telle que définie à l'article L. 222-3. 
+la couverture d'engagements de retraite professionnelle supplémentaire, telle que définie à l'article L. 222-3, d'engagements
+souscrits par une association mentionnée à l'article L. 144-2 du code des assurances ainsi que d'engagements de retraite
+supplémentaire pris au titre d'autres régimes d'assurance de groupe dont la liste est fixée par décret en Conseil d'Etat. 
 
-Les mutuelles et unions de retraite professionnelle supplémentaire limitent leur activité à la couverture d'engagements de
-retraite professionnelle supplémentaire et aux activités qui en découlent, notamment la couverture de garanties
-complémentaires mentionnées à l'article L. 222-4. 
+Les mutuelles et unions de retraite professionnelle supplémentaire limitent leur activité à la couverture d'engagement de
+retraite aux activités qui en découlent, notamment la couverture de garanties complémentaires mentionnées à l'article L.
+222-4. 
 
 Les mutuelles et unions de retraite professionnelle supplémentaire peuvent se voir transférer des risques provenant d'autres
 mutuelles et unions de retraite professionnelle supplémentaire, de fonds de retraite professionnelle supplémentaire
@@ -5485,10 +5487,6 @@ mentionnés à l'article L. 381-1 du code des assurances et d'institutions de re
 mentionnées à l'article L. 942-1 du code de la sécurité sociale, lorsque le transfert est proportionnel.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 _Cité par_:
 
@@ -5525,10 +5523,15 @@ _Cité par_:
   - Code monétaire et financier - art. L612-44 (VD)
   - Code monétaire et financier - art. R612-34-2 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
+
 _Cite_:
 
-  - Code de la mutualité - art. L222-3 (VT)
-  - Code de la mutualité - art. L222-4 (VT)
+  - Code des assurances - art. L144-2 (VT)
+  - Code de la mutualité - art. L222-3
+  - Code de la mutualité - art. L222-4
 
 
 ###### Article L214-2
@@ -5756,6 +5759,22 @@ _Cite_:
 _Cité par_:
 
   - Code monétaire et financier - art. L612-33 (VD)
+
+
+###### Article L214-11-1
+
+La section II du titre VII du livre III du code des assurances est applicable aux mutuelles et unions de retraite
+professionnelle supplémentaire.
+
+Pour l'application des dispositions de cette section, il y a lieu d'entendre : “ mutuelles ou unions de retraite
+professionnelle supplémentaire ” là où sont mentionnés dans le code des assurances : “ fonds de retraite professionnelle
+supplémentaire ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
 
 
 ##### Section 5 :  Règles financières et prudentielles<a id=38></a>
@@ -6005,8 +6024,10 @@ L'employeur ou la personne morale est tenu de remettre cette notice et les statu
 membre participant. Lorsque des modifications sont apportées aux droits et obligations des membres participants par avenant
 au contrat collectif signé dans les conditions prévues au II de l'article L. 221-5, l'employeur ou la personne morale
 souscriptrice est également tenu d'informer chaque membre participant en lui remettant une notice établie à cet effet par la
-mutuelle ou par l'union. Pour les opérations collectives facultatives, tout membre participant peut, dans un délai d'un mois
-à compter de la remise de la notice, dénoncer son affiliation en raison de ces modifications.
+mutuelle ou par l'union, trois mois au minimum avant la date prévue de leur entrée en vigueur. Cette information est fournie
+dès que possible en cas de variation significative des provisions techniques des engagements de retraite. Pour les opérations
+collectives facultatives, tout membre participant peut, dans un délai d'un mois à compter de la remise de la notice, dénoncer
+son affiliation en raison de ces modifications.
 
 Toutefois, la faculté de renonciation n'est pas ouverte aux membres participants qui sont couverts par une mutuelle ou une
 union en application des dispositions de l'article L. 221-3.
@@ -6025,7 +6046,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-734 du 4 mai 2017 - art. 6
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
 
 _Cité par_:
 
@@ -7458,24 +7479,29 @@ _Cite_:
 ###### Article L222-4-2
 
 Le bulletin d'adhésion mentionné à l'article L. 221-1 indique que le contrat souscrit est un contrat de retraite
-professionnelle supplémentaire relevant du présent chapitre. 
+professionnelle supplémentaire relevant du présent chapitre. Un arrêté du ministre chargé de la mutualité fixe la liste des
+informations minimales que contient le bulletin d'adhésion remis dans le cadre d'un contrat de retraite professionnelle
+supplémentaire.
 
 Lors de la liquidation de ses droits, la mutuelle ou union de retraite professionnelle supplémentaire ou la mutuelle ou union
 informe chaque membre participant et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de la
-mutualité, du montant des prestations qui lui sont dues et des options de paiement correspondantes. 
+mutualité, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
 
 La mutuelle ou union de retraite professionnelle supplémentaire ou la mutuelle ou union établit et révise au moins tous les
 trois ans, pour chaque contrat, un rapport indiquant sa politique de placement et les risques techniques et financiers
-correspondants. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de
-placement. Il est mis à la disposition du souscripteur, du participant et du bénéficiaire. Un arrêté du ministre chargé de la
-mutualité précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises
-aux membres participants.
+correspondants. Elle précise également les méthodes d'évaluation des risques d'investissement, les techniques de gestion des
+risques mises en œuvre et la répartition stratégique des actifs eu égard à la nature et à la durée des engagements de
+retraite, ainsi que la manière dont la politique d'investissement prend en considération les facteurs environnementaux,
+sociaux et de gouvernance. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique
+de placement. Il est mis à la disposition du souscripteur, du participant et du bénéficiaire. Un arrêté du ministre chargé de
+la mutualité précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être
+remises aux membres participants.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
 
 _Cité par_:
 
@@ -7488,7 +7514,56 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la mutualité - art. L221-1 (V)
+  - Code de la mutualité - art. L221-1
+
+
+###### Article L222-4-3
+
+I.-Le dépositaire mentionné à l'article L. 222-4-1 est désigné au moyen d'un contrat écrit. Ce contrat prévoit la
+transmission au dépositaire des informations nécessaires à l'exercice de ses missions.
+
+Le dépositaire agit d'une manière honnête, loyale, professionnelle et indépendante, dans l'intérêt des affiliés et des
+bénéficiaires du régime. Le dépositaire ne peut exercer d'activités concernant la mutuelle, l'union ou la mutuelle ou union
+de retraite professionnelle supplémentaire qui seraient susceptibles de le placer en situation de conflit d'intérêts avec
+l'assureur ou la mutuelle ou union de retraite professionnelle supplémentaire, les membres participants ou les bénéficiaires,
+sauf s'il a séparé, sur le plan fonctionnel et hiérarchique, l'exécution de ses tâches de dépositaire de ses autres tâches
+qui pourraient s'avérer incompatibles et que les conflits d'intérêts potentiels sont identifiés, gérés, suivis et communiqués
+aux membres participants et aux bénéficiaires du règlement ou contrat collectif ainsi qu'au conseil d'administration de la
+mutuelle, l'union ou la mutuelle ou union de retraite professionnelle supplémentaire.
+
+II.-Le dépositaire mentionné au I :
+
+1° Exécute les instructions de la mutuelle, l'union ou la mutuelle ou union de retraite professionnelle supplémentaire sous
+réserve qu'elles ne soient pas contraires aux dispositions législatives ou réglementaires applicables à l'organisme ou à ses
+statuts ;
+
+2° S'assure que, dans les opérations portant sur les actifs de la mutuelle, l'union ou la mutuelle ou union de retraite
+professionnelle supplémentaire, la contrepartie lui est remise dans les délais d'usage ;
+
+3° Veille à ce que les produits de la mutuelle ou union de retraite professionnelle supplémentaire reçoivent une affectation
+conforme aux dispositions législatives ou réglementaires applicables à l'organisme et à ses statuts.
+
+III.-Le II de l'article L. 214-24-8, le second alinéa de l'article L. 214-24-9 et l'article L. 214-24-10 du code monétaire et
+financier s'appliquent à un dépositaire auquel a recours une mutuelle, une union ou une mutuelle ou union de retraite
+professionnelle supplémentaire dans le cadre de la gestion de contrats mentionnés à l'article L. 222-3, sous réserve
+d'adaptations précisées par voie réglementaire.
+
+Pour l'application des articles mentionnés au premier alinéa à la mutuelle ou union de retraite professionnelle
+supplémentaire, il y a lieu d'entendre :
+
+1° “ Mutuelle ou union de retraite professionnelle supplémentaire ” là où est mentionné : “ FIA ” ;
+
+2° “ Mutuelle ou union de retraite professionnelle supplémentaire ” là où est mentionné : “ société de gestion de
+portefeuille ” ;
+
+3° “ Membre participant à un règlement ou contrat collectif garanti par la mutuelle ou union de retraite professionnelle
+supplémentaire ” là où est mentionné : “ porteurs de parts ou actionnaires ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
 
 
 ###### Article L222-5
@@ -8671,7 +8746,8 @@ compte. Ces modifications sont précisées par arrêté du ministre chargé de l
 Ces montants ne peuvent tenir compte de participations aux excédents qui ne seraient pas attribuées à titre définitif.
 
 La mutuelle ou l'union indique en termes précis et clairs dans cette communication ce que signifient les opérations de
-rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
+rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles. Le titre du document
+correspondant contient l'expression “ relevé des droits à retraite ” pour les engagements de retraite.
 
 Pour les contrats comportant un terme, la mutuelle ou l'union adresse au membre adhérent, un mois avant la date du terme, un
 relevé d'information spécifique. Ce relevé contient, outre les mentions mentionnées aux alinéas précédents, le rappel en
@@ -8682,10 +8758,11 @@ Le relevé spécifique mentionné au neuvième alinéa est adressé à nouveau p
 après le terme du contrat si le membre adhérent ne s'est pas manifesté depuis le terme.
 
 Pour les garanties liées à la cessation d'activité professionnelle, la mutuelle ou l'union fournit, dans cette communication,
-une estimation du montant de la rente viagère qui serait versée au membre adhérent à partir de ses droits personnels. Elle
-précise, le cas échéant, les conditions dans lesquelles le membre adhérent peut demander le transfert de sa garantie auprès
-d'une autre mutuelle, d'une entreprise d'assurance ou d'une institution de prévoyance. Un arrêté précise les conditions
-d'application du présent alinéa.
+une estimation du montant probable de la rente viagère qui serait versée au membre adhérent à partir de ses droits
+personnels. Cette estimation est également accompagnée d'évaluations réalisées dans un scénario moins favorable, en tenant
+compte des caractéristiques propres des engagements de retraite. Elle précise, le cas échéant, les conditions dans lesquelles
+le membre adhérent peut demander le transfert de sa garantie auprès d'une autre mutuelle, d'une entreprise d'assurance ou
+d'une institution de prévoyance. Un arrêté précise les conditions d'application du présent alinéa.
 
 La garantie fait référence à l'obligation d'information prévue aux alinéas précédents.
 
@@ -8693,8 +8770,11 @@ La mutuelle ou l'union communique également au membre adhérent la date d'éch�
 
 **Nota:**
 
-Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-21 du présent code, les mots "
-plan d'épargne retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004, dans l'article L 223-21, les mots " plan d'épargne
+retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
+
+Conformément à l'article 8 de l’ordonnance n° 2019-575 du 12 juin 2019, les dispositions de l'article L. 223-21 dans leur
+rédaction résultant du b du 7° de l'article 6 de ladite ordonnance, entrent en vigueur à compter du 1er septembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -8714,7 +8794,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-617 du 13 juin 2014 - art. 4
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 6
 
 _Cite_:
 
@@ -12621,6 +12701,23 @@ _Cité par_:
   - Code de la mutualité - art. R510-19 (V)
 
 
+###### Article R214-1-1
+
+Les autres régimes d'assurance de groupe mentionnés au premier alinéa de l'article L. 214-1 sont ceux mentionnés à l'article
+R. 381-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-576 du 12 juin 2019 - art. 5
+
+_Cite_:
+
+  - Code des assurances - art. R381-1
+  - Code de la mutualité - art. L214-1
+
+
 ##### Section 2 : Agrément<a id=101></a>
 
 ###### Article R214-2
@@ -12674,6 +12771,21 @@ supplémentaire” là où sont mentionnés dans le code des assurances : “fon
 _Créé par_:
 
   - Décret n°2017-1765 du 26 décembre 2017 - art. 3
+
+
+###### Article R214-4-1
+
+La section II du titre VII du livre III du code des assurances est applicable aux mutuelles et unions de retraite
+professionnelle supplémentaire.
+
+Pour l'application de ces dispositions, il y lieu d'entendre : “mutuelles ou unions de retraite professionnelle
+supplémentaire” là où sont mentionnés dans le code des assurances : “fonds de retraite professionnelle supplémentaire”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-576 du 12 juin 2019 - art. 5
 
 
 ##### Section 5 : Règles financières et prudentielles<a id=104></a>
