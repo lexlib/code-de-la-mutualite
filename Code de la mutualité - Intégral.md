@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2019-10-01
         - [Section 3 : Assemblée générale. (art. L114-6 à L114-14)](#9)
         - [Section 4 : Conseil d'administration. (art. L114-16 à L114-20)](#10)
         - [Section 5 : Dispositions relatives aux fonctions d'administrateur, de dirigeant opérationnel et de mandataire mutualiste (art. L114-21 à L114-37-1)](#11)
-        - [Section 6 : Dispositions financières et comptables. (art. L114-38 à L114-46-2)](#12)
+        - [Section 6 : Dispositions financières et comptables. (art. L114-38 à L114-46-3)](#12)
         - [Section 7 : Peines. (art. L114-47 à L114-55)](#13)
       - [Chapitre V : Règles particulières à certaines mutuelles, unions et fédérations à caractère professionnel. (art. L115-1 à L115-8)](#14)
         - [Section 1 : Mutuelles et sections de mutuelles d'entreprises ou interentreprises. (art. L115-1 à L115-3)](#15)
@@ -3165,6 +3165,25 @@ concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de l
 _Créé par_:
 
   - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
+
+###### Article L114-46-3
+
+Les entreprises régies par le présent code sont soumises aux dispositions de l'article L. 533-22-1 du code monétaire et
+financier.
+
+**Nota:**
+
+Conformément au V de l'article 29 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions entrent en vigueur à
+compter de la date d'application de l'article 3 du règlement du Parlement européen et du Conseil sur la publication
+d'informations relatives aux investissements durables et aux risques en matière de durabilité et modifiant la directive (UE)
+2016/2341.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 29 (V)
 
 
 #### Section 7 : Peines.<a id=13></a>
