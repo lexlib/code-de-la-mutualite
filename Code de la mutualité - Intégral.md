@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-11-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -14223,39 +14223,7 @@ _Créé par_:
 
 ###### Article R223-1
 
-I.-Les unités de compte visées à l'article L. 223-2 sont : 
-
-1° Les actifs énumérés aux 1°, 2°, 2° bis, 2° ter, 3°, 4°, 5° et 8° de l'article R. 332-2 du code des assurances ; 
-
-2° Dans les conditions fixées à l'article R. 223-3, les parts ou actions visées au 9° bis de l'article R. 332-2 ; 
-
-3° Les parts visées au 7° de l'article R. 332-2 du code des assurances et les actions de sociétés commerciales mentionnées au
-6° de l'article R. 332-2 du code des assurances ; 
-
-II.-La structure des engagements du règlement ou du contrat collectif respecte les conditions suivantes : 
-
-1° L'encours des engagements exprimés en unités de compte relevant du 3° du I ne dépasse pas 10 % de l'ensemble de l'encours
-du contrat ; 
-
-2° Pour les contrats relevant du I bis de l'article 990-I (1) du code général des impôts, le plafond défini au 1° est porté à
-33 %. 
-
-Les plafonds définis aux 1° et 2° sont appréciés lors du versement d'une cotisation ou de la réalisation d'un arbitrage. Si,
-en dehors de ces opérations, ces plafonds sont dépassés, le contrat est réputé respecter ces derniers. 
-
-Par dérogation aux dispositions des 1° et 2°, une opération ayant pour conséquence de réduire l'écart au plafond lorsque
-celui-ci est dépassé est autorisée. ; 
-
-III.-Le règlement ou le contrat collectif doit prévoir les modalités selon lesquelles, en cas de disparition d'une unité de
-compte, une autre unité de compte de même nature lui est substituée, par modification du règlement ou avenant au contrat
-collectif. 
-
-Les articles R. 131-8 à R. 131-11 du code des assurances s'appliquent aux opérations des mutuelles et unions mentionnées à
-l'article L. 223-1 dont les garanties sont exprimées en unités de compte.
-
-**Nota:**
-
-(1) Au lieu de 990-I lire 990 I.
+Pour l'application de l'article L. 223-2, l'article R. 131-1 du code des assurances est applicable.
 
 **Liens relatifs à cet article**
 
@@ -14265,34 +14233,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1105 du 23 juin 2017 - art. 2
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 3
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 990 I (V)
-  - Code des assurances - art. R131-8 (V)
-  - Code des assurances - art. R332-2 (V)
-  - Code de la mutualité - art. L223-1 (V)
-  - Code de la mutualité - art. L223-2 (V)
-  - Code de la mutualité - art. R223-3 (V)
+  - Code des assurances - art. R131-1
 
 
 ###### Article R223-2
 
-Dans le cas où le règlement ou le contrat collectif se réfère à une part ou à une action de société immobilière non cotée, la
-mutuelle ou l'union fixe, suivant les modalités précisées par arrêté du ministre chargé de la mutualité, la valeur de cette
-action ou de cette part préalablement à la diffusion du règlement ou du contrat collectif et, par la suite, au moins, une
-fois par an pendant la durée de l'adhésion ou du contrat.
+Pour l'application de l'article L. 223-2-1, les articles R. 131-1-1 à R. 131-1-4 du code des assurances sont applicables.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1345 du 6 novembre 2002 - art. 1 () JORF 14 novembre 2002
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 3
 
 _Cité par_:
 
@@ -14302,20 +14262,17 @@ _Cité par_:
 
 ###### Article R223-3
 
-Les sociétés non cotées à objet uniquement immobilier ou foncier visées à l'article R. 223-1 doivent répondre aux conditions
-suivantes : 
+Pour l'application des articles R. 223-1 et R. 223-2, il y a lieu d'entendre :
 
-1° Les parts non cotées des sociétés civiles à objet uniquement foncier ne peuvent servir de valeur de référence unique du
-règlement ou du contrat collectif ; 
+1° “ mutuelle ou union exerçant une activité d'assurance ” là où sont mentionnés dans le code des assurances les mots : “
+entreprise d'assurance ” et “ assureur ” ;
 
-2° Le patrimoine de la société immobilière non cotée constitutive de l'unité de compte, ou de chacune des sociétés
-immobilières ou foncières dans le cas où le règlement ou le contrat collectif se réfère à plusieurs unités de compte, doit
-être composé d'au moins cinq immeubles d'une valeur minimale globale de 15 244 900 Euros estimée selon les dispositions de
-l'article R. 223-2 ; 
+2° “ règlement ou contrat collectif ” là où est mentionné dans le code des assurances le mot : “ contrat ” ;
 
-3° Les actifs de la société immobilière ou foncière non cotée doivent être constitués à tout instant d'au moins 70 % de parts
-ou de droits définis aux 13° et 14° de l'article R. 332-2 du code des assurances. Le solde des placements de la société doit
-appartenir aux catégories visées aux 1°, 2°, 3° et 5° du même article.
+3° “ employeur, personne morale souscriptrice ou membre participant ” là où sont mentionnés dans le code des assurances les
+mots : “ souscripteur ”, “ adhérent ” et “ souscripteur ou adhérent ” ;
+
+4° “ cotisation ” là où est mentionné dans le code des assurances le mot : “ prime ”.
 
 **Liens relatifs à cet article**
 
@@ -14324,49 +14281,12 @@ _Codifié par_:
   - Ordonnance n°2001-350 du 19 avril 2001
 
 _Modifié par_:
-
-  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-_Cite_:
-
-  - Code des assurances - art. R332-2 (V)
-
-_Cité par_:
-
-  - Code de la mutualité - art. R223-1 (VD)
-
-
-###### Article R223-4
-
-Pendant la durée de l'adhésion ou du contrat, la mutuelle ou l'union peut effectuer pour les bulletins d'adhésion ou contrats
-collectifs l'ayant prévu la substitution d'une unité de compte visée au 2° de l'article R. 223-1 au profit d'unités de compte
-de nature comparable si l'unité de compte initiale ne remplit plus les conditions définies au 2° de l'article R. 223-3 ou si
-la mutuelle ou l'union qui en fait la demande y est autorisée par l'Autorité de contrôle des mutuelles et des institutions de
-prévoyance.
-
-Les modalités d'application du présent article sont définies par arrêté du ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de la mutualité (nouveau) R223-1, R223-3
-
-_Codifié par_:
-
-  - Ordonnance n°2001-350 du 19 avril 2001
-
-_Modifié par_:
-
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-_Abrogé par_:
 
   - Décret n°2019-1172 du 14 novembre 2019 - art. 3
 
 _Cité par_:
 
-  - Code de la mutualité - art. A223-4 (V)
+  - Code de la mutualité - art. R223-1 (VD)
 
 
 ###### Article R223-5
