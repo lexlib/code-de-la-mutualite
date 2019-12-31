@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2019-11-16
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -157,9 +157,9 @@ Version Consolidée au 2019-11-16
       - [Titre II : Opérations des mutuelles et des unions. (art. A222-1 à A223-10-3)](#154)
         - [Chapitre II : Dispositions relatives à certaines opérations de retraite. (art. A222-1 à A222-2)](#155)
         - [Chapitre II bis : Retraite professionnelle supplémentaire. (art. A222-3 à A222-6)](#156)
-        - [Chapitre II ter : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe (art. A222-5)](#157)
+        - [Chapitre II ter : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe (art. A222-7)](#157)
         - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation. (art. A223-1 à A223-10-3)](#158)
-          - [Section 1 : Dispositions générales. (art. A223-1 à A223-7)](#159)
+          - [Section 1 : Dispositions générales. (art. A223-1 à A223-7-1)](#159)
           - [Section 2 : Tarif (art. A223-8 à A223-10-3)](#160)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques (art. A411-1 à A411-7)](#161)
       - [Titre Ier : Organes administratifs de la mutualité (art. A411-1 à A411-7)](#162)
@@ -1162,8 +1162,8 @@ La fusion de plusieurs mutuelles, de plusieurs unions ou de plusieurs fédérati
 leurs assemblées générales adoptées dans les conditions prévues au I de l'article L. 114-12. 
 
 Ces délibérations sont précédées de l'examen d'un rapport établi par un commissaire à la fusion désigné par le président du
-tribunal de grande instance. Le commissaire à la fusion se prononce sur les méthodes d'évaluation et sur la valeur de l'actif
-et du passif des organismes concernés et expose les conditions financières de la fusion. Pour l'exercice de sa mission, le
+tribunal judiciaire. Le commissaire à la fusion se prononce sur les méthodes d'évaluation et sur la valeur de l'actif et du
+passif des organismes concernés et expose les conditions financières de la fusion. Pour l'exercice de sa mission, le
 commissaire à la fusion peut obtenir auprès de chacun de ces organismes communication de tous documents utiles et procéder
 aux vérifications nécessaires. 
 
@@ -1171,35 +1171,53 @@ Les membres des organismes ayant fusionné acquièrent la qualité de membres de
 
 Le groupement absorbant reçoit l'actif et est tenu d'acquitter le passif du groupement absorbé.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la mutualité - art. L114-12 (V)
+  - Code de la mutualité - art. L114-12
 
 
 ###### Article L113-3
 
 La scission d'une mutuelle, union ou fédération est prononcée par l'assemblée générale dans les conditions prévues au I de
 l'article L. 114-12. Cette délibération est précédée de l'examen d'un rapport établi par un commissaire à la scission désigné
-par le président du tribunal de grande instance. Le commissaire à la scission se prononce sur les méthodes d'évaluation et
-sur la valeur de l'actif et du passif des organismes concernés et expose les conditions financières de la scission. Pour
-l'exercice de sa mission, le commissaire à la scission peut obtenir auprès de chacun de ces organismes communication de tous
-documents utiles et procéder aux vérifications nécessaires.
+par le président du   tribunal judiciaire. Le commissaire à la scission se prononce sur les méthodes d'évaluation et sur la
+valeur de l'actif et du passif des organismes concernés et expose les conditions financières de la scission. Pour l'exercice
+de sa mission, le commissaire à la scission peut obtenir auprès de chacun de ces organismes communication de tous documents
+utiles et procéder aux vérifications nécessaires.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la mutualité - art. L114-12 (V)
+  - Code de la mutualité - art. L114-12
 
 
 ###### Article L113-4
@@ -1578,43 +1596,48 @@ _Créé par_:
 ###### Article L114-8
 
 I. – Les membres des mutuelles, unions et fédérations se réunissent en assemblée générale au moins une fois par an, sur
-convocation du président du conseil d'administration. A défaut d'une telle convocation, le président du tribunal de grande
-instance, statuant en référé, peut, à la demande de tout membre de l'organisme, enjoindre sous astreinte aux membres du
-conseil d'administration de convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette convocation.
+convocation du président du conseil d'administration. A défaut d'une telle convocation, le président du   tribunal
+judiciaire, statuant en référé, peut, à la demande de tout membre de l'organisme, enjoindre sous astreinte aux membres du
+conseil d'administration de convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette convocation. 
 
-L'assemblée générale peut également être convoquée par :
+L'assemblée générale peut également être convoquée par : 
 
-1° La majorité des administrateurs composant le conseil ;
+1° La majorité des administrateurs composant le conseil ; 
 
-2° Les commissaires aux comptes ;
+2° Les commissaires aux comptes ; 
 
-3° L'Autorité de contrôle prudentiel et de résolution, d'office ou à la demande d'un membre participant ;
+3° L'Autorité de contrôle prudentiel et de résolution, d'office ou à la demande d'un membre participant ; 
 
 4° Un administrateur provisoire nommé par l'Autorité de contrôle prudentiel et de résolution, à la demande d'un ou plusieurs
-membres participants ;
+membres participants ; 
 
-5° Les liquidateurs.
+5° Les liquidateurs. 
 
-A défaut d'une telle convocation, le président du tribunal de grande instance, statuant en référé, peut, à la demande de tout
+A défaut d'une telle convocation, le président du   tribunal judiciaire, statuant en référé, peut, à la demande de tout
 membre de l'organisme, enjoindre sous astreinte aux membres du conseil d'administration de convoquer cette assemblée ou
-désigner un mandataire chargé de procéder à cette convocation.
+désigner un mandataire chargé de procéder à cette convocation. 
 
-II. – La convocation des assemblées générales est faite dans les conditions et délais fixés par décret.
+II. – La convocation des assemblées générales est faite dans les conditions et délais fixés par décret. 
 
 III. – L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation. Toutefois, les membres participants ou les
 délégués, selon la composition de l'assemblée générale, peuvent, dans des conditions déterminées par décret, requérir
-l'inscription à l'ordre du jour de projets de résolution.
+l'inscription à l'ordre du jour de projets de résolution. 
 
 L'assemblée ne peut délibérer que sur une question inscrite à l'ordre du jour. Néanmoins, elle peut en toutes circonstances
 révoquer un ou plusieurs membres du conseil d'administration et procéder à leur remplacement. Elle prend, en outre, en toutes
 circonstances, les mesures visant à sauvegarder l'équilibre financier et à respecter les règles prudentielles prévues par le
 présent code.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -1855,17 +1878,26 @@ _Cité par_:
 ###### Article L114-14
 
 La liste et les modalités de mise à disposition des documents dont les membres composant l'assemblée générale doivent
-disposer avant celle-ci sont fixées par arrêté du ministre chargé de la mutualité.
+disposer avant celle-ci sont fixées par arrêté du ministre chargé de la mutualité. 
 
-A défaut de communication des documents prévus à l'alinéa précédent, le président du tribunal de grande instance, statuant en
+A défaut de communication des documents prévus à l'alinéa précédent, le président du   tribunal judiciaire, statuant en
 référé, peut enjoindre sous astreinte aux membres du conseil d'administration de les communiquer ou désigner un mandataire
 chargé de procéder à cette communication et, le cas échéant, de reporter la date de l'assemblée générale.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 #### Section 4 : Conseil d'administration.<a id=10></a>
@@ -2252,8 +2284,8 @@ k) Banqueroute ;
 
 l) Pratique de prêt usuraire ;
 
-m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
-articles L. 324-1 à L. 324-10 du code de sécurité intérieure ;
+m) L'une des infractions à la législation sur les jeux d'argent et de hasard et les casinos prévues aux articles L. 324-1 à
+L. 324-4, L. 324-10 et L. 324-12 à L. 324-14 du code de sécurité intérieure ;
 
 n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
@@ -2295,8 +2327,8 @@ premier alinéa du I.
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
-d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné.
+d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal judiciaire du domicile du
+condamné.
 
 VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
 l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
@@ -2327,6 +2359,11 @@ communique à ces autorités les informations utiles à l'exercice de leurs miss
 
 X. – Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2341,7 +2378,7 @@ _Cité par_:
   - Code de la mutualité - art. L211-13 (V)
   - Code de la mutualité - art. L211-8 (V)
   - Code de la mutualité - art. L211-8-1 (VD)
-  - Code de la mutualité - art. L431-4 (V)
+  - Code de la mutualité - art. L431-4 (M)
   - Code de la mutualité - art. R114-9 (VD)
   - Code de la mutualité - art. R211-13 (V)
   - Code de la mutualité - art. R222-28 (V)
@@ -2349,7 +2386,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 32
 
 _Cite_:
 
@@ -2901,12 +2939,17 @@ Les honoraires des commissaires aux comptes sont à la charge de la mutuelle, de
 honoraires est fixé d'un commun accord entre le commissaire aux comptes et la mutuelle, union ou fédération, eu égard à
 l'importance du travail nécessaire à l'accomplissement de la mission légale de contrôle. 
 
-Le président du tribunal de grande instance du lieu du siège social de la mutuelle, union ou fédération statuant en référé
-est compétent pour connaître de tout litige tenant à la fixation du montant des honoraires des commissaires aux comptes. 
+Le président du   tribunal judiciaire du lieu du siège social de la mutuelle, union ou fédération statuant en référé est
+compétent pour connaître de tout litige tenant à la fixation du montant des honoraires des commissaires aux comptes. 
 
 Les commissaires aux comptes peuvent, en outre, recevoir des rémunérations de la mutuelle, union ou fédération pour des
 missions temporaires, d'objet limité, et entrant dans le cadre de leurs fonctions, dès lors que ces missions leur sont
 confiées par l'organisme à la demande d'une autorité publique.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2916,7 +2959,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 27
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -2949,18 +2992,23 @@ _Cité par_:
 
 ###### Article L114-40
 
-Lorsque le commissaire aux comptes informe le président du tribunal de grande instance, en application de l'article L. 612-3
-du code de commerce, il informe en même temps l'Autorité de contrôle prudentiel et de résolution.
+Lorsque le commissaire aux comptes informe le président du   tribunal judiciaire, en application de l'article L. 612-3 du
+code de commerce, il informe en même temps l'Autorité de contrôle prudentiel et de résolution.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de commerce - art. L612-3 (V)
+  - Code de commerce - art. L612-3 (VD)
 
 
 ###### Article L114-41
@@ -3154,17 +3202,22 @@ _Cite_:
 Les mutuelles, unions et fédérations sont tenues de publier ou mettre à disposition, selon des modalités précisées par décret
 en Conseil d'Etat, leurs comptes annuels, le rapport de gestion, le rapport des commissaires aux comptes sur les comptes
 annuels ainsi que, le cas échéant, les comptes consolidés ou combinés, le rapport sur la gestion du groupe, le rapport des
-commissaires aux comptes sur les comptes consolidés ou combinés.
+commissaires aux comptes sur les comptes consolidés ou combinés. 
 
 Lorsqu'une mutuelle, une union ou une fédération refuse de communiquer en tout ou partie des documents demandés au titre de
-l'alinéa précédent, le président du tribunal de grande instance statuant en référé peut, à la demande de la personne
-concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de lui communiquer ces documents.
+l'alinéa précédent, le président du   tribunal judiciaire statuant en référé peut, à la demande de la personne concernée,
+ordonner à la mutuelle, union ou fédération, sous astreinte, de lui communiquer ces documents.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L114-46-3
@@ -9463,10 +9516,10 @@ _Cité par_:
 
 Le contrat d'assurance de protection juridique stipule qu'en cas de désaccord entre la mutuelle ou l'union et le membre
 participant au sujet de mesures à prendre pour régler un différend, cette difficulté peut être soumise à l'appréciation d'une
-tierce personne désignée d'un commun accord par les parties, ou à défaut par le président du tribunal de grande instance
-statuant en la forme des référés. Les frais exposés pour l'exercice de cette faculté sont à la charge de la mutuelle ou de
-l'union. Toutefois, le président du tribunal de grande instance, statuant en la forme des référés, peut en décider autrement
-lorsque le membre participant a mis en oeuvre cette faculté dans des conditions abusives.
+tierce personne désignée d'un commun accord par les parties, ou à défaut par le président du tribunal judiciaire statuant
+selon la procédure accélérée au fond. Les frais exposés pour l'exercice de cette faculté sont à la charge de la mutuelle ou
+de l'union. Toutefois, le président du tribunal judiciaire statuant selon la procédure accélérée au fond, peut en décider
+autrement lorsque le membre participant a mis en oeuvre cette faculté dans des conditions abusives.
 
 Si le membre participant a engagé à ses frais une procédure contentieuse et obtient une solution plus favorable que celle qui
 lui avait été proposée par la mutuelle ou l'union ou par la tierce personne mentionnée à l'alinéa précédent, la mutuelle ou
@@ -9477,11 +9530,20 @@ suspendu pour toutes les instances juridictionnelles qui sont couvertes par la g
 et que l'assuré est susceptible d'engager en demande, jusqu'à ce que la tierce personne chargée de proposer une solution en
 ait fait connaître la teneur.
 
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 6
 
 _Cité par_:
 
@@ -11077,13 +11139,18 @@ _Cite_:
 L'assemblée générale des mutuelles et des unions soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution,
 en application du 3° du B du I de l'article L. 612-2 du code monétaire et financier, est réunie dans un délai de sept mois
 suivant la clôture de l'exercice afin de procéder à l'examen des comptes, sauf prolongation de ce délai, à la demande motivée
-du conseil d'administration, par ordonnance du tribunal de grande instance statuant sur requête.
+du conseil d'administration, par ordonnance du   tribunal judiciaire statuant sur requête.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -14223,7 +14290,8 @@ _Créé par_:
 
 ###### Article R223-1
 
-Pour l'application de l'article L. 223-2, l'article R. 131-1 du code des assurances est applicable.
+Pour l'application de l'article L. 223-2, l'article R. 131-1 et le chapitre IV du titre III du livre Ier du code des
+assurances sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -14233,7 +14301,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1172 du 14 novembre 2019 - art. 3
+  - Décret n°2019-1437 du 23 décembre 2019 - art. 1
 
 _Cite_:
 
@@ -16316,54 +16384,71 @@ _Créé par_:
 I. – Le montant minimal de la participation aux excédents techniques et financiers des mutuelles et unions de mutuelles
 pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1 est déterminé globalement pour les opérations
 individuelles et collectives de toute nature souscrites sur le territoire de l'Union européenne, à l'exception des opérations
-collectives en cas de décès, des opérations relevant de l'article L. 222-1 et des opérations à capital variable.
+collectives en cas de décès, des opérations relevant de l'article L. 222-1, des opérations à capital variable et des
+opérations relevant d'une comptabilité auxiliaire d'affectation mentionnée à l'article L. 134-2 ou à l'article L. 142-4 du
+code des assurances. 
 
 II. – Le montant minimal de la participation aux excédents à attribuer au titre d'un exercice est déterminé globalement à
 partir d'un compte de participation aux résultats. Ce compte comporte, pour les opérations mentionnées au I, les éléments de
-charges et produits suivants :
+charges et produits suivants : 
 
-– cotisations sur les opérations directes et acceptations ;
+– cotisations sur les opérations directes et acceptations ; 
 
-– charges des prestations sur opérations directes et acceptations ;
+– charges des prestations sur opérations directes et acceptations ; 
 
-– charges des provisions d'assurance vie et autres provisions techniques sur opérations directes et acceptations ;
+– charges des provisions d'assurance vie et autres provisions techniques sur opérations directes et acceptations ; 
 
-– cotisations sur opérations prises en substitution ;
+– cotisations sur opérations prises en substitution ; 
 
-– charges des prestations sur opérations prises en substitution ;
+– charges des prestations sur opérations prises en substitution ; 
 
-– charges des provisions d'assurance vie et autres provisions techniques sur opérations prises en substitution ;
+– charges des provisions d'assurance vie et autres provisions techniques sur opérations prises en substitution ; 
 
-– frais d'acquisition ;
+– frais d'acquisition ; 
 
-– autres charges de gestion nettes.
+– autres charges de gestion nettes. 
 
 Il comporte également en charges la participation de la mutuelle ou de l'union aux excédents de la gestion technique, qui est
-constituée par 10 % du solde créditeur des éléments précédents.
+constituée par 10 % du solde créditeur des éléments précédents. 
 
 Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
 % du solde du compte financier défini au I de l'article D. 223-5. Le compte de participation aux résultats comporte en outre
 les sommes correspondant au “ solde de réassurance cédée ”, calculées conformément aux dispositions de l'article D. 223-4 et,
-s'il y a lieu, le solde débiteur du compte de participation aux résultats de l'exercice précédent.
+s'il y a lieu, le solde débiteur du compte de participation aux résultats de l'exercice précédent. 
 
-III. – Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux
-résultats défini au II.
+Lorsque la charge constituée par la dotation à la provision pour risque d'exigibilité est étalée en application de l'article
+R. 343-6 du code des assurances, cet étalement s'applique aussi pour l'établissement du compte de participation aux
+résultats. 
 
-Le montant minimal annuel de la participation aux excédents est égal au montant défini à l'alinéa précédent diminué du
+III. – Le montant minimal de la participation aux excédents à attribuer au titre d'un exercice pour des engagements relevant
+d'une comptabilité auxiliaire d'affectation mentionnée à l'article L. 142-4 du code des assurances est déterminé à partir
+d'un compte de participation aux résultats. 
+
+Ce compte est constitué selon les modalités définies au II. A cette fin, le compte financier défini au I de l'article D.
+223-5 ne comporte que les éléments prévus à l'article D. 223-5 qui sont relatifs à la comptabilité auxiliaire d'affectation. 
+
+IV. – Le montant minimal annuel de la participation aux résultats est la somme des soldes créditeurs des comptes définis aux
+II et III. 
+
+Le montant minimal annuel de la participation aux excédents est égal à la somme définie à l'alinéa précédent, diminuée du
 montant des intérêts crédités aux provisions mathématiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+  - Décret n°2019-1437 du 23 décembre 2019 - art. 6
 
 _Cite_:
 
+  - Code des assurances - art. L142-4
   - Code de la mutualité - art. D223-4
-  - Code de la mutualité - art. D223-5
   - Code de la mutualité - art. L111-1
   - Code de la mutualité - art. L222-1
+
+_Cité par_:
+
+  - Code de la mutualité - art. D223-5 (VD)
 
 
 ###### Article D223-4
@@ -16415,29 +16500,32 @@ Le taux de rendement prévu au 1 du présent paragraphe est égal au rapport :
 
 Du produit net des placements considérés, déduction faite des produits des placements afférents aux actifs correspondant aux
 opérations relevant de l'article L. 222-1, aux actifs affectés à la représentation des opérations en unité de compte et aux
-actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats. 
+actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats, ainsi qu'aux actifs relatifs à
+une comptabilité auxiliaire d'affectation relevant de l'article L. 134-2 ou L. 142-4 du code des assurances. 
 
 Au montant moyen, au cours de l'exercice, des mêmes placements.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+  - Décret n°2019-1437 du 23 décembre 2019 - art. 6
+
+_Cite_:
+
+  - Code des assurances - art. L132-4
+  - Code des assurances - art. L142-4
+  - Code de la mutualité - art. D223-3 (VD)
+  - Code de la mutualité - art. L211-10
+  - Code de la mutualité - art. L211-11
+  - Code de la mutualité - art. L212-11
+  - Code de la mutualité - art. L222-1
+  - Code de la mutualité - art. L510-1
+  - Code de la mutualité - art. R211-2
 
 _Cité par_:
 
   - Code de la mutualité - art. A223-6-2 (V)
-  - Code de la mutualité - art. D223-3 (VD)
-
-_Cite_:
-
-  - Code de la mutualité - art. L211-10 (V)
-  - Code de la mutualité - art. L211-11
-  - Code de la mutualité - art. L212-11
-  - Code de la mutualité - art. L222-1
-  - Code de la mutualité - art. L510-1 (V)
-  - Code de la mutualité - art. R211-2
 
 
 ###### Article D223-6
@@ -16446,7 +16534,11 @@ I. – Le montant des participations aux excédents peut être affecté directem
 partiellement ou totalement, à la provision pour participation aux excédents prévue à l'article R. 343-3 du code des
 assurances. Les sommes portées à cette dernière provision sont affectées à la provision mathématique ou versées aux
 participants au cours des huit exercices suivant celui au titre duquel elles ont été portées à la provision pour
-participation aux excédents.
+participation aux excédents. 
+
+Dans le cas des mutuelles ou unions de retraite professionnelle supplémentaire et des opérations relevant d'une comptabilité
+auxiliaire d'affectation mentionnée à l'article L. 142-4 du code des assurances, la durée maximale pour la reprise des sommes
+portées à la provision pour participation aux excédents est de quinze ans. 
 
 II. – Lorsqu'une catégorie d'opérations est assortie d'une clause de participation aux résultats, la participation affectée
 individuellement à chaque bulletin d'adhésion ou contrat réduit ou suspendu ne peut être inférieure de plus de 25 % à celle
@@ -16455,12 +16547,13 @@ catégorie ayant la même provision mathématique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+  - Décret n°2019-1437 du 23 décembre 2019 - art. 6
 
 _Cite_:
 
+  - Code des assurances - art. L142-4
   - Code des assurances - art. R343-3
 
 _Cité par_:
@@ -17018,7 +17111,7 @@ _Cite_:
 
 #### Chapitre II ter : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe<a id=157></a>
 
-###### Article A222-5
+###### Article A222-7
 
 Le chapitre II du titre IV du livre I du code des assurances est applicable aux mutuelles et unions. Pour l'application de
 ces dispositions, il y a lieu d'entendre : “mutuelles et unions” là où sont mentionnés dans le code des assurances :
@@ -17028,15 +17121,11 @@ ces dispositions, il y a lieu d'entendre : “mutuelles et unions” là où son
 
 _Créé par_:
 
-  - Arrêté du 7 août 2019 - art. 4
+  - Arrêté du 26 décembre 2019 - art. 8 (V)
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Arrêté du 26 décembre 2019 - art. 8 (V)
-
-_Nouveaux textes_:
-
-  - Code de la mutualité - art. A222-7 (V)
+  - Code de la mutualité - art. A222-5 (T)
 
 
 #### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.<a id=158></a>
@@ -17423,6 +17512,19 @@ _Cite_:
 
   - Code de la sécurité sociale. - art. L161-17-2
   - Code de la mutualité - art. L223-21
+
+
+###### Article A223-7-1
+
+Le chapitre IV du titre III du livre Ier du code des assurances est applicable aux mutuelles et unions. Pour l'application de
+ces dispositions, il y a lieu d'entendre : “ mutuelles et unions ” là où sont mentionnés dans le code des assurances : “
+entreprises d'assurance ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 26 décembre 2019 - art. 1
 
 
 ##### Section 2 : Tarif<a id=160></a>
@@ -17967,27 +18069,31 @@ _Modifié par_:
 
 ###### Article R125-3
 
-La régularité des opérations électorales destinées à la désignation des membres du conseil d' administration, des membres de
-l' Autorité de contrôle, des représentants des salariés au conseil d' administration et des délégués des sections locales de
-vote peut être contestée, dans le délai de quinze jours à dater de l' élection, devant le tribunal d' instance du siège
-social de la mutuelle. 
+La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de
+l'Autorité de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de
+vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal judiciaire du siège social
+de la mutuelle.
 
-La contestation est formée par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d' instance. 
+La contestation est formée par requête faite, remise ou adressée au greffe du tribunal judiciaire.
 
-Dans les dix jours du recours, le tribunal d' instance statue en dernier ressort, sans frais ni forme de procédure et sur
-simple avertissement donné trois jours à l' avance à toutes les parties intéressées. 
+Dans les dix jours du recours, le tribunal judiciaire statue en dernier ressort, sans frais ni forme de procédure et sur
+simple avertissement donné trois jours à l'avance à toutes les parties intéressées.
 
 La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
-demande d' avis de réception. 
+demande d'avis de réception.
 
-Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal d' instance. Les
+Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal judiciaire. Les
 dispositions des articles 999 à 1008 du code de procédure civile sont applicables.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 _Cité par_:
 
@@ -17998,9 +18104,14 @@ _Cité par_:
   - Code de la mutualité - art. R311-8 (P)
   - Code de la mutualité - art. R513-25 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 26
+
 _Cite_:
 
-  - Code de procédure civile - art. 999 (V)
+  - Code de procédure civile - art. 999
 
 
 ###### Article R125-4
@@ -19682,23 +19793,28 @@ _Modifié par_:
 
 Les dispositions de l'article R. 125-3 sont applicables aux contestations relatives à la régularité des opérations
 électorales pour la désignation des membres du Conseil supérieur de la mutualité et des membres des comités de coordination
-de la mutualité.
+de la mutualité. 
 
-Ces contestations sont portées devant le tribunal d'instance du lieu de proclamation des résultats.
+Ces contestations sont portées devant le   tribunal judiciaire du lieu de proclamation des résultats.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+  - Décret n°86-384 du 13 mars 1986
 
 _Modifié par_:
 
-  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la mutualité - art. R125-3 (M)
+  - Code de la mutualité - art. R125-3
 
 **Liens**:
 
