@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2020-01-04
+Version Consolidée au 2020-09-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -139,10 +139,10 @@ Version Consolidée au 2020-01-04
       - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales. (art. D114-1 à D114-11)](#136)
         - [Section 3 : Assemblée générale. (art. D114-1 à D114-7)](#137)
         - [Section 6 : Dispositions financières et comptables et états statistiques (art. Annexe à l'article D114-11 à D114-11)](#138)
-    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D223-1 à D223-6)](#139)
-      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1 à D223-6)](#140)
-        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1 à D223-6)](#141)
-          - [Section 1 : Dispositions générales (art. D223-1 à D223-6)](#142)
+    - [Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation. (art. D223-1 à D223-7)](#139)
+      - [Titre II : Opérations des mutuelles et des unions. (art. D223-1 à D223-7)](#140)
+        - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation (art. D223-1 à D223-7)](#141)
+          - [Section 1 : Dispositions générales (art. D223-1 à D223-7)](#142)
     - [Livre IV : Relations avec l'Etat et les autres collectivités publiques. (art. D412-1 à D412-3)](#143)
       - [Titre Ier : Organes administratifs de la mutualité. (art. D412-1 à D412-3)](#144)
         - [Chapitre II : Comités régionaux de coordination de la mutualité. (art. D412-1 à D412-3)](#145)
@@ -16618,6 +16618,37 @@ _Cite_:
 _Cité par_:
 
   - Code de la mutualité - art. D223-7 (V)
+
+
+###### Article D223-7
+
+Par dérogation aux affectations prévues au premier alinéa de l'article D. 223-6 et dans des situations exceptionnelles, la
+provision pour participation aux excédents peut être reprise après autorisation de l'Autorité de contrôle prudentiel et de
+résolution. 
+
+Les situations exceptionnelles mentionnées au premier alinéa ne sont réunies que lorsque le solde du compte de résultat
+technique de l'assurance vie du dernier exercice comptable, établi selon le modèle figurant à l'article 422-4 du règlement de
+l'Autorité des normes comptables n° 2015-11 du 26 novembre 2015 relatif aux comptes annuels des entreprises d'assurance, est
+négatif et que le capital de solvabilité requis pour les mutuelles ou unions relevant de l'article L. 211-10, ou l'exigence
+minimale de marge pour les mutuelles ou unions relevant des articles L. 211-11 et L. 211-11-1, n'est plus couvert. 
+
+L'autorisation de l'Autorité de contrôle prudentiel et de résolution prévue au premier alinéa ne peut être délivrée que si un
+plan est remis par la mutuelle ou l'union et approuvé par l'Autorité de contrôle prudentiel et de résolution. Ce plan prévoit
+notamment la restitution à partir de résultats ultérieurs et sous un délai maximal de huit ans des montants repris sur la
+provision pour participation aux excédents. Il prévoit notamment que la mutuelle ou l'union ne rembourse pas et ne rémunère
+pas les certificats mutualistes tant que ces montants repris n'ont pas été restitués.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1156 du 21 septembre 2020 - art. 1
+
+_Cite_:
+
+  - Code de la mutualité - art. D223-6
+  - Code de la mutualité - art. L211-10
+  - Code de la mutualité - art. L211-11-1
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.<a id=143></a>
