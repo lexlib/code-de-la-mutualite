@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2020-01-04
+Version Consolidée au 2020-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -6396,25 +6396,44 @@ _Cite_:
 
 ###### Article L221-9
 
-La durée de l'engagement inscrite dans le contrat collectif est librement déterminée par les parties. Elle doit être
-mentionnée en caractères très apparents dans le contrat collectif, de même que, le cas échéant, la possibilité d'une
-reconduction tacite chaque année.
+La durée de l'engagement inscrite dans le contrat collectif, la notice prévue à l'article L. 221-6 ou le règlement est
+librement déterminée par les parties. Elle doit être mentionnée en caractères très apparents dans le contrat collectif, de
+même que, le cas échéant, la possibilité d'une reconduction tacite chaque année.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2001-350 2001-04-19
+  - Ordonnance n°2001-350 du 19 avril 2001
+
+_Modifié par_:
+
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-6
 
 
 ###### Article L221-10
 
 Le membre participant, pour les opérations individuelles, le membre participant ou l'employeur ou la personne morale, pour
 les opérations collectives à adhésion facultative, la personne morale souscriptrice, pour les opérations collectives à
-adhésion obligatoire, peut mettre fin à son adhésion ou résilier le contrat collectif tous les ans en adressant une lettre
-recommandée ou un envoi recommandé électronique à la mutuelle ou à l'union au moins deux mois avant la date d'échéance. La
-mutuelle ou l'union peut également résilier le contrat collectif tous les ans, en envoyant une lettre recommandée au moins
-deux mois avant la date d'échéance, à l'exception des opérations mentionnées au deuxième alinéa de l'article L. 110-2.
+adhésion obligatoire, peut mettre fin à son adhésion ou résilier le contrat collectif tous les ans en adressant une
+notification par lettre, tout autre support durable ou moyen prévu à l'article L. 221-10-3 à la mutuelle ou à l'union au
+moins deux mois avant la date d'échéance. La mutuelle ou l'union peut également résilier le contrat collectif tous les ans,
+en envoyant une lettre recommandée au moins deux mois avant la date d'échéance, à l'exception des opérations mentionnées au
+deuxième alinéa de l'article L. 110-2. 
+
+Pour les opérations collectives, le droit de résiliation prévu au premier alinéa du présent article est mentionné dans le
+bulletin d'adhésion ou le contrat collectif souscrit par un employeur ou une personne morale. Pour les opérations collectives
+à adhésion facultative, le droit de dénonciation de l'adhésion du membre participant prévu au même premier alinéa est
+mentionné dans la notice remise en application de l'article L. 221-6. 
 
 Sans préjudice du premier alinéa du présent article, lorsque le contrat a pour objet de garantir, en cas de survenance d'un
 des risques que ce contrat définit, soit le remboursement total ou partiel du montant restant dû au titre d'un contrat de
@@ -6428,9 +6447,9 @@ recommandée ou par envoi recommandé électronique la décision du prêteur pr�
 dudit code ainsi que la date de prise d'effet du contrat d'assurance accepté en substitution par le prêteur. En cas
 d'acceptation par le prêteur, la résiliation du contrat d'assurance prend effet dix jours après la réception par la mutuelle
 ou l'union de la décision du prêteur ou à la date de prise d'effet du contrat accepté en substitution par le prêteur si
-celle-ci est postérieure. En cas de refus par le prêteur, le contrat d'assurance n'est pas résilié.
+celle-ci est postérieure. En cas de refus par le prêteur, le contrat d'assurance n'est pas résilié. 
 
-Ce droit de résiliation appartient exclusivement au membre participant.
+Ce droit de résiliation appartient exclusivement au membre participant. 
 
 Pendant toute la durée du contrat d'assurance, la mutuelle ou l'union ne peut pas résilier ce contrat d'assurance pour cause
 d'aggravation du risque, sauf dans certaines conditions définies par décret en Conseil d'Etat, résultant d'un changement de
@@ -6438,19 +6457,14 @@ comportement volontaire de l'assuré.
 
 **Nota:**
 
-Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
-prêts émises à compter de la date de publication de la présente loi et, à compter du 1er janvier 2018, aux contrats
-d'assurance en cours d'exécution à cette date.
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2001-350 du 19 avril 2001
-
-_Modifié par_:
-
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
 
 _Cité par_:
 
@@ -6461,11 +6475,16 @@ _Cité par_:
   - Code de la consommation - art. L313-32 (VD)
   - Code de la mutualité - art. L223-27 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
+
 _Cite_:
 
   - Code de la consommation - art. L313-1
   - Code de la consommation - art. L313-24
   - Code de la mutualité - art. L110-2
+  - Code de la mutualité - art. L221-6
 
 
 ###### Article L221-10-1
@@ -6479,15 +6498,20 @@ date figurant sur le cachet de la poste ou certifiée par un horodatage qualifi�
 décret.
 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le membre participant
-peut, par lettre recommandée ou envoi recommandé électronique, mettre un terme à l'adhésion au règlement, sans pénalités, à
-tout moment à compter de la date de reconduction. La résiliation prend effet le lendemain de la date figurant sur le cachet
-de la poste ou de la date d'expédition de l'envoi recommandé électronique.
+peut, par lettre, tout autre support durable ou moyen prévu à l'article L. 221-10-3, mettre un terme à l'adhésion au
+règlement, sans pénalités, à tout moment à compter de la date de reconduction. La résiliation prend effet le lendemain de la
+date figurant sur le cachet de la poste ou de la date de notification.
 
 Le membre participant est tenu au paiement de la partie de cotisation correspondant à la période pendant laquelle le risque a
 couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, doit être remboursée au membre
 participant, dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de cotisation
 correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A
 défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -6503,7 +6527,92 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 23
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
+
+
+###### Article L221-10-2
+
+Pour les règlements ou contrats relevant des branches ou des catégories de contrats définies par décret en Conseil d'Etat, le
+membre participant peut dénoncer l'adhésion et l'employeur ou la personne morale souscriptrice peut résilier le contrat
+collectif ou dénoncer l'adhésion, après expiration d'un délai d'un an à compter de la première souscription, sans frais ni
+pénalités. La dénonciation de l'adhésion ou la résiliation prend effet un mois après que la mutuelle ou l'union en a reçu
+notification par le membre participant ou par l'employeur ou la personne morale souscriptrice. 
+
+Le droit de dénonciation prévu au premier alinéa n'est pas ouvert au membre participant dans le cadre des opérations
+collectives à adhésion obligatoire mentionnées au 2° du III de l'article L. 221-2. 
+
+Le droit de dénonciation ou de résiliation prévu au premier alinéa du présent article est mentionné dans le règlement, le
+bulletin d'adhésion ou le contrat collectif. Pour les opérations collectives à adhésion facultative, le droit de dénonciation
+du membre participant prévu au même premier alinéa est mentionné dans la notice remise en application de l'article L. 221-6.
+Le droit de dénonciation ou de résiliation est en outre rappelé avec chaque avis d'échéance de cotisation. 
+
+Lorsque l'adhésion au règlement est dénoncée ou lorsque le contrat est résilié dans les conditions prévues au premier alinéa
+du présent article, le membre participant, l'employeur ou la personne morale souscriptrice n'est redevable que de la partie
+de cotisation correspondant à la période pendant laquelle le risque est couvert, cette période étant calculée jusqu'à la date
+d'effet de la dénonciation ou de la résiliation. La mutuelle ou l'union est tenue de rembourser le solde au membre
+participant, à l'employeur ou à la personne morale souscriptrice dans un délai de trente jours à compter de la date d'effet
+de la dénonciation ou de la résiliation. A défaut de remboursement dans ce délai, les sommes dues à l'intéressé produisent de
+plein droit des intérêts de retard au taux légal. 
+
+Dans le cas où l'adhérent ou le participant souhaite dénoncer une adhésion ou résilier un contrat conclu pour le
+remboursement et l'indemnisation des frais occasionnés par une maladie, une maternité ou un accident pour souscrire un
+nouveau contrat auprès d'un nouvel organisme, celui-ci effectue pour le compte de l'adhérent ou du participant souhaitant le
+rejoindre les formalités nécessaires à l'exercice du droit de résiliation ou de dénonciation dans les conditions prévues au
+même premier alinéa. Les organismes intéressés s'assurent de l'absence d'interruption de la couverture de l'adhérent ou du
+participant durant la procédure. 
+
+Un décret en Conseil d'Etat précise les modalités et conditions d'application du présent article.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
+
+_Cite_:
+
+  - Code de la mutualité - art. L221-2
+  - Code de la mutualité - art. L221-6
+
+
+###### Article L221-10-3
+
+Lorsque le membre participant a le droit de dénoncer l'adhésion au règlement ou lorsque l'employeur ou la personne morale
+souscriptrice a le droit de résilier le contrat collectif, la notification de la dénonciation ou de la résiliation peut être
+effectuée, au choix de l'intéressé :
+
+1° Soit par lettre ou tout autre support durable ;
+
+2° Soit par déclaration faite au siège social ou chez le représentant de la mutuelle ou de l'union ;
+
+3° Soit par acte extrajudiciaire ;
+
+4° Soit, lorsque la mutuelle ou l'union propose la conclusion de contrat ou l'adhésion au règlement par un mode de
+communication à distance, par le même mode de communication ;
+
+5° Soit par tout autre moyen prévu par le contrat ou le règlement.
+
+Le destinataire confirme par écrit la réception de la notification.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
+
+_Cité par_:
+
+  - Code de la mutualité - art. L223-8 (VD)
 
 
 ###### Article L221-11
@@ -8203,10 +8312,10 @@ _Cité par_:
 ###### Article L223-8
 
 Tout membre participant qui a signé un bulletin d'adhésion auprès d'une mutuelle ou par l'intermédiaire de celle-ci auprès
-d'une union a la faculté d'y renoncer par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de
-réception pendant un délai de trente jours calendaires révolus à compter du moment où il est informé que l'adhésion a pris
-effet. Ce délai expire le dernier jour à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé,
-il n'est pas prorogé.
+d'une union a la faculté d'y renoncer par lettre, tout autre support durable ou moyen prévu à l'article L. 221-10-3 avec
+demande d'avis de réception pendant un délai de trente jours calendaires révolus à compter du moment où il est informé que
+l'adhésion a pris effet. Ce délai expire le dernier jour à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour
+férié ou chômé, il n'est pas prorogé. 
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de rédaction destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les bulletins
@@ -8217,48 +8326,54 @@ moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et ex
 rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union doit, en outre, remettre, contre
 récépissé, une note d'information sur les dispositions essentielles des règlements incluant, lorsque le contrat comporte des
 garanties exprimées en unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions
-d'exercice de la faculté de renonciation.
+d'exercice de la faculté de renonciation. 
 
 Pour les opérations collectives facultatives, la note précise que les droits et obligations du membre participant peuvent
 être modifiés par des avenants aux bulletins d'adhésion ou contrats. Les modalités d'adoption de ces avenants par l'employeur
-ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants.
+ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants. 
 
 De plus, il est inséré en début de note un encadré indiquant en caractères très apparents la nature du contrat. L'encadré
 comporte en particulier le regroupement des frais dans une même rubrique, les garanties offertes, la disponibilité des sommes
 en cas de rachat, la participation aux bénéfices, ainsi que les modalités de désignation du bénéficiaire. Un arrêté du
 ministre chargé de la mutualité, pris après avis de l'Autorité de contrôle prudentiel et de résolution, fixe le format de cet
-encadré ainsi que, de façon limitative, son contenu.
+encadré ainsi que, de façon limitative, son contenu. 
 
 Le défaut de remise des documents et informations énumérés au deuxième alinéa entraîne de plein droit la prorogation du délai
 prévu au premier alinéa jusqu'au trentième jour calendaire révolu suivant la date de remise effective de ces documents, dans
-la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet.
+la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet. 
 
 La renonciation entraîne la restitution, par la mutuelle ou l'union, de l'intégralité des sommes versées par le cotisant,
-dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre recommandée ou de l'envoi
-recommandé électronique. Au-delà de ce délai, les sommes non restituées produisent de plein droit intérêt au taux légal
-majoré de moitié durant deux mois, puis à l'expiration de ce délai de deux mois, au double du taux légal.
+dans le délai maximal de trente jours calendaires révolus à compter de la réception de la notification. Au-delà de ce délai,
+les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis à
+l'expiration de ce délai de deux mois, au double du taux légal. 
 
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
-deux mois.
+deux mois. 
 
 Un arrêté du ministre chargé de la mutualité précise les modalités d'application de ces dispositions.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 24
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
 
 _Cite_:
 
   - Code des assurances - art. L144-2
+  - Code de la mutualité - art. L221-10-3
 
 _Cité par_:
 
   - Code de la mutualité - art. A223-6-1 (V)
   - Code de la mutualité - art. L212-19 (VT)
   - Code de la mutualité - art. L212-23 (V)
-  - Code de la mutualité - art. L221-18 (VD)
+  - Code de la mutualité - art. L221-18 (V)
   - Code de la mutualité - art. L222-1-2 (V)
   - Code de la mutualité - art. L223-28 (VD)
   - Code de la mutualité - art. L223-8 (M)
