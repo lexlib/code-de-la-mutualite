@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2020-12-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -1969,6 +1969,40 @@ _Cite_:
   - Code de la mutualité - art. L212-7
 
 
+###### Article L114-16-1
+
+Le conseil d'administration des mutuelles mentionnées au premier alinéa de l'article L. 114-16 est composé en recherchant une
+représentation équilibrée des femmes et des hommes. 
+
+Les statuts prévoient les conditions dans lesquelles il est procédé à l'élection de ses membres pour garantir au sein du
+conseil d'administration une part minimale de sièges pour les personnes de chaque sexe au moins égale à 40 %. 
+
+Par dérogation à l'alinéa précédent, lorsque la proportion de membres participants d'un des deux sexes est inférieure à 25 %,
+la part de sièges dévolue aux membres de ce sexe est au moins égale à 25 %, dans la limite de 50 %. 
+
+L'électeur doit, sous peine de nullité du vote et sauf insuffisance du nombre de candidats d'un sexe, désigner un nombre de
+candidats de chaque sexe conforme à la part de ce sexe indiquée aux précédents alinéas.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2015-950 du 31 juillet 2015, les présentes dispositions s'appliquent au titre
+du renouvellement du conseil d'administration intervenant à compter du 1er janvier 2021.
+
+Par dérogation à l'alinéa précédent, pour les mutuelles dont la proportion de membres participants d'un des deux sexes est
+inférieure à 25 %, les présentes dispositions s'appliquent au titre du renouvellement du conseil d'administration intervenant
+à compter du 1er janvier 2024.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-950 du 31 juillet 2015 - art. 1
+
+_Cite_:
+
+  - Code de la mutualité - art. L114-16
+
+
 ###### Article L114-16-2
 
 I.-Dans les mutuelles, unions et fédérations employant entre cinquante et neuf cent quatre-vingt-dix-neuf salariés, deux
@@ -2071,51 +2105,56 @@ _Cite_:
 
 Le conseil d'administration détermine les orientations de l'organisme et veille à leur application, en prenant en
 considération les enjeux sociaux et environnementaux de son activité ainsi que sa raison d'être lorsque celle-ci est précisée
-dans les statuts. 
+dans les statuts.
 
 Le conseil d'administration opère les vérifications et contrôles qu'il juge opportuns et se saisit de toute question
 intéressant la bonne marche de l'organisme. Chaque administrateur reçoit toutes les informations nécessaires à
-l'accomplissement de sa mission et se fait communiquer les documents qu'il estime utiles. 
+l'accomplissement de sa mission et se fait communiquer les documents qu'il estime utiles.
 
 A la clôture de chaque exercice, le conseil d'administration arrête les comptes annuels et établit un rapport de gestion
-qu'il présente à l'assemblée générale et dans lequel il rend compte : 
+qu'il présente à l'assemblée générale et dans lequel il rend compte :
 
-a) Des prises de participation dans des sociétés soumises aux dispositions du livre II du code de commerce ; 
+a) Des prises de participation dans des sociétés soumises aux dispositions du livre II du code de commerce ;
 
 b) De la liste des organismes avec lesquels la mutuelle ou l'union établit des comptes consolidés ou combinés conformément à
-l'article L. 212-7 ; 
+l'article L. 212-7 ;
 
 c) De l'ensemble des sommes versées en application de l'article L. 114-26 ; un rapport distinct, certifié par le commissaire
 aux comptes et également présenté à l'assemblée générale, détaille les sommes et avantages de toute nature versées à chaque
-administrateur ; 
+administrateur ;
 
-d) De l'ensemble des rémunérations versées le cas échéant au dirigeant opérationnel mentionné à l'article L. 211-14 ; 
+d) De l'ensemble des rémunérations versées le cas échéant au dirigeant opérationnel mentionné à l'article L. 211-14 ;
 
-e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ; 
+e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ;
 
-f) Des transferts financiers entre mutuelles et unions ; 
+f) Des transferts financiers entre mutuelles et unions ;
 
 g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les modalités de répartition pour l'année écoulée
-de la participation aux excédents ; 
+de la participation aux excédents ;
 
 h) Pour les mutuelles ou leurs unions relevant du livre II, la déclaration prévue au I de l'article L. 225-102-1 du code de
 commerce ou la déclaration prévue au II du même article lorsqu'elles remplissent les conditions applicables, le cas échéant
-sur une base consolidée ou combinée, aux sociétés mentionnées au 2° du I de cet article. 
+sur une base consolidée ou combinée, aux sociétés mentionnées à cet article.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés conformément à
-l'article L. 212-7, ainsi qu'un rapport sur la gestion du groupe qu'il communique à l'assemblée générale. 
+l'article L. 212-7, ainsi qu'un rapport sur la gestion du groupe qu'il communique à l'assemblée générale.
 
-Le rapport de gestion du groupe inclut les informations visées à l'article L. 212-6. 
+Le rapport de gestion du groupe inclut les informations visées à l'article L. 212-6.
 
 Le conseil d'administration fixe les montants ou les taux de cotisation et les prestations des opérations collectives
 mentionnées au III de l'article L. 221-2, dans le respect des règles générales fixées par l'assemblée générale. Il rend
 compte devant l'assemblée générale des décisions qu'il prend en la matière. Il peut déléguer tout ou partie de cette
 compétence, pour une durée maximale d'un an, au président du conseil d'administration ou le cas échéant au dirigeant
-opérationnel mentionné à l'article L. 211-14. 
+opérationnel mentionné à l'article L. 211-14.
 
 Lorsque les statuts le prévoient, le conseil d'administration adopte les règlements des opérations individuelles mentionnées
 au II de l'article L. 221-2, dans le respect des règles générales fixées par l'assemblée générale. Il rend compte devant
 l'assemblée générale des décisions qu'il prend en la matière.
+
+**Nota:**
+
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -2133,7 +2172,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 169
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 15
 
 _Cite_:
 
