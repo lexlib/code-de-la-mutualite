@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2020-12-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -1923,6 +1923,40 @@ _Cite_:
   - Code monétaire et financier - art. L612-23-1
   - Code de la mutualité - art. L114-8
   - Code de la mutualité - art. L212-7
+
+
+###### Article L114-16-1
+
+Le conseil d'administration des mutuelles mentionnées au premier alinéa de l'article L. 114-16 est composé en recherchant une
+représentation équilibrée des femmes et des hommes. 
+
+Les statuts prévoient les conditions dans lesquelles il est procédé à l'élection de ses membres pour garantir au sein du
+conseil d'administration une part minimale de sièges pour les personnes de chaque sexe au moins égale à 40 %. 
+
+Par dérogation à l'alinéa précédent, lorsque la proportion de membres participants d'un des deux sexes est inférieure à 25 %,
+la part de sièges dévolue aux membres de ce sexe est au moins égale à 25 %, dans la limite de 50 %. 
+
+L'électeur doit, sous peine de nullité du vote et sauf insuffisance du nombre de candidats d'un sexe, désigner un nombre de
+candidats de chaque sexe conforme à la part de ce sexe indiquée aux précédents alinéas.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2015-950 du 31 juillet 2015, les présentes dispositions s'appliquent au titre
+du renouvellement du conseil d'administration intervenant à compter du 1er janvier 2021.
+
+Par dérogation à l'alinéa précédent, pour les mutuelles dont la proportion de membres participants d'un des deux sexes est
+inférieure à 25 %, les présentes dispositions s'appliquent au titre du renouvellement du conseil d'administration intervenant
+à compter du 1er janvier 2024.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-950 du 31 juillet 2015 - art. 1
+
+_Cite_:
+
+  - Code de la mutualité - art. L114-16
 
 
 ###### Article L114-16-2
