@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L610-2)](#1)
     - [Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations. (art. L110-1 à L116-6)](#2)
@@ -2066,13 +2066,16 @@ salariés ne peut être réduite du fait de l'exercice de leur mandat.
 La rupture du contrat de travail met fin au mandat de représentant élu par les salariés. 
 
 Les représentants élus par les salariés ne peuvent être révoqués que pour faute dans l'exercice de leur mandat, par décision
-du président du tribunal de grande instance, rendue en la forme des référés, à la demande de la majorité des membres du
-conseil d'administration. La décision est exécutoire par provision. 
+du président du   tribunal judiciaire, rendue en la forme des référés, à la demande de la majorité des membres du conseil
+d'administration. La décision est exécutoire par provision. 
 
 Toute élection ou nomination intervenue en violation du présent article est nulle. Cette nullité n'entraîne pas celle des
 délibérations auxquelles a pris part le représentant élu irrégulièrement nommé.
 
 **Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 Conformément au IV de l’article 184 de la loi n° 2019-486 du 22 mai 2019, le I de l'article L. 114-16-2 entre en vigueur le
 1er janvier 2022.
@@ -2086,19 +2089,23 @@ antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 184 (M)
-
 _Cité par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 184 (V)
 
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 184 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Cite_:
 
-  - Code de commerce - art. L225-30-1 (V)
-  - Code de la mutualité - art. L114-16 (V)
-  - Code de la mutualité - art. L114-22 (V)
+  - Code de commerce - art. L225-30-1
+  - Code de la mutualité - art. L114-16
+  - Code de la mutualité - art. L114-22
 
 
 ###### Article L114-17
